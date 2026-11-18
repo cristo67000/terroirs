@@ -1,0 +1,116 @@
+# Accords mets-vins — famille « volailles »
+
+@ poulet-roti
+nom: Poulet rôti
+famille: volailles
+styles: rouge-souple, rouge-leger, blanc-ample
+vins: brouilly, fleurie, mercurey, santenay, saumur-champigny, saint-veran, haut-medoc, cotes-du-rhone
+conseil: Peau croustillante, chair tendre et jus de cuisson : le poulet rôti est le plat le plus accommodant qui soit. Un rouge fruité aux tanins souples ou un blanc de chardonnay assez rond lui vont également bien, et une belle volaille fermière met en valeur une bonne bouteille de n'importe quelle région. Seuls les vins très puissants l'écrasent.
+
+@ poulet-a-la-creme
+nom: Poulet à la crème et aux champignons
+famille: volailles
+styles: blanc-ample, effervescent-brut
+vins: meursault, saint-romain, pouilly-fuisse, vire-clesse, rully, montlouis-sur-loire, roussette-de-savoie, champagne
+conseil: La sauce à la crème commande un blanc ample et rond, de préférence un chardonnay de Bourgogne dont le gras épouse celui du plat. La volaille de Bresse voisine en fait un accord de terroir. Les rouges tanniques tournent à l'amertume avec la crème ; à la rigueur un pinot noir très tendre.
+
+@ poulet-au-vin-jaune
+nom: Poulet au vin jaune et aux morilles
+famille: volailles
+styles: vin-jaune, blanc-ample
+vins: chateau-chalon, arbois, cotes-du-jura, l-etoile
+conseil: Le grand plat du Jura ne se discute guère : on sert le vin de la sauce, vin jaune ou savagnin sous voile, dont les arômes de noix, de curry et de morille se fondent dans la crème. Un chardonnay jurassien de tradition est l'option plus douce. Tout autre vin, si bon soit-il, paraît étranger au plat.
+
+@ coq-au-vin
+nom: Coq au vin
+famille: volailles
+styles: rouge-souple, rouge-elegant
+vins: gevrey-chambertin, mercurey, givry, nuits-saint-georges, moulin-a-vent, saint-pourcain, cotes-d-auvergne, chinon
+conseil: La règle est de boire le vin de la marinade, ou son grand frère : bourgogne rouge dans la version classique, mais chaque région a son coq, au chanturgue en Auvergne, au chinon en Touraine. Le vin doit avoir assez de corps pour la sauce liée et les lardons, sans tanins rudes. Un rouge trop léger se noie.
+
+@ coq-au-riesling
+nom: Coq au riesling
+famille: volailles
+styles: blanc-aromatique, blanc-ample
+vins: alsace, alsace-grand-cru-schoenenbourg, alsace-grand-cru-kastelberg, alsace-grand-cru-brand, moselle, cremant-d-alsace
+conseil: Version alsacienne du coq au vin, à la crème et aux champignons : on sert le riesling de la cuisson, ou mieux, un riesling de grand cru de quelques années, dont la droiture équilibre la crème. Un pinot gris sec convient aussi. Pas de rouge sur cette sauce blanche.
+
+@ poulet-basquaise
+nom: Poulet basquaise
+famille: volailles
+styles: rouge-souple, rose-vineux, blanc-vif
+vins: irouleguy, bearn, madiran, saint-mont, fronton, tursan, cotes-du-roussillon
+conseil: Tomates, poivrons, oignons et piment d'Espelette : la sauce est douce, acidulée et légèrement relevée. Les vins du Pays basque et de Gascogne, rouges fruités ou rosés colorés, sont les accords naturels. Choisir un rouge jeune et souple plutôt qu'un vin tannique, que le poivron rend amer.
+
+@ poule-au-pot
+nom: Poule au pot
+famille: volailles
+styles: rouge-leger, blanc-vif, rouge-souple
+vins: bearn, madiran, jurancon, saint-mont, beaujolais, saumur, macon
+conseil: Volaille pochée avec ses légumes, servie avec une sauce blanche ou du gros sel : un plat doux, sans gras ni rôti, qui demande un vin simple et frais. Rouge léger ou blanc sec et rond font l'affaire ; en Béarn, patrie du plat, on sert un rouge local assagi ou un jurançon sec. Les tanins jeunes sont à éviter.
+
+@ magret-de-canard
+nom: Magret de canard
+famille: volailles
+styles: rouge-charpente, rouge-souple, rouge-solaire
+vins: madiran, cahors, saint-emilion, pecharmant, buzet, bergerac, saint-mont, haut-medoc
+audace: pommard
+conseil: Viande rouge sous une épaisse couche de gras, servie rosée : le magret demande un rouge qui ait de la chair et des tanins, que la graisse assouplit. Le Sud-Ouest, pays du canard gras, fournit les accords évidents. Avec une sauce aux fruits ou au miel, préférer un vin mûr et rond à un vin austère.
+
+@ confit-de-canard
+nom: Confit de canard
+famille: volailles
+styles: rouge-charpente, rouge-souple
+vins: cahors, madiran, bergerac, pecharmant, cotes-du-marmandais, gaillac, fronton, irouleguy
+conseil: La viande confite dans sa graisse est fondante et salée : les tanins fermes du malbec ou du tannat trouvent là de quoi s'arrondir, et leur fraîcheur dégraisse le palais. C'est l'accord de terroir du Périgord et de la Gascogne. Un vin trop souple paraît creux.
+
+@ canard-a-l-orange
+nom: Canard à l'orange
+famille: volailles
+styles: rouge-solaire, rouge-souple, blanc-moelleux
+vins: chateauneuf-du-pape, gigondas, saint-emilion, lalande-de-pomerol, bandol, cairanne
+audace: alsace, banyuls
+conseil: La sauce aigre-douce est le point délicat : le sucre de l'orange durcit les rouges austères. Il faut un vin mûr, rond, au fruit confit, grenache du Rhône sud ou merlot de la rive droite, de préférence évolué. Un pinot gris ou un gewurztraminer légèrement moelleux est une alternative éprouvée.
+
+@ pintade-au-chou
+nom: Pintade au chou
+famille: volailles
+styles: rouge-souple, rouge-leger, blanc-aromatique
+vins: saint-joseph, crozes-hermitage, morgon, givry, maranges, chinon, alsace
+conseil: La pintade a une chair plus ferme et plus goûteuse que le poulet, proche du gibier à plume, et le chou braisé au lard ajoute une note rustique. Un rouge de corps moyen, fruité et un peu épicé, syrah septentrionale ou bourgogne de la Côte chalonnaise, convient très bien. Le chou n'aime pas les tanins durs.
+
+@ dinde-aux-marrons
+nom: Dinde aux marrons
+famille: volailles
+styles: rouge-elegant, rouge-souple, blanc-ample
+vins: volnay, beaune, savigny-les-beaune, saint-emilion, pomerol, moulis, chinon, meursault
+conseil: La chair de la dinde est maigre et peu sapide, la farce et les marrons doux et farineux : il faut un rouge tendre, aux tanins fondus, bourgogne de la Côte de Beaune ou bordeaux à dominante de merlot ayant quelques années. Un blanc ample fonctionne tout aussi bien. Les vins jeunes et tanniques assèchent la viande.
+
+@ chapon-roti
+nom: Chapon ou poularde rôtis
+famille: volailles
+styles: blanc-ample, rouge-elegant, vin-jaune
+vins: meursault, puligny-montrachet, corton-charlemagne, volnay, chambolle-musigny, margaux, hermitage, champagne
+audace: chateau-chalon
+conseil: Volaille de fête à la chair grasse et moelleuse, souvent truffée ou aux morilles : elle met en valeur les grands vins fins, blancs de la Côte de Beaune ou rouges délicats à maturité. On cherche l'élégance et le fondu, pas la puissance. Aux morilles et à la crème, le vin jaune est superbe.
+
+@ pigeon-roti
+nom: Pigeon rôti
+famille: volailles
+styles: rouge-elegant, rouge-charpente
+vins: vosne-romanee, gevrey-chambertin, pommard, cote-rotie, pauillac, saint-julien, pomerol, saint-joseph
+conseil: Chair rouge, serrée, au goût prononcé, servie rosée : le pigeon appelle un rouge de classe, pinot noir de la Côte de Nuits ou médoc de quelques années. La finesse compte plus que la force. Un vin simple et fruité passe à côté du plat.
+
+@ cailles-aux-raisins
+nom: Cailles aux raisins
+famille: volailles
+styles: rouge-elegant, rouge-leger, blanc-aromatique
+vins: chambolle-musigny, volnay, fleurie, saint-amour, sancerre, margaux, alsace
+conseil: Petit gibier d'élevage à la chair délicate, adouci par les raisins : un rouge fin et soyeux, pinot noir ou cru tendre du Beaujolais, ou un pinot gris sec et ample. Rester dans la délicatesse. Les rouges corsés et tanniques dominent complètement la caille.
+
+@ escalope-de-volaille-panee
+nom: Escalope de volaille panée et cordon bleu
+famille: volailles
+styles: blanc-vif, rouge-leger, effervescent-brut
+vins: macon, alsace, touraine, beaujolais, anjou, cremant-de-bourgogne, igp-pays-d-oc
+conseil: Un plat du quotidien, croustillant et un peu gras, parfois garni de jambon et de fromage : un blanc sec et rond ou un rouge léger servi frais suffisent. Les bulles s'entendent bien avec la panure. Nul besoin d'un vin ambitieux.

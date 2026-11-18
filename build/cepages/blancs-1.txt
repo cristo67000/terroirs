@@ -1,0 +1,288 @@
+# Cépages blancs, première partie (aligoté à macabeu)
+
+@ aligote
+nom: Aligoté
+couleur: blanc
+def: Second cépage blanc de Bourgogne, vif et désaltérant, qui prend de l'ampleur à Bouzeron.
+origine: Bourgogne ; croisement spontané du pinot et du gouais blanc, comme le chardonnay.
+surface: environ 2 000 ha en France
+texte: Vigoureux et précoce, l'aligoté a été repoussé vers les hauts et les bas de coteaux, le [[chardonnay]] occupant les meilleures places. Il donne des vins clairs, légers, d'une acidité tranchante, aux arômes de pomme verte, de citron et de fleurs blanches, à boire jeunes ; c'est le vin traditionnel du kir.
+texte: À [[bouzeron|Bouzeron]], en Côte chalonnaise, la variante dite aligoté doré et des rendements modérés donnent un blanc plus mûr et plus profond, seule appellation communale réservée au cépage. Ailleurs, il porte l'appellation [[bourgogne-aligote|Bourgogne aligoté]] et entre dans le [[cremant-de-bourgogne|Crémant de Bourgogne]].
+aromes: pomme verte, citron, aubépine, noisette fraîche
+regions: bourgogne, rhone
+appellations: bouzeron, bourgogne-aligote, cremant-de-bourgogne, coteaux-bourguignons, chatillon-en-diois
+voir: chardonnay, melon-de-bourgogne, sacy
+
+@ altesse
+nom: Altesse (roussette)
+couleur: blanc
+alias: roussette
+def: Cépage noble de Savoie, tardif, aux blancs fins, parfumés et aptes à la garde.
+origine: Savoie. Le récit qui la fait venir de Chypre au XVᵉ siècle tient de la légende.
+surface: environ 350 ha en France
+texte: L'altesse mûrit tard et produit peu ; ses baies se teintent de roux à maturité, d'où le nom de roussette. Elle donne des vins plus riches et plus complexes que la [[jacquere]] : noisette, amande, bergamote, miel, soutenus par une belle acidité qui leur permet de vieillir plusieurs années.
+texte: Elle est le cépage unique de la [[roussette-de-savoie|Roussette de Savoie]], dont les crus sont Frangy, Marestel, Monterminod et Monthoux, et de la [[roussette-du-bugey|Roussette du Bugey]]. À [[seyssel|Seyssel]], elle produit des vins tranquilles et participe aux mousseux.
+aromes: noisette, amande, bergamote, miel, violette
+regions: savoie-bugey
+appellations: roussette-de-savoie, roussette-du-bugey, seyssel, vin-de-savoie, bugey
+voir: jacquere, molette, roussanne
+
+@ arbane
+nom: Arbane
+couleur: blanc
+alias: arbanne
+def: Cépage champenois historique de l'Aube, tardif et très rare.
+origine: Sud de la Champagne, région de Bar-sur-Aube.
+texte: L'arbane ne couvre plus que quelques hectares. Tardive et peu productive, elle a été abandonnée au profit du [[chardonnay]], mais reste l'un des cépages autorisés en [[champagne|Champagne]]. Quelques maisons de la Côte des Bar l'ont replantée et l'assemblent, ou la vinifient seule, pour sa vivacité et ses notes de fleurs blanches et de fruits verts.
+aromes: aubépine, pomme verte, agrumes
+regions: champagne
+appellations: champagne, coteaux-champenois
+voir: petit-meslier, chardonnay, pinot-blanc
+
+@ arrufiac
+nom: Arrufiac
+couleur: blanc
+alias: arrufiat, ruffiac
+def: Cépage blanc gascon d'appoint, fin et légèrement amer, propre au Vic-Bilh.
+origine: Piémont pyrénéen, vallée de l'Adour.
+texte: Presque abandonné, l'arrufiac a été relancé dans les années 1980 par les vignerons du Gers. Il donne un vin modéré en alcool, délicatement parfumé, avec une pointe d'amertume qui structure les assemblages. On le trouve dans le [[pacherenc-du-vic-bilh|Pacherenc du Vic-Bilh]] et les blancs de [[saint-mont|Saint-Mont]], auprès du [[gros-manseng]], du [[petit-manseng]] et du [[courbu]].
+aromes: fleurs blanches, amande, pierre à fusil
+regions: sud-ouest
+appellations: pacherenc-du-vic-bilh, saint-mont
+voir: gros-manseng, petit-manseng, courbu
+
+@ auxerrois
+nom: Auxerrois
+couleur: blanc
+alias: auxerrois blanc ; souvent vendu sous le nom de pinot blanc en Alsace
+def: Cépage blanc du Nord-Est, précoce et tendre, pilier discret des pinots blancs et des crémants d'Alsace.
+origine: Nord-est de la France, sans doute la Lorraine ; croisement spontané du pinot et du gouais blanc. Sans rapport avec l'« auxerrois » de Cahors, qui est le malbec.
+texte: L'auxerrois mûrit tôt et régulièrement, même sous un climat frais. Ses vins sont souples, peu acides, plus ronds que ceux du vrai [[pinot-blanc]], avec des arômes de fruits jaunes et une touche miellée. En [[alsace|Alsace]], la réglementation permet de l'étiqueter « pinot blanc », et il compose en réalité la plus grande part des vins vendus sous ce nom.
+texte: Il est très employé dans le [[cremant-d-alsace|Crémant d'Alsace]] et tient le premier rang parmi les blancs de [[moselle|Moselle]] et des [[cotes-de-toul|Côtes de Toul]].
+aromes: pêche, poire, mirabelle, miel
+regions: alsace
+appellations: alsace, cremant-d-alsace, moselle, cotes-de-toul
+voir: pinot-blanc, chardonnay, sylvaner
+
+@ baroque
+nom: Baroque
+couleur: blanc
+alias: barroque
+def: Cépage blanc landais, charnu et parfumé, propre à l'appellation Tursan.
+origine: Landes, vallée de l'Adour.
+texte: Le baroque n'est cultivé que dans le vignoble de [[tursan|Tursan]], dont il est le cépage blanc principal. Sa résistance à l'oïdium lui a valu d'être largement planté à la fin du XIXᵉ siècle. Il donne des vins assez riches en alcool, ronds, aux arômes de poire et de fruits mûrs, que le [[gros-manseng]] et le [[sauvignon-blanc]] viennent rafraîchir.
+aromes: poire, pêche, noisette
+regions: sud-ouest
+appellations: tursan
+voir: gros-manseng, petit-manseng
+
+@ biancu-gentile
+nom: Biancu gentile
+couleur: blanc
+def: Ancien cépage blanc corse, remis en culture à la fin du XXᵉ siècle, aux vins riches et exotiques.
+origine: Corse.
+texte: Disparu des vignobles, le biancu gentile a été retrouvé en collection et replanté par quelques domaines de l'île. Précoce, riche en sucre, peu acide, il doit être vendangé au bon moment. Il donne des blancs amples, aux arômes de fruits exotiques, d'agrumes confits et de fleurs, vendus en [[igp-ile-de-beaute|Île de Beauté]] ou assemblés à petite dose au [[vermentino]].
+aromes: mangue, pamplemousse, fleurs blanches, miel
+regions: corse
+appellations: igp-ile-de-beaute, vin-de-corse
+voir: vermentino
+
+@ bourboulenc
+nom: Bourboulenc
+couleur: blanc
+alias: malvoisie du Languedoc
+def: Cépage blanc méridional très tardif, qui garde sa fraîcheur sous les climats les plus chauds.
+origine: Provence et bas Languedoc.
+surface: quelques centaines d'hectares en France
+texte: Le bourboulenc mûrit très tard et réclame des situations chaudes, proches de la mer. Il conserve une bonne acidité et reste modéré en alcool, qualités rares dans le Midi. Ses vins sentent les agrumes, les fleurs blanches et prennent une finale légèrement amère et saline.
+texte: Il est le cépage pivot des blancs de [[la-clape|La Clape]], face à la Méditerranée. Il figure aussi à [[chateauneuf-du-pape|Châteauneuf-du-Pape]], à [[bandol|Bandol]], à [[cassis|Cassis]] et dans la plupart des blancs du Languedoc et du Rhône méridional, presque toujours en assemblage.
+aromes: citron, pamplemousse, fleurs blanches, iode
+regions: languedoc, rhone, provence
+appellations: la-clape, chateauneuf-du-pape, bandol, cassis, corbieres, minervois, lirac
+voir: clairette, grenache-blanc, piquepoul-blanc
+
+@ carignan-blanc
+nom: Carignan blanc
+couleur: blanc
+def: Forme blanche du carignan, rare, appréciée pour sa vivacité dans les blancs du Roussillon et du Languedoc.
+origine: Mutation de couleur du carignan noir.
+texte: Aussi tardif et rustique que le [[carignan]] noir, le carignan blanc subsiste surtout en vieilles vignes mêlées. Il garde une acidité remarquable pour un cépage du Midi et donne des blancs tendus, aux notes d'agrumes, d'herbes sèches et de pierre. Il entre dans les blancs des [[cotes-du-roussillon|Côtes du Roussillon]] et se vinifie seul en [[igp-cotes-catalanes|Côtes Catalanes]].
+aromes: citron, pomme, fenouil, pierre à fusil
+regions: roussillon, languedoc
+appellations: igp-cotes-catalanes, cotes-du-roussillon, collioure, languedoc
+voir: carignan, grenache-gris, macabeu
+
+@ chardonnay
+nom: Chardonnay
+couleur: blanc
+alias: beaunois (Chablis), melon d'Arbois (Jura)
+def: Cépage des grands blancs de Bourgogne et de Champagne, d'une plasticité unique, capable de finesse minérale comme d'ampleur beurrée.
+origine: Bourgogne ; croisement spontané du pinot et du gouais blanc. Un village du Mâconnais porte son nom.
+surface: environ 50 000 ha en France
+texte: Le chardonnay débourre tôt, d'où sa vulnérabilité aux gelées de printemps, bien connue à Chablis et en Champagne. Il mûrit tôt et régulièrement, s'adapte à presque tous les climats, mais ne donne toute sa mesure que sur les sols calcaires et marneux. Il est sensible à l'oïdium et à la pourriture en fin de saison.
+texte: Peu aromatique par lui-même, il reflète fidèlement son terroir et la main du vigneron. Vinifié en cuve sous un climat frais, il est droit, citronné, crayeux ; élevé en fût sur lies, il gagne du gras, des notes de beurre, de noisette et de pain grillé. Les grands vins vieillissent dix à vingt ans. En Champagne, il apporte finesse et tension, seul dans les blancs de blancs.
+texte: Il produit tous les grands blancs de la Côte de Beaune, du [[montrachet|Montrachet]] au [[corton-charlemagne|Corton-Charlemagne]] et à [[meursault|Meursault]], ceux de [[chablis|Chablis]] et du Mâconnais. Il domine la Côte des Blancs en [[champagne|Champagne]], tient une place majeure dans le Jura, à [[limoux|Limoux]], dans les crémants, et s'est largement répandu dans les vins de pays du Languedoc et du Val de Loire.
+aromes: citron, pomme, fleurs blanches, beurre, noisette, pierre à fusil
+regions: bourgogne, champagne, jura, languedoc, loire, savoie-bugey, beaujolais
+appellations: montrachet, corton-charlemagne, meursault, puligny-montrachet, chablis-grand-cru, chablis, pouilly-fuisse, champagne
+voir: pinot-noir, aligote, melon-de-bourgogne, auxerrois
+
+@ chasselas
+nom: Chasselas
+couleur: blanc
+alias: fendant (Valais), gutedel (Alsace, Allemagne)
+def: Cépage blanc précoce et délicat, raisin de table autant que de cuve, qui donne des vins légers et discrets.
+origine: Bassin du Léman, selon les travaux les plus récents.
+texte: Le chasselas mûrit tôt et produit généreusement. Ses vins sont légers, peu acides, d'un parfum discret de fleurs et de fruits blancs ; neutres en plaine, ils prennent sur les bons coteaux une finesse qui laisse parler le sol. Il est beaucoup plus cultivé comme raisin de table, à Moissac notamment.
+texte: En France, on le vinifie sur la rive savoyarde du Léman, dans les crus Crépy, Marin, Marignan et Ripaille du [[vin-de-savoie|Vin de Savoie]], et à [[pouilly-sur-loire|Pouilly-sur-Loire]], où il précéda le sauvignon. En [[alsace|Alsace]], il recule et finit surtout dans les assemblages.
+aromes: fleurs blanches, poire, amande fraîche, tilleul
+regions: savoie-bugey, loire, alsace
+appellations: vin-de-savoie, pouilly-sur-loire, alsace
+voir: jacquere, muscat-ottonel, sylvaner
+
+@ chenin
+nom: Chenin
+couleur: blanc
+alias: chenin blanc, pineau de la Loire
+def: Grand cépage blanc d'Anjou et de Touraine, d'une acidité vive, qui se prête à tous les styles, du sec au liquoreux et à l'effervescent.
+origine: Anjou, où il est cultivé depuis le Moyen Âge ; l'analyse génétique en fait un descendant du savagnin.
+surface: environ 10 000 ha en France
+texte: Le chenin débourre tôt, ce qui l'expose au gel, et mûrit tard, par étapes : les vendanges se font souvent par tries successives. Sensible à la pourriture grise, il accueille aussi volontiers la pourriture noble lorsque les brumes d'automne alternent avec le soleil. Il se plaît sur le tuffeau de Touraine comme sur les schistes de l'Anjou noir.
+texte: Sa forte acidité est sa signature : elle donne aux secs leur tension, équilibre le sucre des moelleux et assure aux meilleurs vins une longévité de plusieurs décennies. Les arômes vont de la pomme et du coing au miel, à la cire et au tilleul. Le même vignoble peut donner, selon l'année, du sec, du demi-sec, du moelleux ou du vin à bulles.
+texte: Il est seul à [[vouvray|Vouvray]] et à [[montlouis-sur-loire|Montlouis-sur-Loire]], donne les secs puissants de [[savennieres|Savennières]] et les liquoreux des [[coteaux-du-layon|Coteaux du Layon]], de [[bonnezeaux|Bonnezeaux]] et des [[quarts-de-chaume|Quarts de Chaume]]. Il fonde aussi les blancs de [[saumur|Saumur]], de [[jasnieres|Jasnières]] et le [[cremant-de-loire|Crémant de Loire]], et participe aux vins de [[limoux|Limoux]].
+aromes: pomme, coing, tilleul, miel, cire, amande
+regions: loire, languedoc, sud-ouest
+appellations: vouvray, montlouis-sur-loire, savennieres, coulee-de-serrant, quarts-de-chaume, bonnezeaux, coteaux-du-layon, jasnieres
+voir: savagnin, colombard, sauvignon-blanc, pineau-d-aunis
+
+@ clairette
+nom: Clairette
+couleur: blanc
+alias: clairette blanche, blanquette
+def: Très ancien cépage blanc du Midi, tardif, riche en alcool et tendre, qui a donné son nom à plusieurs appellations.
+origine: Midi méditerranéen français, où il est attesté depuis plusieurs siècles.
+surface: un peu plus de 2 000 ha en France
+texte: La clairette aime les sols secs, maigres et calcaires, et résiste bien à la sécheresse. Elle mûrit tard et donne des vins amples, peu acides, qui s'oxydent vite : on la récolte aujourd'hui plus tôt pour garder de la fraîcheur. Les arômes évoquent la pomme, le fenouil, les fleurs blanches, avec une fine amertume.
+texte: Elle est seule dans la [[clairette-du-languedoc|Clairette du Languedoc]] et la [[clairette-de-bellegarde|Clairette de Bellegarde]], et domine le [[cremant-de-die|Crémant de Die]] ; la [[clairette-de-die|Clairette de Die]] de méthode ancestrale doit en revanche l'essentiel de son parfum au muscat. Elle entre dans les blancs de [[chateauneuf-du-pape|Châteauneuf-du-Pape]], de [[palette|Palette]], de [[cassis|Cassis]] et de [[bandol|Bandol]].
+aromes: pomme, fenouil, fleurs blanches, amande
+regions: rhone, languedoc, provence
+appellations: clairette-du-languedoc, clairette-de-bellegarde, cremant-de-die, coteaux-de-die, clairette-de-die, chateauneuf-du-pape, palette, cassis
+voir: clairette-rose, bourboulenc, grenache-blanc
+
+@ colombard
+nom: Colombard
+couleur: blanc
+def: Cépage blanc des Charentes et de Gascogne, vif et très aromatique, passé de l'alambic à la bouteille.
+origine: Charentes ; croisement spontané du chenin et du gouais blanc.
+surface: environ 10 000 ha en France
+texte: Vigoureux et productif, le colombard garde une forte acidité même sous un climat chaud, ce qui l'a d'abord destiné à la distillation du cognac et de l'armagnac. Vinifié à basse température, il révèle des arômes intenses d'agrumes et de fruits exotiques.
+texte: Il a fait le succès des blancs secs des [[igp-cotes-de-gascogne|Côtes de Gascogne]], souvent assemblé à l'[[ugni-blanc]] et au [[gros-manseng]]. On le trouve aussi dans les vins de pays charentais, le [[pineau-des-charentes|Pineau des Charentes]], le [[floc-de-gascogne|Floc de Gascogne]] et, en appoint, dans les blancs de Blaye et de Bourg.
+aromes: pamplemousse, citron vert, fruit de la passion, buis
+regions: sud-ouest, bordeaux
+appellations: igp-cotes-de-gascogne, igp-charentais, pineau-des-charentes, floc-de-gascogne, blaye, cotes-de-bourg
+voir: ugni-blanc, gros-manseng, chenin, folle-blanche
+
+@ courbu
+nom: Courbu
+couleur: blanc
+alias: petit courbu, courbu blanc
+def: Cépage blanc d'appoint du piémont pyrénéen, fin et miellé.
+origine: Béarn et Pays basque.
+texte: Le courbu, sous sa forme la plus courante dite petit courbu, mûrit plus tôt que les mansengs et produit peu. Il donne des vins ronds, délicatement parfumés de fleurs, d'agrumes et de miel, qui apportent du gras et de la finesse aux assemblages.
+texte: Il accompagne le [[gros-manseng]] et le [[petit-manseng]] dans les secs de [[jurancon|Jurançon]], le [[pacherenc-du-vic-bilh|Pacherenc du Vic-Bilh]], les blancs d'[[irouleguy|Irouléguy]] et de [[saint-mont|Saint-Mont]].
+aromes: fleurs blanches, citron, miel
+regions: sud-ouest
+appellations: jurancon, pacherenc-du-vic-bilh, irouleguy, saint-mont, bearn
+voir: gros-manseng, petit-manseng, arrufiac
+
+@ folle-blanche
+nom: Folle blanche
+couleur: blanc
+alias: gros plant (Pays nantais), picpoul (Armagnac)
+def: Cépage blanc de l'Ouest, très acide, ancienne base du cognac et de l'armagnac, qui donne le Gros Plant nantais.
+origine: Sud-Ouest atlantique ; l'analyse génétique en fait une descendante du gouais blanc.
+texte: Avant le phylloxéra, la folle blanche fournissait l'essentiel des eaux-de-vie de Cognac et d'Armagnac. Greffée, elle s'est révélée très sensible à la pourriture, à cause de ses grappes serrées, et a cédé la place à l'[[ugni-blanc]]. Quelques distillateurs lui restent fidèles pour la finesse florale de ses eaux-de-vie.
+texte: En vin, elle donne un blanc léger, peu alcoolisé, d'une acidité mordante, aux notes de citron et d'iode : c'est le [[gros-plant-du-pays-nantais|Gros Plant du Pays Nantais]], souvent élevé sur lie.
+aromes: citron, pomme verte, iode
+regions: loire, sud-ouest
+appellations: gros-plant-du-pays-nantais, pineau-des-charentes, floc-de-gascogne
+voir: ugni-blanc, colombard, melon-de-bourgogne
+
+@ grenache-blanc
+nom: Grenache blanc
+couleur: blanc
+alias: garnacha blanca
+def: Forme blanche du grenache, base des blancs amples et ronds du Roussillon, du Languedoc et du Rhône méridional.
+origine: Mutation de couleur du grenache noir, apparue en Espagne ou en Roussillon.
+surface: environ 5 000 ha en France
+texte: Comme le [[grenache-noir]], le grenache blanc résiste au vent et à la sécheresse et monte facilement en degré. Ses vins sont pleins, gras, peu acides, avec des arômes de fruits blancs, de fenouil et de fleurs ; ils s'oxydent vite, sauf à les protéger ou à en tirer parti.
+texte: Il donne du volume aux blancs de [[chateauneuf-du-pape|Châteauneuf-du-Pape]], des Côtes du Rhône et du Languedoc, assemblé à la [[roussanne]], à la [[clairette]] ou au [[vermentino]]. En Roussillon, il fait les blancs de [[collioure|Collioure]] et entre, avec le [[grenache-gris]] et le [[macabeu]], dans les vins doux naturels ambrés de [[rivesaltes|Rivesaltes]] et de [[maury|Maury]].
+aromes: poire, pêche blanche, fenouil, fleurs blanches, amande
+regions: roussillon, languedoc, rhone, provence
+appellations: chateauneuf-du-pape, lirac, languedoc, collioure, cotes-du-roussillon, rivesaltes, maury, igp-cotes-catalanes
+voir: grenache-gris, grenache-noir, macabeu, roussanne
+
+@ gringet
+nom: Gringet
+couleur: blanc
+def: Cépage blanc de la vallée de l'Arve, en Haute-Savoie, presque exclusif du cru Ayze.
+origine: Haute-Savoie. Longtemps tenu pour un parent du savagnin, il s'en distingue selon l'analyse génétique.
+surface: une vingtaine d'hectares en France
+texte: Le gringet ne se cultive qu'autour d'Ayze, près de Bonneville, sur des coteaux d'altitude. Tardif, il donne des vins vifs, floraux, aux notes de pomme, d'agrumes et de jasmin, vinifiés en blancs tranquilles ou en mousseux, de méthode traditionnelle ou ancestrale, sous l'appellation [[vin-de-savoie|Vin de Savoie]].
+aromes: pomme, jasmin, citron, amande
+regions: savoie-bugey
+appellations: vin-de-savoie
+voir: jacquere, altesse
+
+@ gros-manseng
+nom: Gros manseng
+couleur: blanc
+def: Cépage blanc du piémont pyrénéen, vif et très parfumé, base des jurançons secs et des blancs de Gascogne.
+origine: Béarn ; proche parent du petit manseng.
+surface: environ 3 000 ha en France
+texte: Plus productif que le [[petit-manseng]], à baies plus grosses, le gros manseng garde comme lui une acidité élevée et une peau épaisse qui résiste à la pourriture. Il mûrit tard, sous les automnes ensoleillés du piémont pyrénéen.
+texte: Vendangé à maturité, il donne des blancs secs intenses, aux arômes d'agrumes, de fruits exotiques et de fleurs, d'une vivacité marquée, avec une légère amertume finale. Récolté plus tard, il entre dans les moelleux tendres.
+texte: Il fournit l'essentiel du [[jurancon|Jurançon]] sec, une large part du [[pacherenc-du-vic-bilh|Pacherenc du Vic-Bilh]] et des blancs d'[[irouleguy|Irouléguy]], de [[saint-mont|Saint-Mont]] et de [[tursan|Tursan]]. Il est aussi l'un des cépages majeurs des [[igp-cotes-de-gascogne|Côtes de Gascogne]], en sec comme en moelleux.
+aromes: pamplemousse, ananas, fruit de la passion, coing, fleurs blanches
+regions: sud-ouest
+appellations: jurancon, pacherenc-du-vic-bilh, irouleguy, saint-mont, tursan, bearn, igp-cotes-de-gascogne
+voir: petit-manseng, courbu, arrufiac, colombard
+
+@ jacquere
+nom: Jacquère
+couleur: blanc
+def: Premier cépage de Savoie, qui donne des blancs légers, vifs et désaltérants.
+origine: Savoie ; l'analyse génétique en fait une descendante du gouais blanc.
+surface: environ 1 000 ha en France
+texte: Tardive et généreuse, la jacquère occupe à peu près la moitié du vignoble savoyard. Ses vins sont pâles, peu alcoolisés, d'une acidité franche, avec des arômes de fleurs blanches, d'agrumes et une touche de pierre à fusil ; ils gardent souvent un léger perlant et se boivent jeunes.
+texte: Elle fait les crus Apremont et Abymes, nés sur les éboulis du mont Granier, effondré en 1248, ainsi que Chignin, Cruet et Jongieux, tous en [[vin-de-savoie|Vin de Savoie]]. On la retrouve dans le [[bugey|Bugey]].
+aromes: fleurs blanches, citron, pomme verte, pierre à fusil
+regions: savoie-bugey
+appellations: vin-de-savoie, bugey, igp-vin-des-allobroges
+voir: altesse, gringet, chasselas
+
+@ len-de-l-el
+nom: Len de l'el (loin de l'œil)
+couleur: blanc
+alias: loin de l'œil
+def: Cépage blanc propre à Gaillac, souple et floral, apte aux vins doux.
+origine: Vallée du Tarn. Son nom occitan, « loin de l'œil », décrit le long pédoncule qui éloigne la grappe du bourgeon.
+texte: Le len de l'el mûrit assez tôt et manque d'acidité : on l'associe au [[mauzac]] ou au [[sauvignon-blanc]] dans les blancs secs de [[gaillac|Gaillac]]. Ses grappes lâches supportent bien la surmaturité, ce qui en fait un cépage de choix pour les gaillacs doux et les vendanges tardives, aux arômes de fruits jaunes, de fleurs et de miel.
+aromes: pêche, poire, fleurs blanches, miel
+regions: sud-ouest
+appellations: gaillac, gaillac-premieres-cotes, igp-comte-tolosan
+voir: mauzac, ondenc, muscadelle
+
+@ macabeu
+nom: Macabeu
+couleur: blanc
+alias: maccabeu, macabeo, viura (Rioja)
+def: Cépage blanc catalan, tardif et discret, pilier des blancs et des vins doux naturels du Roussillon.
+origine: Catalogne ou vallée de l'Èbre ; il est le principal cépage blanc de la Rioja, sous le nom de viura.
+surface: environ 2 000 ha en France
+texte: Le macabeu débourre tard, mûrit tard et produit bien. Il craint le vent, qui casse ses rameaux, et la pourriture dans les sols humides ; les coteaux secs lui conviennent. Cueilli tôt, il donne des blancs légers, floraux, d'une acidité correcte ; mûr, il devient ample et miellé.
+texte: En Roussillon, il s'assemble aux grenaches blanc et gris dans les blancs secs et dans les vins doux naturels de [[rivesaltes|Rivesaltes]] et de [[maury|Maury]], où il supporte bien l'élevage oxydatif. Il figure aussi dans les blancs des [[corbieres|Corbières]] et du [[minervois|Minervois]].
+aromes: fleurs blanches, amande, poire, fenouil, miel
+regions: roussillon, languedoc
+appellations: cotes-du-roussillon, rivesaltes, maury, corbieres, minervois, igp-cotes-catalanes
+voir: grenache-blanc, grenache-gris, tourbat

@@ -1,0 +1,114 @@
+# Accords mets-vins — famille « legumes »
+
+@ asperges-blanches
+nom: Asperges blanches
+famille: legumes
+styles: blanc-aromatique, blanc-vif
+vins: alsace, alsace-grand-cru-goldert, cremant-d-alsace, saint-bris, touraine, sable-de-camargue, igp-cotes-de-gascogne
+conseil: L'asperge a une amertume et un goût soufré qui dénaturent beaucoup de vins. Le muscat sec d'Alsace, croquant et sans sucre, est l'accord consacré ; un pinot blanc ou un sauvignon mûr conviennent aussi, surtout avec une sauce mousseline. Bannir les rouges tanniques et les blancs boisés, qui tournent à l'amer.
+
+@ asperges-vertes
+nom: Asperges vertes
+famille: legumes
+styles: blanc-vif, blanc-aromatique
+vins: sancerre, pouilly-fume, quincy, menetou-salon, alsace, igp-val-de-loire, luberon
+conseil: Plus végétales que les blanches, les asperges vertes s'entendent avec le sauvignon, dont les arômes herbacés leur ressemblent. Rôties avec du parmesan ou un œuf, elles acceptent un blanc un peu plus rond. Les vins tanniques et les blancs lourds prennent un goût métallique.
+
+@ artichaut
+nom: Artichaut
+famille: legumes
+styles: blanc-vif, rose-leger
+vins: muscadet, gros-plant-du-pays-nantais, entre-deux-mers, cotes-de-provence, picpoul-de-pinet, igp-pays-d-oc
+conseil: L'artichaut contient de la cynarine, qui fait paraître sucré et étrange tout ce que l'on boit après lui. Aucun grand vin n'y résiste : on choisit un blanc sec très simple et très vif, ou un rosé frais, et l'on sert de l'eau sans remords. À la barigoule, cuit au vin blanc et à l'huile d'olive, l'accord avec un blanc ou un rosé provençal devient plus aisé.
+
+@ salade-verte-a-la-vinaigrette
+nom: Salade verte à la vinaigrette
+famille: legumes
+styles: blanc-vif
+vins: muscadet, gros-plant-du-pays-nantais, bourgogne-aligote, petit-chablis, igp-val-de-loire, igp-cotes-de-gascogne
+conseil: Le vinaigre écrase le vin, c'est une règle sans exception : tout paraît plat et aigre après une bouchée de salade. Le mieux est de faire une pause ; à défaut, un blanc très vif et sans ambition. On peut tricher en remplaçant le vinaigre par un jus de citron adouci ou une huile de noix, plus amicale.
+
+@ ratatouille
+nom: Ratatouille
+famille: legumes
+styles: rose-leger, rose-vineux, rouge-leger
+vins: cotes-de-provence, coteaux-varois-en-provence, bandol, bellet, luberon, ventoux, costieres-de-nimes, pierrevert
+conseil: Tomates, courgettes, aubergines et poivrons fondus à l'huile d'olive : la cuisine provençale se boit avec les rosés du pays, dont la fraîcheur répond à l'acidité de la tomate. Un rouge souple du Rhône sud, servi frais, convient aussi. Les rouges tanniques se heurtent à la tomate et au poivron.
+
+@ legumes-grilles
+nom: Légumes grillés et tian
+famille: legumes
+styles: rose-leger, blanc-vif, rouge-leger
+vins: coteaux-d-aix-en-provence, cotes-de-provence, les-baux-de-provence, vin-de-corse, languedoc, duche-d-uzes, grignan-les-adhemar
+conseil: Le grillé et l'huile d'olive donnent du relief aux légumes d'été : un rosé sec, un blanc méridional aux notes d'herbes ou un rouge léger et fruité. Rester dans la simplicité et la fraîcheur. Le bois neuf et les tanins marqués n'apportent rien.
+
+@ gratin-dauphinois
+nom: Gratin dauphinois
+famille: legumes
+styles: blanc-ample, rouge-souple, blanc-vif
+vins: saint-joseph, crozes-hermitage, saint-peray, roussette-de-savoie, vin-de-savoie, macon, igp-collines-rhodaniennes
+conseil: Pommes de terre fondantes, crème et ail : servi seul, le gratin s'accorde à un blanc rond du Rhône nord ou de Savoie, ses voisins. En garniture, c'est la viande qui décide, et le gratin ne gêne aucun rouge souple. Éviter seulement les blancs très acides, qui tranchent trop avec la crème.
+
+@ tartiflette
+nom: Tartiflette
+famille: legumes
+styles: blanc-vif, blanc-aromatique, rouge-leger
+vins: vin-de-savoie, roussette-de-savoie, seyssel, bugey, igp-vin-des-allobroges, alsace
+conseil: Reblochon fondu, lardons, oignons et pommes de terre : un plat très riche qui a besoin d'acidité avant tout. Les blancs de Savoie, jacquère vive ou altesse plus ronde, sont faits pour lui ; une mondeuse légère et poivrée convient aux amateurs de rouge. Les vins lourds ou boisés rendent l'ensemble indigeste.
+
+@ aligot
+nom: Aligot et truffade
+famille: legumes
+styles: rouge-leger, rouge-souple, blanc-vif
+vins: marcillac, entraygues-le-fel, estaing, cotes-d-auvergne, saint-pourcain, cotes-de-millau, gaillac
+conseil: Purée filante à la tome fraîche de l'Aubrac, ou pommes de terre au cantal jeune : ces plats de buron se boivent avec les rouges voisins du Rouergue et de l'Auvergne, frais, fruités, un peu rustiques. Leur vivacité dégraisse le fromage. Un blanc sec et vif convient également.
+
+@ poelee-de-cepes
+nom: Poêlée de cèpes
+famille: legumes
+styles: rouge-elegant, rouge-souple, blanc-ample
+vins: pomerol, saint-emilion, lalande-de-pomerol, pessac-leognan, bergerac, pecharmant, mercurey, meursault
+conseil: Le cèpe à la bordelaise, à l'ail et au persil, s'accorde aux rouges à dominante de merlot, dont les arômes de sous-bois se développent avec l'âge. Un vin de quelques années est préférable à un vin jeune. Un blanc ample et évolué fait un accord tout aussi beau avec des champignons à la crème.
+
+@ truffe-noire
+nom: Truffe noire
+famille: legumes
+styles: rouge-elegant, blanc-ample, rouge-solaire
+vins: pomerol, saint-emilion-grand-cru, chateauneuf-du-pape, hermitage, cote-rotie, cahors, grignan-les-adhemar, champagne
+audace: meursault
+conseil: Le parfum de la truffe se retrouve dans les grands vins évolués : vieux pomerols, vieux châteauneufs, rouges ou blancs, hermitages blancs de garde. On choisit donc une bouteille d'âge, aux tanins effacés, et un plat simple, œufs, pommes de terre ou pâtes. Un vin jeune, boisé ou très fruité écrase l'arôme.
+
+@ morilles-a-la-creme
+nom: Morilles à la crème
+famille: legumes
+styles: vin-jaune, blanc-ample
+vins: chateau-chalon, arbois, cotes-du-jura, l-etoile, meursault, hermitage
+conseil: La morille et le vin jaune partagent des arômes de noix et de sous-bois : c'est l'un des accords les plus célèbres de la cuisine française. Un savagnin ou un chardonnay jurassien de voile en donne la version quotidienne. À défaut, un grand blanc ample et mûr ; pas de vin vif et fruité.
+
+@ tomates-farcies
+nom: Tomates farcies
+famille: legumes
+styles: rouge-leger, rouge-souple, rose-vineux
+vins: cotes-du-rhone, ventoux, luberon, beaujolais, coteaux-d-aix-en-provence, igp-vaucluse, costieres-de-nimes
+conseil: Farce de viande, tomate confite au four et riz imbibé de jus : un plat familial qui demande un rouge fruité et souple, ou un rosé de repas. La tomate cuite est moins acide que crue et supporte bien les grenaches ronds. Les tanins fermes restent à éviter.
+
+@ endives-au-jambon
+nom: Endives au jambon
+famille: legumes
+styles: blanc-vif, blanc-ample, rouge-leger
+vins: alsace, macon, saint-veran, touraine, anjou, cotes-du-jura, beaujolais
+conseil: L'amertume de l'endive est enveloppée par la béchamel et le fromage gratiné : un blanc sec et rond, chardonnay ou pinot blanc, adoucit l'ensemble. Un rouge très léger passe aussi. Les tanins additionnent leur amertume à celle du légume.
+
+@ chou-farci
+nom: Chou farci
+famille: legumes
+styles: rouge-leger, rouge-souple, blanc-aromatique
+vins: cotes-d-auvergne, cote-roannaise, saint-pourcain, morgon, cotes-du-vivarais, igp-ardeche, alsace
+conseil: Plat rustique d'Auvergne et du Limousin, où le chou entoure une farce de porc : un gamay franc ou un rouge de pays fruité s'y accorde bien. Le chou a un goût soufré qui n'aime ni les tanins ni le bois. Un blanc d'Alsace sec est une bonne alternative.
+
+@ soupe-au-pistou
+nom: Soupe au pistou
+famille: legumes
+styles: rose-leger, blanc-vif
+vins: cotes-de-provence, bellet, cassis, coteaux-varois-en-provence, pierrevert, igp-mediterranee, luberon
+conseil: Légumes d'été, haricots et pâtes dans un bouillon parfumé de basilic, d'ail et d'huile d'olive : le rosé de Provence ou un blanc de rolle prolongent le basilic sans le couvrir. Servir frais, sans chercher la complexité. Les rouges tanniques jurent avec l'ail cru.

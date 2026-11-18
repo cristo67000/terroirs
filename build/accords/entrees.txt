@@ -1,0 +1,127 @@
+# Accords mets-vins — famille « entrees »
+
+@ foie-gras-en-terrine
+nom: Foie gras en terrine
+famille: entrees
+styles: liquoreux, blanc-moelleux, effervescent-brut
+vins: sauternes, monbazillac, jurancon, pacherenc-du-vic-bilh, coteaux-du-layon, loupiac, alsace
+audace: champagne, banyuls
+conseil: Le gras fondant du foie appelle un vin dont la douceur enrobe et dont l'acidité relance : les moelleux du Sud-Ouest, pays du foie gras, tiennent ce rôle avec plus de fraîcheur que bien des liquoreux très riches. En début de repas, un demi-sec ou un vieux champagne ménage mieux le palais pour la suite. Éviter les rouges tanniques, que le gras rend rêches.
+
+@ foie-gras-poele
+nom: Foie gras poêlé
+famille: entrees
+styles: liquoreux, blanc-moelleux, vdn-rouge
+vins: jurancon, barsac, sainte-croix-du-mont, saussignac, quarts-de-chaume, alsace-grand-cru-hengst
+audace: maury, rivesaltes
+conseil: Chaud, le foie gras est plus intense, caramélisé en surface, souvent accompagné de fruits ou d'un déglaçage aigre-doux. Il supporte un liquoreux franc, un pinot gris de vendanges tardives ou, plus inattendu, un vin doux naturel aux notes de figue et de pruneau. L'acidité reste indispensable : un vin mou rend le plat écœurant.
+
+@ saumon-fume
+nom: Saumon fumé
+famille: entrees
+styles: blanc-vif, effervescent-brut, blanc-aromatique
+vins: chablis, sancerre, pouilly-fume, alsace, champagne, cremant-de-loire, menetou-salon
+audace: savennieres
+conseil: Gras, sel et fumée : il faut un blanc sec, tendu et minéral, sauvignon de Loire, chablis ou riesling, ou encore un champagne blanc de blancs. Les notes de pierre à fusil de certains terroirs répondent joliment au fumé. Les vins boisés ajoutent de la lourdeur et les rouges tournent au métal.
+
+@ melon-et-jambon-cru
+nom: Melon et jambon cru
+famille: entrees
+styles: vdn-blanc, rose-leger, vin-de-liqueur
+vins: muscat-de-beaumes-de-venise, muscat-de-rivesaltes, muscat-de-frontignan, pineau-des-charentes, cotes-de-provence, tavel
+audace: banyuls
+conseil: Le melon mûr est très sucré : un vin sec paraît maigre et acide à côté de lui. La tradition lui associe un muscat doux ou un pineau servi très frais, dont le fruit prolonge celui du melon tandis que le jambon apporte le sel. Si l'on préfère un vin sec, choisir un rosé rond et fruité.
+
+@ salade-composee
+nom: Salade composée
+famille: entrees
+styles: blanc-vif, rose-leger, rouge-leger
+vins: touraine, cheverny, saint-bris, igp-cotes-de-gascogne, rose-de-loire, coteaux-d-aix-en-provence, beaujolais
+conseil: L'ennemi est la vinaigrette, dont l'acide aplatit le vin : il faut lui opposer un vin lui-même vif, simple et fruité, et avoir la main légère sur le vinaigre. Blanc de sauvignon, rosé sec ou gamay frais suivent la plupart des garnitures. Garder les bonnes bouteilles pour le plat suivant.
+
+@ salade-de-chevre-chaud
+nom: Salade de chèvre chaud
+famille: entrees
+styles: blanc-vif
+vins: sancerre, pouilly-fume, quincy, reuilly, touraine, valencay, coteaux-du-giennois
+audace: saint-bris
+conseil: Sauvignon et fromage de chèvre : l'un des accords de terroir les plus sûrs de France, né entre le Berry et la Touraine. L'acidité et les arômes d'agrumes et de buis du vin tranchent le crémeux du fromage tiédi et s'accommodent de la salade. Un rouge, même souple, donne au chèvre un goût crayeux.
+
+@ salade-nicoise
+nom: Salade niçoise
+famille: entrees
+styles: rose-leger, blanc-vif
+vins: bellet, cotes-de-provence, coteaux-varois-en-provence, cassis, igp-mediterranee, vin-de-corse
+conseil: Tomate, anchois, thon, olives, œuf dur et huile d'olive : autant de pièges pour un rouge. Un rosé de Provence bien sec ou un blanc de vermentino, frais et légèrement salin, épouse le tout sans effort. Servir très frais, et oublier les vins boisés.
+
+@ crudites-a-la-vinaigrette
+nom: Crudités et poireaux vinaigrette
+famille: entrees
+styles: blanc-vif, rose-leger
+vins: muscadet, gros-plant-du-pays-nantais, petit-chablis, igp-val-de-loire, haut-poitou, rose-de-loire
+conseil: Le vinaigre est le pire ennemi du vin : il fait paraître plat tout ce qui n'est pas au moins aussi acide que lui. On choisit donc un blanc très vif et sans prétention, on adoucit la sauce avec un peu de moutarde ou d'huile de noix, et l'on ne gaspille pas une belle bouteille. Tout vin tendre, boisé ou tannique est à écarter.
+
+@ soupe-a-l-oignon
+nom: Soupe à l'oignon gratinée
+famille: entrees
+styles: blanc-vif, rouge-leger
+vins: macon, bourgogne-aligote, alsace, saint-pourcain, beaujolais, coteaux-du-lyonnais
+conseil: L'oignon caramélisé est doux, le fromage gratiné gras et salé : un blanc sec assez rond, chardonnay du Mâconnais ou pinot blanc, équilibre l'ensemble sans le durcir. La tradition des bouchons lui préfère un gamay servi frais. Un vin très acide paraîtrait mince, un vin tannique amer.
+
+@ veloute-de-legumes
+nom: Velouté et soupe de légumes
+famille: entrees
+styles: blanc-vif, blanc-ample
+vins: saint-veran, vire-clesse, anjou, montlouis-sur-loire, cotes-du-jura, limoux
+audace: arbois
+conseil: Un liquide sur un liquide : l'accord n'est jamais facile, et l'on peut fort bien s'en passer. Si l'on sert du vin, un blanc rond et souple accompagne la douceur d'un velouté de potiron, de châtaigne ou de champignons ; le chardonnay ou le chenin y réussissent. Avec la courge et la châtaigne, un blanc du Jura aux notes de noix est une belle surprise.
+
+@ escargots-de-bourgogne
+nom: Escargots de Bourgogne
+famille: entrees
+styles: blanc-vif, blanc-ample
+vins: bourgogne-aligote, bouzeron, chablis, saint-bris, macon, rully, montagny
+conseil: C'est le beurre d'ail et de persil que l'on accorde, plus que l'escargot : il faut un blanc vif, capable de trancher le gras et de tenir tête à l'ail. L'aligoté et le chablis sont les réponses bourguignonnes classiques. Un grand blanc de la Côte de Beaune serait gâché par l'ail, un rouge tannique jurerait avec le persil.
+
+@ cuisses-de-grenouilles
+nom: Cuisses de grenouilles
+famille: entrees
+styles: blanc-vif, blanc-aromatique
+vins: alsace, macon, roussette-du-bugey, bugey, cotes-de-toul, vin-de-savoie, pouilly-fuisse
+conseil: Chair délicate, proche de la volaille, relevée de beurre, d'ail et de persil : un blanc sec, net et de moyenne ampleur lui convient. Le riesling en Alsace, le chardonnay dans la Dombes et le Mâconnais sont les accords de pays. Les vins très aromatiques ou boisés couvrent la finesse de la chair.
+
+@ carpaccio-de-boeuf
+nom: Carpaccio de bœuf
+famille: entrees
+styles: rouge-leger, rose-vineux
+vins: brouilly, chiroubles, saint-nicolas-de-bourgueil, bandol, tavel, cotes-du-rhone, patrimonio
+conseil: La viande crue est tendre et peu grasse, l'assaisonnement fait d'huile d'olive, de citron et de parmesan : un rouge fruité, à peine tannique et servi frais, ou un rosé de caractère. Les grands rouges charpentés n'ont ici ni gras ni jus pour assouplir leurs tanins, et le citron les rend acerbes.
+
+@ tomates-mozzarella
+nom: Tomates et mozzarella
+famille: entrees
+styles: rose-leger, blanc-vif
+vins: cotes-de-provence, coteaux-d-aix-en-provence, luberon, vin-de-corse, igp-pays-d-oc, patrimonio
+conseil: La tomate crue est acide et sucrée à la fois, la mozzarella douce et lactée, le basilic très parfumé. Un rosé sec et frais ou un blanc de vermentino aux notes d'herbes et d'agrumes suit sans dominer. Les tanins se heurtent à l'acidité de la tomate : garder les rouges pour plus tard.
+
+@ quiche-lorraine
+nom: Quiche lorraine
+famille: entrees
+styles: blanc-vif, rouge-leger
+vins: alsace, cotes-de-toul, moselle, macon, cremant-d-alsace, beaujolais
+conseil: Œufs, crème et lard fumé : un blanc sec et franc, pinot blanc ou auxerrois, allège l'appareil et s'accorde au fumé. L'accord local se fait avec le gris de Toul ou un pinot noir léger de l'Est. Trop de bois ou de tanins, et la crème tourne à la lourdeur.
+
+@ tarte-a-l-oignon
+nom: Tarte à l'oignon
+famille: entrees
+styles: blanc-aromatique, blanc-vif
+vins: alsace, cremant-d-alsace, moselle, macon, saint-pourcain, roussette-de-savoie
+conseil: L'oignon fondu donne de la douceur, la crème du gras : le blanc doit être sec mais avoir un peu de rondeur et de parfum, comme un pinot gris, un sylvaner de belle origine ou un riesling tendre. Un vin trop acide paraît dur face à la douceur de l'oignon. Les rouges corsés sont hors de propos.
+
+@ souffle-au-fromage
+nom: Soufflé au fromage
+famille: entrees
+styles: blanc-ample, effervescent-brut, vin-jaune
+vins: cotes-du-jura, arbois, l-etoile, saint-veran, pouilly-fuisse, champagne, roussette-de-savoie
+audace: chateau-chalon
+conseil: Aérien mais riche en fromage et en œuf, le soufflé demande un blanc de bonne tenue, plutôt rond, dont l'acidité reste présente. Préparé au comté, il trouve dans les blancs du Jura un accord de terroir remarquable, jusqu'au vin jaune pour les grandes occasions. Les rouges tanniques sont durcis par l'œuf.

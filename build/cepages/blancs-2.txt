@@ -1,0 +1,376 @@
+# Cépages blancs, seconde partie (marsanne à viognier)
+
+@ marsanne
+nom: Marsanne
+couleur: blanc
+def: Cépage blanc du Rhône septentrional, robuste et ample, compagnon de la roussanne à l'Hermitage.
+origine: Vallée du Rhône ; elle porte le nom d'un village de la Drôme, près de Montélimar.
+surface: environ 1 700 ha en France
+texte: Vigoureuse et régulière, la marsanne est plus facile à cultiver que la [[roussanne]], ce qui explique qu'elle l'ait largement supplantée. Elle aime les coteaux chauds et caillouteux ; sur les sols trop riches, ses vins deviennent lourds.
+texte: Elle donne des blancs dorés, pleins, peu acides, aux arômes de fleurs blanches, de poire, d'amande et de cire, avec une amertume fine en finale. Discrets dans leur jeunesse, les meilleurs se referment quelques années puis développent, avec l'âge, des notes de miel et de noisette. La roussanne lui apporte parfum et nervosité.
+texte: Elle domine les blancs d'[[hermitage|Hermitage]], de [[crozes-hermitage|Crozes-Hermitage]], de [[saint-joseph|Saint-Joseph]] et de [[saint-peray|Saint-Péray]], où elle se fait aussi effervescente. On la trouve à [[cassis|Cassis]], dans les Côtes du Rhône et en Languedoc ; elle ne figure pas, en revanche, parmi les cépages de Châteauneuf-du-Pape.
+aromes: poire, fleurs blanches, amande, cire, miel
+regions: rhone, provence, languedoc, savoie-bugey
+appellations: hermitage, crozes-hermitage, saint-joseph, saint-peray, cassis, cotes-du-rhone
+voir: roussanne, viognier, grenache-blanc
+
+@ mauzac
+nom: Mauzac
+couleur: blanc
+alias: blanquette (Limoux)
+def: Cépage blanc de Gaillac et de Limoux, au goût de pomme, à l'origine des plus anciens vins effervescents du Midi.
+origine: Sud-Ouest, vallée du Tarn.
+surface: moins de 2 000 ha en France
+texte: Le mauzac mûrit tard et lentement. Le duvet blanc de ses feuilles lui vaut le nom de blanquette. Ses vins, modérés en acidité, ont un arôme très reconnaissable de pomme et de poire, avec une note de pelure et de miel.
+texte: Sa fermentation, qui s'arrête volontiers au froid de l'hiver pour reprendre au printemps, est à l'origine de la méthode ancestrale. À [[limoux|Limoux]], il fournit presque toute la blanquette et la totalité de la méthode ancestrale, tandis que le [[cremant-de-limoux|Crémant de Limoux]] privilégie le chardonnay et le chenin. À [[gaillac|Gaillac]], il donne des secs, des doux et des mousseux.
+aromes: pomme, poire, coing, miel
+regions: languedoc, sud-ouest
+appellations: limoux, cremant-de-limoux, gaillac, gaillac-premieres-cotes
+voir: len-de-l-el, ondenc, chenin
+
+@ melon-de-bourgogne
+nom: Melon de Bourgogne
+couleur: blanc
+alias: melon, muscadet
+def: Cépage du Muscadet, d'origine bourguignonne, qui donne des blancs secs, légers et iodés.
+origine: Bourgogne ; croisement spontané du pinot et du gouais blanc. Il s'est imposé dans le Pays nantais après le terrible hiver de 1709.
+surface: environ 8 000 ha en France
+texte: Le melon résiste bien au froid de l'hiver mais débourre tôt, ce qui l'expose aux gelées de printemps. Précoce, il mûrit régulièrement sous le climat océanique. Il a disparu de sa Bourgogne natale et se concentre au sud de Nantes, sur des sols de gneiss, de granite, de schiste et de gabbro.
+texte: Le cépage est peu aromatique : pomme, citron, fleurs blanches, une touche saline. Son intérêt tient à l'élevage sur lie, sans soutirage jusqu'à la mise en bouteille, qui donne du gras, un léger perlant et protège le vin de l'oxydation. Les vins courants se boivent dans l'année ; les meilleurs terroirs, élevés longuement, vieillissent dix ans et plus.
+texte: Il est l'unique cépage du [[muscadet|Muscadet]] et de ses appellations sous-régionales, dont le [[muscadet-sevre-et-maine|Muscadet Sèvre et Maine]] est de loin la plus vaste. Les crus communaux, tels Clisson, Gorges ou Le Pallet, montrent sa capacité à exprimer la roche.
+aromes: citron, pomme, fleurs blanches, iode, levure
+regions: loire, bourgogne
+appellations: muscadet-sevre-et-maine, muscadet, muscadet-coteaux-de-la-loire, muscadet-cotes-de-grandlieu, coteaux-bourguignons
+voir: chardonnay, aligote, folle-blanche, gamay
+
+@ molette
+nom: Molette
+couleur: blanc
+def: Cépage blanc local de Seyssel, neutre et vif, destiné aux vins mousseux.
+origine: Haute vallée du Rhône, entre Savoie et Bugey ; l'analyse génétique en fait une descendante du gouais blanc.
+texte: La molette n'est guère cultivée qu'autour de [[seyssel|Seyssel]], de part et d'autre du Rhône. Productive, elle donne un vin de base léger et acide, peu aromatique, qui forme le corps des mousseux de l'appellation ; l'[[altesse]] lui apporte finesse et parfum. On la rencontre aussi dans les effervescents du [[bugey|Bugey]].
+aromes: pomme verte, fleurs blanches, citron
+regions: savoie-bugey
+appellations: seyssel, bugey
+voir: altesse, jacquere
+
+@ muscadelle
+nom: Muscadelle
+couleur: blanc
+def: Troisième cépage blanc du Bordelais et du Bergeracois, floral et légèrement musqué, sans parenté avec les muscats.
+origine: Sud-Ouest ; l'analyse génétique en fait une descendante du gouais blanc.
+surface: environ 1 500 ha en France
+texte: Fragile, sensible à la pourriture grise et à l'oïdium, la muscadelle est de production irrégulière et recule. Elle donne un vin tendre, peu acide, au parfum de fleurs d'acacia et de chèvrefeuille, avec une nuance musquée.
+texte: On l'emploie à petite dose auprès du [[semillon]] et du [[sauvignon-blanc]], dans les liquoreux de [[sauternes|Sauternes]] et de [[monbazillac|Monbazillac]] comme dans les blancs secs de l'[[entre-deux-mers|Entre-deux-Mers]] et de [[bergerac|Bergerac]]. Elle fait aussi partie des cépages de [[gaillac|Gaillac]].
+aromes: acacia, chèvrefeuille, raisin frais, miel
+regions: bordeaux, sud-ouest
+appellations: sauternes, barsac, loupiac, entre-deux-mers, monbazillac, bergerac, cotes-de-duras, gaillac
+voir: semillon, sauvignon-blanc, len-de-l-el
+
+@ muscat-blanc-a-petits-grains
+nom: Muscat blanc à petits grains
+couleur: blanc
+alias: muscat de Frontignan, muscat d'Alsace, moscato bianco
+def: Le plus fin des muscats, cultivé depuis l'Antiquité, source des grands vins doux naturels du Midi et de blancs secs très parfumés.
+origine: Bassin méditerranéen oriental, sans doute la Grèce ; c'est l'un des plus anciens cépages connus, et l'ancêtre de nombreux autres muscats.
+surface: environ 7 500 ha en France
+texte: Précoce au débourrement, de rendement modeste, le muscat à petits grains porte des grappes compactes de petites baies dorées, tachées de roux à maturité. Il est sensible à l'oïdium, à la pourriture et aux guêpes, attirées par son sucre. Il aime les sols secs, caillouteux et calcaires.
+texte: Son arôme est celui du raisin frais lui-même, mêlé de fleur d'oranger, de rose, d'agrumes et d'abricot. Dans les vins doux naturels, la fermentation est arrêtée par ajout d'alcool, ce qui préserve le sucre et le parfum du fruit ; ces vins se boivent jeunes. En sec, il donne des blancs légers et très expressifs ; en effervescent, des mousseux doux et peu alcoolisés.
+texte: Il est seul dans les muscats de [[muscat-de-frontignan|Frontignan]], [[muscat-de-lunel|Lunel]], [[muscat-de-mireval|Mireval]], [[muscat-de-saint-jean-de-minervois|Saint-Jean-de-Minervois]], [[muscat-de-beaumes-de-venise|Beaumes-de-Venise]] et du [[muscat-du-cap-corse|Cap Corse]], et partage le [[muscat-de-rivesaltes|Muscat de Rivesaltes]] avec le [[muscat-d-alexandrie]]. Il donne son parfum à la [[clairette-de-die|Clairette de Die]] et se vinifie en sec en [[alsace|Alsace]].
+aromes: raisin frais, fleur d'oranger, rose, citron, abricot
+regions: languedoc, roussillon, rhone, corse, alsace
+appellations: muscat-de-frontignan, muscat-de-beaumes-de-venise, muscat-de-saint-jean-de-minervois, muscat-de-lunel, muscat-de-mireval, muscat-du-cap-corse, muscat-de-rivesaltes, clairette-de-die
+voir: muscat-d-alexandrie, muscat-ottonel, aleatico
+
+@ muscat-d-alexandrie
+nom: Muscat d'Alexandrie
+couleur: blanc
+alias: muscat romain, muscat à gros grains
+def: Muscat méditerranéen à gros grains, tardif, cultivé en Roussillon pour les vins doux naturels et les muscats secs.
+origine: Méditerranée ; l'analyse génétique en fait un descendant du muscat blanc à petits grains.
+surface: environ 2 500 ha en France
+texte: Le muscat d'Alexandrie exige beaucoup de chaleur et mûrit tard. Ses grosses baies charnues servent aussi de raisin de table. Son parfum est plus lourd et moins fin que celui du [[muscat-blanc-a-petits-grains]] : fruits mûrs, raisin sec, fleurs capiteuses.
+texte: En France, il est presque limité au Roussillon, où il compose avec le muscat à petits grains le [[muscat-de-rivesaltes|Muscat de Rivesaltes]], peut entrer dans les [[rivesaltes|Rivesaltes]] et donne des muscats secs en [[igp-cotes-catalanes|Côtes Catalanes]].
+aromes: raisin mûr, pêche, fleur d'oranger, citron confit
+regions: roussillon
+appellations: muscat-de-rivesaltes, rivesaltes, igp-cotes-catalanes
+voir: muscat-blanc-a-petits-grains, muscat-ottonel, macabeu
+
+@ muscat-ottonel
+nom: Muscat ottonel
+couleur: blanc
+def: Muscat précoce créé au XIXᵉ siècle, délicat, cultivé en Alsace pour des blancs secs au goût de raisin frais.
+origine: Obtenu en 1852 à Angers par le pépiniériste Moreau-Robert, à partir du chasselas et d'un muscat.
+texte: Plus précoce que le [[muscat-blanc-a-petits-grains]], le muscat ottonel mûrit régulièrement sous le climat alsacien, mais il coule facilement et sa récolte est capricieuse. Son parfum est plus discret, sa bouche plus tendre et moins acide.
+texte: En [[alsace|Alsace]], on l'assemble souvent au muscat à petits grains, plus nerveux, pour produire le « muscat d'Alsace », blanc sec et croquant ; les deux sont admis dans les grands crus, où le Goldert s'est fait une réputation pour ce cépage.
+aromes: raisin frais, fleurs blanches, menthe
+regions: alsace
+appellations: alsace, alsace-grand-cru-goldert
+voir: muscat-blanc-a-petits-grains, chasselas, gewurztraminer
+
+@ ondenc
+nom: Ondenc
+couleur: blanc
+def: Ancien cépage blanc du Sud-Ouest, presque disparu, que quelques vignerons de Gaillac maintiennent en vie.
+origine: Vallée du Tarn.
+texte: Répandu jadis de Gaillac au Bordelais, l'ondenc a été abandonné pour ses rendements faibles et sa sensibilité à la pourriture. Il donne des vins pleins, aux arômes de fruits jaunes et de fleurs ; passerillé ou atteint de pourriture noble, il fournit de beaux liquoreux. On le trouve à [[gaillac|Gaillac]], seul ou avec le [[mauzac]] et le [[len-de-l-el]].
+aromes: pêche, coing, fleurs blanches, miel
+regions: sud-ouest
+appellations: gaillac, gaillac-premieres-cotes, bergerac
+voir: mauzac, len-de-l-el, muscadelle
+
+@ orbois
+nom: Orbois (menu pineau)
+couleur: blanc
+alias: menu pineau, arbois
+def: Petit cépage blanc de Touraine et de Sologne, tendre, employé en appoint.
+origine: Val de Loire ; l'analyse génétique en fait un descendant du gouais blanc. Sans rapport avec la ville d'Arbois.
+texte: L'orbois mûrit plus tôt que le [[chenin]] et donne des vins plus souples, moins acides, discrètement floraux. Il a beaucoup reculé et ne subsiste que comme cépage accessoire dans les blancs de [[cheverny|Cheverny]], de [[valencay|Valençay]] et de Touraine, ainsi que dans les vins de base du [[cremant-de-loire|Crémant de Loire]].
+aromes: fleurs blanches, pomme, coing
+regions: loire
+appellations: cheverny, valencay, touraine, cremant-de-loire
+voir: chenin, romorantin, sauvignon-blanc
+
+@ petit-manseng
+nom: Petit manseng
+couleur: blanc
+def: Cépage noble du Jurançon, à petites baies et peau épaisse, qui donne de grands moelleux par passerillage sur souche.
+origine: Béarn, piémont pyrénéen.
+texte: Le petit manseng porte de petites grappes lâches, aux baies minuscules dont la peau épaisse résiste à la pourriture. On peut ainsi le laisser sur pied jusqu'en novembre, voire décembre : le vent chaud et sec venu d'Espagne et les nuits froides concentrent les raisins par passerillage, sans pourriture noble. Les rendements sont très faibles.
+texte: Les vins allient une grande richesse en sucre à une acidité vive, qui les garde nets et jamais pesants. Ils sentent l'ananas, la mangue, le coing, le miel, puis la truffe blanche et les épices avec l'âge ; les grandes cuvées vieillissent plusieurs décennies. Vinifié en sec, il donne des blancs puissants et tendus.
+texte: Il fait les meilleurs moelleux de [[jurancon|Jurançon]], seul ou avec le [[gros-manseng]], et ceux du [[pacherenc-du-vic-bilh|Pacherenc du Vic-Bilh]]. Il entre aussi dans les blancs d'[[irouleguy|Irouléguy]], de [[saint-mont|Saint-Mont]] et dans les moelleux des [[igp-cotes-de-gascogne|Côtes de Gascogne]].
+aromes: ananas, mangue, coing, miel, cannelle, truffe blanche avec l'âge
+regions: sud-ouest
+appellations: jurancon, pacherenc-du-vic-bilh, irouleguy, saint-mont, bearn, igp-cotes-de-gascogne
+voir: gros-manseng, courbu, arrufiac
+
+@ petit-meslier
+nom: Petit meslier
+couleur: blanc
+def: Cépage champenois ancien et rarissime, d'une acidité très vive.
+origine: Nord-est de la France ; croisement spontané du gouais blanc et du savagnin.
+texte: Le petit meslier ne couvre plus que quelques hectares, surtout dans l'Aube et la vallée de la Marne. Sensible à la coulure et peu productif, il garde une acidité élevée même dans les années chaudes, ce qui lui vaut un regain d'intérêt. En [[champagne|Champagne]], il apporte aux rares cuvées qui l'emploient une vivacité tranchante et des notes d'agrumes et de fruits verts.
+aromes: citron, pomme verte, rhubarbe
+regions: champagne
+appellations: champagne, coteaux-champenois
+voir: arbane, savagnin, chardonnay
+
+@ picardan
+nom: Picardan
+couleur: blanc
+alias: araignan
+def: Cépage blanc discret et très rare, l'un des cépages historiques de Châteauneuf-du-Pape.
+origine: Midi de la France.
+texte: Le picardan n'occupe plus que quelques hectares. Tardif, il donne un vin pâle, peu aromatique, d'une bonne acidité, qui sert à rafraîchir les assemblages de blancs à [[chateauneuf-du-pape|Châteauneuf-du-Pape]]. Il est presque toujours noyé dans des cuvées où dominent le [[grenache-blanc]], la [[clairette]] et la [[roussanne]].
+aromes: fleurs blanches, agrumes
+regions: rhone
+appellations: chateauneuf-du-pape, cotes-du-rhone
+voir: clairette, bourboulenc, piquepoul-blanc
+
+@ pinot-blanc
+nom: Pinot blanc
+couleur: blanc
+alias: klevner (Alsace), pinot vrai
+def: Mutation blanche du pinot, qui donne des vins souples, frais et discrets, et des crémants.
+origine: Mutation de couleur du pinot, longtemps confondue avec le chardonnay.
+texte: Le pinot blanc débourre et mûrit tôt, et produit régulièrement. Ses vins sont nets, d'une acidité moyenne, délicatement fruités, pomme, poire, fleurs blanches, sans grande exubérance : des blancs de tous les jours, à boire jeunes.
+texte: En [[alsace|Alsace]], il s'assemble très souvent à l'[[auxerrois]], plus rond, sous l'étiquette « pinot blanc » ou « klevner », et fournit une grande part du [[cremant-d-alsace|Crémant d'Alsace]]. On le trouve en [[moselle|Moselle]], à l'état de traces en Bourgogne, et il reste autorisé en [[champagne|Champagne]], où quelques vignerons de l'Aube le cultivent encore.
+aromes: pomme, poire, fleurs blanches, amande
+regions: alsace, bourgogne, champagne
+appellations: alsace, cremant-d-alsace, moselle, cremant-de-bourgogne, champagne
+voir: auxerrois, pinot-gris, pinot-noir, chardonnay
+
+@ piquepoul-blanc
+nom: Piquepoul blanc
+couleur: blanc
+alias: picpoul
+def: Vieux cépage languedocien à l'acidité vive, qui donne le Picpoul de Pinet, blanc sec du bassin de Thau.
+origine: Languedoc, où il est cité depuis le XVIIᵉ siècle au moins ; son nom évoquerait la vivacité qui « pique » les lèvres.
+surface: environ 1 500 ha en France
+texte: Tardif, le piquepoul garde une acidité élevée sous le soleil du Midi, tempéré ici par les brises marines. Sensible à l'oïdium et à la pourriture, il aime les sols secs et calcaires. Ses vins sont pâles, vifs, citronnés, avec une note saline.
+texte: Il est l'unique cépage du [[picpoul-de-pinet|Picpoul de Pinet]], entre Pézenas et l'étang de Thau, compagnon traditionnel des coquillages. Il entre en appoint dans les blancs du [[languedoc|Languedoc]] et figure parmi les cépages de [[chateauneuf-du-pape|Châteauneuf-du-Pape]].
+aromes: citron, pamplemousse, fleurs blanches, iode
+regions: languedoc, rhone
+appellations: picpoul-de-pinet, languedoc, chateauneuf-du-pape, igp-pays-d-oc
+voir: piquepoul-noir, bourboulenc, clairette, terret-blanc
+
+@ riesling
+nom: Riesling
+couleur: blanc
+alias: riesling rhénan
+def: Grand cépage blanc rhénan, tardif et racé, qui donne en Alsace des vins secs droits, minéraux et de longue garde.
+origine: Vallée du Rhin, où il est mentionné au XVᵉ siècle ; l'analyse génétique en fait un descendant du gouais blanc.
+surface: environ 3 400 ha en France, presque tous en Alsace
+texte: Le riesling débourre tard, ce qui le protège du gel, et mûrit tard et lentement : il lui faut de longs automnes ensoleillés et des coteaux bien exposés. Son bois dur résiste aux grands froids. Il s'accommode de sols très variés, granite, grès, schiste, calcaire, marnes, et en traduit chaque nuance avec une netteté que peu de cépages égalent.
+texte: Les vins allient une acidité vive et fine à des arômes d'agrumes, de pêche de vigne et de fleurs blanches. Avec l'âge apparaît une note dite de pétrole, mêlée de miel et de cire. En Alsace, il est le plus souvent sec et gastronomique ; les grands terroirs se gardent vingt ans. Les belles arrière-saisons donnent des vendanges tardives et des sélections de grains nobles, où le sucre est toujours porté par l'acidité.
+texte: Il est le premier des cépages nobles d'[[alsace|Alsace]] et occupe les meilleures places de la plupart des grands crus : Schlossberg sur granite, Rangen sur roches volcaniques, Kastelberg sur schiste, Schoenenbourg ou Rosacker sur marnes et calcaires. On le cultive aussi, à petite échelle, en [[moselle|Moselle]].
+aromes: citron, pamplemousse, pêche de vigne, fleurs blanches, pierre à fusil, note pétrolée avec l'âge
+regions: alsace
+appellations: alsace, alsace-grand-cru-schlossberg, alsace-grand-cru-rangen, alsace-grand-cru-schoenenbourg, alsace-grand-cru-rosacker, alsace-grand-cru-geisberg, alsace-grand-cru-kastelberg, alsace-grand-cru-brand
+voir: gewurztraminer, pinot-gris, sylvaner, muscat-ottonel
+
+@ romorantin
+nom: Romorantin
+couleur: blanc
+def: Cépage blanc de Sologne, très vif, exclusif de l'appellation Cour-Cheverny.
+origine: Croisement spontané du pinot et du gouais blanc, d'origine bourguignonne. La tradition veut que François Iᵉʳ l'ait fait planter près de Romorantin en 1519.
+surface: une soixantaine d'hectares en France
+texte: Tardif et d'une acidité élevée, le romorantin n'est plus cultivé que dans quelques communes autour de Cheverny, sur des sols de sables et d'argiles à silex. Il donne des blancs secs ou tendres, aux arômes de pomme, de coing, de miel et de cire, capables de vieillir de longues années.
+texte: [[cour-cheverny|Cour-Cheverny]] lui est entièrement consacrée : c'est l'une des rares appellations françaises fondées sur un seul cépage local.
+aromes: pomme, coing, acacia, miel, cire
+regions: loire
+appellations: cour-cheverny, igp-val-de-loire
+voir: chenin, orbois, chardonnay
+
+@ roussanne
+nom: Roussanne
+couleur: blanc
+alias: bergeron (Savoie)
+def: Cépage blanc du Rhône septentrional, délicat et parfumé, qui donne des vins fins et de garde.
+origine: Nord de la vallée du Rhône ; elle doit son nom à la teinte rousse de ses baies mûres.
+surface: environ 2 000 ha en France
+texte: La roussanne est difficile : rendements faibles et irréguliers, sensibilité à l'oïdium, à la pourriture et au vent, maturité tardive. Elle avait presque disparu au profit de la [[marsanne]] avant que des sélections plus régulières ne relancent sa culture. Elle aime les coteaux caillouteux, pauvres et bien exposés.
+texte: Ses vins sont plus fins et plus aromatiques que ceux de la marsanne : chèvrefeuille, aubépine, abricot, tisane, avec davantage d'acidité. Élevés avec soin, ils vieillissent très bien et prennent des notes de miel, de noisette et de cire. On l'assemble le plus souvent à la marsanne ou, au sud, au [[grenache-blanc]].
+texte: Elle participe aux blancs d'[[hermitage|Hermitage]], de [[saint-joseph|Saint-Joseph]], de [[crozes-hermitage|Crozes-Hermitage]] et de [[saint-peray|Saint-Péray]], et s'exprime parfois seule à [[chateauneuf-du-pape|Châteauneuf-du-Pape]]. En Savoie, sous le nom de bergeron, elle donne le cru Chignin-Bergeron. Elle a gagné le Languedoc et le Roussillon.
+aromes: chèvrefeuille, abricot, poire, tisane, miel, noisette
+regions: rhone, savoie-bugey, languedoc, roussillon, provence
+appellations: hermitage, saint-joseph, crozes-hermitage, saint-peray, chateauneuf-du-pape, vin-de-savoie, languedoc
+voir: marsanne, viognier, grenache-blanc, altesse
+
+@ sacy
+nom: Sacy (tressallier)
+couleur: blanc
+alias: tressallier (Saint-Pourçain)
+def: Cépage blanc vif de l'Yonne, devenu sous le nom de tressallier la signature des blancs de Saint-Pourçain.
+origine: Croisement spontané du pinot et du gouais blanc ; il porte le nom d'un village de l'Yonne.
+texte: Productif et très acide, le sacy a presque disparu de l'Yonne, où il servait surtout aux vins mousseux ; il y reste admis dans le [[cremant-de-bourgogne|Crémant de Bourgogne]]. Dans l'Allier, le tressallier entre obligatoirement, avec le [[chardonnay]], dans les blancs de [[saint-pourcain|Saint-Pourçain]], auxquels il donne leur nervosité et leurs notes d'agrumes et de fleurs.
+aromes: citron, pomme verte, fleurs blanches
+regions: loire, bourgogne
+appellations: saint-pourcain, cremant-de-bourgogne, coteaux-bourguignons
+voir: chardonnay, aligote, melon-de-bourgogne
+
+@ sauvignon-blanc
+nom: Sauvignon blanc
+couleur: blanc
+alias: blanc fumé (Pouilly), sauvignon
+def: Cépage blanc très aromatique du Centre-Loire et du Bordelais, aux vins vifs, marqués par les agrumes, le buis et le cassis.
+origine: Val de Loire ou Sud-Ouest ; l'analyse génétique en fait un descendant du savagnin et, par croisement avec le cabernet franc, le parent du cabernet-sauvignon.
+surface: environ 30 000 ha en France
+texte: Vigoureux, le sauvignon doit être contenu pour ne pas donner des vins herbacés. Il débourre assez tard et mûrit tôt. Ses grappes compactes sont sensibles à la pourriture grise et aux maladies du bois. Il donne des expressions très différentes selon les sols : calcaires à petits cailloux, marnes kimméridgiennes, argiles à silex dans le Centre ; graves et argilo-calcaires en Bordelais.
+texte: Son intensité aromatique est immédiate : pamplemousse, citron, bourgeon de cassis, buis, fruit de la passion à pleine maturité, parfois une note fumée sur silex. La bouche est vive, tendue. La plupart des vins se boivent jeunes, mais les meilleurs terroirs gagnent à attendre quelques années. À Bordeaux, on l'assemble au [[semillon]] et on l'élève parfois en barrique.
+texte: Il est seul à [[sancerre|Sancerre]], [[pouilly-fume|Pouilly-Fumé]], [[quincy|Quincy]], [[reuilly|Reuilly]] et [[menetou-salon|Menetou-Salon]], et domine les blancs de [[touraine|Touraine]]. En Bordelais, il fait les blancs secs de [[pessac-leognan|Pessac-Léognan]], des Graves et de l'[[entre-deux-mers|Entre-deux-Mers]], et apporte sa fraîcheur aux liquoreux. On le retrouve à [[saint-bris|Saint-Bris]], dans tout le Sud-Ouest et en Languedoc.
+aromes: pamplemousse, citron, bourgeon de cassis, buis, pierre à fusil
+regions: loire, bordeaux, sud-ouest, bourgogne, languedoc
+appellations: sancerre, pouilly-fume, quincy, menetou-salon, reuilly, touraine, pessac-leognan, entre-deux-mers
+voir: sauvignon-gris, semillon, cabernet-sauvignon, chenin
+
+@ savagnin
+nom: Savagnin
+couleur: blanc
+alias: naturé (Arbois), traminer, savagnin blanc
+def: Cépage emblématique du Jura, tardif et vif, seul autorisé pour le vin jaune.
+origine: Nord-est de la France ou sud-ouest de l'Allemagne ; identique au traminer. Très ancien, il a engendré de nombreux cépages, dont le chenin et le sauvignon blanc.
+surface: environ 500 ha en France, presque tous dans le Jura
+texte: Le savagnin mûrit tard et produit peu. Ses petites baies à peau épaisse supportent d'attendre sur pied. Il donne le meilleur sur les marnes grises et bleues du Lias, lourdes et froides, qui couvrent les pentes du Revermont. Son acidité élevée et sa richesse naturelle le prédisposent aux longs élevages.
+texte: Élevé en fût sans ouillage, il se couvre d'un voile de levures qui le protège et lui donne son goût de noix, de curry et de morille : c'est le vin jaune, gardé sous bois plus de six ans avant d'être mis en clavelin de 62 centilitres, et capable de vieillir un siècle. Élevé en fûts tenus pleins, dit ouillé, il donne des blancs droits, citronnés, d'une grande intensité.
+texte: [[chateau-chalon|Château-Chalon]] ne produit que du vin jaune ; [[arbois|Arbois]], [[l-etoile|L'Étoile]] et les [[cotes-du-jura|Côtes du Jura]] en font aussi, à côté de blancs ouillés et d'assemblages avec le [[chardonnay]]. Le cépage entre encore dans le vin de paille et le [[macvin-du-jura|Macvin du Jura]]. Ses formes roses sont le [[savagnin-rose]] et le [[gewurztraminer]].
+aromes: noix, curry, pomme verte, citron, morille, amande
+regions: jura
+appellations: chateau-chalon, arbois, l-etoile, cotes-du-jura, macvin-du-jura, cremant-du-jura
+voir: savagnin-rose, gewurztraminer, chardonnay, poulsard
+
+@ semillon
+nom: Sémillon
+couleur: blanc
+def: Grand cépage blanc du Bordelais, gras et doré, base des liquoreux de Sauternes et partenaire du sauvignon dans les secs.
+origine: Gironde, sans doute le Sauternais, où il est attesté au XVIIIᵉ siècle.
+surface: environ 10 000 ha en France
+texte: Vigoureux et productif, le sémillon mûrit en milieu de saison. Sa peau fine le rend très réceptif à la pourriture noble lorsque les brumes matinales du Ciron et de la Garonne sont suivies d'après-midi ensoleillés ; par temps humide, c'est la pourriture grise qui menace. Il préfère les graves et les argilo-calcaires.
+texte: En sec, il donne des vins ronds, peu acides, discrets dans leur jeunesse, qui prennent avec l'âge des notes de cire, de miel et de fruits secs ; le [[sauvignon-blanc]] lui apporte vivacité et parfum. Botrytisé, il atteint une concentration extraordinaire : abricot confit, orange amère, safran, miel, avec un gras incomparable. Les grands liquoreux vieillissent plusieurs décennies.
+texte: Il compose la majeure partie des vins de [[sauternes|Sauternes]] et de [[barsac|Barsac]], ainsi que de [[loupiac|Loupiac]], [[sainte-croix-du-mont|Sainte-Croix-du-Mont]] et [[monbazillac|Monbazillac]]. Il tient une place importante dans les blancs secs de [[pessac-leognan|Pessac-Léognan]] et des [[graves|Graves]], et dans ceux du Bergeracois.
+aromes: abricot, miel, cire, orange confite, amande grillée
+regions: bordeaux, sud-ouest
+appellations: sauternes, barsac, cerons, loupiac, sainte-croix-du-mont, pessac-leognan, graves, monbazillac
+voir: sauvignon-blanc, muscadelle, sauvignon-gris
+
+@ sylvaner
+nom: Sylvaner
+couleur: blanc
+alias: silvaner
+def: Cépage blanc alsacien frais et léger, capable de finesse sur les meilleurs terroirs du Bas-Rhin.
+origine: Europe centrale, probablement l'Autriche ; croisement spontané du savagnin (traminer) et de l'*österreichisch weiss*.
+surface: moins de 1 000 ha en France
+texte: Productif et assez précoce, le sylvaner a longtemps été le cépage le plus planté d'Alsace avant de reculer fortement. Il donne des vins légers, vifs, discrètement fruités et herbacés, à boire jeunes. Sur les sols marno-calcaires et à rendement modéré, il gagne en densité et en longueur.
+texte: Il est surtout cultivé dans le Bas-Rhin, sous l'appellation [[alsace|Alsace]]. Fait unique, il est admis dans le grand cru [[alsace-grand-cru-zotzenberg|Zotzenberg]], à Mittelbergheim, où il réussit de longue date.
+aromes: pomme, citron, herbe fraîche, fleurs blanches
+regions: alsace
+appellations: alsace, alsace-grand-cru-zotzenberg
+voir: riesling, pinot-blanc, auxerrois, savagnin
+
+@ terret-blanc
+nom: Terret blanc
+couleur: blanc
+alias: terret bourret
+def: Vieux cépage blanc de l'Hérault, tardif et vif, autrefois très répandu.
+origine: Languedoc ; forme blanche de la famille des terrets.
+texte: Productif, tardif, le terret blanc garde une bonne acidité sous la chaleur. Il couvrait jadis de vastes surfaces dans la plaine de l'Hérault, où il alimentait la distillation et la fabrication des vermouths. Aujourd'hui rare, il donne des blancs légers, citronnés, un peu salins, en vins de pays ou en appoint dans les blancs du [[languedoc|Languedoc]].
+aromes: citron, pomme verte, fenouil
+regions: languedoc
+appellations: languedoc, igp-pays-d-oc, igp-cotes-de-thongue
+voir: terret-noir, piquepoul-blanc, clairette
+
+@ tourbat
+nom: Tourbat (malvoisie du Roussillon)
+couleur: blanc
+alias: malvoisie du Roussillon, torbato (Sardaigne)
+def: Cépage blanc rare du Roussillon, tardif, aux vins fins et légèrement fumés.
+origine: Méditerranée occidentale ; identique au *torbato* de Sardaigne.
+texte: Presque disparu du Roussillon à cause de plants dégénérés, le tourbat y a été réintroduit à la fin du XXᵉ siècle à partir de sélections saines. Tardif, il garde une bonne acidité et donne des vins aux notes de fleurs, de fruits blancs et de fumée. Il entre, en proportion modeste, dans les blancs des [[cotes-du-roussillon|Côtes du Roussillon]] et dans les vins doux naturels.
+aromes: fleurs blanches, poire, fumé, amande
+regions: roussillon
+appellations: cotes-du-roussillon, rivesaltes, maury, banyuls, igp-cotes-catalanes
+voir: macabeu, grenache-blanc, grenache-gris
+
+@ ugni-blanc
+nom: Ugni blanc
+couleur: blanc
+alias: trebbiano toscano, saint-émilion (Charentes)
+def: Cépage blanc le plus planté de France, très productif et acide, destiné avant tout à la distillation du cognac et de l'armagnac.
+origine: Italie centrale, où il se nomme *trebbiano toscano* ; il serait arrivé en Provence à la fin du Moyen Âge.
+surface: plus de 80 000 ha en France
+texte: L'ugni blanc débourre tard, ce qui limite le risque de gel, et mûrit très tard : dans les Charentes, à la limite nord de sa culture, il n'atteint jamais une pleine maturité. Vigoureux, très fertile, assez résistant à la pourriture, il a remplacé la [[folle-blanche]] après le phylloxéra.
+texte: Récolté peu mûr, il donne un vin faible en alcool, très acide et peu aromatique : exactement ce qu'il faut à l'alambic, car la distillation concentre les arômes et l'acidité protège le vin sans soufre. Vinifié pour la table, il produit des blancs légers, neutres, citronnés, que l'on assemble à des cépages plus parfumés.
+texte: Il couvre l'essentiel du vignoble de Cognac et une grande part de celui de l'Armagnac, et entre dans le [[pineau-des-charentes|Pineau des Charentes]] et le [[floc-de-gascogne|Floc de Gascogne]]. En vin, on le trouve dans les [[igp-cotes-de-gascogne|Côtes de Gascogne]], avec le [[colombard]], dans les vins de pays charentais, et comme cépage d'appoint en Provence, notamment à [[cassis|Cassis]].
+aromes: citron, pomme verte, fleurs blanches
+regions: sud-ouest, provence, bordeaux, languedoc, corse
+appellations: igp-cotes-de-gascogne, igp-charentais, pineau-des-charentes, floc-de-gascogne, cassis, cotes-de-provence
+voir: colombard, folle-blanche, clairette
+
+@ vermentino
+nom: Vermentino (rolle)
+couleur: blanc
+alias: rolle (Provence), vermentinu, malvoisie de Corse
+def: Cépage blanc méditerranéen, parfumé et frais, premier blanc de Corse et de Provence.
+origine: Méditerranée occidentale ; il est le même cépage que le rolle de Provence, le *pigato* de Ligurie et la *favorita* du Piémont.
+surface: plus de 6 000 ha en France
+texte: Le vermentino aime la chaleur, la lumière et la proximité de la mer ; il supporte bien la sécheresse et les sols pauvres. Il mûrit en milieu de saison et, cueilli à temps, garde une fraîcheur précieuse sous ces climats.
+texte: Ses vins sont pâles, aromatiques, d'une rondeur équilibrée par une finale légèrement amère et saline : fleurs blanches, agrumes, poire, amande, fenouil. Vinifiés simplement, ils se boivent jeunes ; les meilleurs, de vieilles vignes, prennent de l'ampleur avec quelques années. En Provence, il entre aussi dans les rosés.
+texte: Il fait presque seul les blancs de [[patrimonio|Patrimonio]], d'[[ajaccio|Ajaccio]] et du [[vin-de-corse|Vin de Corse]], et domine ceux de [[bellet|Bellet]] et des [[cotes-de-provence|Côtes de Provence]]. Il a beaucoup progressé en Languedoc et en Roussillon, où il rafraîchit les assemblages.
+aromes: fleurs blanches, pamplemousse, poire, amande, fenouil
+regions: corse, provence, languedoc, roussillon, rhone
+appellations: patrimonio, ajaccio, vin-de-corse, bellet, cotes-de-provence, coteaux-d-aix-en-provence, languedoc, cotes-du-roussillon
+voir: biancu-gentile, clairette, grenache-blanc, niellucciu
+
+@ viognier
+nom: Viognier
+couleur: blanc
+def: Cépage blanc de Condrieu, capiteux et parfumé d'abricot et de violette, sauvé de la disparition dans les années 1960.
+origine: Nord de la vallée du Rhône, autour de Condrieu et d'Ampuis ; l'analyse génétique le rattache à la mondeuse blanche, ce qui en fait un proche parent de la syrah.
+surface: environ 6 000 ha en France
+texte: Le viognier débourre tôt et produit peu et irrégulièrement, car il coule facilement. Il ne livre ses arômes qu'à pleine maturité, au prix d'un degré élevé et d'une acidité basse : la date de vendange est décisive. Son terroir d'origine est fait de terrasses abruptes de granite décomposé, au-dessus du Rhône. Vers 1965, il n'en restait qu'une dizaine d'hectares.
+texte: Le vin est doré, opulent, d'un parfum intense d'abricot, de pêche, de violette et de chèvrefeuille, avec une bouche grasse et une fine amertume. On le boit en général dans ses premières années, pour l'éclat du fruit. Quelques pour cent de viognier, cofermentés avec la [[syrah]], donnent à certains rouges un surcroît de parfum.
+texte: Il est l'unique cépage de [[condrieu|Condrieu]] et de [[chateau-grillet|Château-Grillet]], et peut entrer pour une petite part dans la [[cote-rotie|Côte-Rôtie]]. Depuis les années 1990, il s'est répandu dans les Côtes du Rhône, en Ardèche et dans les vins de pays du Languedoc, seul ou en assemblage.
+aromes: abricot, pêche, violette, chèvrefeuille, amande
+regions: rhone, languedoc, provence
+appellations: condrieu, chateau-grillet, cote-rotie, cotes-du-rhone, igp-collines-rhodaniennes, igp-ardeche, igp-pays-d-oc
+voir: syrah, marsanne, roussanne

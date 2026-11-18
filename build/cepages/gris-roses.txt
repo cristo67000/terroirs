@@ -1,0 +1,81 @@
+# Cépages à baies roses et grises
+
+@ gewurztraminer
+nom: Gewurztraminer
+couleur: rose
+alias: traminer aromatique, savagnin rose aromatique
+def: Cépage alsacien à baies roses, au parfum exubérant de rose et de litchi, qui donne des blancs amples et souvent moelleux.
+origine: Forme aromatique du savagnin rose, lui-même variante de couleur du savagnin ; *Gewürz* signifie « épice » en allemand. Il s'est imposé en Alsace à la fin du XIXᵉ siècle.
+surface: environ 3 000 ha en France, presque tous en Alsace
+texte: Le gewurztraminer débourre tôt, ce qui l'expose aux gelées, et produit peu. Ses petites grappes aux baies rose cuivré accumulent beaucoup de sucre tout en perdant vite leur acidité. Il réussit sur les sols profonds, marneux ou argilo-calcaires, qui lui donnent de la tenue.
+texte: Le vin, d'un or soutenu, est l'un des plus reconnaissables : rose, litchi, fruits exotiques, épices, gingembre. La bouche est grasse, riche en alcool, peu acide, avec une fine amertume en finale. Les versions sèches existent, mais beaucoup gardent un peu de sucre. Très sensible à la pourriture noble et au passerillage, le cépage donne de grandes vendanges tardives et sélections de grains nobles.
+texte: Il est l'un des quatre cépages nobles admis dans presque tous les grands crus d'[[alsace|Alsace]], et brille sur les marnes calcaires de terroirs comme le Hengst, le Furstentum, le Mambourg ou le Zinnkoepfle. On en trouve quelques vignes en Moselle.
+aromes: rose, litchi, mangue, gingembre, poivre, miel
+regions: alsace
+appellations: alsace, alsace-grand-cru-hengst, alsace-grand-cru-furstentum, alsace-grand-cru-mambourg, alsace-grand-cru-zinnkoepfle, alsace-grand-cru-sporen, alsace-grand-cru-goldert, alsace-grand-cru-eichberg
+voir: savagnin-rose, savagnin, riesling, pinot-gris
+
+@ clairette-rose
+nom: Clairette rose
+couleur: rose
+def: Variante à baies roses de la clairette, cultivée à petite échelle dans le Rhône méridional.
+origine: Mutation de couleur de la clairette blanche.
+texte: La clairette rose partage les caractères de la [[clairette]] : maturité tardive, richesse en alcool, faible acidité, avec peut-être un peu plus de parfum. Elle se vinifie en blanc ou entre dans les rosés. Elle figure parmi les cépages de [[chateauneuf-du-pape|Châteauneuf-du-Pape]] et de [[tavel|Tavel]], toujours en faible proportion.
+aromes: fleurs blanches, pêche, fenouil
+regions: rhone, provence, languedoc
+appellations: chateauneuf-du-pape, tavel, cotes-du-rhone
+voir: clairette, bourboulenc, grenache-gris
+
+@ savagnin-rose
+nom: Savagnin rose (klevener de Heiligenstein)
+couleur: rose
+alias: klevener de Heiligenstein, traminer rose
+def: Forme rose et peu aromatique du savagnin, spécialité de cinq communes alsaciennes autour de Heiligenstein.
+origine: Variante de couleur du savagnin ; introduite à Heiligenstein en 1742 par le bourgmestre Ehret Wantz. Le gewurztraminer en est la forme aromatique.
+texte: Le savagnin rose ne se cultive en France que sur quelques dizaines d'hectares, à Heiligenstein et dans quatre communes voisines du Bas-Rhin, où il porte la dénomination « klevener de Heiligenstein » au sein de l'appellation [[alsace|Alsace]]. À ne pas confondre avec le klevner, nom alsacien du pinot blanc.
+texte: Le vin rappelle un [[gewurztraminer]] en demi-teinte : moins exubérant, plus discret au nez, souple, avec des notes de fruits jaunes, d'épices douces et une légère amertume.
+aromes: fruits jaunes, épices douces, amande
+regions: alsace
+appellations: alsace
+voir: gewurztraminer, savagnin
+
+@ grenache-gris
+nom: Grenache gris
+couleur: gris
+def: Forme à baies gris-rose du grenache, précieuse en Roussillon pour les blancs secs et les vins doux naturels.
+origine: Mutation de couleur du grenache noir.
+surface: moins de 2 000 ha en France
+texte: Aussi résistant à la sécheresse et au vent que le [[grenache-noir]], le grenache gris survit surtout en vieilles vignes de coteaux, sur les schistes du Roussillon. Il donne des blancs amples mais plus tendus et plus salins que ceux du [[grenache-blanc]], aux notes de fruits blancs, d'anis et de pierre.
+texte: Il est recherché pour les blancs de [[collioure|Collioure]] et des [[igp-cotes-catalanes|Côtes Catalanes]], et entre dans les vins doux naturels de [[banyuls|Banyuls]], [[maury|Maury]] et [[rivesaltes|Rivesaltes]], notamment les ambrés. En Camargue, il fournit des rosés très pâles dits « gris de gris ».
+aromes: poire, fenouil, amande, pierre à fusil
+regions: roussillon, languedoc
+appellations: collioure, cotes-du-roussillon, igp-cotes-catalanes, banyuls, maury, rivesaltes, sable-de-camargue
+voir: grenache-blanc, grenache-noir, macabeu
+
+@ pinot-gris
+nom: Pinot gris
+couleur: gris
+alias: malvoisie (Loire, Savoie), fromenteau (Champagne) ; anciennement tokay d'Alsace
+def: Mutation grise du pinot noir, qui donne en Alsace des blancs puissants, fumés, parfois moelleux.
+origine: Mutation de couleur du pinot noir, connue en Bourgogne dès le Moyen Âge. Le nom « tokay », longtemps employé en Alsace, a été abandonné en 2007.
+surface: environ 2 500 ha en France, surtout en Alsace
+texte: Précoce comme tous les pinots, le pinot gris porte de petites grappes serrées, aux baies gris-rose à bleutées, sensibles à la pourriture. Il atteint aisément de hauts degrés et produit peu. Il réussit sur les sols argilo-calcaires et volcaniques.
+texte: Le vin est doré, opulent, moins acide que le [[riesling]] mais plus structuré que le [[gewurztraminer]], avec des arômes de fruits jaunes, de sous-bois, de miel et une note fumée caractéristique. Sec, il a du corps ; la pourriture noble en fait de superbes vendanges tardives et sélections de grains nobles.
+texte: Cépage noble d'[[alsace|Alsace]], il est admis dans les grands crus, où le Rangen de Thann lui donne une expression puissante et fumée. En Loire, sous le nom de malvoisie, il produit des vins tendres dans les [[coteaux-d-ancenis|Coteaux d'Ancenis]], des rosés très pâles à [[reuilly|Reuilly]] et participe au [[touraine-noble-joue|Touraine Noble Joué]].
+aromes: abricot, coing, miel, sous-bois, fumé
+regions: alsace, loire, savoie-bugey
+appellations: alsace, alsace-grand-cru-rangen, alsace-grand-cru-hengst, alsace-grand-cru-sonnenglanz, coteaux-d-ancenis, reuilly, touraine-noble-joue
+voir: pinot-noir, pinot-blanc, gewurztraminer, riesling
+
+@ sauvignon-gris
+nom: Sauvignon gris
+couleur: gris
+alias: sauvignon rose, fié gris
+def: Variante à baies rosées du sauvignon blanc, plus riche et moins exubérante.
+origine: Mutation de couleur du sauvignon blanc.
+texte: Le sauvignon gris mûrit un peu plus tôt que le [[sauvignon-blanc]], atteint des degrés plus élevés et produit moins. Ses vins sont plus ronds, moins herbacés, avec des notes de pêche, d'agrumes mûrs et d'épices.
+texte: En Bordelais, il complète le sauvignon blanc et le [[semillon]] dans les blancs secs des [[graves|Graves]] et de l'[[entre-deux-mers|Entre-deux-Mers]]. On le cultive aussi en Touraine et à [[saint-bris|Saint-Bris]], dans l'Yonne.
+aromes: pêche, pamplemousse, fleurs blanches, épices
+regions: bordeaux, loire, bourgogne
+appellations: bordeaux, graves, pessac-leognan, entre-deux-mers, touraine, saint-bris
+voir: sauvignon-blanc, semillon

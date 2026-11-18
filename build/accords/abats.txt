@@ -1,0 +1,72 @@
+# Accords mets-vins — famille « abats »
+
+@ ris-de-veau
+nom: Ris de veau
+famille: abats
+styles: blanc-ample, rouge-elegant, vin-jaune
+vins: meursault, puligny-montrachet, chassagne-montrachet, pouilly-fuisse, condrieu, volnay, margaux, champagne
+audace: chateau-chalon, arbois
+conseil: Le plus délicat des abats, moelleux à cœur et doré au beurre : il met en valeur les grands blancs amples de Bourgogne, ou un rouge très fin et évolué s'il est servi avec un jus brun. À la crème et aux morilles, le vin jaune est un accord de référence. Les vins vifs et maigres, comme les rouges tanniques, le desservent.
+
+@ rognons-de-veau
+nom: Rognons de veau
+famille: abats
+styles: rouge-souple, rouge-elegant, rouge-charpente
+vins: saint-emilion, pomerol, lalande-de-pomerol, chinon, bourgueil, morgon, mercurey, saint-joseph
+conseil: Rosés à cœur, à la moutarde ou au madère, les rognons ont un goût marqué qui veut un rouge charnu aux tanins ronds. Les merlots de la rive droite et les cabernets francs de Touraine sont les accords classiques. Avec la moutarde, éviter les vins durs et très boisés.
+
+@ foie-de-veau
+nom: Foie de veau
+famille: abats
+styles: rouge-leger, rouge-souple
+vins: saumur-champigny, chinon, saint-amour, fleurie, givry, coteaux-du-lyonnais, anjou
+conseil: Tendre, légèrement ferreux, souvent déglacé au vinaigre de framboise ou persillé à la lyonnaise : il appelle un rouge fruité et souple, peu tannique. Gamay et cabernet franc y excellent, servis un peu frais. Les tanins marqués renforcent le goût métallique du foie.
+
+@ tete-de-veau
+nom: Tête de veau sauce gribiche
+famille: abats
+styles: blanc-vif, rouge-leger
+vins: beaujolais, brouilly, macon, bourgogne-aligote, sancerre, saint-pourcain, alsace
+conseil: Chair gélatineuse et sauce acide aux câpres, cornichons et œuf dur : il faut un vin vif, blanc sec ou rouge très léger servi frais. Le gamay est l'accord des bistrots, un sauvignon nerveux répond mieux encore à la gribiche. Rien de tannique ni de boisé.
+
+@ langue-de-boeuf
+nom: Langue de bœuf sauce piquante
+famille: abats
+styles: rouge-leger, rouge-souple
+vins: beaujolais, regnie, touraine, anjou, coteaux-du-loir, bourgogne-passe-tout-grains, cotes-du-forez
+conseil: Viande tendre et douce, sauce tomatée relevée de cornichons et de vinaigre : un rouge léger, fruité et frais accompagne sans se heurter à l'acidité. Le pineau d'Aunis et le gamay, un peu poivrés, sont de bons compagnons. Les vins puissants sont inutiles.
+
+@ tripes
+nom: Tripes et tripoux
+famille: abats
+styles: blanc-vif, rouge-leger
+vins: muscadet, gros-plant-du-pays-nantais, saint-pourcain, marcillac, entraygues-le-fel, cotes-d-auvergne, alsace
+conseil: À la mode de Caen, la Normandie leur sert du cidre ; à table, un blanc sec très vif joue le même rôle et tranche le gras gélatineux. Les tripoux d'Auvergne et du Rouergue vont avec les rouges locaux, frais et un peu rustiques. Éviter les vins riches, qui alourdissent.
+
+@ pieds-paquets
+nom: Pieds paquets
+famille: abats
+styles: rose-vineux, rouge-solaire, blanc-ample
+vins: bandol, cassis, cotes-de-provence, coteaux-d-aix-en-provence, palette, pierrevert, tavel
+conseil: Spécialité marseillaise de tripes et pieds d'agneau mijotés dans une sauce au vin blanc et à la tomate : un rosé de Provence corsé ou un blanc ample tient tête au plat tout en le rafraîchissant. Un rouge local souple convient aussi. Pas de tanins durs sur cette texture gélatineuse.
+
+@ joue-de-boeuf
+nom: Joue de bœuf braisée
+famille: abats
+styles: rouge-charpente, rouge-solaire, rouge-souple
+vins: madiran, cahors, saint-estephe, gigondas, minervois, cotes-de-bourg, fronsac, mercurey
+conseil: Longuement braisée au vin rouge, la joue devient fondante, gélatineuse, dans une sauce sombre et concentrée. Un rouge charnu et structuré, de préférence un peu évolué, se fond dans cette richesse. Les vins légers disparaissent sous la sauce.
+
+@ os-a-moelle
+nom: Os à moelle
+famille: abats
+styles: rouge-souple, rouge-charpente
+vins: saint-joseph, crozes-hermitage, morgon, haut-medoc, graves, bourgueil
+conseil: La moelle est un pur gras, relevé de fleur de sel sur du pain grillé : il faut un rouge frais, doté de tanins pour dégraisser, mais sans lourdeur alcoolique. Syrah du Rhône nord ou bordeaux de structure moyenne conviennent. Un blanc ne tient pas face à cette richesse.
+
+@ salade-de-gesiers
+nom: Salade de gésiers confits
+famille: abats
+styles: rouge-souple, rouge-leger, rose-vineux
+vins: bergerac, cotes-de-duras, cotes-du-marmandais, gaillac, fronton, coteaux-du-quercy, igp-perigord, brulhois
+conseil: Les gésiers confits, tièdes et salés, apportent le gras qui manque à la salade et rendent le rouge possible malgré la vinaigrette. Un rouge du Sud-Ouest simple et fruité, ou un rosé de même origine, fait un accord de pays. Doser le vinaigre avec retenue et éviter les vins tanniques.

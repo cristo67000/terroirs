@@ -1,0 +1,457 @@
+# Loire, seconde partie — Touraine, Centre-Loire, Auvergne et Forez (27 fiches)
+
+# --- Touraine ---
+
+@ touraine
+nom: Touraine
+sous: Touraine
+niveau: régionale
+couleurs: blanc, rouge, rosé, effervescent
+styles: blanc-vif, rouge-leger, rouge-souple, rose-leger
+cepages: sauvignon-blanc*, sauvignon-gris, chenin, malbec*, cabernet-franc*, gamay*, pinot-noir, grolleau, pineau-d-aunis, chardonnay, orbois
+surface: environ 4 500 ha
+depuis: 1939
+def: L'appellation régionale de la Touraine, de la Sologne aux portes de l'Anjou : sauvignons vifs et rouges fruités de la vallée du Cher surtout.
+texte: L'aire s'étend sur l'Indre-et-Loire et le Loir-et-Cher, avec une pointe dans l'Indre, le long de la Loire et de ses affluents, l'Indre et surtout le Cher. C'est entre Chenonceaux, Montrichard et Saint-Aignan, sur les coteaux et les plateaux de la vallée du Cher, que se concentre le vignoble. Les sols sont variés : « perruches » d'argiles à silex, « aubuis » argilo-calcaires sur le tuffeau, sables et graviers en bordure de Sologne. Le climat marque la transition entre influences océanique et continentale.
+texte: Le blanc, issu du sauvignon, est le produit phare : aromatique, net, d'une vivacité franche, à boire jeune. En rouge, le côt (nom local du malbec) et le cabernet franc forment la base des assemblages, tandis que le gamay donne seul un vin léger, vendu aussi en primeur. Des rosés et des mousseux complètent la gamme.
+texte: Cinq dénominations géographiques précisent l'origine. Touraine Chenonceaux, dans la vallée du Cher, propose des sauvignons plus mûrs et des rouges de côt et de cabernet franc élevés plus longuement ; Touraine Oisly ne concerne que le sauvignon. Touraine Amboise et Touraine Mesland, au bord de la Loire, font une place au chenin en blanc ; Touraine Azay-le-Rideau, dans la vallée de l'Indre, produit des blancs de chenin et des rosés de grolleau.
+gout: buis, pamplemousse, bourgeon de cassis en blanc ; cerise, mûre et épices en rouge
+garde: blancs et gamays à boire dans les 2 ans ; rouges de côt 3 à 8 ans
+service: 8-10 °C pour les blancs ; 14-15 °C pour les rouges
+crus: dénominations Chenonceaux, Oisly, Amboise, Mesland, Azay-le-Rideau
+voir: cheverny, valencay, touraine-noble-joue, vouvray, chinon
+
+@ chinon
+nom: Chinon
+sous: Touraine
+niveau: communale
+couleurs: rouge, rosé, blanc
+styles: rouge-souple, rouge-elegant, rose-leger, blanc-vif
+cepages: cabernet-franc*, cabernet-sauvignon, chenin*
+surface: environ 2 400 ha
+depuis: 1937
+def: Dans la basse vallée de la Vienne, le grand rouge de cabernet franc de la Touraine, le vin du pays de Rabelais.
+texte: Le vignoble entoure la ville de Chinon, sur les deux rives de la Vienne jusqu'à son confluent avec la Loire, dans une vingtaine de communes. Protégé des vents d'ouest par les coteaux, il bénéficie d'un climat doux. Trois types de terroirs s'y distinguent. Les terrasses de graviers et de sables, près de la rivière, donnent des vins souples et fruités, à boire tôt. Les coteaux et les buttes de tuffeau jaune, argilo-calcaires, bien exposés au sud, portent les vins de garde. Les plateaux d'argiles à silex produisent des vins intermédiaires, fermes et droits.
+texte: Le cabernet franc, que l'on appelle ici « breton », compose presque seul les rouges ; le cabernet-sauvignon n'est admis qu'en appoint. Jeune, le chinon sent la framboise, la violette et le poivron mûr, avec des tanins fins et une fraîcheur caractéristique. Les cuvées de coteau, élevées en fût ou en foudre dans les caves creusées dans le tuffeau, prennent avec l'âge des notes de sous-bois, de fourrure et de truffe, et se gardent vingt ans dans les grandes années.
+texte: Le rosé est sec et vif. Le blanc de chenin, longtemps confidentiel, connaît un renouveau : sec, tendu, marqué par la craie.
+gout: framboise, cassis, violette, graphite, poivron mûr, tanins fins ; sous-bois et truffe avec l'âge
+garde: 2 à 5 ans pour les vins de graviers ; 8 à 20 ans pour les cuvées de coteau
+service: 14-16 °C ; carafer les cuvées de garde jeunes
+crus: Clos de l'Écho, Clos de la Dioterie, Les Picasses, Coteau de Noiré, Clos de l'Olive
+voir: bourgueil, saint-nicolas-de-bourgueil, saumur-champigny, touraine
+
+@ bourgueil
+nom: Bourgueil
+sous: Touraine
+niveau: communale
+couleurs: rouge, rosé
+styles: rouge-souple, rouge-charpente, rose-leger
+cepages: cabernet-franc*, cabernet-sauvignon
+surface: environ 1 400 ha
+depuis: 1937
+def: Sur la rive droite de la Loire, face à Chinon, des rouges de cabernet franc fermes et de bonne garde.
+texte: Bourgueil s'étend sur sept communes d'Indre-et-Loire, entre la Loire et la forêt qui couronne le coteau et l'abrite des vents du nord. L'abbaye fondée à la fin du Xᵉ siècle en fut le berceau. Le vignoble s'organise en gradins. En bas, une ancienne terrasse du fleuve, faite de sables et de graviers, donne des vins fruités et tendres. Plus haut, le coteau de tuffeau, argilo-calcaire et exposé plein sud, fournit des vins plus sombres et plus tanniques, élevés dans les caves creusées dans la roche.
+texte: Le cabernet franc règne presque sans partage, le cabernet-sauvignon restant marginal. On dit volontiers que le bourgueil sent la framboise quand le [[chinon|Chinon]] sent la violette ; il se montre surtout un peu plus strict dans sa jeunesse, avec des tanins plus présents. Les cuvées de coteau demandent quelques années pour s'ouvrir, puis évoluent longuement vers le cuir, la réglisse et le sous-bois. L'appellation produit aussi un peu de rosé sec.
+gout: framboise, cassis, poivron, réglisse, tanins fermes ; cuir et sous-bois avec l'âge
+garde: 3 à 6 ans pour les vins de graviers ; 8 à 20 ans pour les vins de tuffeau
+service: 15-16 °C
+voir: saint-nicolas-de-bourgueil, chinon, saumur-champigny
+
+@ saint-nicolas-de-bourgueil
+nom: Saint-Nicolas-de-Bourgueil
+sous: Touraine
+niveau: communale
+couleurs: rouge, rosé
+styles: rouge-souple, rouge-leger, rose-leger
+cepages: cabernet-franc*, cabernet-sauvignon
+surface: environ 1 100 ha
+depuis: 1937
+def: La commune la plus occidentale du Bourgueillois, dont les sols de graviers donnent des cabernets francs souples et fruités.
+texte: Saint-Nicolas prolonge [[bourgueil|Bourgueil]] vers l'ouest, à la limite de l'Anjou, et constitue une appellation à elle seule. La majeure partie des vignes occupe la terrasse de sables et de graviers déposés par la Loire, sols chauds et filtrants ; le reste monte sur le coteau de tuffeau. Les vins sont réputés plus légers et plus précoces que ceux de la voisine, d'un fruit immédiat, mais les cuvées de coteau vieillissent bien.
+gout: framboise, groseille, violette, tanins souples
+garde: 2 à 5 ans ; jusqu'à 10 ans pour les cuvées de coteau
+service: 14-15 °C
+voir: bourgueil, chinon, saumur-champigny
+
+@ vouvray
+nom: Vouvray
+sous: Touraine
+niveau: communale
+couleurs: blanc, moelleux, liquoreux, effervescent
+styles: blanc-moelleux, blanc-vif, effervescent-brut, liquoreux
+cepages: chenin*, orbois
+surface: environ 2 200 ha
+depuis: 1936
+def: Aux portes de Tours, sur la rive droite de la Loire, le chenin sous toutes ses formes : sec, tendre, moelleux ou effervescent.
+texte: Le vignoble couvre huit communes à l'est de Tours, sur un plateau entaillé de vallons qui descendent vers la Loire. Le sous-sol est le tuffeau, où l'on a creusé caves et maisons troglodytiques ; il est recouvert de « perruches », argiles à silex, et d'« aubuis », argilo-calcaires, les seconds réputés donner les vins les plus complets. Les meilleures parcelles occupent la « première côte », le rebord du plateau tourné vers le fleuve. Le climat, à la rencontre des influences océanique et continentale, varie beaucoup d'une année à l'autre.
+texte: C'est le millésime qui décide du style. Les années fraîches donnent surtout des secs et des vins de base pour l'effervescent ; les arrière-saisons ensoleillées permettent des demi-secs, des moelleux, voire des liquoreux récoltés par tries. Tous partagent l'acidité vive du chenin et des arômes de coing, de pomme, de tilleul et de miel. Le demi-sec, dont le sucre est porté par cette fraîcheur, est peut-être l'expression la plus typique du cru. Les grands moelleux traversent un demi-siècle.
+texte: Plus de la moitié de la récolte est transformée en vins à bulles, mousseux ou pétillants (ces derniers à la pression plus faible), élaborés par seconde fermentation en bouteille.
+gout: coing, pomme mûre, tilleul, miel, acacia, craie ; brioche pour les effervescents
+garde: secs 5 à 15 ans ; moelleux 10 à 50 ans ; effervescents dans les 3 ans
+service: 10-12 °C pour les secs et demi-secs ; 8-10 °C pour les moelleux ; 6-8 °C pour les effervescents
+crus: Le Mont, Le Haut-Lieu, Clos du Bourg, Clos Baudoin
+voir: montlouis-sur-loire, jasnieres, coteaux-du-layon, savennieres
+
+@ montlouis-sur-loire
+nom: Montlouis-sur-Loire
+sous: Touraine
+niveau: communale
+couleurs: blanc, moelleux, liquoreux, effervescent
+styles: blanc-vif, blanc-moelleux, effervescent-brut, liquoreux
+cepages: chenin*
+surface: environ 450 ha
+depuis: 1938
+def: Face à Vouvray, entre Loire et Cher, une appellation de chenin en plein essor, des secs tendus aux moelleux et aux fines bulles.
+texte: Montlouis occupe trois communes, Montlouis, Lussault et Saint-Martin-le-Beau, sur la langue de plateau qui sépare la Loire du Cher. Ses vins furent vendus sous le nom de [[vouvray|Vouvray]] jusqu'à ce que la justice et l'appellation les en séparent. Le socle est le même tuffeau, mais la couverture diffère : davantage de sables et d'argiles à silex, des sols plus légers, des expositions tournées vers les deux rivières.
+texte: Le chenin y donne des vins un peu plus déliés que sur l'autre rive, d'une tension très pure. Selon le millésime, il est vinifié en sec, en demi-sec, en moelleux ou en liquoreux. Une génération de vignerons exigeants, travaillant souvent en bio et élevant en fût, a fait des secs de Montlouis des références du chenin de Loire.
+texte: Les effervescents comptent pour une part importante : mousseux et pétillants de méthode traditionnelle, et « pétillant originel », mention propre à l'appellation, qui désigne un vin dont la mousse vient d'une seule fermentation achevée en bouteille, sans ajout de sucre ni de levures.
+gout: poire, coing, agrumes, fleurs blanches, silex, bouche tendue
+garde: secs 4 à 12 ans ; moelleux 10 à 30 ans ; effervescents dans les 3 ans
+service: 10-12 °C pour les secs ; 8-10 °C pour les moelleux ; 6-8 °C pour les effervescents
+voir: vouvray, touraine, jasnieres
+
+@ touraine-noble-joue
+nom: Touraine Noble Joué
+sous: Touraine
+niveau: sous-régionale
+couleurs: rosé
+styles: rose-leger
+cepages: pinot-meunier*, pinot-gris*, pinot-noir*
+surface: une trentaine d'hectares
+depuis: 2001
+def: Aux portes de Tours, un vin gris ressuscité, assemblage de trois pinots : meunier, gris et noir.
+texte: Le Noble Joué, apprécié dit-on à la cour de Louis XI, avait presque disparu sous l'avancée de l'agglomération tourangelle avant que quelques vignerons ne le relancent dans les années 1970. Il est produit dans cinq communes au sud de Tours, entre Cher et Indre. Les trois pinots, pressés sans macération, donnent un rosé très pâle, sec, délicat, plus vineux que sa teinte ne le laisse attendre.
+gout: cerise, fraise des bois, pêche, note épicée, bouche fine et sèche
+garde: à boire dans les 2 ans
+service: 8-10 °C
+voir: touraine, orleans, reuilly
+
+@ cheverny
+nom: Cheverny
+sous: Touraine
+niveau: communale
+couleurs: blanc, rouge, rosé
+styles: blanc-vif, rouge-leger, rose-leger
+cepages: sauvignon-blanc*, sauvignon-gris, chardonnay, chenin, orbois, pinot-noir*, gamay*, malbec
+surface: environ 600 ha
+depuis: 1993
+def: En lisière de Sologne, au sud de Blois, des vins d'assemblage : sauvignon et chardonnay en blanc, pinot noir et gamay en rouge.
+texte: Le vignoble s'étend sur la rive gauche de la Loire, autour des châteaux de Cheverny et de Chambord, sur des sols sableux et argilo-siliceux de Sologne et des terrasses calcaires proches du fleuve. L'assemblage y est la règle. Le blanc marie le sauvignon, dominant, à un peu de chardonnay, qui l'arrondit. Le rouge unit le pinot noir au gamay : léger, fruité, épicé, il évoque un passe-tout-grains ligérien.
+gout: agrumes, fleurs blanches, pierre à fusil en blanc ; cerise, griotte et poivre en rouge
+garde: à boire dans les 2 à 4 ans
+service: 8-10 °C pour les blancs ; 13-15 °C pour les rouges
+voir: cour-cheverny, touraine, valencay
+
+@ cour-cheverny
+nom: Cour-Cheverny
+sous: Touraine
+niveau: communale
+couleurs: blanc
+styles: blanc-vif, blanc-moelleux
+cepages: romorantin*
+surface: une soixantaine d'hectares
+depuis: 1993
+def: Le conservatoire du romorantin, cépage blanc que l'on ne cultive nulle part ailleurs, dans quelques communes de Sologne.
+texte: Enclavée dans l'aire de [[cheverny|Cheverny]], l'appellation est réservée à un seul cépage, le romorantin, apparenté au chardonnay et dont la tradition attribue l'introduction à François Iᵉʳ. Sur des sols de sables et d'argiles à silex, il donne un blanc sec d'une acidité vive, austère jeune, qui développe en vieillissant des notes de miel, de cire et d'acacia. Les belles années permettent quelques vins demi-secs ou moelleux.
+gout: citron, pomme, acacia, miel, cire avec l'âge, acidité marquée
+garde: 4 à 12 ans
+service: 10-12 °C
+voir: cheverny, jasnieres, vouvray
+
+@ valencay
+nom: Valençay
+sous: Touraine
+niveau: communale
+couleurs: blanc, rouge, rosé
+styles: blanc-vif, rouge-leger, rose-leger
+cepages: sauvignon-blanc*, chardonnay, orbois, sauvignon-gris, gamay*, malbec*, pinot-noir*, cabernet-franc, pineau-d-aunis
+surface: environ 150 ha
+depuis: 2004
+def: Aux confins de la Touraine et du Berry, un petit vignoble d'assemblage dont le nom est aussi celui d'un fromage de chèvre.
+texte: Valençay occupe les coteaux de la rive gauche du Cher, dans l'Indre surtout, autour du château qui fut celui de Talleyrand. Les sols d'argiles à silex et de sables donnent aux vins une note minérale. Le blanc repose sur le sauvignon, assoupli de chardonnay ; le rouge assemble gamay, côt et pinot noir en un vin fruité et épicé. C'est l'un des rares terroirs à porter une appellation pour son vin et pour son fromage.
+gout: agrumes, fleurs blanches, silex en blanc ; fruits rouges et épices en rouge
+garde: à boire dans les 2 à 4 ans
+service: 8-10 °C pour les blancs ; 14 °C pour les rouges
+voir: touraine, cheverny, reuilly
+
+@ coteaux-du-loir
+nom: Coteaux du Loir
+sous: Touraine
+niveau: sous-régionale
+couleurs: rouge, rosé, blanc
+styles: rouge-leger, blanc-vif, rose-leger
+cepages: pineau-d-aunis*, cabernet-franc, malbec, gamay, grolleau, chenin*
+surface: environ 80 ha
+depuis: 1948
+def: Dans la vallée du Loir, entre Sarthe et Indre-et-Loire, le fief du pineau d'Aunis, rouge clair et poivré.
+texte: Ce vignoble septentrional, à une quarantaine de kilomètres au nord de Tours, borde le Loir, affluent de la Sarthe qu'il ne faut pas confondre avec la Loire. Les coteaux de tuffeau, couverts d'argiles à silex, regardent le sud. Le pineau d'Aunis, vieux cépage local, y donne des rouges peu colorés, vifs, à l'arôme de poivre très singulier, et des rosés du même caractère. Les blancs de chenin, secs et tendus, ressemblent à ceux de [[jasnieres|Jasnières]], cru enclavé dans l'aire.
+gout: poivre blanc, fraise, griotte, rose en rouge ; coing et silex en blanc
+garde: rouges 2 à 6 ans ; blancs 3 à 10 ans
+service: 13-14 °C pour les rouges ; 10-12 °C pour les blancs
+voir: jasnieres, coteaux-du-vendomois, touraine
+
+@ jasnieres
+nom: Jasnières
+sous: Touraine
+niveau: communale
+couleurs: blanc
+styles: blanc-vif, blanc-moelleux
+cepages: chenin*
+surface: environ 70 ha
+depuis: 1937
+def: Dans la Sarthe, un coteau de tuffeau plein sud au-dessus du Loir, pour un chenin sec d'une grande pureté.
+texte: Jasnières tient sur deux communes, Lhomme et Ruillé-sur-Loir, le long d'un unique coteau de quelques kilomètres, pentu et exposé au midi. Le tuffeau affleure sous une mince couche d'argiles à silex. À cette latitude, le chenin mûrit à la limite : il donne le plus souvent un blanc sec, tranchant et minéral, qui s'arrondit avec le temps, et dans les années chaudes des demi-secs ou des moelleux de longue garde.
+gout: agrumes, coing, tilleul, pierre à fusil, miel avec l'âge, acidité tendue
+garde: 5 à 20 ans
+service: 10-12 °C
+voir: coteaux-du-loir, vouvray, montlouis-sur-loire, savennieres
+
+@ coteaux-du-vendomois
+nom: Coteaux du Vendômois
+sous: Touraine
+niveau: sous-régionale
+couleurs: rouge, rosé, blanc
+styles: rose-leger, rouge-leger, blanc-vif
+cepages: pineau-d-aunis*, cabernet-franc, pinot-noir, gamay, chenin*, chardonnay
+surface: environ 120 ha
+depuis: 2001
+def: En amont de la vallée du Loir, autour de Vendôme, un vignoble connu pour son vin gris de pineau d'Aunis.
+texte: Entre Vendôme et Montoire, dans le Loir-et-Cher, les vignes occupent des coteaux de tuffeau recouverts d'argiles à silex, où abondent les caves troglodytiques. La spécialité est le « gris », rosé très pâle issu du seul pineau d'Aunis, sec, vif et poivré. Le même cépage domine les rouges, assemblé au cabernet franc, au pinot noir ou au gamay. Les blancs, à base de chenin, sont secs et nerveux.
+gout: poivre, groseille, pamplemousse pour le gris ; fruits rouges épicés en rouge
+garde: à boire dans les 2 à 4 ans
+service: 8-10 °C pour le gris et les blancs ; 13-14 °C pour les rouges
+voir: coteaux-du-loir, jasnieres, touraine
+
+# --- Centre-Loire ---
+
+@ sancerre
+nom: Sancerre
+sous: Centre-Loire
+niveau: communale
+couleurs: blanc, rouge, rosé
+styles: blanc-vif, rouge-leger, rose-leger
+cepages: sauvignon-blanc*, pinot-noir*
+surface: environ 3 000 ha
+depuis: 1936
+def: Sur les collines du Cher, rive gauche de la Loire, le plus célèbre des blancs de sauvignon, et des rouges de pinot noir.
+texte: Le vignoble entoure la butte de Sancerre et s'étend sur quatorze communes, parmi lesquelles Bué, Verdigny, Sury-en-Vaux, Crézancy et le hameau de Chavignol. Le relief est vigoureux pour la Loire : des collines aux pentes raides, entre 200 et 400 mètres, sous un climat semi-continental. Trois familles de sols se partagent le terrain. Les « terres blanches », marnes kimméridgiennes des collines de l'ouest, donnent des vins charpentés, lents à s'ouvrir. Les « caillottes », calcaires secs et pierreux, produisent des vins parfumés et précoces. Les argiles à silex, à l'est, près de la ville, apportent une note fumée et une grande tenue.
+texte: Le blanc, issu du seul sauvignon, représente environ les quatre cinquièmes de la production. Son style a fixé l'image du cépage : arômes d'agrumes, de buis, de fleurs blanches et de pierre à fusil, bouche droite et fraîche. La plupart des vins se boivent dans leurs premières années, mais les cuvées de lieux-dits, parfois élevées en fût, gagnent à attendre.
+texte: Le pinot noir, qui dominait le vignoble avant le phylloxéra, donne des rouges légers et fruités, de plus en plus ambitieux sur les meilleurs coteaux, et des rosés secs et délicats. Les rouges et rosés n'ont rejoint l'appellation qu'en 1959.
+gout: pamplemousse, citron, buis, fleur d'acacia, pierre à fusil, bouche vive ; cerise et griotte en rouge
+garde: blancs 2 à 5 ans, jusqu'à 10 ans pour les cuvées de terroir ; rouges 3 à 8 ans
+service: 9-11 °C pour les blancs ; 14-15 °C pour les rouges
+crus: Les Monts Damnés et Le Cul de Beaujeu (Chavignol), Le Chêne Marchand et Le Grand Chemarin (Bué)
+voir: pouilly-fume, menetou-salon, quincy, coteaux-du-giennois
+
+@ pouilly-fume
+nom: Pouilly-Fumé
+sous: Centre-Loire
+niveau: communale
+couleurs: blanc
+styles: blanc-vif, blanc-ample
+cepages: sauvignon-blanc*
+surface: environ 1 400 ha
+depuis: 1937
+def: Sur la rive droite de la Loire, dans la Nièvre, l'autre grand sauvignon du Centre, plus ample et volontiers fumé.
+texte: Le vignoble s'étend sur sept communes autour de Pouilly-sur-Loire, face à [[sancerre|Sancerre]], sur des coteaux plus doux qui dominent le fleuve. On y retrouve les mêmes formations : calcaires durs appelés « caillottes », marnes kimméridgiennes à petites huîtres fossiles, ou « terres blanches », et argiles à silex, très présentes sur la butte de Saint-Andelain. Le hameau des Loges, au bord de l'eau, et Tracy, au nord, comptent parmi les secteurs réputés.
+texte: Le nom viendrait à la fois de la pruine grise, comme une fumée, qui couvre les grains mûrs du sauvignon, appelé ici « blanc fumé », et de l'odeur de pierre à fusil que prennent les vins nés sur silex. Comparé au sancerre, le pouilly-fumé est souvent un peu plus large et plus mûr, moins exubérant dans sa jeunesse, avec des notes d'agrumes, de fruits blancs et de genêt. Les meilleures cuvées, issues de vieilles vignes sur marnes ou sur silex, se gardent une dizaine d'années.
+texte: Il ne faut pas le confondre avec le [[pouilly-fuisse|Pouilly-Fuissé]], chardonnay du Mâconnais, ni avec le [[pouilly-sur-loire|Pouilly-sur-Loire]], produit sur la même aire à partir du chasselas.
+gout: pamplemousse, pêche blanche, genêt, pierre à fusil, note fumée, bouche ample et fraîche
+garde: 2 à 6 ans ; jusqu'à 12 ans pour les grandes cuvées
+service: 10-12 °C
+voir: sancerre, pouilly-sur-loire, menetou-salon, coteaux-du-giennois
+
+@ pouilly-sur-loire
+nom: Pouilly-sur-Loire
+sous: Centre-Loire
+niveau: communale
+couleurs: blanc
+styles: blanc-vif
+cepages: chasselas*
+surface: une trentaine d'hectares
+depuis: 1937
+def: Le blanc de chasselas de Pouilly, souvenir du temps où ce vignoble fournissait Paris en raisin de table.
+texte: Cette appellation partage exactement l'aire du [[pouilly-fume|Pouilly-Fumé]], mais repose sur le chasselas, cépage qui couvrait l'essentiel du vignoble au XIXᵉ siècle, quand ses grappes partaient par le fleuve puis par le train vers les marchés de la capitale. Réduit à quelques dizaines d'hectares, souvent sur les sols siliceux, il donne un vin sec, léger, peu acide, aux arômes discrets de fruits blancs et de noisette.
+gout: pomme, fleurs blanches, noisette, bouche légère et souple
+garde: à boire dans les 2 ans
+service: 8-10 °C
+voir: pouilly-fume, sancerre
+
+@ menetou-salon
+nom: Menetou-Salon
+sous: Centre-Loire
+niveau: communale
+couleurs: blanc, rouge, rosé
+styles: blanc-vif, rouge-leger, rose-leger
+cepages: sauvignon-blanc*, pinot-noir*
+surface: environ 600 ha
+depuis: 1959
+def: Entre Bourges et Sancerre, sur les mêmes marnes kimméridgiennes, des sauvignons et des pinots noirs proches de leurs illustres voisins.
+texte: L'appellation prolonge le Sancerrois vers le sud-ouest, sur dix communes dont Menetou-Salon et Morogues. Les collines y sont plus douces, et les sols presque uniformément faits de calcaires et de marnes du Kimméridgien. Le sauvignon donne un blanc floral et fruité, un peu plus rond que le [[sancerre|Sancerre]]. Le pinot noir, qui occupe environ un tiers des surfaces, produit des rouges souples aux arômes de cerise, parfois élevés en fût.
+gout: agrumes, fleurs blanches, menthe, pointe épicée en blanc ; cerise et griotte en rouge
+garde: blancs 2 à 4 ans ; rouges 3 à 6 ans
+service: 9-11 °C pour les blancs ; 14-15 °C pour les rouges
+voir: sancerre, quincy, reuilly
+
+@ quincy
+nom: Quincy
+sous: Centre-Loire
+niveau: communale
+couleurs: blanc
+styles: blanc-vif
+cepages: sauvignon-blanc*, sauvignon-gris
+surface: environ 300 ha
+depuis: 1936
+def: À l'ouest de Bourges, sur les terrasses sableuses du Cher, un sauvignon précoce et parfumé, première AOC du Val de Loire.
+texte: Quincy s'étend sur deux communes, Quincy et Brinay, sur un plateau de la rive gauche du Cher. Les sols de sables et de graviers anciens, posés sur des argiles, se réchauffent vite, sous l'un des climats les plus secs de la région, exposé toutefois aux gelées de printemps. Le sauvignon y mûrit tôt et donne un blanc très expressif, vif et léger, à boire sur son fruit.
+gout: pamplemousse, fleurs blanches, bourgeon de cassis, bouche vive et légère
+garde: à boire dans les 2 à 3 ans
+service: 9-10 °C
+voir: reuilly, menetou-salon, sancerre
+
+@ reuilly
+nom: Reuilly
+sous: Centre-Loire
+niveau: communale
+couleurs: blanc, rouge, rosé
+styles: blanc-vif, rose-leger, rouge-leger
+cepages: sauvignon-blanc*, pinot-noir*, pinot-gris*
+surface: environ 280 ha
+depuis: 1937
+def: Dans le Berry, entre Indre et Cher, un petit vignoble de sauvignon, de pinot noir et d'un rare rosé de pinot gris.
+texte: Reuilly occupe les coteaux de l'Arnon et du Cher, à l'ouest de Bourges, sur sept communes de l'Indre et du Cher. Les pentes portent des marnes calcaires, les hautes terrasses des sables et des graviers. Le sauvignon donne un blanc sec, frais et fruité ; le pinot noir, un rouge léger. La spécialité locale est le rosé de pinot gris, vin « gris » très pâle, tendre et délicat, que l'on ne rencontre guère ailleurs dans la région.
+gout: agrumes et fleurs blanches en blanc ; pêche et fruits rouges pour le gris ; cerise en rouge
+garde: à boire dans les 2 à 4 ans
+service: 9-10 °C pour les blancs et gris ; 14 °C pour les rouges
+voir: quincy, menetou-salon, valencay
+
+@ coteaux-du-giennois
+nom: Coteaux du Giennois
+sous: Centre-Loire
+niveau: sous-régionale
+couleurs: blanc, rouge, rosé
+styles: blanc-vif, rouge-leger, rose-leger
+cepages: sauvignon-blanc*, gamay*, pinot-noir*
+surface: environ 200 ha
+depuis: 1998
+def: De Gien à Cosne-sur-Loire, sur les deux rives du fleuve, le prolongement septentrional de Sancerre et de Pouilly.
+texte: Le vignoble s'étire le long de la Loire, dans le Loiret et la Nièvre, en îlots dispersés sur des coteaux calcaires et siliceux ; l'essentiel se concentre autour de Cosne. Le sauvignon donne un blanc vif et léger, parent modeste du [[pouilly-fume|Pouilly-Fumé]]. Les rouges et les rosés ont la particularité d'assembler obligatoirement le gamay et le pinot noir : des vins de fruit, légers et frais.
+gout: agrumes, coing, fleurs blanches en blanc ; cerise, mûre et poivre en rouge
+garde: à boire dans les 2 à 4 ans
+service: 9-10 °C pour les blancs ; 13-14 °C pour les rouges
+voir: pouilly-fume, sancerre, orleans
+
+@ chateaumeillant
+nom: Châteaumeillant
+sous: Centre-Loire
+niveau: communale
+couleurs: rouge, rosé
+styles: rouge-leger, rose-leger
+cepages: gamay*, pinot-noir, pinot-gris
+surface: environ 80 ha
+depuis: 2010
+def: Au sud du Berry, sur les premiers contreforts du Massif central, un vignoble de gamay réputé pour son vin gris.
+texte: Châteaumeillant est le plus méridional des vignobles du Centre, à cheval sur le Cher et l'Indre. Les sols n'ont rien de commun avec ceux de Sancerre : sables, grès et micaschistes, acides et pauvres, qui conviennent au gamay. Celui-ci, complété de pinot noir, donne un rouge léger et fruité. Le « gris », rosé obtenu par pressurage direct, vif et friand, a fait la réputation du lieu.
+gout: fruits rouges frais, pêche de vigne, poivre, bouche légère et vive
+garde: à boire dans les 2 à 3 ans
+service: 8-10 °C pour le gris ; 13-14 °C pour le rouge
+voir: saint-pourcain, reuilly, cotes-d-auvergne
+
+@ orleans
+nom: Orléans
+sous: Centre-Loire
+niveau: communale
+couleurs: rouge, rosé, blanc
+styles: rouge-leger, rose-leger, blanc-vif
+cepages: pinot-meunier*, pinot-noir, chardonnay*, pinot-gris
+surface: environ 70 ha
+depuis: 2006
+def: Autour d'Orléans, le reste d'un vignoble jadis immense, où le pinot meunier donne des rouges légers.
+texte: Au Moyen Âge et jusqu'au XIXᵉ siècle, l'Orléanais fut l'un des grands vignobles du royaume, fournisseur de Paris et berceau d'un vinaigre réputé. Il n'en subsiste que quelques dizaines d'hectares, sur les terrasses sablo-graveleuses des deux rives de la Loire. Fait rare hors de Champagne, le rouge et le rosé reposent sur le pinot meunier, complété de pinot noir : vins clairs, souples, au fruit délicat. Le blanc est issu du chardonnay.
+gout: cerise, groseille, note fumée en rouge ; fruits blancs et fleurs en blanc
+garde: à boire dans les 2 à 3 ans
+service: 13-14 °C pour les rouges ; 9-10 °C pour les blancs
+voir: orleans-clery, coteaux-du-giennois, touraine-noble-joue
+
+@ orleans-clery
+nom: Orléans-Cléry
+sous: Centre-Loire
+niveau: communale
+couleurs: rouge
+styles: rouge-leger
+cepages: cabernet-franc*
+surface: une trentaine d'hectares
+depuis: 2006
+def: Sur la rive gauche de la Loire, en aval d'Orléans, un rouge de pur cabernet franc à la limite nord du cépage.
+texte: Autour de Cléry-Saint-André et de sa basilique, quelques communes de la rive gauche cultivent le cabernet franc sur des terrasses de sables et de graviers, sols chauds qui compensent un climat frais. Le vin, rouge uniquement, est plus léger que ceux de Touraine : couleur vive, arômes de fruits rouges et de poivron, tanins fins, à boire dans sa jeunesse.
+gout: groseille, framboise, poivron, tanins légers
+garde: à boire dans les 2 à 4 ans
+service: 14 °C
+voir: orleans, bourgueil, cheverny
+
+# --- Auvergne et Forez ---
+
+@ saint-pourcain
+nom: Saint-Pourçain
+sous: Auvergne et Forez
+niveau: communale
+couleurs: blanc, rouge, rosé
+styles: blanc-vif, rouge-leger, rose-leger
+cepages: chardonnay*, sacy*, sauvignon-blanc, gamay*, pinot-noir*
+surface: environ 600 ha
+depuis: 2009
+def: Dans l'Allier, l'un des plus anciens vignobles de France, dont le blanc associe le chardonnay au tressallier local.
+texte: Le vignoble du Bourbonnais s'étire sur dix-neuf communes, le long de la Sioule, de la Bouble et de l'Allier, sur des coteaux argilo-calcaires, granitiques ou graveleux. Très prisés à la cour des rois et des papes au Moyen Âge, ses vins voyageaient par la rivière. Le blanc doit son caractère au tressallier, nom local du sacy, qui apporte au chardonnay vivacité et notes d'agrumes. Les rouges assemblent gamay et pinot noir ; les rosés sont de pur gamay.
+gout: citron, pomme verte, fleurs blanches en blanc ; cerise et épices douces en rouge
+garde: à boire dans les 2 à 4 ans
+service: 9-10 °C pour les blancs ; 14 °C pour les rouges
+voir: cotes-d-auvergne, chateaumeillant, cote-roannaise
+
+@ cotes-d-auvergne
+nom: Côtes d'Auvergne
+sous: Auvergne et Forez
+niveau: sous-régionale
+couleurs: rouge, rosé, blanc
+styles: rouge-leger, rose-leger, blanc-vif
+cepages: gamay*, pinot-noir*, chardonnay*
+surface: environ 300 ha
+depuis: 2011
+def: Dans le Puy-de-Dôme, de Riom à Issoire, un vignoble de gamay et de pinot noir sur sols volcaniques.
+texte: Les vignes s'accrochent aux buttes et aux coteaux qui bordent la plaine de la Limagne, au pied de la chaîne des Puys, entre 350 et 500 mètres. Coulées de basalte, pépérites, marnes et calcaires se mêlent dans les sols ; les volcans font écran aux pluies d'ouest. Cinq dénominations locales peuvent figurer sur l'étiquette : Madargue, Châteaugay, Chanturgue et Boudes pour les rouges, Corent pour les rosés. Le gamay donne des vins fruités et poivrés, le chardonnay des blancs droits.
+gout: griotte, cassis, poivre, note fumée en rouge ; agrumes et fleurs en blanc
+garde: à boire dans les 2 à 5 ans
+service: 13-15 °C pour les rouges ; 9-10 °C pour les blancs et rosés
+crus: dénominations Madargue, Châteaugay, Chanturgue, Corent, Boudes
+voir: saint-pourcain, cotes-du-forez, cote-roannaise
+
+@ cote-roannaise
+nom: Côte roannaise
+sous: Auvergne et Forez
+niveau: sous-régionale
+couleurs: rouge, rosé
+styles: rouge-leger, rose-leger
+cepages: gamay*
+surface: environ 200 ha
+depuis: 1994
+def: À l'ouest de Roanne, sur les pentes granitiques des monts de la Madeleine, un gamay de la haute Loire.
+texte: Le vignoble occupe une quinzaine de communes de la rive gauche de la Loire, sur des coteaux exposés à l'est et au sud, entre 350 et 500 mètres. Les arènes granitiques, sableuses et acides, rappellent celles du [[region:beaujolais|Beaujolais]], situé de l'autre côté des monts. On y cultive une forme locale du gamay, dite Saint-Romain. Les rouges sont fruités, souples, parfois plus structurés lorsqu'ils proviennent de vieilles vignes ; les rosés sont vifs.
+gout: cerise, framboise, pivoine, poivre, tanins légers
+garde: à boire dans les 2 à 4 ans
+service: 13-14 °C
+voir: cotes-du-forez, beaujolais, saint-pourcain
+
+@ cotes-du-forez
+nom: Côtes du Forez
+sous: Auvergne et Forez
+niveau: sous-régionale
+couleurs: rouge, rosé
+styles: rouge-leger, rose-leger
+cepages: gamay*
+surface: environ 150 ha
+depuis: 2000
+def: Sur le piémont des monts du Forez, autour de Montbrison et de Boën, des gamays d'altitude sur granite et basalte.
+texte: Entre la plaine du Forez et la montagne, dix-sept communes de la Loire portent ce vignoble haut perché, souvent entre 400 et 600 mètres. Deux types de sols se côtoient : des arènes granitiques, qui donnent des vins légers et fruités, et des buttes d'origine volcanique, basaltiques, d'où viennent des cuvées plus corsées et épicées. Le gamay est seul autorisé, en rouge comme en rosé.
+gout: groseille, cerise, poivre, note fumée sur basalte, bouche vive
+garde: à boire dans les 2 à 3 ans
+service: 13-14 °C
+voir: cote-roannaise, cotes-d-auvergne, coteaux-du-lyonnais

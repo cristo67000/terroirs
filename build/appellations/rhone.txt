@@ -1,0 +1,585 @@
+# Vallée du Rhône — 35 fiches
+
+# ---------- Rhône septentrional ----------
+
+@ cote-rotie
+nom: Côte Rôtie
+sous: Rhône septentrional
+niveau: cru
+couleurs: rouge
+styles: rouge-elegant
+cepages: syrah*, viognier
+surface: environ 330 ha
+depuis: 1940
+def: Le cru le plus septentrional du Rhône, autour d'Ampuis : une syrah de coteaux vertigineux, parfumée et soyeuse.
+texte: Juste au sud de Vienne, sur la rive droite, le vignoble occupe trois communes : Ampuis, Saint-Cyr-sur-le-Rhône et Tupin-et-Semons. Les pentes, parmi les plus raides de France, dépassent par endroits 60 % ; la vigne y est conduite sur échalas, entre des murets de pierre sèche appelés « cheys ». L'exposition au sud-est, qui « rôtit » le coteau, a donné son nom au cru. L'usage oppose la Côte Brune, au nord, sur des micaschistes sombres riches en fer, à la Côte Blonde, au sud, sur des gneiss et des sols plus clairs.
+texte: La syrah peut être complétée de viognier, jusqu'à un cinquième de l'assemblage, vinifié avec elle ; dans les faits, la part de ce cépage blanc dépasse rarement quelques pour cent. Il apporte une note florale et fixe la couleur. Les vins de la Côte Brune sont réputés plus fermes et plus lents à s'ouvrir, ceux de la Côte Blonde plus tendres et plus parfumés.
+texte: Face à l'[[hermitage]], plus massif, la Côte Rôtie joue la finesse : un fruit noir très pur, de la violette, du poivre, puis avec l'âge des notes de fumé, d'olive et de cuir, sur des tanins fins. Presque abandonné au milieu du XXᵉ siècle, le coteau a été entièrement reconquis depuis les années 1980.
+gout: violette, mûre, framboise, poivre, lard fumé, olive noire, tanins fins
+garde: 8 à 20 ans
+service: 16-17 °C ; carafer les vins jeunes
+crus: lieux-dits La Landonne, Côte Brune, Côte Blonde, Les Grandes Places, La Viallière, Lancement, Côte Rozier
+voir: hermitage, cornas, saint-joseph, condrieu
+
+@ condrieu
+nom: Condrieu
+sous: Rhône septentrional
+niveau: cru
+couleurs: blanc, moelleux
+styles: blanc-aromatique, blanc-ample
+cepages: viognier*
+surface: environ 200 ha
+depuis: 1940
+def: Le berceau du viognier, sur les terrasses granitiques de la rive droite du Rhône : un blanc sec opulent, au parfum d'abricot et de violette.
+texte: L'appellation prolonge la [[cote-rotie|Côte Rôtie]] vers le sud, sur sept communes, de Condrieu à Limony. Les vignes occupent d'étroites terrasses, les « chaillées », taillées dans le granite. Le sol typique, l'arzelle, est un granite décomposé mêlé de mica, pauvre et filtrant, où le viognier, capricieux et peu productif, trouve son expression la plus complète. Dans les années 1960, il n'en restait qu'une dizaine d'hectares : le cépage, aujourd'hui planté dans le monde entier, a été sauvé ici.
+texte: Le Condrieu est presque toujours sec. Il associe un parfum exubérant, abricot, pêche, violette, à une bouche grasse, peu acide, d'une grande douceur de texture, que les bons terroirs équilibrent par une fine amertume et une note minérale. Vinifié en cuve ou en fût, il se boit le plus souvent jeune, sur son fruit, même si les meilleures cuvées évoluent bien une dizaine d'années. Quelques producteurs élaborent aussi, les bonnes années, des moelleux de vendange tardive.
+gout: abricot, pêche blanche, violette, amande, texture grasse, faible acidité, fine amertume
+garde: 2 à 6 ans
+service: 11-13 °C
+crus: lieux-dits Coteau de Vernon, Chéry, Côte Bonnette, Côte Châtillon
+voir: chateau-grillet, saint-joseph, cote-rotie
+
+@ chateau-grillet
+nom: Château-Grillet
+sous: Rhône septentrional
+niveau: cru
+couleurs: blanc
+styles: blanc-ample, blanc-aromatique
+cepages: viognier*
+surface: environ 3,5 ha
+depuis: 1936
+def: Une minuscule appellation enclavée dans Condrieu, propriété d'un seul domaine : le viognier dans sa version la plus austère et la plus durable.
+texte: Sur les communes de Vérin et de Saint-Michel-sur-Rhône, Château-Grillet occupe un amphithéâtre de terrasses granitiques exposé plein sud, à l'abri du vent. L'appellation, l'une des plus petites de France, appartient à un propriétaire unique : c'est un monopole. Élevé plus longuement que son voisin [[condrieu]], le vin est moins exubérant dans sa jeunesse, plus tendu, et demande plusieurs années pour livrer ses arômes d'abricot sec, de miel et de fleurs.
+gout: abricot sec, fleurs blanches, miel, amande, tension minérale
+garde: 5 à 15 ans
+service: 12-13 °C ; carafer légèrement
+voir: condrieu
+
+@ saint-joseph
+nom: Saint-Joseph
+sous: Rhône septentrional
+niveau: cru
+couleurs: rouge, blanc
+styles: rouge-souple, blanc-ample
+cepages: syrah*, marsanne*, roussanne
+surface: environ 1 300 ha
+depuis: 1956
+def: Le long cru de la rive droite, de Chavanay aux portes de Valence : des syrahs franches et fruitées, quelques blancs de marsanne.
+texte: Saint-Joseph s'étire sur une soixantaine de kilomètres et vingt-six communes de l'Ardèche et de la Loire, face à l'[[hermitage]] et à [[crozes-hermitage]]. Le nom vient d'un coteau situé entre Tournon et Mauves, cœur historique de l'appellation avec Saint-Jean-de-Muzols, Lemps, Vion et Glun. Étendu en 1969 bien au-delà de ce berceau, le vignoble a depuis été recentré sur les pentes granitiques, au détriment du plateau et des bas de coteau.
+texte: Les rouges, issus de syrah, parfois complétée d'un peu de marsanne ou de roussanne, sont les plus accessibles du nord de la vallée : fruits noirs, violette, poivre, tanins nets, une fraîcheur que donne le granite. Les vins des terrasses raides du secteur de Tournon et de Mauves ont plus de profondeur et vieillissent bien ; ceux du nord, autour de Chavanay, sont souvent plus vifs. Les blancs, environ un dixième de la production, assemblent marsanne et roussanne ; ils sont amples, floraux, d'acidité modérée.
+gout: cassis, mûre, violette, poivre noir, tanins nets ; en blanc, fleurs blanches, poire, amande
+garde: 3 à 10 ans
+service: 15-16 °C pour les rouges, 11-12 °C pour les blancs
+voir: crozes-hermitage, cornas, hermitage, condrieu
+
+@ crozes-hermitage
+nom: Crozes-Hermitage
+sous: Rhône septentrional
+niveau: cru
+couleurs: rouge, blanc
+styles: rouge-souple, blanc-ample
+cepages: syrah*, marsanne*, roussanne
+surface: environ 1 800 ha
+depuis: 1937
+def: Le plus vaste cru du Rhône septentrional, sur la rive gauche autour de Tain-l'Hermitage : une syrah fruitée, souple et accessible.
+texte: L'appellation entoure la colline de l'[[hermitage]] et couvre onze communes de la Drôme. Elle réunit deux paysages très différents. Au nord, autour de Gervans, d'Érôme, de Serves et de Larnage, des coteaux granitiques prolongent ceux de l'Hermitage ; Larnage est connu pour ses argiles blanches. Au sud et à l'est, vers Mercurol, Beaumont-Monteux et Pont-de-l'Isère, s'étendent de larges terrasses de galets roulés déposés par le Rhône et l'Isère, plates et mécanisables, d'où vient la plus grande part des volumes.
+texte: Les rouges sont de syrah, à laquelle le cahier des charges permet d'ajouter un peu de marsanne ou de roussanne. Ceux des terrasses, ronds et fruités, sentent le cassis et la violette et se boivent dans leurs premières années ; ceux des coteaux du nord sont plus fermes, plus poivrés, et peuvent attendre. Les blancs, à dominante de marsanne, représentent moins d'un dixième de la production : ils sont tendres, sur les fleurs blanches et les fruits jaunes.
+gout: cassis, framboise, violette, poivre, tanins souples ; en blanc, aubépine, pêche, amande
+garde: 2 à 8 ans
+service: 15-16 °C pour les rouges, 10-12 °C pour les blancs
+crus: lieux-dits Les Chassis, Les Pontaix, Les Sept Chemins
+voir: hermitage, saint-joseph
+
+@ hermitage
+nom: Hermitage
+sous: Rhône septentrional
+niveau: cru
+couleurs: rouge, blanc, vin de paille
+styles: rouge-charpente, blanc-ample, rouge-elegant
+cepages: syrah*, marsanne*, roussanne
+surface: environ 135 ha
+depuis: 1937
+def: Une colline unique dominant Tain-l'Hermitage : l'un des grands rouges de garde de France et des blancs de marsanne d'une longévité exceptionnelle.
+texte: Sur la rive gauche, le Rhône bute contre un éperon de granite détaché du Massif central et le contourne : c'est la colline de l'Hermitage, exposée plein sud, couronnée d'une petite chapelle. Le vignoble, sur Tain-l'Hermitage et, pour une faible part, Crozes-Hermitage et Larnage, se divise en lieux-dits aux sols distincts. À l'ouest, Les Bessards, sur granite, donnent les vins les plus structurés ; au centre, Le Méal, terrasse de galets très chaude, apporte la richesse ; L'Hermite, au sommet, mêle granite et lœss ; vers l'est, des sols plus argileux et calcaires conviennent aux blancs.
+texte: Le rouge, de syrah presque toujours pure, est traditionnellement un assemblage de plusieurs de ces lieux-dits. Sombre et serré dans sa jeunesse, il prend avec le temps des arômes de cuir, de truffe et d'épices. Au XIXᵉ siècle, on l'expédiait à Bordeaux pour renforcer les vins du Médoc, que l'on disait alors « hermitagés ».
+texte: Le blanc, près d'un tiers de la production, associe la marsanne, majoritaire, à la roussanne. Puissant et gras, peu acide, il traverse souvent une phase fermée avant de s'épanouir sur le miel, la cire et la noisette. Quelques maisons maintiennent un vin de paille, rare et liquoreux.
+gout: fruits noirs, poivre, réglisse, cuir, truffe, tanins denses ; en blanc, miel, cire, noisette, coing
+garde: 10 à 30 ans pour les rouges ; 5 à 20 ans pour les blancs
+service: 16-18 °C pour les rouges, carafés ; 12-14 °C pour les blancs
+crus: lieux-dits Les Bessards, Le Méal, L'Hermite, Les Greffieux, Péléat, Les Rocoules, Les Murets, Beaume, Maison Blanche
+voir: crozes-hermitage, cote-rotie, cornas
+
+@ cornas
+nom: Cornas
+sous: Rhône septentrional
+niveau: cru
+couleurs: rouge
+styles: rouge-charpente
+cepages: syrah*
+surface: environ 150 ha
+depuis: 1938
+def: Un amphithéâtre de granite face à Valence : la syrah pure, sans cépage blanc, dans sa version la plus sombre et la plus tannique.
+texte: Cornas tient sur une seule commune de l'Ardèche, sur la rive droite. Le vignoble occupe un cirque de coteaux raides tournés vers le sud-est, protégé du mistral, où le raisin mûrit plus tôt que partout ailleurs dans le nord de la vallée. Le sol est un granite décomposé, que l'on nomme ici « gore », retenu par des terrasses ; au nord de la commune, quelques secteurs calcaires apportent des vins un peu plus souples.
+texte: Contrairement à ses voisins, Cornas n'admet que la syrah. Le vin est noir, dense, d'une fermeté qui l'a longtemps fait juger rustique : il lui fallait dix ans pour s'assouplir. Des vinifications plus précises ont affiné les tanins sans effacer le caractère du cru, fruits noirs, poivre, réglisse, puis notes de gibier et de truffe avec l'âge. Il reste le plus solide des rouges du Rhône septentrional, plus terrien que l'[[hermitage]], plus massif que le [[saint-joseph]].
+gout: mûre, cassis, poivre noir, réglisse, olive, tanins puissants ; truffe et gibier avec l'âge
+garde: 8 à 20 ans
+service: 16-18 °C ; carafer les vins de moins de dix ans
+crus: lieux-dits Reynard, Chaillot, La Geynale, Les Mazards, Sabarotte, Patou
+voir: hermitage, saint-joseph, saint-peray
+
+@ saint-peray
+nom: Saint-Péray
+sous: Rhône septentrional
+niveau: cru
+couleurs: blanc, effervescent
+styles: blanc-ample, effervescent-brut
+cepages: marsanne*, roussanne
+surface: environ 100 ha
+depuis: 1936
+def: Le dernier cru du Rhône septentrional, face à Valence, entièrement voué aux blancs de marsanne, tranquilles ou effervescents.
+texte: Au pied des ruines du château de Crussol, Saint-Péray prolonge [[cornas]] vers le sud. Les sols mêlent granite, lœss et, fait rare dans le secteur, calcaire. Le vignoble a bâti sa réputation au XIXᵉ siècle sur un mousseux de méthode traditionnelle, toujours produit. Les blancs tranquilles, désormais majoritaires, issus de marsanne et d'un peu de roussanne, sont ronds, floraux, avec une note d'amande et une fraîcheur discrète.
+gout: fleurs blanches, poire, coing, amande, bouche ronde
+garde: 2 à 6 ans
+service: 10-12 °C ; 8 °C pour les effervescents
+voir: cornas, saint-joseph, crozes-hermitage
+
+@ igp-collines-rhodaniennes
+nom: Collines Rhodaniennes
+sous: Rhône septentrional
+niveau: IGP
+couleurs: rouge, blanc, rosé
+styles: rouge-souple, blanc-aromatique
+cepages: syrah*, viognier*, marsanne, roussanne, gamay, pinot-noir, merlot, chardonnay
+def: L'indication géographique du nord de la vallée du Rhône, terrain de jeu des vignerons des crus en dehors des aires d'appellation.
+texte: L'IGP couvre les coteaux et les plateaux qui bordent les crus septentrionaux, dans la Drôme, l'Ardèche, l'Isère, la Loire et le Rhône. On y trouve des syrahs et des viogniers de jeunes vignes ou de parcelles voisines des appellations, souvent signés par les mêmes domaines, et vendus plus simplement. Sur la rive gauche, au nord de Vienne, les coteaux de schiste de Seyssuel, replantés depuis les années 1990, donnent des vins qui rivalisent avec les crus.
+gout: fruits noirs, violette, poivre ; en blanc, abricot, fleurs
+garde: à boire dans les 2 à 5 ans
+service: 14-16 °C pour les rouges, 10-12 °C pour les blancs
+voir: saint-joseph, crozes-hermitage, condrieu
+
+# ---------- Diois ----------
+
+@ clairette-de-die
+nom: Clairette de Die
+sous: Diois
+niveau: sous-régionale
+couleurs: effervescent
+styles: effervescent-doux, effervescent-brut
+cepages: muscat-blanc-a-petits-grains*, clairette*
+surface: environ 1 600 ha
+depuis: 1942
+def: L'effervescent de la vallée de la Drôme : un mousseux doux et peu alcoolisé, au parfum de muscat, élaboré selon la méthode ancestrale.
+texte: Autour de Die, le vignoble remonte la vallée de la Drôme jusqu'à 700 mètres d'altitude, au pied du Vercors. Malgré son nom, la Clairette de Die est surtout faite de muscat blanc à petits grains, complété de clairette. Dans la méthode ancestrale, dite aussi dioise, le moût partiellement fermenté achève sa fermentation en bouteille, sans sucre ajouté : le vin garde le sucre du raisin et titre moins de 9 % d'alcool. Une version sèche, de pure clairette, est élaborée par méthode traditionnelle.
+gout: muscat frais, litchi, pêche, rose, bulle légère, douceur
+garde: à boire dans les 2 ans
+service: 6-8 °C
+voir: cremant-de-die, coteaux-de-die, muscat-de-beaumes-de-venise
+
+@ cremant-de-die
+nom: Crémant de Die
+sous: Diois
+niveau: sous-régionale
+couleurs: effervescent
+styles: effervescent-brut
+cepages: clairette*, aligote, muscat-blanc-a-petits-grains
+depuis: 1993
+def: Le mousseux brut du Diois, élaboré par seconde fermentation en bouteille, à dominante de clairette.
+texte: Né de la même aire que la [[clairette-de-die|Clairette de Die]], le Crémant de Die en est le versant sec. La clairette, majoritaire, lui donne sa légèreté et ses arômes de pomme et de fleurs ; l'aligoté apporte la vivacité, une touche de muscat le parfum. Vendangé à la main et élevé sur lattes au moins douze mois, comme tous les crémants, c'est un vin fin et discret, aidé par la fraîcheur de l'altitude.
+gout: pomme verte, fleurs blanches, agrumes, bulle fine
+garde: à boire dans les 2 à 3 ans
+service: 6-8 °C
+voir: clairette-de-die, cremant-de-limoux
+
+@ coteaux-de-die
+nom: Coteaux de Die
+sous: Diois
+niveau: sous-régionale
+couleurs: blanc
+styles: blanc-vif
+cepages: clairette*
+depuis: 1993
+def: Le blanc tranquille et sec du Diois, de pure clairette : une appellation confidentielle.
+texte: Sur la même aire que la [[clairette-de-die|Clairette de Die]], quelques hectares seulement sont revendiqués pour ce vin sans bulles. Issu de la seule clairette, il est léger, sec, avec des arômes de pomme, de fenouil et de fleurs blanches et une pointe d'amertume en finale. On le rencontre surtout sur place.
+gout: pomme, fleurs blanches, fenouil, légère amertume
+garde: à boire dans les 2 ans
+service: 8-10 °C
+voir: clairette-de-die, chatillon-en-diois
+
+@ chatillon-en-diois
+nom: Châtillon-en-Diois
+sous: Diois
+niveau: communale
+couleurs: rouge, rosé, blanc
+styles: rouge-leger, blanc-vif, rose-leger
+cepages: gamay*, pinot-noir, syrah, aligote*, chardonnay*
+surface: environ 50 ha
+depuis: 1975
+def: Les vins tranquilles du haut Diois, au pied du Glandasse : gamay en rouge, aligoté et chardonnay en blanc.
+texte: Ce petit vignoble de montagne, entre 500 et 600 mètres d'altitude, est le seul du Rhône à s'appuyer sur des cépages bourguignons. Les rouges et les rosés, dominés par le gamay avec un appoint de pinot noir et de syrah, sont légers, fruités, à boire frais. Les blancs associent l'aligoté, vif, et le chardonnay, plus rond. Des vins simples et nets, marqués par la fraîcheur du climat.
+gout: cerise, groseille, poivre léger ; en blanc, agrumes, pomme, fleurs
+garde: à boire dans les 2 à 3 ans
+service: 12-14 °C pour les rouges, 8-10 °C pour les blancs
+voir: coteaux-de-die, clairette-de-die
+
+# ---------- Rhône méridional ----------
+
+@ cotes-du-rhone
+nom: Côtes du Rhône
+sous: Rhône méridional
+niveau: régionale
+couleurs: rouge, rosé, blanc
+styles: rouge-souple, rouge-solaire, rose-vineux, blanc-ample
+cepages: grenache-noir*, syrah*, mourvedre*, carignan, cinsault, counoise, marselan, grenache-blanc*, clairette*, marsanne, roussanne, bourboulenc, viognier
+surface: environ 30 000 ha
+depuis: 1937
+def: L'appellation régionale de la vallée, de Vienne à Avignon : avant tout un rouge de grenache, rond, fruité et épicé.
+texte: L'aire couvre 171 communes de six départements. En droit, elle s'étend du nord au sud de la vallée ; en fait, la quasi-totalité des volumes vient du bassin méridional, dans le Vaucluse, le Gard et le sud de la Drôme et de l'Ardèche. Les terroirs sont aussi variés que possible : terrasses de galets roulés, sols sableux, coteaux argilo-calcaires, garrigues caillouteuses. Le climat méditerranéen et le mistral y assurent chaque année une maturité complète.
+texte: Le rouge représente la grande majorité de la production. Il repose sur le grenache noir, qui donne le volume et la chaleur, obligatoirement associé à la syrah ou au mourvèdre ; carignan, cinsault et une série de cépages secondaires complètent l'assemblage. Dans la partie septentrionale, le vin peut être de syrah pure. Le style va du rouge de soif, souple et gourmand, à des cuvées de vieilles vignes plus concentrées, proches d'un [[cotes-du-rhone-villages|Villages]].
+texte: Les rosés, colorés et ronds, et les blancs, à base de grenache blanc, de clairette, de marsanne, de roussanne, de bourboulenc et de viognier, restent minoritaires mais progressent. L'appellation est la base de la pyramide rhodanienne : nombre de domaines des crus en produisent, sur leurs parcelles situées hors de l'aire communale.
+gout: fruits rouges et noirs mûrs, épices, garrigue, réglisse, tanins souples
+garde: à boire dans les 2 à 5 ans
+service: 14-16 °C pour les rouges, 10-12 °C pour les blancs et les rosés
+voir: cotes-du-rhone-villages, ventoux, costieres-de-nimes, languedoc
+
+@ cotes-du-rhone-villages
+nom: Côtes du Rhône Villages
+sous: Rhône méridional
+niveau: sous-régionale
+couleurs: rouge, rosé, blanc
+styles: rouge-solaire, rouge-souple, blanc-ample
+cepages: grenache-noir*, syrah*, mourvedre*, carignan, cinsault, grenache-blanc*, clairette*, marsanne, roussanne, bourboulenc, viognier
+surface: environ 9 000 ha
+depuis: 1966
+def: L'étage intermédiaire du Rhône méridional : les meilleures communes des Côtes du Rhône, dont une vingtaine peuvent ajouter leur nom.
+texte: L'appellation réunit environ quatre-vingt-dix communes du Vaucluse, du Gard, de la Drôme et de l'Ardèche, toutes dans la partie méridionale. Les règles y sont plus strictes que pour les [[cotes-du-rhone]] : rendements plus faibles, degré plus élevé, part minimale de grenache, de syrah et de mourvèdre plus importante. Les vins, rouges pour l'essentiel, ont davantage de matière et de tenue.
+texte: Vingt et une dénominations géographiques peuvent figurer sur l'étiquette à la suite du nom de l'appellation : Chusclan, Gadagne, Massif d'Uchaux, Nyons, Plan de Dieu, Puyméras, Roaix, Rochegude, Rousset-les-Vignes, Sablet, Saint-Andéol, Saint-Gervais, Saint-Maurice, Saint-Pantaléon-les-Vignes, Sainte-Cécile, Séguret, Signargues, Suze-la-Rousse, Vaison-la-Romaine, Valréas et Visan. Chacune a son caractère : galets roulés et puissance au Plan de Dieu ou à Signargues, altitude et fraîcheur à Valréas, Visan ou Puyméras, sables et finesse à Sablet, coteaux adossés aux Dentelles à Séguret.
+texte: Cette catégorie est aussi une antichambre. C'est de ses rangs que sont sortis, l'un après l'autre, les crus du sud : [[gigondas]] en 1971, puis [[vacqueyras]], [[beaumes-de-venise]], [[vinsobres]], [[rasteau]], [[cairanne]] et, en 2024, [[laudun]].
+gout: fruits noirs, cerise confite, garrigue, poivre, réglisse, tanins fermes
+garde: 3 à 8 ans
+service: 15-17 °C
+crus: dénominations Chusclan, Gadagne, Massif d'Uchaux, Nyons, Plan de Dieu, Puyméras, Roaix, Rochegude, Rousset-les-Vignes, Sablet, Saint-Andéol, Saint-Gervais, Saint-Maurice, Saint-Pantaléon-les-Vignes, Sainte-Cécile, Séguret, Signargues, Suze-la-Rousse, Vaison-la-Romaine, Valréas, Visan
+voir: cotes-du-rhone, cairanne, rasteau, vinsobres, laudun
+
+@ chateauneuf-du-pape
+nom: Châteauneuf-du-Pape
+sous: Rhône méridional
+niveau: cru
+couleurs: rouge, blanc
+styles: rouge-solaire, blanc-ample
+cepages: grenache-noir*, syrah, mourvedre, cinsault, counoise, muscardin, vaccarese, terret-noir, piquepoul-noir, grenache-blanc, clairette, clairette-rose, roussanne, bourboulenc, picardan, piquepoul-blanc, grenache-gris
+surface: environ 3 200 ha
+depuis: 1936
+def: Le grand cru historique du Rhône méridional, entre Orange et Avignon : un rouge puissant et chaleureux, né de treize cépages.
+texte: Le vignoble couvre cinq communes du Vaucluse, sur la rive gauche : Châteauneuf-du-Pape, Bédarrides, Courthézon, Orange et Sorgues. Son image est celle des plateaux couverts de gros galets de quartzite, arrachés aux Alpes par le Rhône, qui restituent la nuit la chaleur du jour ; mais on y trouve aussi des sables, qui donnent des vins plus fins, des safres, des argiles rouges et, à l'ouest, des calcaires propices aux blancs. Le mistral et un ensoleillement exceptionnel concentrent les raisins.
+texte: Les papes d'Avignon firent bâtir ici, au XIVᵉ siècle, le château dont les ruines dominent le village. Dans les années 1920, les vignerons, menés par le baron Le Roy, fixèrent eux-mêmes leur aire et leurs règles de production : ce travail servit de modèle aux appellations d'origine contrôlée. Le cahier des charges autorise treize cépages, dix-huit si l'on compte séparément leurs variantes de couleur, et interdit le rosé.
+texte: Le grenache noir domine largement et donne des rouges amples, chaleureux, aux arômes de fruits mûrs, de garrigue et d'épices, que le mourvèdre et la syrah structurent. Quelques domaines cultivent encore tous les cépages. Le blanc, rare, moins d'un dixième de la production, est gras et floral ; il se boit jeune ou, pour les cuvées de roussanne, après une longue garde.
+gout: kirsch, fruits noirs confits, garrigue, réglisse, épices douces, cuir, tanins ronds ; en blanc, fleurs, fenouil, poire, miel
+garde: 5 à 20 ans
+service: 16-18 °C pour les rouges ; 11-13 °C pour les blancs
+crus: lieux-dits La Crau, Mont-Redon, Cabrières, Pignan, La Nerthe
+voir: gigondas, vacqueyras, lirac, rasteau
+
+@ gigondas
+nom: Gigondas
+sous: Rhône méridional
+niveau: cru
+couleurs: rouge, rosé, blanc
+styles: rouge-solaire, rouge-charpente
+cepages: grenache-noir*, syrah, mourvedre, cinsault, clairette*
+surface: environ 1 200 ha
+depuis: 1971
+def: Au pied des Dentelles de Montmirail, un rouge de grenache charpenté, que l'altitude et le calcaire rendent plus frais que ses voisins.
+texte: Gigondas occupe une seule commune du Vaucluse, adossée aux Dentelles de Montmirail, crêtes de calcaire dressées à la verticale. Le vignoble s'étage de la plaine de l'Ouvèze, vers 100 mètres, jusqu'à plus de 500 mètres dans le massif. En bas, des terrasses caillouteuses et des sols sableux ; en haut, des marnes et des éboulis calcaires, sur des pentes souvent tournées vers le nord-ouest, où le raisin mûrit lentement. Ce contraste est la clef du cru.
+texte: Premier village des Côtes du Rhône promu au rang de cru, Gigondas produit presque uniquement du rouge. Le grenache noir, majoritaire, est complété de syrah et de mourvèdre. Le vin est sombre, ferme, bâti sur des tanins solides ; il a la générosité d'un [[chateauneuf-du-pape|Châteauneuf-du-Pape]] avec plus de relief et de fraîcheur, surtout dans les cuvées d'altitude. Il lui faut quelques années pour se fondre. Le rosé, vineux, reste marginal ; un blanc, à base de clairette, est autorisé depuis le millésime 2023.
+gout: cerise noire, mûre, poivre, garrigue, réglisse, tanins fermes ; sous-bois et truffe avec l'âge
+garde: 5 à 15 ans
+service: 16-18 °C ; carafer les vins jeunes
+voir: vacqueyras, chateauneuf-du-pape, beaumes-de-venise, rasteau
+
+@ vacqueyras
+nom: Vacqueyras
+sous: Rhône méridional
+niveau: cru
+couleurs: rouge, rosé, blanc
+styles: rouge-solaire, blanc-ample
+cepages: grenache-noir*, syrah*, mourvedre*, cinsault, grenache-blanc, clairette, bourboulenc, roussanne, marsanne, viognier
+surface: environ 1 400 ha
+depuis: 1990
+def: Voisin de Gigondas, sur Vacqueyras et Sarrians : un cru dans les trois couleurs, où le rouge, épicé et généreux, domine très largement.
+texte: Le vignoble s'étend au pied des Dentelles de Montmirail et surtout sur le plateau des Garrigues, vaste terrasse de galets roulés et d'argiles rouges, chaude et sèche. Le grenache y est associé à la syrah et au mourvèdre. Les rouges sont pleins, chaleureux, souvent plus ronds et plus tôt accessibles que ceux de [[gigondas]], avec des notes de fruits noirs, de poivre et de réglisse. Blancs et rosés sont rares.
+gout: fruits noirs, figue, poivre, réglisse, garrigue, tanins ronds
+garde: 4 à 10 ans
+service: 16-17 °C
+voir: gigondas, beaumes-de-venise, chateauneuf-du-pape
+
+@ beaumes-de-venise
+nom: Beaumes de Venise
+sous: Rhône méridional
+niveau: cru
+couleurs: rouge, blanc
+styles: rouge-solaire
+cepages: grenache-noir*, syrah*, mourvedre, grenache-blanc, clairette, roussanne, viognier
+surface: environ 650 ha
+depuis: 2005
+def: Le cru sec du versant sud des Dentelles de Montmirail, pays du muscat : un rouge de grenache et de syrah, mûr et velouté.
+texte: Sur quatre communes, Beaumes-de-Venise, Lafare, La Roque-Alric et Suzette, les vignes s'accrochent à des terrasses abritées du mistral. La géologie est singulière : terres ocre du Trias, remontées des profondeurs, terres blanches du Crétacé et terres grises du Jurassique. Les rouges, où la syrah accompagne le grenache, sont colorés, fruités, plus frais dans les parcelles d'altitude. L'extension du cru aux blancs secs a été engagée en 2026. Le vin doux naturel relève d'une appellation distincte, le [[muscat-de-beaumes-de-venise]].
+gout: cerise noire, mûre, violette, épices, tanins veloutés
+garde: 3 à 8 ans
+service: 16-17 °C
+voir: muscat-de-beaumes-de-venise, gigondas, vacqueyras
+
+@ muscat-de-beaumes-de-venise
+nom: Muscat de Beaumes-de-Venise
+sous: Rhône méridional
+niveau: cru
+couleurs: vin doux naturel
+styles: vdn-blanc
+cepages: muscat-blanc-a-petits-grains*
+surface: environ 300 ha
+depuis: 1945
+def: Le vin doux naturel des Dentelles de Montmirail : un muscat à petits grains, floral et délicat, parmi les plus fins du Midi.
+texte: Au pied des Dentelles, sur Beaumes-de-Venise et Aubignan, le muscat à petits grains est cultivé en terrasses chaudes et abritées. Le vin est muté à l'alcool en cours de fermentation, ce qui lui conserve le sucre et le parfum du raisin. Doré pâle le plus souvent, il sent le raisin frais, la rose, l'abricot et les agrumes, avec une douceur que relève une pointe de fraîcheur. Une variante à baies rouges du même muscat permet aussi quelques rosés et rouges.
+gout: raisin frais, rose, litchi, abricot, écorce d'orange, douceur sans lourdeur
+garde: à boire dans les 3 ans
+service: 6-8 °C
+voir: beaumes-de-venise, muscat-de-frontignan, muscat-de-rivesaltes, rasteau
+
+@ rasteau
+nom: Rasteau
+sous: Rhône méridional
+niveau: cru
+couleurs: rouge, vin doux naturel
+styles: rouge-solaire, vdn-rouge
+cepages: grenache-noir*, syrah, mourvedre, grenache-gris, grenache-blanc
+surface: environ 950 ha
+depuis: 1944
+def: Un coteau plein sud face aux Dentelles : des rouges secs puissants et, plus rare, un vin doux naturel de grenache.
+texte: Rasteau, dans le Vaucluse, fut reconnu dès 1944 pour ses vins doux naturels, puis en 2010 comme cru pour ses rouges secs. Le vignoble descend en pente vers le sud, sur des argiles, des marnes et des galets, abrité du mistral : le grenache y atteint de fortes maturités. Les rouges secs sont denses, capiteux, aux tanins marqués. Les vins doux, de grenache noir, gris ou blanc, se déclinent en grenat, tuilé, ambré ou rancio selon l'élevage.
+gout: fruits noirs confits, cacao, épices, garrigue, tanins solides ; pruneau, figue et noix pour les vins doux
+garde: 4 à 12 ans pour les rouges secs ; plusieurs décennies pour les vins doux élevés
+service: 16-17 °C pour les rouges ; 12-14 °C pour les vins doux
+voir: cairanne, gigondas, maury, banyuls
+
+@ cairanne
+nom: Cairanne
+sous: Rhône méridional
+niveau: cru
+couleurs: rouge, blanc
+styles: rouge-solaire, blanc-ample
+cepages: grenache-noir*, syrah, mourvedre, carignan, clairette*, grenache-blanc*, roussanne*, bourboulenc, viognier, marsanne
+surface: environ 900 ha
+depuis: 2016
+def: Entre l'Aygues et l'Ouvèze, un village perché promu cru en 2016 : des rouges de grenache réputés pour leur équilibre et leur finesse.
+texte: Voisin de [[rasteau]], Cairanne réunit trois types de sols : les coteaux argilo-calcaires autour du vieux village, les terrasses caillouteuses des Garrigues au sud, et des pentes mêlées de sables et de galets vers l'Aygues. Les rouges, à dominante de grenache, complétés de syrah, de mourvèdre et de vieux carignans, sont pleins sans lourdeur, au fruit net et aux tanins fins. Les blancs, minoritaires, sont floraux et gras. Le cahier des charges impose la vendange manuelle.
+gout: fruits rouges mûrs, cerise, poivre, garrigue, tanins fins ; en blanc, fleurs blanches, pêche, fenouil
+garde: 3 à 10 ans
+service: 16-17 °C pour les rouges ; 11-12 °C pour les blancs
+voir: rasteau, vinsobres, cotes-du-rhone-villages
+
+@ vinsobres
+nom: Vinsobres
+sous: Rhône méridional
+niveau: cru
+couleurs: rouge, blanc
+styles: rouge-solaire, rouge-souple
+cepages: grenache-noir*, syrah*, mourvedre, carignan, cinsault, grenache-blanc, clairette, viognier, marsanne, roussanne
+surface: environ 500 ha
+depuis: 2006
+def: Le cru le plus septentrional du Rhône méridional, en Drôme provençale : un rouge d'altitude où la syrah pèse plus qu'ailleurs.
+texte: Près de Nyons, le vignoble s'étage entre 200 et 450 mètres sur des collines de marnes, de sables et de cailloutis, parmi les oliviers. L'altitude et l'air froid qui descend des Préalpes ralentissent la maturation : la syrah, souvent à la peine plus au sud, y réussit bien et accompagne le grenache. Les rouges sont colorés, frais, fermes, avec un fruit noir précis. Longtemps réservé aux seuls rouges, le cru s'est ouvert tout récemment aux blancs.
+gout: mûre, myrtille, violette, poivre, réglisse, fraîcheur, tanins fermes
+garde: 4 à 10 ans
+service: 16-17 °C
+voir: cairanne, grignan-les-adhemar, cotes-du-rhone-villages
+
+@ lirac
+nom: Lirac
+sous: Rhône méridional
+niveau: cru
+couleurs: rouge, rosé, blanc
+styles: rouge-solaire, blanc-ample, rose-vineux
+cepages: grenache-noir*, syrah*, mourvedre*, cinsault*, carignan, grenache-blanc*, clairette*, bourboulenc*, roussanne*, marsanne, viognier, piquepoul-blanc
+surface: environ 800 ha
+depuis: 1947
+def: Sur la rive droite, face à Châteauneuf-du-Pape : un cru gardois dans les trois couleurs, aux rouges pleins et élégants.
+texte: Lirac couvre quatre communes du Gard, Lirac, Roquemaure, Saint-Laurent-des-Arbres et Saint-Geniès-de-Comolas. On y retrouve les terroirs de l'autre rive : plateaux de galets roulés sur argiles rouges, sables, éboulis calcaires de garrigue. Les rouges, à base de grenache, de syrah et de mourvèdre, ont la générosité de leurs voisins avec un toucher souvent plus souple. Les blancs, frais et parfumés, et les rosés, proches de ceux de [[tavel]], complètent la gamme.
+gout: fruits noirs, cerise, garrigue, épices, tanins soyeux ; en blanc, fleurs, fruits blancs, fenouil
+garde: 3 à 10 ans
+service: 16-17 °C pour les rouges ; 10-12 °C pour les blancs et les rosés
+voir: tavel, chateauneuf-du-pape, laudun
+
+@ tavel
+nom: Tavel
+sous: Rhône méridional
+niveau: cru
+couleurs: rosé
+styles: rose-vineux
+cepages: grenache-noir*, cinsault*, syrah, mourvedre, clairette, clairette-rose, bourboulenc, piquepoul-blanc, piquepoul-noir, grenache-blanc, grenache-gris, carignan
+surface: environ 900 ha
+depuis: 1936
+def: Le seul cru de France entièrement voué au rosé : un vin de repas, coloré, ample et structuré, aux portes d'Avignon.
+texte: Sur la rive droite du Rhône, dans le Gard, Tavel partage avec [[lirac]] un paysage de garrigue. Trois terroirs s'y distinguent : à l'ouest, les « lauzes », dalles de calcaire blanc qui donnent de la fraîcheur ; au nord-est, la terrasse de galets roulés de Vallongue, source de puissance ; vers le village, les sables d'Olivet, qui apportent la finesse. Le vin de Tavel était célèbre bien avant la mode du rosé : la cour des papes d'Avignon puis celle des rois de France le recherchaient.
+texte: Le rosé de Tavel naît d'une macération courte des raisins, noirs et blancs mêlés, suivie d'une saignée ou d'un pressurage. Le grenache domine, accompagné du cinsault, de la syrah, du mourvèdre, de la clairette, du bourboulenc et du piquepoul ; aucun cépage ne peut à lui seul faire l'essentiel de l'assemblage. La robe est soutenue, du rose vif au rubis clair, très loin des rosés pâles de Provence. La bouche est ample, vineuse, épicée, avec une vraie longueur.
+texte: C'est un rosé de table plus que d'apéritif, capable d'accompagner des plats relevés, et l'un des rares à gagner quelques années en bouteille, où il prend des notes de fruits secs.
+gout: fraise, framboise, cerise, amande, épices, bouche ample et vineuse
+garde: à boire dans les 2 à 4 ans
+service: 10-12 °C
+voir: lirac, bandol, rose-des-riceys
+
+@ laudun
+nom: Laudun
+sous: Rhône méridional
+niveau: cru
+couleurs: rouge, blanc
+styles: rouge-solaire, blanc-ample
+cepages: grenache-noir*, syrah*, mourvedre, clairette*, grenache-blanc*, roussanne, bourboulenc, viognier
+depuis: 2024
+def: Le dernier-né des crus du Rhône, sur la rive gardoise : des rouges souples et des blancs réputés de longue date.
+texte: Ancienne dénomination des [[cotes-du-rhone-villages]], Laudun est devenu cru en 2024, pour ses rouges et ses blancs. L'aire s'étend sur Laudun-l'Ardoise, Saint-Victor-la-Coste et Tresques, au pied du plateau du Camp de César, sur des sables, des galets et des éboulis calcaires. Les blancs, de clairette et de grenache blanc, frais et floraux, tiennent ici une place inhabituelle pour le Rhône méridional. Les rouges, de grenache et de syrah, sont fruités et fins.
+gout: fleurs blanches, pêche, agrumes, fenouil ; en rouge, fruits rouges, épices, tanins souples
+garde: 2 à 6 ans
+service: 10-12 °C pour les blancs ; 15-16 °C pour les rouges
+voir: lirac, tavel, cotes-du-rhone-villages
+
+@ grignan-les-adhemar
+nom: Grignan-les-Adhémar
+sous: Rhône méridional
+niveau: sous-régionale
+couleurs: rouge, rosé, blanc
+styles: rouge-souple, blanc-aromatique, rose-leger
+cepages: grenache-noir*, syrah*, mourvedre, carignan, cinsault, viognier*, grenache-blanc, clairette, marsanne, roussanne, bourboulenc
+surface: environ 1 300 ha
+depuis: 1973
+def: En Drôme provençale, entre Montélimar et Grignan, des vins fruités et frais, au milieu des lavandes et des chênes truffiers.
+texte: Connue jusqu'en 2010 sous le nom de Coteaux du Tricastin, l'appellation occupe la limite nord du Rhône méridional. Les vignes, entre plateaux caillouteux et coteaux sableux ou calcaires, profitent d'un climat un peu moins chaud que celui du Vaucluse. Les rouges, où la syrah tient une large place aux côtés du grenache, sont souples et poivrés. Les blancs, souvent marqués par le viognier, sont parfumés.
+gout: fruits rouges et noirs, poivre, violette ; en blanc, abricot, fleurs
+garde: à boire dans les 2 à 5 ans
+service: 14-16 °C pour les rouges ; 10-12 °C pour les blancs
+voir: vinsobres, cotes-du-rhone, cotes-du-vivarais
+
+@ cotes-du-vivarais
+nom: Côtes du Vivarais
+sous: Rhône méridional
+niveau: sous-régionale
+couleurs: rouge, rosé, blanc
+styles: rouge-souple, rose-leger, blanc-vif
+cepages: grenache-noir*, syrah*, cinsault, carignan, grenache-blanc*, clairette*, marsanne*
+surface: environ 300 ha
+depuis: 1999
+def: Sur les plateaux calcaires du sud de l'Ardèche, de part et d'autre des gorges, des vins frais et légers.
+texte: Le vignoble s'étend sur le plateau des Gras, table de calcaire dur et de terres rouges caillouteuses, en Ardèche et, pour quelques communes, dans le Gard. L'altitude et l'éloignement du couloir rhodanien donnent un climat plus frais et plus arrosé. Grenache et syrah, à parts voisines, produisent des rouges vifs et fruités et des rosés de saignée ; les blancs, de grenache blanc, de clairette et de marsanne, sont nets et floraux.
+gout: fruits rouges, cassis, poivre, fraîcheur ; en blanc, fleurs, agrumes
+garde: à boire dans les 2 à 4 ans
+service: 14-15 °C pour les rouges ; 9-11 °C pour les blancs et les rosés
+voir: igp-ardeche, grignan-les-adhemar, cotes-du-rhone
+
+@ igp-ardeche
+nom: Ardèche
+sous: Rhône méridional
+niveau: IGP
+couleurs: rouge, rosé, blanc
+styles: rouge-souple, blanc-aromatique, rose-leger
+cepages: syrah*, grenache-noir, merlot, cabernet-sauvignon, gamay, pinot-noir, viognier*, chardonnay*, sauvignon-blanc, marsanne
+def: L'indication géographique du département de l'Ardèche, connue pour ses vins de cépage, viognier et chardonnay en tête.
+texte: L'essentiel du vignoble se trouve dans le sud du département, entre Aubenas et la vallée du Rhône, où les caves coopératives ont misé de bonne heure sur les vins de cépage. Viognier, chardonnay, syrah, gamay ou merlot y donnent des vins francs et fruités. Un cépage noir local très ancien, le chatus, survit sur les terrasses de grès des Cévennes ardéchoises et donne un rouge tannique et original.
+gout: fruits frais, abricot et fleurs pour le viognier, fruits noirs et poivre pour la syrah
+garde: à boire dans les 2 à 3 ans
+service: 9-11 °C pour les blancs ; 14-16 °C pour les rouges
+voir: cotes-du-vivarais, igp-collines-rhodaniennes, igp-vaucluse
+
+# ---------- Ventoux et Luberon ----------
+
+@ ventoux
+nom: Ventoux
+sous: Ventoux et Luberon
+niveau: sous-régionale
+couleurs: rouge, rosé, blanc
+styles: rouge-souple, rose-leger, blanc-vif
+cepages: grenache-noir*, syrah*, carignan*, cinsault*, mourvedre*, clairette*, bourboulenc*, grenache-blanc*, roussanne*, marsanne, vermentino, viognier
+surface: environ 5 700 ha
+depuis: 1973
+def: Au pied du mont Ventoux, dans le Vaucluse, un vaste vignoble d'altitude aux vins fruités et frais.
+texte: De Vaison-la-Romaine à Apt, les vignes entourent le « géant de Provence » et montent jusqu'à 500 mètres et davantage, sur des sols calcaires, des sables ocre et des cailloutis. La masse du Ventoux fait chuter les températures nocturnes : les raisins mûrissent plus tard que dans la plaine du Rhône et gardent de l'acidité. Les rouges, longtemps légers, ont gagné en ambition tout en conservant leur fraîcheur ; les rosés sont nombreux, les blancs en progression.
+gout: fruits rouges frais, cerise, poivre, garrigue, tanins souples
+garde: à boire dans les 2 à 6 ans
+service: 14-16 °C pour les rouges ; 9-11 °C pour les blancs et les rosés
+voir: luberon, cotes-du-rhone, igp-vaucluse, pierrevert
+
+@ luberon
+nom: Luberon
+sous: Ventoux et Luberon
+niveau: sous-régionale
+couleurs: rouge, rosé, blanc
+styles: rose-leger, blanc-vif, rouge-souple
+cepages: syrah*, grenache-noir*, mourvedre, carignan, cinsault, vermentino*, grenache-blanc*, clairette*, bourboulenc*, roussanne*, marsanne, ugni-blanc, viognier
+surface: environ 3 300 ha
+depuis: 1988
+def: Autour du massif du Luberon, entre Durance et Calavon : rosés et blancs frais, rouges souples, aux confins de la Provence.
+texte: Le vignoble, tout entier dans le parc naturel régional, s'étend sur les deux versants de la montagne, entre 200 et 450 mètres d'altitude. Les nuits fraîches et les sols calcaires, sableux ou caillouteux favorisent les blancs, dont la part est ici plus élevée que dans le reste de la vallée ; le vermentino y réussit particulièrement. Les rosés, pâles et vifs, dominent la production. Les rouges, de syrah et de grenache, sont fruités, sans lourdeur.
+gout: agrumes, fleurs blanches, pêche ; fruits rouges et épices pour les rouges
+garde: à boire dans les 2 à 5 ans
+service: 9-11 °C pour les blancs et les rosés ; 14-16 °C pour les rouges
+voir: ventoux, coteaux-d-aix-en-provence, pierrevert
+
+@ igp-vaucluse
+nom: Vaucluse
+sous: Ventoux et Luberon
+niveau: IGP
+couleurs: rouge, rosé, blanc
+styles: rouge-souple, rose-leger, blanc-vif
+cepages: grenache-noir*, syrah*, merlot, cabernet-sauvignon, cinsault, carignan, marselan, caladoc, chardonnay, viognier, vermentino, grenache-blanc
+def: L'indication géographique du département de Vaucluse, pour les vins produits hors des appellations ou avec d'autres cépages.
+texte: L'IGP couvre tout le département, des abords de Châteauneuf-du-Pape au Luberon. Elle accueille des vins de cépage, merlot, cabernet-sauvignon, chardonnay ou viognier, et des assemblages plus libres que ceux des appellations. Certains domaines réputés y classent des cuvées de parcelles situées juste en dehors des aires d'AOC. Deux noms de secteurs peuvent la compléter sur l'étiquette : Principauté d'Orange et Aigues.
+gout: fruits rouges, épices douces ; blancs fruités et ronds
+garde: à boire dans les 2 à 3 ans
+service: 14-16 °C pour les rouges ; 9-11 °C pour les blancs et les rosés
+voir: ventoux, luberon, cotes-du-rhone, igp-mediterranee
+
+# ---------- Costières et Uzège ----------
+
+@ costieres-de-nimes
+nom: Costières de Nîmes
+sous: Costières et Uzège
+niveau: sous-régionale
+couleurs: rouge, rosé, blanc
+styles: rouge-solaire, rose-leger, blanc-ample
+cepages: grenache-noir*, syrah*, mourvedre*, carignan, cinsault, marselan, grenache-blanc*, roussanne*, marsanne*, clairette, bourboulenc, vermentino, viognier
+surface: environ 4 000 ha
+depuis: 1986
+def: Au sud de Nîmes, entre garrigue et Camargue, l'appellation la plus méridionale de la vallée du Rhône, sur une vaste terrasse de galets.
+texte: Les Costières forment un plateau de cailloux roulés, apportés par le Rhône et la Durance, mêlés d'argile rouge et de sable, que l'on appelle ici « gress ». La proximité de la mer tempère la chaleur : chaque après-midi d'été, la brise marine rafraîchit les vignes. Longtemps rangée parmi les vins du Languedoc, l'appellation a rejoint la famille rhodanienne, dont elle partage les cépages. Ses rouges, à forte proportion de syrah, sont fruités et ronds ; rosés et blancs sont frais et expressifs.
+gout: fruits noirs, violette, réglisse, garrigue, tanins ronds ; en blanc, fruits jaunes, fleurs
+garde: à boire dans les 2 à 6 ans
+service: 15-16 °C pour les rouges ; 9-11 °C pour les blancs et les rosés
+voir: clairette-de-bellegarde, duche-d-uzes, cotes-du-rhone, languedoc
+
+@ clairette-de-bellegarde
+nom: Clairette de Bellegarde
+sous: Costières et Uzège
+niveau: communale
+couleurs: blanc
+styles: blanc-vif
+cepages: clairette*
+depuis: 1949
+def: Une minuscule appellation enclavée dans les Costières de Nîmes : un blanc sec de pure clairette.
+texte: Sur la seule commune de Bellegarde, entre Nîmes et Arles, quelques hectares de galets roulés sont réservés à la clairette, vieux cépage du Midi. Vendangée assez tôt pour garder sa fraîcheur, elle donne un blanc léger, peu acide, aux arômes de fleurs blanches, de pomme et de fenouil, avec la fine amertume typique du cépage. Un vin à boire jeune.
+gout: fleurs blanches, pomme, fenouil, amande, légère amertume
+garde: à boire dans les 2 ans
+service: 8-10 °C
+voir: costieres-de-nimes, clairette-du-languedoc, coteaux-de-die
+
+@ duche-d-uzes
+nom: Duché d'Uzès
+sous: Costières et Uzège
+niveau: sous-régionale
+couleurs: rouge, rosé, blanc
+styles: rouge-souple, blanc-aromatique, rose-leger
+cepages: syrah*, grenache-noir*, carignan, mourvedre, cinsault, viognier*, grenache-blanc*, marsanne, roussanne, vermentino
+surface: environ 300 ha
+depuis: 2013
+def: Dans la garrigue gardoise, autour d'Uzès, entre Nîmes et les Cévennes : une jeune appellation où syrah et viognier donnent le ton.
+texte: L'aire couvre un grand nombre de communes du Gard, mais les vignes revendiquées restent peu nombreuses, dispersées sur des coteaux calcaires et des terrasses caillouteuses. L'influence des Cévennes apporte des nuits fraîches. Les rouges, à dominante de syrah, complétée de grenache, sont poivrés et francs ; les blancs, où le viognier s'unit au grenache blanc, parfumés et ronds ; les rosés, vifs.
+gout: fruits noirs, poivre, violette ; en blanc, abricot, fleurs blanches
+garde: à boire dans les 2 à 5 ans
+service: 15-16 °C pour les rouges ; 10-12 °C pour les blancs
+voir: costieres-de-nimes, cotes-du-rhone, pic-saint-loup

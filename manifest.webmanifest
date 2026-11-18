@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Terroirs — vins et cépages de France",
+  "short_name": "Terroirs",
+  "description": "Les appellations, les cépages, la carte détaillée des vignobles, les accords mets-vins et les millésimes de France. Hors ligne, sans compte ni publicité.",
+  "lang": "fr",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f7f2ea",
+  "theme_color": "#5c142a",
+  "categories": ["food", "education", "reference"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

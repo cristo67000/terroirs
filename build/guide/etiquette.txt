@@ -1,0 +1,103 @@
+# GUIDE — Lire l'étiquette
+
+@ etiq-lire
+nom: Lire une étiquette
+rubrique: etiquette
+def: L'étiquette est la carte d'identité du vin : quelques mentions sont imposées par la loi, toutes les autres sont laissées au choix du producteur.
+texte: Les mentions obligatoires tiennent en peu de lignes : la dénomination de vente (le nom de l'appellation suivi de « appellation d'origine contrôlée » ou « protégée », l'indication géographique protégée, ou « Vin de France »), le titre alcoométrique en « % vol. », le volume, le nom et la commune de l'embouteilleur, le pays d'origine, le numéro de lot, la présence d'allergènes (« contient des sulfites ») et le message sanitaire destiné aux femmes enceintes. Pour les effervescents s'ajoute la mention du dosage (brut, demi-sec…).
+texte: Depuis les vins produits après le 8 décembre 2023, la réglementation européenne impose aussi la valeur énergétique et la liste des ingrédients ; cette dernière peut être renvoyée à une page consultable par un code QR imprimé sur la bouteille.
+texte: Le millésime, le cépage, le nom du domaine ou du château, celui de la cuvée, les médailles et les mentions comme « vieilles vignes » sont facultatifs. Ils ne sont pas pour autant libres : un millésime ou un cépage ne peut figurer que si au moins 85 % du vin en provient, et les mots « château », « clos » ou « cru » sont réservés aux vins d'appellation qui y ont droit.
+texte: L'ordre de lecture le plus sûr : d'abord la dénomination (elle fixe l'origine et les règles de production), ensuite le producteur (c'est lui qui fait la différence à l'intérieur d'une même appellation), enfin le millésime. La contre-étiquette, quand elle existe, renseigne souvent sur les cépages, l'élevage et la température de service.
+liste: Mentions obligatoires = dénomination de vente ; titre alcoométrique (% vol.) ; volume ; nom et adresse de l'embouteilleur ; pays d'origine ; numéro de lot ; allergènes ; pictogramme « femme enceinte » ; valeur énergétique et ingrédients (depuis fin 2023) ; dosage pour les effervescents
+liste: Mentions facultatives = millésime ; cépage ; nom du domaine ou du château ; nom de cuvée ; mode d'élevage ; mentions de douceur des vins tranquilles ; labels environnementaux ; médailles
+
+@ etiq-aoc-aop
+nom: AOC et AOP
+rubrique: etiquette
+def: L'appellation d'origine garantit qu'un vin provient d'une aire délimitée et qu'il a été produit selon un cahier des charges précis.
+texte: L'appellation d'origine contrôlée (AOC) est née en France du décret-loi du 30 juillet 1935, qui a créé l'organisme devenu l'Institut national de l'origine et de la qualité (INAO). Les premières appellations ont été reconnues en 1936. L'appellation d'origine protégée (AOP) en est, depuis 2009, l'équivalent européen : les deux sigles désignent le même vin et le producteur peut employer l'un ou l'autre.
+texte: Chaque appellation repose sur un cahier des charges homologué par décret. Il fixe l'aire géographique et, à l'intérieur de celle-ci, les parcelles aptes à produire ; les cépages autorisés et leurs proportions ; la densité de plantation et la taille ; le rendement maximal ; la richesse minimale des raisins ; les règles de vinification et d'élevage ; parfois la date à partir de laquelle le vin peut être vendu. Les vins sont soumis à des contrôles, analyse et dégustation comprises.
+texte: L'appellation dit donc d'où vient le vin et comment il a été fait ; elle ne garantit pas à elle seule le talent du vigneron. Les appellations s'emboîtent souvent du plus large au plus précis : régionale ([[bordeaux]], [[bourgogne]]), sous-régionale ([[haut-medoc]]), communale ([[pauillac]], [[meursault]]), et jusqu'à la parcelle pour les grands crus de Bourgogne. En règle générale, plus l'aire est restreinte, plus les règles sont strictes.
+
+@ etiq-igp
+nom: IGP, les anciens vins de pays
+rubrique: etiquette
+def: L'indication géographique protégée désigne un vin lié à un territoire, avec des règles plus souples que celles d'une appellation.
+texte: Les IGP ont remplacé en 2009 les « vins de pays », mention que certaines continuent d'ajouter sur l'étiquette. Elles sont environ soixante-quinze en France, de taille très variable : régionales ([[igp-pays-d-oc|Pays d'Oc]], [[igp-val-de-loire|Val de Loire]], [[igp-comte-tolosan|Comté Tolosan]]), départementales ou de petite zone ([[igp-cotes-de-thongue|Côtes de Thongue]], [[igp-alpilles|Alpilles]]).
+texte: Le cahier des charges d'une IGP délimite une zone, mais il autorise un large éventail de cépages, y compris des variétés étrangères à la région, et des rendements plus élevés qu'en appellation. C'est ce qui permet les vins de cépage — chardonnay, merlot, viognier, syrah — dont le nom figure en grand sur l'étiquette. Au moins 85 % des raisins doivent provenir de la zone indiquée.
+texte: L'IGP n'est pas forcément un rang inférieur : nombre de vignerons exigeants la choisissent pour planter un cépage que leur appellation n'admet pas ou pour assembler librement. Certains des vins les plus recherchés du Languedoc, de Provence ou de la vallée du Rhône portent une simple IGP.
+
+@ etiq-vin-de-france
+nom: Vin de France
+rubrique: etiquette
+def: Catégorie des vins sans indication géographique, qui a remplacé en 2009 les anciens « vins de table ».
+texte: Un Vin de France peut provenir de n'importe quelle région du pays et assembler des raisins de plusieurs vignobles. Contrairement à l'ancien vin de table, il a le droit d'afficher un millésime et un ou plusieurs cépages. En revanche, l'étiquette ne peut citer aucune origine plus précise que la France : ni région, ni commune, ni lieu-dit.
+texte: La catégorie réunit deux mondes. D'un côté, des vins de marque, produits en grands volumes pour offrir un goût constant. De l'autre, des cuvées de vignerons sortis volontairement de leur appellation, par choix ou parce que leur vin a été refusé à l'agrément : cépages oubliés, vinifications hors normes, vins sans soufre, vins orange, macérations longues. Dans ce second cas, seul le nom du producteur renseigne sur ce que contient la bouteille.
+
+@ etiq-mentions
+nom: Château, domaine, cuvée, vieilles vignes
+rubrique: etiquette
+def: Les mentions qui entourent le nom du vin n'ont pas toutes la même valeur : certaines sont réglementées, d'autres relèvent du seul usage.
+texte: « Mis en bouteille au château » ou « au domaine » signifie que le vin a été embouteillé sur l'exploitation qui a produit les raisins et vinifié. « Mis en bouteille à la propriété » dit la même chose, mais la mention est aussi ouverte aux caves coopératives, considérées comme le prolongement de l'exploitation de leurs adhérents. Une formule comme « mis en bouteille par… » suivie d'un nom de société ou « dans la région de production » signale un vin de négoce.
+texte: « Château », « domaine », « clos », « mas », « abbaye » sont réservés aux vins d'appellation ou d'indication géographique issus des vignes d'une exploitation réelle. Le mot « château » n'implique aucun édifice : dans le Bordelais, il désigne simplement un domaine viticole.
+texte: « Cuvée » désigne un lot de vin distinct : cuvée parcellaire, cuvée élevée en fût, cuvée portant un prénom. « Grand vin » est une tradition bordelaise pour le premier vin d'un château, par opposition au second vin. « Réserve », « cuvée prestige », « tradition », « grande cuvée » ne répondent à aucune définition légale pour les vins français.
+texte: « Vieilles vignes » n'a pas non plus de définition : l'usage honnête la réserve à des vignes d'au moins trente ou quarante ans, dont les rendements faibles et l'enracinement profond donnent en principe des vins plus concentrés. « Élevé en fût de chêne » suppose un véritable séjour en barrique. Quant aux médailles, elles valent ce que vaut le concours qui les décerne.
+
+@ etiq-cru
+nom: Cru, premier cru, grand cru, clos, monopole
+rubrique: etiquette
+def: Le mot « cru » change de sens d'une région à l'autre : il désigne tantôt une parcelle, tantôt un village, tantôt un domaine.
+texte: En Bourgogne, le cru est une parcelle. Les meilleurs *climats* sont classés premiers crus (leur nom suit celui du village : Meursault premier cru Charmes) ou grands crus, qui sont des appellations à part entière ([[chambertin]], [[montrachet]]). En Alsace, les cinquante et un grands crus sont eux aussi des terroirs délimités. Voir [[class-bourgogne-hierarchie]] et [[class-alsace-grands-crus]].
+texte: En Champagne, le cru est une commune : dix-sept villages sont grands crus, une quarantaine premiers crus. Dans le Beaujolais, les dix crus sont dix appellations communales. À Bordeaux, le cru est un domaine : c'est le château qui est classé, non le sol, et il conserve son rang s'il achète des vignes voisines dans la même appellation.
+texte: Attention aux faux amis. [[saint-emilion-grand-cru]] est une appellation, accessible à tout producteur de l'aire qui respecte des règles un peu plus strictes ; seul « grand cru classé » renvoie au classement. De même, [[banyuls-grand-cru]] est une appellation définie par ses règles d'élevage.
+texte: Un *clos* est, à l'origine, une vigne ceinte de murs ; le mot ne peut figurer sur l'étiquette que si le vin provient réellement de la parcelle qui porte ce nom. Un *monopole* est un climat exploité par un seul propriétaire : la [[romanee-conti]], [[la-tache]], le [[clos-de-tart]], [[la-grande-rue]] ou [[la-romanee]] en Bourgogne, la [[coulee-de-serrant]] en Anjou, [[chateau-grillet]] dans le Rhône.
+
+@ etiq-bio
+nom: Bio, biodynamie, vin nature, HVE
+rubrique: etiquette
+def: Quatre démarches environnementales très différentes, dont une seule — l'agriculture biologique — est encadrée par un règlement européen complet.
+texte: Le vin biologique porte le logo européen (la feuille étoilée sur fond vert), souvent accompagné du logo français AB. À la vigne, les produits chimiques de synthèse sont interdits : ni désherbants, ni engrais, ni fongicides de synthèse ; le vigneron protège ses vignes avec du cuivre et du soufre, en doses plafonnées. Depuis 2012, la vinification est elle aussi réglementée : liste d'additifs restreinte, doses de sulfites inférieures à celles du vin conventionnel. La conversion dure trois ans.
+texte: La biodynamie va plus loin que le bio, qu'elle suppose acquis. Inspirée des conférences de Rudolf Steiner (1924), elle considère le domaine comme un organisme vivant, emploie des préparations à base de plantes, de bouse et de silice, et suit un calendrier des travaux. Elle n'est pas définie par la loi, mais par des labels privés, Demeter et Biodyvin, qui contrôlent leurs adhérents.
+texte: Le vin « nature » n'a longtemps eu aucune définition. Depuis 2020, une charte privée, « Vin méthode nature », en fixe une : raisins biologiques vendangés à la main, levures indigènes, aucun intrant ni technique lourde, pas de sulfites ajoutés ou très peu (moins de 30 mg/l au total, mention alors précisée sur l'étiquette). Hors de cette charte, le mot reste déclaratif.
+texte: La Haute Valeur Environnementale (HVE) est une certification publique de l'exploitation, non du produit. Elle porte sur la biodiversité, la stratégie de traitement, la fertilisation et l'irrigation, mais n'interdit pas les produits de synthèse : elle ne doit pas être confondue avec le bio. D'autres labels collectifs existent, comme Terra Vitis.
+
+@ etiq-degre
+nom: Le degré d'alcool
+rubrique: etiquette
+def: Le titre alcoométrique, exprimé en « % vol. », indique la part d'alcool pur dans le volume du vin.
+texte: La mention est obligatoire, arrondie au demi-degré, avec une tolérance d'un demi-point entre le chiffre imprimé et la réalité. Un vin à 13 % vol. contient 13 centilitres d'alcool pur par litre. La plupart des vins secs se situent entre 11 et 15 % ; les vins doux naturels, mutés à l'alcool, entre 15 et 18 % ; certains moelleux légers ou effervescents doux descendent sous les 9 %.
+texte: Le degré dépend d'abord de la richesse en sucre du raisin à la vendange, donc du climat, du cépage et du millésime : il faut environ 17 grammes de sucre par litre de moût pour obtenir un degré d'alcool. Le réchauffement a fait gagner aux vins français un à deux degrés en quarante ans. Dans certaines régions et certaines années, la chaptalisation — l'ajout de sucre au moût — permet de relever le degré dans des limites réglementées.
+texte: Le degré ne dit rien de la qualité, mais il renseigne sur le style : un rouge à 12 % sera plutôt léger et frais, un rouge à 15 % ample et chaleureux. Il rappelle aussi qu'à volume égal, tous les verres n'apportent pas la même quantité d'alcool. La valeur énergétique, désormais indiquée, en découle largement.
+
+@ etiq-sulfites
+nom: Les sulfites
+rubrique: etiquette
+def: La mention « contient des sulfites » est obligatoire dès que le vin renferme plus de 10 mg/l de dioxyde de soufre, ce qui est le cas de presque tous les vins.
+texte: Le dioxyde de soufre (SO₂) est employé depuis des siècles pour protéger le vin : il freine l'oxydation et bloque les levures et les bactéries indésirables. On l'ajoute à la vendange, après les fermentations et à la mise en bouteille. Les levures en produisent elles-mêmes un peu pendant la fermentation, si bien qu'un vin « sans sulfites ajoutés » en contient presque toujours quelques milligrammes.
+texte: La réglementation européenne plafonne les doses : 150 mg/l pour les rouges secs, 200 mg/l pour les blancs et rosés secs, davantage pour les vins sucrés, plus fragiles, jusqu'à 400 mg/l pour les grands liquoreux. Les plafonds du vin biologique sont plus bas d'un tiers environ, et les vins dits nature n'en reçoivent pas ou presque pas.
+texte: Les sulfites figurent parmi les allergènes à déclaration obligatoire parce qu'ils peuvent provoquer des réactions chez les personnes sensibles, notamment asthmatiques. À dose excessive, ils se sentent : odeur d'allumette, picotement dans le nez. Un vin peu ou pas sulfité demande plus de précautions de transport et de conservation, au frais et sans variation de température.
+
+@ etiq-dosage
+nom: Du brut nature au doux : le dosage des effervescents
+rubrique: etiquette
+def: La mention de dosage indique la teneur en sucre d'un vin effervescent, fixée au moment du dégorgement par la liqueur d'expédition.
+texte: Après le dégorgement, on complète la bouteille avec un peu de vin additionné de sucre : c'est le dosage, qui arrondit l'acidité du champagne ou du crémant (voir [[vinif-traditionnelle]]). L'échelle réglementaire est la même pour tous les effervescents européens. Elle est trompeuse sur deux points : « extra-dry » est plus sucré que « brut », et « sec » désigne un vin franchement doux en bouche.
+texte: La grande majorité des champagnes et des crémants sont bruts, le plus souvent dosés entre 6 et 10 g/l. Les bruts nature et extra-bruts, sans sucre ou presque, sont plus tranchants et supposent des raisins bien mûrs. Les demi-secs accompagnent les desserts. Les effervescents de méthode ancestrale, comme la [[clairette-de-die]], doivent leur douceur au sucre naturel du raisin et non à un dosage.
+liste: Échelle des dosages = brut nature, pas dosé ou dosage zéro : moins de 3 g/l, sans aucun sucre ajouté ; extra-brut : de 0 à 6 g/l ; brut : moins de 12 g/l ; extra-dry ou extra-sec : de 12 à 17 g/l ; sec : de 17 à 32 g/l ; demi-sec : de 32 à 50 g/l ; doux : plus de 50 g/l
+
+@ etiq-douceur
+nom: Sec, demi-sec, moelleux, liquoreux
+rubrique: etiquette
+def: Pour les vins tranquilles, les mentions de douceur renseignent sur les sucres résiduels, ceux que la fermentation n'a pas transformés en alcool.
+texte: La réglementation européenne distingue quatre paliers. Un vin est « sec » jusqu'à 4 g/l de sucre — ou jusqu'à 9 g/l si son acidité est assez élevée pour l'équilibrer ; « demi-sec » jusqu'à 12 g/l (18 g/l avec la même réserve) ; « moelleux » jusqu'à 45 g/l ; « doux » au-delà. Ces mentions sont facultatives, ce qui explique qu'un vin d'Alsace ou un [[vouvray]] puisse surprendre ; l'Alsace impose désormais d'indiquer le niveau de sucre sur ses étiquettes.
+texte: L'usage français ajoute le mot « liquoreux », sans seuil légal, pour les vins les plus riches, issus de raisins concentrés par la pourriture noble ou le passerillage : [[sauternes]], [[quarts-de-chaume]], [[monbazillac]]. Ils dépassent couramment 100 g/l de sucre. La sensation de douceur dépend toutefois de l'acidité : un moelleux de chenin ou de petit manseng paraît bien moins sucré que ne le dit l'analyse.
+texte: « Vendanges tardives » est une mention réglementée, réservée à l'[[alsace]], à ses grands crus, à [[jurancon]] et à [[gaillac]]. En Alsace, elle désigne des vins de riesling, de muscat, de pinot gris ou de gewurztraminer récoltés en surmaturité, avec une richesse minimale en sucre contrôlée à la vendange, sans aucun enrichissement. « Sélection de grains nobles » va plus loin : les raisins, triés grain par grain, sont atteints de pourriture noble et donnent de vrais liquoreux ; la mention existe aussi dans les [[coteaux-du-layon]]. Voir [[vinif-liquoreux]].
+liste: Vins tranquilles = sec : jusqu'à 4 g/l (9 g/l si l'acidité est élevée) ; demi-sec : jusqu'à 12 g/l (18 g/l si l'acidité est élevée) ; moelleux : jusqu'à 45 g/l ; doux : plus de 45 g/l
+
+@ etiq-capsule
+nom: La capsule et les initiales du champagne
+rubrique: etiquette
+def: La capsule qui coiffe le goulot et les petites lettres de l'étiquette de champagne renseignent sur le statut de celui qui a élaboré le vin.
+texte: La capsule représentative de droits, ornée d'une Marianne, atteste que les taxes sur l'alcool ont été acquittées ; elle est facultative depuis 2019, mais reste très répandue. Sa couleur dépend de la catégorie du vin (verte pour la plupart des vins d'appellation) et une lettre précise le statut de l'embouteilleur : R pour un récoltant, qui vinifie ses propres raisins ; N pour un négociant ; E pour un entrepositaire agréé.
+texte: En Champagne, deux lettres précèdent le numéro d'immatriculation du producteur, en petits caractères. Elles distinguent le vigneron qui élabore lui-même ses cuvées de la maison qui achète des raisins, ou de la coopérative.
+liste: Initiales du champagne = RM, récoltant-manipulant : vigneron qui élabore et vend le champagne de ses vignes ; NM, négociant-manipulant : maison qui achète des raisins ou des vins et élabore ses cuvées ; CM, coopérative de manipulation : cave qui élabore le vin de ses adhérents ; RC, récoltant-coopérateur : vigneron qui vend sous son nom un champagne élaboré par sa coopérative ; SR, société de récoltants : vignerons associés ; ND, négociant-distributeur : achète des bouteilles terminées et les étiquette ; MA, marque d'acheteur : marque appartenant au revendeur

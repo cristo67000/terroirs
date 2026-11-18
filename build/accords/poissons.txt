@@ -1,0 +1,151 @@
+# Accords mets-vins — famille « poissons »
+
+@ sole-meuniere
+nom: Sole meunière
+famille: poissons
+styles: blanc-ample, blanc-vif
+vins: chablis, puligny-montrachet, meursault, saint-aubin, pouilly-fuisse, sancerre, savennieres, graves
+conseil: Chair fine et serrée, beurre noisette et citron : la sole demande un blanc de race, assez ample pour le beurre, assez vif pour le citron. Les chardonnays de Bourgogne, du chablis au puligny, sont ici chez eux. Un boisé trop marqué ou un vin trop parfumé gâcherait la délicatesse du poisson.
+
+@ turbot-sauce-hollandaise
+nom: Turbot sauce hollandaise
+famille: poissons
+styles: blanc-ample, effervescent-brut
+vins: corton-charlemagne, meursault, chassagne-montrachet, chablis-grand-cru, pessac-leognan, hermitage, champagne
+audace: coulee-de-serrant
+conseil: Le plus noble des poissons plats, à la chair ferme et gélatineuse, nappé d'une sauce au beurre : c'est l'occasion d'ouvrir un grand blanc de garde, arrivé à maturité. Il faut de l'ampleur pour la sauce et de la tension pour ne pas s'y enliser. Les petits blancs nerveux paraissent maigres.
+
+@ bar-grille
+nom: Bar grillé au fenouil
+famille: poissons
+styles: blanc-vif, blanc-ample, rose-leger
+vins: cassis, bellet, palette, patrimonio, cotes-de-provence, la-clape, sancerre, chablis
+conseil: Le loup des Méditerranéens, grillé avec du fenouil et un filet d'huile d'olive, s'accorde aux blancs de son littoral : rolle, clairette et marsanne y trouvent des notes anisées qui font écho au fenouil. Un blanc septentrional vif convient s'il est sans bois. Un rosé pâle est possible, un rouge non.
+
+@ saumon-grille
+nom: Saumon grillé ou poêlé
+famille: poissons
+styles: blanc-ample, rouge-leger, rose-vineux
+vins: saint-veran, pouilly-fuisse, montagny, savennieres, alsace, sancerre, marsannay
+audace: chiroubles, saint-nicolas-de-bourgueil
+conseil: Poisson gras à la chair dense, le saumon supporte un blanc de bonne ampleur, chardonnay ou pinot gris. C'est aussi l'un des rares poissons qui acceptent un rouge : pinot noir ou gamay léger, très peu tannique et servi frais, surtout si la peau est grillée. Les rouges charpentés restent exclus.
+
+@ saumon-a-l-oseille
+nom: Saumon à l'oseille
+famille: poissons
+styles: blanc-vif, blanc-ample
+vins: sancerre, pouilly-fume, menetou-salon, savennieres, cote-roannaise, saint-pourcain, vire-clesse
+conseil: L'oseille apporte une acidité vive que la crème arrondit : le vin doit avoir les deux, de la nervosité et un peu de chair. Sauvignon du Centre-Loire ou chenin sec remplissent le contrat. Un blanc tendre paraîtrait plat face à l'oseille.
+
+@ truite-aux-amandes
+nom: Truite aux amandes
+famille: poissons
+styles: blanc-vif, blanc-aromatique
+vins: alsace, roussette-de-savoie, vin-de-savoie, cotes-du-jura, macon, cotes-d-auvergne, irouleguy
+conseil: Poisson de rivière à la chair fine, beurre et amandes grillées : un blanc sec de montagne, léger et franc, lui convient, riesling d'Alsace, altesse de Savoie ou chardonnay du Jura. Les notes de fruits secs des blancs jurassiens prolongent l'amande. Éviter les vins lourds ou très boisés.
+
+@ dos-de-cabillaud
+nom: Dos de cabillaud
+famille: poissons
+styles: blanc-vif, blanc-ample
+vins: muscadet-sevre-et-maine, chablis, macon, anjou, entre-deux-mers, graves, limoux
+conseil: Chair blanche, feuilletée, au goût discret : c'est la garniture et la sauce qui orientent le choix. Nature ou à la vapeur, un blanc vif et simple ; avec un beurre blanc ou une purée, un chardonnay ou un chenin plus rond. Avec du chorizo ou du lard, un rouge léger servi frais devient envisageable.
+
+@ brandade-de-morue
+nom: Brandade de morue
+famille: poissons
+styles: blanc-vif, blanc-ample, rose-leger
+vins: costieres-de-nimes, clairette-de-bellegarde, picpoul-de-pinet, languedoc, la-clape, laudun, cotes-de-provence
+conseil: Morue, huile d'olive et parfois pomme de terre : une purée riche, salée, d'origine nîmoise. Les blancs du Gard et du Languedoc, ronds mais frais, sont ses partenaires naturels ; un rosé sec fonctionne aussi. Le sel de la morue ne tolère ni tanins ni sucre.
+
+@ aioli
+nom: Aïoli provençal
+famille: poissons
+styles: rose-leger, rose-vineux, blanc-vif
+vins: cotes-de-provence, bandol, coteaux-d-aix-en-provence, cassis, les-baux-de-provence, coteaux-varois-en-provence, tavel
+conseil: L'ail cru domine tout : morue, légumes bouillis et œufs ne sont que ses supports. Un rosé de Provence bien sec, servi frais, est l'accord qui s'impose, ou un blanc local de caractère. Inutile d'ouvrir un vin subtil, l'ail n'en laisserait rien ; les tanins, eux, deviennent amers.
+
+@ bouillabaisse
+nom: Bouillabaisse
+famille: poissons
+styles: blanc-ample, rose-vineux, blanc-vif
+vins: cassis, bandol, palette, cotes-de-provence, bellet, coteaux-d-aix-en-provence, chateauneuf-du-pape
+conseil: Poissons de roche, safran, fenouil, ail et rouille pimentée : un plat puissant qui veut un vin de même tempérament. Le blanc de Cassis est l'accord historique, le rosé de Bandol son rival ; tous deux ont le corps nécessaire et la fraîcheur saline qu'il faut. Les blancs légers disparaissent, les rouges se heurtent à l'iode et au piment.
+
+@ quenelles-de-brochet
+nom: Quenelles de brochet
+famille: poissons
+styles: blanc-ample, blanc-vif
+vins: saint-veran, pouilly-fuisse, vire-clesse, macon, saint-joseph, crozes-hermitage, roussette-du-bugey, condrieu
+conseil: Spécialité lyonnaise, moelleuse et nappée d'une sauce Nantua à la crème et au beurre d'écrevisse : les blancs du Mâconnais et du Rhône nord, ronds et gras, sont les accords de la région. Il faut de la matière, mais aussi de la fraîcheur pour ne pas alourdir. Écarter les vins acides et maigres.
+
+@ sandre-au-beurre-blanc
+nom: Sandre ou brochet au beurre blanc
+famille: poissons
+styles: blanc-vif, blanc-ample
+vins: muscadet-sevre-et-maine, muscadet-coteaux-de-la-loire, savennieres, anjou, saumur, vouvray, montlouis-sur-loire
+conseil: Le beurre blanc est né sur les bords de la Loire, monté sur une réduction de vin blanc et d'échalotes : on sert le même vin, muscadet sur lie ou chenin sec, dont l'acidité équilibre le beurre. C'est un accord de terroir exemplaire. Un vin boisé ou trop mûr rendrait le plat pesant.
+
+@ lotte-a-l-armoricaine
+nom: Lotte à l'armoricaine
+famille: poissons
+styles: blanc-ample, rose-vineux, rouge-leger
+vins: savennieres, crozes-hermitage, saint-joseph, lirac, tavel, graves, bandol
+audace: saumur-champigny
+conseil: La lotte a une chair ferme, presque une viande, et la sauce tomatée, flambée et relevée lui donne beaucoup de force. Un blanc puissant et sec ou un rosé corsé s'imposent. C'est l'un des cas où un rouge léger de cabernet franc, servi frais, passe sans dommage.
+
+@ thon-grille
+nom: Thon grillé ou mi-cuit
+famille: poissons
+styles: rose-vineux, rouge-leger, blanc-ample
+vins: irouleguy, collioure, tavel, bandol, saint-nicolas-de-bourgueil, fleurie, patrimonio
+conseil: Le thon rouge se traite presque comme une viande : sa chair dense et sa cuisson saisie supportent un rosé de repas ou un rouge fruité aux tanins très fins, servi frais. À la basquaise, avec poivrons et tomates, les vins d'Irouléguy sont tout indiqués. Les rouges tanniques et boisés restent trop durs.
+
+@ sardines-grillees
+nom: Sardines grillées
+famille: poissons
+styles: blanc-vif, rose-leger
+vins: muscadet, gros-plant-du-pays-nantais, picpoul-de-pinet, fiefs-vendeens, cotes-de-provence, cotes-du-roussillon, igp-cotes-de-gascogne
+conseil: Poisson gras, très parfumé, grillé sur la braise : il lui faut un vin simple, sec et très frais, dont l'acidité dégraisse la bouche. Petits blancs de l'Atlantique ou rosés du Midi, bus sans cérémonie. Les rouges prennent un goût de fer avec les poissons bleus.
+
+@ maquereaux-au-vin-blanc
+nom: Maquereaux au vin blanc
+famille: poissons
+styles: blanc-vif
+vins: muscadet, gros-plant-du-pays-nantais, petit-chablis, saint-bris, entre-deux-mers, haut-poitou
+conseil: Poisson gras mariné dans le vin blanc et le vinaigre : l'acidité de la préparation impose un blanc au moins aussi vif, léger et sans prétention. Sauvignon ou melon de Bourgogne conviennent. Un vin tendre paraîtrait plat, un vin cher serait gaspillé.
+
+@ raie-aux-capres
+nom: Raie aux câpres
+famille: poissons
+styles: blanc-vif
+vins: muscadet-sevre-et-maine, sancerre, quincy, chablis, cheverny, bourgogne-aligote, entre-deux-mers
+conseil: Beurre noisette, câpres et vinaigre : la sauce est grasse et acide à la fois. Un blanc vif et droit, sauvignon ou muscadet, répond aux câpres et allège le beurre. Les blancs riches et boisés s'accordent mal avec le vinaigre.
+
+@ poisson-pane
+nom: Poisson pané et fish and chips
+famille: poissons
+styles: blanc-vif, effervescent-brut
+vins: muscadet, petit-chablis, igp-cotes-de-gascogne, entre-deux-mers, cremant-de-loire, cremant-de-bordeaux, picpoul-de-pinet
+conseil: La friture appelle l'acidité et les bulles : un blanc sec très frais ou un crémant brut dégraissent le palais et réveillent la chair du poisson. Avec la sauce tartare, rester sur un vin franchement vif. Rien de boisé, rien de sucré.
+
+@ hareng-pommes-a-l-huile
+nom: Hareng pommes à l'huile et poissons fumés
+famille: poissons
+styles: blanc-vif, blanc-aromatique
+vins: alsace, muscadet-sevre-et-maine, sancerre, petit-chablis, cremant-d-alsace, moselle
+conseil: Hareng, haddock ou maquereau fumés sont gras, salés et puissants : un blanc sec, très vif et minéral leur tient tête, sylvaner ou riesling d'Alsace en premier lieu. Les bulles conviennent aussi. Le fumé et le sel rendent les rouges métalliques.
+
+@ rougets-grilles
+nom: Rougets grillés
+famille: poissons
+styles: rose-vineux, blanc-ample, rouge-leger
+vins: bandol, cassis, palette, patrimonio, collioure, cotes-de-provence, ajaccio
+conseil: Le rouget a un goût affirmé, presque de gibier, surtout cuit avec son foie. Il s'accorde aux blancs amples et aux rosés de caractère de Provence et de Corse ; avec une tapenade, un rouge méditerranéen léger et frais est permis. Les blancs neutres manquent de répondant.
+
+@ poisson-cru-marine
+nom: Poisson cru, tartare et ceviche
+famille: poissons
+styles: blanc-vif, blanc-aromatique, effervescent-brut
+vins: sancerre, pouilly-fume, chablis, alsace, picpoul-de-pinet, igp-cotes-de-gascogne, champagne
+conseil: Citron vert, coriandre, parfois piment et gingembre : la marinade est acide et très aromatique. Un blanc sec, vif et expressif, sauvignon ou riesling, a l'acidité nécessaire pour ne pas s'effacer. Les vins boisés et les rouges sont à proscrire, les blancs mous aussi.

@@ -1,0 +1,73 @@
+# Accords mets-vins — famille « gibier »
+
+@ civet-de-lievre
+nom: Civet de lièvre
+famille: gibier
+styles: rouge-charpente, rouge-elegant, rouge-solaire
+vins: gevrey-chambertin, pommard, corton, cornas, hermitage, chateauneuf-du-pape, cahors, madiran
+conseil: Chair noire au goût puissant, sauce au vin liée au sang : le civet réclame un rouge de grande concentration, à maturité, dont les arômes évolués de sous-bois et de cuir rejoignent ceux du gibier. Grands bourgognes charpentés, syrahs du Rhône nord ou vieux cahors conviennent. Un vin jeune et fruité paraît dérisoire.
+
+@ lievre-a-la-royale
+nom: Lièvre à la royale
+famille: gibier
+styles: rouge-elegant, rouge-charpente, rouge-solaire
+vins: chambertin, clos-de-vougeot, hermitage, cote-rotie, chateauneuf-du-pape, pomerol, saint-emilion-grand-cru, bandol
+audace: banyuls-grand-cru, maury
+conseil: Monument de la cuisine française, compoté des heures avec foie gras, truffe et vin rouge : le plat le plus intense du répertoire appelle les plus grands rouges, vieux de dix ans et plus, veloutés et profonds. La texture fondante exige des tanins entièrement résolus. Certains amateurs lui servent un vieux vin doux naturel, accord audacieux mais éprouvé.
+
+@ gigue-de-chevreuil
+nom: Gigue de chevreuil sauce grand veneur
+famille: gibier
+styles: rouge-elegant, rouge-charpente
+vins: cote-rotie, hermitage, vosne-romanee, nuits-saint-georges, morey-saint-denis, pauillac, saint-estephe, alsace-grand-cru-hengst
+conseil: Le chevreuil a une chair fine et maigre, servie rosée ; la sauce poivrade adoucie de gelée de groseille et les airelles ajoutent une note aigre-douce. Une syrah septentrionale ou un grand pinot noir, y compris d'Alsace, accompagnent le fruit et le poivre. Éviter les vins secs et austères, que le sucré de la garniture durcit.
+
+@ pave-de-biche
+nom: Pavé de biche ou de cerf
+famille: gibier
+styles: rouge-elegant, rouge-charpente, rouge-solaire
+vins: gevrey-chambertin, chambolle-musigny, saint-joseph, cornas, margaux, saint-emilion-grand-cru, pic-saint-loup, terrasses-du-larzac
+conseil: Viande rouge sombre, tendre, au goût de gibier modéré quand elle est simplement poêlée : un rouge fin et profond la met en valeur, pinot noir de la Côte de Nuits ou syrah. Avec une sauce aux fruits rouges, préférer un vin au fruit mûr. La biche étant très maigre, les tanins rugueux sont à écarter.
+
+@ civet-de-sanglier
+nom: Civet et daube de sanglier
+famille: gibier
+styles: rouge-solaire, rouge-charpente
+vins: bandol, gigondas, vacqueyras, corbieres, fitou, cotes-du-roussillon-villages, patrimonio, madiran
+conseil: Viande ferme et sauvage, longuement marinée et mijotée : il lui faut un rouge du Sud puissant, épicé, aux tanins solides. Mourvèdre, carignan et grenache, ou nielluccio en Corse, pays du sanglier, sont dans leur élément. Les rouges légers sont balayés.
+
+@ faisan-roti
+nom: Faisan rôti
+famille: gibier
+styles: rouge-elegant, rouge-souple, blanc-ample
+vins: volnay, beaune, chambolle-musigny, mercurey, saint-emilion, moulis, cheverny, alsace
+conseil: Gibier à plume à la chair délicate et un peu sèche, souvent servi avec du chou ou des pommes : un rouge fin, soyeux, d'intensité moyenne lui suffit, bourgogne de la Côte de Beaune en tête. En Alsace, le faisan à la choucroute se boit avec un riesling ou un pinot gris. Trop de puissance couvre sa saveur.
+
+@ perdreau-roti
+nom: Perdreau rôti
+famille: gibier
+styles: rouge-elegant, rouge-souple
+vins: chambolle-musigny, volnay, vosne-romanee, margaux, saint-julien, fleurie, menetou-salon, sancerre
+conseil: Le plus fin des gibiers à plume, rôti rosé et servi sur canapé : il demande un rouge de dentelle, pinot noir ou médoc élégant, à maturité. L'accord repose sur la délicatesse aromatique. Les vins tanniques et solaires ne lui conviennent pas.
+
+@ canard-sauvage
+nom: Canard sauvage (colvert)
+famille: gibier
+styles: rouge-elegant, rouge-charpente
+vins: saint-estephe, pauillac, pomerol, nuits-saint-georges, pommard, cote-rotie, saint-joseph, madiran
+conseil: Plus maigre et plus corsé que le canard d'élevage, le colvert se sert saignant, avec un jus court. Il appelle un rouge structuré et racé, médoc, bourgogne de la Côte de Nuits ou syrah. Un vin de quelques années, aux tanins fondus, respecte mieux la finesse de la chair.
+
+@ salmis-de-palombe
+nom: Salmis de palombe
+famille: gibier
+styles: rouge-charpente, rouge-souple
+vins: madiran, irouleguy, saint-mont, cahors, buzet, pecharmant, saint-emilion, bearn
+conseil: Le pigeon ramier des cols pyrénéens est cuisiné dans une sauce au vin rouge sombre et liée : les rouges du piémont, à base de tannat et de cabernets, sont l'accord de chasse traditionnel. Il faut de la charpente et de la fraîcheur. Un vin trop tendre paraîtrait dilué.
+
+@ terrine-de-gibier
+nom: Terrine de gibier
+famille: gibier
+styles: rouge-souple, rouge-charpente
+vins: moulin-a-vent, morgon, mercurey, crozes-hermitage, chinon, pecharmant, minervois, cotes-de-bergerac
+audace: alsace
+conseil: Froide, épicée, souvent parfumée au genièvre : la terrine demande un rouge de corps moyen à solide, au fruit net, sans tanins agressifs puisque rien n'est chaud ni gras pour les fondre. Cru charnu du Beaujolais ou syrah de Crozes sont de bons choix. Un pinot gris d'Alsace sec et ample fonctionne aussi très bien.

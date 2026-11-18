@@ -1,0 +1,448 @@
+# Loire, première partie — Pays nantais, Vendée et Poitou, Anjou-Saumur, appellations régionales (27 fiches)
+
+# --- Pays nantais ---
+
+@ muscadet
+nom: Muscadet
+sous: Pays nantais
+niveau: régionale
+couleurs: blanc
+styles: blanc-vif
+cepages: melon-de-bourgogne*
+depuis: 1937
+def: L'appellation de base du vignoble nantais : un blanc sec, léger et iodé, issu du seul melon de Bourgogne.
+texte: Le muscadet sans autre précision peut être produit sur l'ensemble du vignoble nantais, au sud et à l'est de Nantes, en Loire-Atlantique surtout, avec des extensions en Vendée et en Maine-et-Loire. Il provient le plus souvent des secteurs périphériques, hors des trois appellations sous-régionales. Le melon de Bourgogne, cépage peu aromatique venu de l'est au XVIIᵉ siècle et généralisé après le gel de 1709, y donne un vin pâle, peu alcoolisé, simple et désaltérant, compagnon naturel des huîtres et des coquillages.
+gout: citron, pomme verte, fleurs blanches, note iodée, bouche légère et vive
+garde: à boire dans les 2 ans
+service: 8-10 °C
+voir: muscadet-sevre-et-maine, muscadet-cotes-de-grandlieu, muscadet-coteaux-de-la-loire, gros-plant-du-pays-nantais
+
+@ muscadet-sevre-et-maine
+nom: Muscadet Sèvre et Maine
+sous: Pays nantais
+niveau: sous-régionale
+couleurs: blanc
+styles: blanc-vif, blanc-ample
+cepages: melon-de-bourgogne*
+surface: environ 6 000 ha
+depuis: 1936
+def: Le cœur du vignoble nantais, au sud-est de Nantes : les muscadets les plus réputés, souvent élevés sur lie, et des crus communaux de garde.
+texte: L'appellation tire son nom de deux rivières, la Sèvre nantaise et la Maine, qui entaillent un plateau de collines basses entre Vertou, Vallet et Clisson. Elle fournit la grande majorité des muscadets. Le sous-sol appartient au Massif armoricain : gneiss, granites, schistes, et ces roches vertes sombres, gabbros et amphibolites, propres au secteur. Peu profonds, ces sols se réchauffent vite et drainent bien, sous un climat océanique doux et humide.
+texte: La plupart des vins portent la mention « sur lie » : après fermentation, ils passent l'hiver sur leurs lies fines, sans soutirage, et sont mis en bouteille directement, l'année qui suit la vendange. Ils y gagnent du gras, des arômes de levure et un léger perlant qui souligne leur fraîcheur saline.
+texte: Depuis 2011, des crus communaux consacrent les meilleurs terroirs : Clisson, sur granite, aux vins amples ; Gorges, sur gabbro, tendu et minéral ; Le Pallet, plus fruité. Goulaine, Château-Thébaud, Monnières-Saint-Fiacre et Mouzillon-Tillières les ont rejoints, et d'autres communes suivent la même voie. Issus de vieilles vignes à rendement réduit, ces vins restent dix-huit à vingt-quatre mois au moins sur lies, trop longtemps pour avoir droit à la mention « sur lie », et montrent qu'un muscadet peut vieillir dix ans et davantage.
+gout: citron, fleurs blanches, pain frais, embruns, perlant léger ; crus plus amples, notes de fruits mûrs, de fumé et de pierre
+garde: 2 à 4 ans pour les « sur lie » ; 5 à 15 ans pour les crus communaux
+service: 8-10 °C ; 11-12 °C pour les crus communaux
+crus: crus communaux Clisson, Gorges, Le Pallet, Goulaine, Château-Thébaud, Monnières-Saint-Fiacre, Mouzillon-Tillières
+voir: muscadet, muscadet-coteaux-de-la-loire, muscadet-cotes-de-grandlieu, gros-plant-du-pays-nantais
+
+@ muscadet-coteaux-de-la-loire
+nom: Muscadet Coteaux de la Loire
+sous: Pays nantais
+niveau: sous-régionale
+couleurs: blanc
+styles: blanc-vif
+cepages: melon-de-bourgogne*
+surface: environ 200 ha
+depuis: 1936
+def: Le muscadet de l'amont, sur les deux rives de la Loire autour d'Ancenis, aux confins de l'Anjou.
+texte: La plus septentrionale et la plus petite des appellations de muscadet s'étire le long du fleuve, entre Nantes et les portes de l'Anjou. Les vignes occupent des coteaux pentus de schistes, de micaschistes et de gneiss, bien exposés au-dessus de la Loire. Un peu plus éloignés de l'océan, les vins se montrent plus fermes et plus droits que ceux de la Sèvre, avec une acidité marquée qui leur permet de bien évoluer. L'élevage sur lie y est courant.
+gout: agrumes, pierre à fusil, bouche droite et ferme
+garde: 2 à 5 ans
+service: 8-10 °C
+voir: muscadet-sevre-et-maine, coteaux-d-ancenis, anjou-coteaux-de-la-loire
+
+@ muscadet-cotes-de-grandlieu
+nom: Muscadet Côtes de Grandlieu
+sous: Pays nantais
+niveau: sous-régionale
+couleurs: blanc
+styles: blanc-vif
+cepages: melon-de-bourgogne*
+surface: environ 250 ha
+depuis: 1994
+def: Au sud-ouest de Nantes, autour du lac de Grand-Lieu, le muscadet le plus proche de l'océan.
+texte: La plus récente des trois appellations sous-régionales entoure le lac de Grand-Lieu, vaste étendue d'eau peu profonde qui tempère le climat, et s'avance vers le pays de Retz. Les sols, plus légers qu'en Sèvre et Maine, mêlent sables et galets sur un socle de schistes, de gneiss et de roches vertes. Ils donnent des vins précoces, souples et fruités, souvent élevés sur lie, à l'accent maritime prononcé.
+gout: fruits blancs, fleurs, note iodée, bouche souple
+garde: à boire dans les 3 ans
+service: 8-10 °C
+voir: muscadet-sevre-et-maine, muscadet, fiefs-vendeens
+
+@ gros-plant-du-pays-nantais
+nom: Gros Plant du Pays Nantais
+sous: Pays nantais
+niveau: sous-régionale
+couleurs: blanc
+styles: blanc-vif
+cepages: folle-blanche*, colombard
+depuis: 2011
+def: Le blanc le plus vif du Pays nantais, issu de la folle blanche, cépage des anciennes eaux-de-vie.
+texte: Le « gros plant » est le nom nantais de la folle blanche, cépage charentais que les marchands hollandais firent planter près de l'estuaire pour la distillation. Il partage l'aire du [[muscadet]] et se plaît sur les sols sableux et graveleux proches du lac de Grand-Lieu et de l'océan. Le vin est très sec, léger en alcool, d'une acidité tranchante ; l'élevage sur lie, fréquent, l'arrondit un peu. C'est le vin des plateaux de fruits de mer.
+gout: citron vert, pomme verte, iode, acidité mordante
+garde: à boire dans l'année
+service: 8 °C
+voir: muscadet, muscadet-cotes-de-grandlieu
+
+@ coteaux-d-ancenis
+nom: Coteaux d'Ancenis
+sous: Pays nantais
+niveau: sous-régionale
+couleurs: rouge, rosé, moelleux
+styles: rouge-leger, rose-leger, blanc-moelleux
+cepages: gamay*, pinot-gris*, cabernet-franc
+surface: environ 150 ha
+depuis: 2011
+def: Autour d'Ancenis, de part et d'autre de la Loire, des rouges et rosés de gamay et un blanc tendre de pinot gris appelé « malvoisie ».
+texte: L'appellation se superpose à celle du [[muscadet-coteaux-de-la-loire|Muscadet Coteaux de la Loire]], sur des coteaux de schistes et de micaschistes. Le gamay y donne des rouges légers et des rosés vifs, à boire jeunes et frais. La curiosité locale est le blanc de pinot gris, que l'on nomme ici malvoisie : vendangé bien mûr, il conserve des sucres naturels et offre une bouche tendre, demi-sèche ou moelleuse, aux arômes de fruits jaunes.
+gout: cerise et poivre pour les rouges ; coing, abricot et miel pour la malvoisie
+garde: à boire dans les 2 à 3 ans
+service: 12-14 °C pour les rouges ; 8-10 °C pour la malvoisie
+voir: muscadet-coteaux-de-la-loire, anjou
+
+# --- Vendée et Poitou ---
+
+@ fiefs-vendeens
+nom: Fiefs Vendéens
+sous: Vendée et Poitou
+niveau: sous-régionale
+couleurs: rouge, rosé, blanc
+styles: rose-leger, rouge-leger, blanc-vif
+cepages: gamay*, pinot-noir*, cabernet-franc*, negrette*, cabernet-sauvignon, chenin*, chardonnay, sauvignon-blanc
+surface: environ 450 ha
+depuis: 2011
+def: Le vignoble de la Vendée, en cinq îlots entre le littoral atlantique et le bocage, aux assemblages originaux.
+texte: Héritage des abbayes médiévales, les Fiefs vendéens se répartissent en cinq secteurs dont le nom figure sur l'étiquette : Brem, tout près de l'océan, Mareuil, le plus étendu, Chantonnay, Pissotte et Vix, vers le Marais poitevin. Les sols de schistes et de rhyolites dominent. Les rouges et les rosés assemblent gamay, pinot noir, cabernet franc et négrette, localement appelée « ragoutant » ; les blancs reposent sur le chenin, complété de chardonnay. Tous sont vifs, marqués par la proximité de la mer.
+gout: fruits rouges acidulés, poivre ; blancs d'agrumes et de fleurs, finale saline
+garde: à boire dans les 2 à 4 ans
+service: 8-10 °C pour les blancs et rosés ; 14-15 °C pour les rouges
+crus: dénominations Brem, Mareuil, Chantonnay, Pissotte, Vix
+voir: muscadet-cotes-de-grandlieu, haut-poitou, anjou
+
+@ haut-poitou
+nom: Haut-Poitou
+sous: Vendée et Poitou
+niveau: sous-régionale
+couleurs: blanc, rouge, rosé
+styles: blanc-vif, rouge-leger, rose-leger
+cepages: sauvignon-blanc*, sauvignon-gris, cabernet-franc*, gamay, merlot, pinot-noir
+depuis: 2011
+def: Au nord-ouest de Poitiers, autour de Neuville-de-Poitou, un vignoble de plateau connu pour ses sauvignons.
+texte: Le Haut-Poitou occupe le seuil du Poitou, passage entre Bassin parisien et Bassin aquitain, dans la Vienne et, pour une commune, les Deux-Sèvres. Les sols calcaires et marneux, les « terres de groie », et un climat océanique assez sec conviennent au sauvignon, qui donne ici un blanc franc et aromatique. Les rouges, à dominante de cabernet franc, sont légers et fruités. Très étendu au Moyen Âge, ce vignoble doit sa renaissance au XXᵉ siècle à sa cave coopérative.
+gout: buis, agrumes, bourgeon de cassis en blanc ; framboise et poivron en rouge
+garde: à boire dans les 2 à 3 ans
+service: 8-10 °C pour les blancs ; 14-15 °C pour les rouges
+voir: touraine, saumur, fiefs-vendeens
+
+# --- Anjou-Saumur ---
+
+@ anjou
+nom: Anjou
+sous: Anjou-Saumur
+niveau: régionale
+couleurs: blanc, rouge, effervescent
+styles: blanc-vif, rouge-souple, rouge-leger, effervescent-brut
+cepages: chenin*, cabernet-franc*, cabernet-sauvignon*, gamay, grolleau, pineau-d-aunis, chardonnay, sauvignon-blanc
+depuis: 1936
+def: L'appellation régionale de l'Anjou, autour d'Angers : blancs de chenin, rouges de cabernet ou de gamay, et quelques mousseux.
+texte: L'aire couvre l'essentiel du vignoble du Maine-et-Loire, au sud de la Loire surtout, et déborde sur le nord des Deux-Sèvres et de la Vienne. Elle réunit deux pays géologiques. À l'ouest, l'« Anjou noir » : schistes ardoisiers, grès et roches volcaniques du Massif armoricain, sols sombres et minces qui se réchauffent vite. À l'est, vers Saumur, l'« Anjou blanc » de la craie tuffeau. Le climat, la fameuse « douceur angevine », est océanique et peu arrosé.
+texte: Le blanc, à base de chenin parfois complété d'un peu de chardonnay ou de sauvignon, a beaucoup progressé : vendangé mûr, souvent vinifié et élevé en fût sur les schistes, il offre aujourd'hui des secs amples et salins qui comptent parmi les belles affaires de la Loire. Le rouge, issu des deux cabernets, est un vin de fruit, souple et frais ; l'Anjou gamay, plus léger encore, se boit dans l'année. Les rouges plus structurés relèvent de l'appellation [[anjou-villages|Anjou Villages]].
+texte: La même aire produit des rosés sous leurs propres appellations, [[cabernet-d-anjou|Cabernet d'Anjou]] et [[rose-d-anjou|Rosé d'Anjou]], qui représentent de loin les plus gros volumes de la région.
+gout: coing, poire, tilleul, pointe saline en blanc ; framboise, cassis et poivron mûr en rouge
+garde: blancs 2 à 8 ans ; rouges 2 à 5 ans
+service: 10-12 °C pour les blancs ; 14-16 °C pour les rouges
+voir: anjou-villages, savennieres, saumur, cabernet-d-anjou
+
+@ anjou-villages
+nom: Anjou Villages
+sous: Anjou-Saumur
+niveau: sous-régionale
+couleurs: rouge
+styles: rouge-souple, rouge-charpente
+cepages: cabernet-franc*, cabernet-sauvignon*
+surface: environ 200 ha
+depuis: 1991
+def: Les rouges de garde de l'Anjou, issus des deux cabernets sur une sélection de communes aux sols de schistes.
+texte: Réservée aux meilleurs terroirs à rouge d'une quarantaine de communes, surtout entre Loire et Layon, l'appellation exige des raisins plus mûrs et un élevage plus long que l'[[anjou|Anjou]] rouge : les vins ne sortent qu'à l'automne qui suit la vendange. Sur les schistes, le cabernet franc et le cabernet-sauvignon donnent des vins colorés et charnus, aux tanins présents, qui demandent deux ou trois ans pour se fondre.
+gout: fruits noirs, violette, réglisse, tanins fermes
+garde: 4 à 10 ans
+service: 16 °C
+voir: anjou-brissac, anjou, saumur-champigny
+
+@ anjou-brissac
+nom: Anjou Brissac
+sous: Anjou-Saumur
+niveau: communale
+couleurs: rouge
+styles: rouge-charpente, rouge-souple
+cepages: cabernet-franc*, cabernet-sauvignon*
+surface: environ 100 ha
+def: Autour de Brissac, au sud d'Angers, le rouge le plus structuré de l'Anjou, longtemps appelé Anjou Villages Brissac.
+texte: L'appellation couvre une dizaine de communes de la vallée de l'Aubance, la même aire que les [[coteaux-de-l-aubance|Coteaux de l'Aubance]]. Les sols de schistes peu profonds, sur un plateau en pente douce vers la Loire, mûrissent bien le cabernet-sauvignon, plus présent ici qu'ailleurs en Anjou. Les vins, élevés au moins jusqu'à l'été suivant, sont sombres, denses, de bonne garde.
+gout: cassis, mûre, épices, graphite, tanins serrés
+garde: 5 à 12 ans
+service: 16-17 °C ; carafer les vins jeunes
+voir: anjou-villages, coteaux-de-l-aubance, saumur-champigny
+
+@ anjou-coteaux-de-la-loire
+nom: Anjou-Coteaux de la Loire
+sous: Anjou-Saumur
+niveau: sous-régionale
+couleurs: moelleux
+styles: blanc-moelleux
+cepages: chenin*
+surface: une trentaine d'hectares
+depuis: 1946
+def: À l'ouest d'Angers, sur les deux rives de la Loire, un moelleux de chenin plus léger et plus vif que ceux du Layon.
+texte: Cette appellation confidentielle s'étend en aval d'Angers, autour de Saint-Georges-sur-Loire et de Montjean. Les coteaux de schistes dominent directement le fleuve, dont les brumes favorisent certaines années la pourriture noble. Récolté par tries successives, le chenin donne un vin moelleux délicat, moins riche que le [[coteaux-du-layon|Coteaux du Layon]], à la fraîcheur bien marquée.
+gout: coing, pêche, fleurs blanches, miel léger, finale fraîche
+garde: 5 à 15 ans
+service: 8-10 °C
+voir: coteaux-du-layon, savennieres, coteaux-de-l-aubance
+
+@ savennieres
+nom: Savennières
+sous: Anjou-Saumur
+niveau: communale
+couleurs: blanc
+styles: blanc-ample
+cepages: chenin*
+surface: environ 150 ha
+depuis: 1952
+def: Sur la rive droite de la Loire, en aval d'Angers, l'un des grands blancs secs de France, tout en puissance et en tension.
+texte: Le vignoble occupe trois communes, Savennières, Bouchemaine et La Possonnière, sur une série d'éperons rocheux perpendiculaires au fleuve. Les sols, très minces, reposent sur des schistes, des grès et des roches volcaniques ; l'exposition au sud et au sud-est, la réverbération de la Loire et des pluies modestes assurent une maturité élevée. Les rendements sont parmi les plus faibles du Val de Loire, et la vendange se fait par tries.
+texte: Savennières fut longtemps un vin moelleux ; il est aujourd'hui presque toujours sec, même si le cahier des charges admet encore les demi-secs et les moelleux. C'est un chenin dense, structuré par une acidité et une fine amertume qui le rendent sévère dans sa jeunesse. Avec les années apparaissent le coing, le tilleul, la cire, les fruits secs et une note minérale très reconnaissable. Peu de blancs secs vieillissent aussi longtemps.
+texte: Deux crus historiques, enclavés dans l'aire, forment des appellations à part entière : [[savennieres-roche-aux-moines|Savennières Roche aux Moines]] et la [[coulee-de-serrant|Coulée de Serrant]].
+gout: coing, tilleul, camomille, cire d'abeille, amande, bouche ample et tendue, amertume noble
+garde: 5 à 20 ans
+service: 12-13 °C ; carafer les vins jeunes
+crus: Clos du Papillon, Roche aux Moines, Coulée de Serrant
+voir: savennieres-roche-aux-moines, coulee-de-serrant, anjou, vouvray
+
+@ savennieres-roche-aux-moines
+nom: Savennières Roche aux Moines
+sous: Anjou-Saumur
+niveau: cru
+couleurs: blanc
+styles: blanc-ample
+cepages: chenin*
+surface: une trentaine d'hectares
+def: Un cru de Savennières érigé en appellation propre, sur un éperon de schiste qui domine la Loire.
+texte: La Roche aux Moines doit son nom aux religieux qui y plantèrent la vigne au XIIᵉ siècle. Le coteau, pentu et tourné vers le sud, porte des sols de schistes et de grès très superficiels. Partagé entre quelques domaines, le cru obéit à des règles plus strictes que [[savennieres|Savennières]] : rendements plus bas, vendanges manuelles par tries. Le chenin y atteint une concentration et une longueur qui réclament plusieurs années de bouteille.
+gout: coing, poire mûre, miel, pierre chaude, grande longueur
+garde: 8 à 25 ans
+service: 12-13 °C ; carafer
+voir: savennieres, coulee-de-serrant
+
+@ coulee-de-serrant
+nom: Coulée de Serrant
+sous: Anjou-Saumur
+niveau: cru
+couleurs: blanc
+styles: blanc-ample
+cepages: chenin*
+surface: environ 7 ha
+def: Un vignoble d'un seul tenant et d'un seul propriétaire à Savennières, l'un des blancs les plus célèbres de la Loire.
+texte: Plantée par des moines cisterciens au XIIᵉ siècle, la Coulée de Serrant occupe un vallon abrupt de schistes qui plonge vers la Loire. C'est un monopole : l'appellation entière appartient à un même domaine, pionnier de la biodynamie en France. Les rendements sont très faibles, la récolte se fait en plusieurs passages. Le vin, sec, puissant et souvent doré, demande de l'air et du temps.
+gout: coing confit, miel, fruits secs, épices, bouche puissante et saline
+garde: 10 à 30 ans
+service: 13-14 °C ; ouvrir ou carafer plusieurs heures à l'avance
+voir: savennieres, savennieres-roche-aux-moines
+
+@ coteaux-du-layon
+nom: Coteaux du Layon
+sous: Anjou-Saumur
+niveau: sous-régionale
+couleurs: moelleux, liquoreux
+styles: blanc-moelleux, liquoreux
+cepages: chenin*
+surface: environ 1 400 ha
+depuis: 1950
+def: Le long du Layon, affluent de la Loire, la grande appellation de vins moelleux et liquoreux de l'Anjou, issus du seul chenin.
+texte: Le Layon coule du sud-est au nord-ouest avant de rejoindre la Loire à Chalonnes. Sa rive droite forme une succession de coteaux raides exposés au sud, sur des schistes, des grès et, par endroits, des roches volcaniques et des poudingues. À l'automne, les brouillards matinaux montés de la rivière, puis les après-midi ensoleillés et ventés, permettent au chenin de se concentrer : par passerillage sur souche ou sous l'action de la pourriture noble. La vendange se fait obligatoirement par tries successives.
+texte: Les vins vont du moelleux tendre au grand liquoreux, selon le millésime et l'ambition du vigneron. Tous doivent leur équilibre à l'acidité du chenin, qui porte le sucre et donne une finale fraîche. Les plus riches peuvent revendiquer la mention « sélection de grains nobles ».
+texte: Six villages ont le droit d'ajouter leur nom à celui de l'appellation, avec des exigences accrues : Beaulieu-sur-Layon, Faye-d'Anjou, Rablay-sur-Layon, Rochefort-sur-Loire, Saint-Aubin-de-Luigné et Saint-Lambert-du-Lattay. Au sommet, le coteau de Chaume, à Rochefort, porte la mention « premier cru Chaume ». Deux crus enclavés ont leur propre appellation : [[quarts-de-chaume|Quarts de Chaume]] et [[bonnezeaux|Bonnezeaux]].
+gout: coing, abricot, pêche de vigne, miel d'acacia, fruits confits, acidité fraîche en finale
+garde: 5 à 30 ans, davantage dans les grands millésimes
+service: 8-10 °C
+crus: premier cru Chaume ; villages de Beaulieu-sur-Layon, Faye-d'Anjou, Rablay-sur-Layon, Rochefort-sur-Loire, Saint-Aubin-de-Luigné, Saint-Lambert-du-Lattay
+voir: quarts-de-chaume, bonnezeaux, coteaux-de-l-aubance, vouvray
+
+@ quarts-de-chaume
+nom: Quarts de Chaume
+sous: Anjou-Saumur
+niveau: grand cru
+couleurs: liquoreux
+styles: liquoreux
+cepages: chenin*
+surface: environ 40 ha
+depuis: 1954
+def: Le seul grand cru du Val de Loire : un liquoreux de chenin né sur un coteau de Rochefort-sur-Loire, au-dessus du Layon.
+texte: Le cru occupe un éperon de schistes et de poudingues en plein sud, autour du hameau de Chaume, là où le Layon décrit une boucle avant de rejoindre la Loire. Son nom rappelle la redevance d'un quart de la récolte que percevait jadis le seigneur. Les rendements autorisés sont les plus bas de la région, la récolte se fait grain par grain, sans aucun enrichissement. Le vin unit une richesse considérable à une acidité vibrante ; il traverse les décennies.
+gout: abricot sec, coing confit, miel, agrumes confits, safran, longue finale fraîche
+garde: 10 à 50 ans
+service: 9-11 °C
+voir: coteaux-du-layon, bonnezeaux, sauternes
+
+@ bonnezeaux
+nom: Bonnezeaux
+sous: Anjou-Saumur
+niveau: cru
+couleurs: liquoreux
+styles: liquoreux
+cepages: chenin*
+surface: environ 90 ha
+depuis: 1951
+def: Un cru de liquoreux du Layon, sur trois petits coteaux de schiste de la commune de Thouarcé.
+texte: Bonnezeaux domine la rive droite du Layon sur trois coteaux pentus, exposés au sud-ouest : La Montagne, Beauregard et Fesles. Les sols de schistes gréseux, minces et caillouteux, et l'aération constante du site favorisent le passerillage autant que la pourriture noble. Récolté par tries, le chenin y donne un vin plus puissant et plus ample que le [[coteaux-du-layon|Coteaux du Layon]] voisin, de très longue garde.
+gout: fruits exotiques, coing, miel, fruits confits, bouche onctueuse et vive
+garde: 10 à 40 ans
+service: 9-11 °C
+crus: coteaux de La Montagne, Beauregard et Fesles
+voir: coteaux-du-layon, quarts-de-chaume
+
+@ coteaux-de-l-aubance
+nom: Coteaux de l'Aubance
+sous: Anjou-Saumur
+niveau: sous-régionale
+couleurs: moelleux, liquoreux
+styles: blanc-moelleux, liquoreux
+cepages: chenin*
+surface: environ 200 ha
+depuis: 1950
+def: Au sud d'Angers, le long de la petite rivière Aubance, des moelleux de chenin tout en finesse.
+texte: L'Aubance, modeste affluent de la Loire, traverse une dizaine de communes autour de Brissac. Les pentes y sont plus douces que dans le Layon voisin, sur des schistes ardoisiers peu épais. Le chenin, vendangé par tries, donne des vins moelleux plus légers et plus aériens que les [[coteaux-du-layon|Coteaux du Layon]], réputés pour leur délicatesse ; les plus concentrés portent la mention « sélection de grains nobles ».
+gout: fleurs blanches, poire, coing, miel, pointe minérale
+garde: 5 à 20 ans
+service: 8-10 °C
+voir: coteaux-du-layon, anjou-brissac, anjou-coteaux-de-la-loire
+
+@ cabernet-d-anjou
+nom: Cabernet d'Anjou
+sous: Anjou-Saumur
+niveau: régionale
+couleurs: rosé
+styles: rose-leger
+cepages: cabernet-franc*, cabernet-sauvignon*
+surface: environ 6 000 ha
+depuis: 1964
+def: Un rosé tendre, demi-sec, issu des deux cabernets : la première appellation d'Anjou par le volume.
+texte: Produit sur toute l'aire de l'[[anjou|Anjou]], le cabernet d'Anjou est né au début du XXᵉ siècle, quand on eut l'idée de vinifier en rosé les cabernets replantés après le phylloxéra. Le vin conserve toujours des sucres résiduels, qui le classent parmi les demi-secs. Sa couleur est franche, ses arômes de fruits rouges nets, et l'acidité du cabernet équilibre la douceur. Les vieux millésimes des meilleures caves ont montré une étonnante capacité de garde.
+gout: fraise, groseille, bonbon anglais, bouche tendre et fraîche
+garde: à boire dans les 2 ans
+service: 8-10 °C
+voir: rose-d-anjou, rose-de-loire, anjou
+
+@ rose-d-anjou
+nom: Rosé d'Anjou
+sous: Anjou-Saumur
+niveau: régionale
+couleurs: rosé
+styles: rose-leger
+cepages: grolleau*, cabernet-franc, cabernet-sauvignon, gamay, pineau-d-aunis, malbec
+surface: environ 2 000 ha
+def: Un rosé léger et légèrement doux, dominé par le grolleau, à boire dans sa prime jeunesse.
+texte: Le rosé d'Anjou partage l'aire de l'[[anjou|Anjou]] et repose sur le grolleau, cépage local productif, peu coloré et peu alcoolisé, que complètent les cabernets, le gamay, le pineau d'Aunis ou le côt. Le vin garde un peu de sucre : il est demi-sec, moins structuré que le [[cabernet-d-anjou|Cabernet d'Anjou]], avec un fruité simple et gourmand. Il a fait la notoriété de la région à l'exportation.
+gout: fraise, framboise, bonbon acidulé, bouche légère et tendre
+garde: à boire dans l'année
+service: 8 °C
+voir: cabernet-d-anjou, rose-de-loire
+
+@ saumur
+nom: Saumur
+sous: Anjou-Saumur
+niveau: sous-régionale
+couleurs: blanc, rouge, rosé, effervescent
+styles: effervescent-brut, blanc-vif, rouge-souple, rose-leger
+cepages: chenin*, cabernet-franc*, cabernet-sauvignon, pineau-d-aunis, chardonnay, sauvignon-blanc, grolleau, gamay, pinot-noir
+surface: environ 3 000 ha, effervescents compris
+depuis: 1936
+def: Autour de Saumur, le pays du tuffeau : effervescents de méthode traditionnelle, blancs secs de chenin et rouges de cabernet franc.
+texte: Le Saumurois s'étend au sud de la Loire, de part et d'autre de la vallée du Thouet, jusque dans le nord des Deux-Sèvres et de la Vienne. Ici commence le Bassin parisien : les schistes d'Anjou cèdent la place au tuffeau, craie tendre et claire dont on a tiré la pierre des châteaux. Cette roche poreuse régule l'alimentation en eau de la vigne, et ses anciennes carrières, des kilomètres de galeries à température constante, sont devenues les caves de la région.
+texte: Ces caves ont fait de Saumur le premier centre d'effervescents de la Loire dès le XIXᵉ siècle. Le saumur brut, élaboré par seconde fermentation en bouteille, repose surtout sur le chenin, que complètent le chardonnay et le cabernet franc ; il existe en blanc et en rosé. Les vins tranquilles ont pris une place croissante. Le blanc, pur chenin, est droit, crayeux, parfois élevé en fût sur les meilleurs coteaux comme la butte de Brézé. Le rouge, à base de cabernet franc, est un vin souple et frais ; la dénomination Saumur Puy-Notre-Dame désigne des rouges plus charpentés, au sud de l'aire.
+texte: Les rouges du cœur historique, sur la côte qui borde la Loire, portent l'appellation [[saumur-champigny|Saumur-Champigny]] ; les rares moelleux, celle de [[coteaux-de-saumur|Coteaux de Saumur]].
+gout: pomme, coing, craie, fleurs blanches en blanc ; framboise et violette en rouge ; bulles fines, notes de brioche et de fruits blancs
+garde: effervescents à boire dans les 3 ans ; blancs 3 à 12 ans ; rouges 2 à 6 ans
+service: 6-8 °C pour les effervescents ; 10-12 °C pour les blancs ; 14-16 °C pour les rouges
+crus: Brézé, dénomination Puy-Notre-Dame
+voir: saumur-champigny, coteaux-de-saumur, cremant-de-loire, chinon
+
+@ saumur-champigny
+nom: Saumur-Champigny
+sous: Anjou-Saumur
+niveau: communale
+couleurs: rouge
+styles: rouge-souple, rouge-elegant
+cepages: cabernet-franc*, cabernet-sauvignon, pineau-d-aunis
+surface: environ 1 500 ha
+depuis: 1957
+def: Le rouge le plus réputé du Saumurois, un cabernet franc soyeux né sur le tuffeau, entre Saumur et Montsoreau.
+texte: L'appellation couvre une poignée de communes sur la rive gauche de la Loire, à l'est de Saumur : Souzay-Champigny, Parnay, Turquant, Montsoreau au bord du fleuve, Varrains, Chacé, Saint-Cyr-en-Bourg et Dampierre en retrait. Le vignoble occupe un plateau de tuffeau recouvert de sables et d'argiles, que borde une falaise truffée de caves et d'habitations troglodytiques. La roche claire restitue la chaleur et draine les excès d'eau ; le secteur est l'un des plus précoces du Val de Loire. Le nom de Champigny viendrait du latin *campus ignis*, le « champ de feu ».
+texte: Le cabernet franc, parfois complété d'un peu de cabernet-sauvignon ou de pineau d'Aunis, donne ici des vins d'un fruit éclatant, framboise, cassis, violette, portés par des tanins fins et une texture crayeuse. La plupart sont faits pour être bus jeunes, légèrement frais. Les cuvées de vieilles vignes, issues des meilleurs lieux-dits et élevées plus longuement, gagnent en profondeur et vieillissent dix ans ou davantage, à l'égal des meilleurs [[chinon|Chinon]] et [[bourgueil|Bourgueil]].
+gout: framboise, cassis, violette, iris, tanins soyeux, finale crayeuse
+garde: 2 à 5 ans ; 8 à 15 ans pour les cuvées de garde
+service: 14-16 °C
+voir: saumur, chinon, bourgueil, anjou-villages
+
+@ coteaux-de-saumur
+nom: Coteaux de Saumur
+sous: Anjou-Saumur
+niveau: sous-régionale
+couleurs: moelleux
+styles: blanc-moelleux, liquoreux
+cepages: chenin*
+surface: une quinzaine d'hectares
+depuis: 1962
+def: Le moelleux du Saumurois, un chenin rare récolté par tries sur les coteaux de tuffeau.
+texte: Produit en quantités infimes, et seulement les années favorables, ce vin naît sur les mêmes coteaux crayeux que les blancs secs de [[saumur|Saumur]]. Les raisins, surmûris ou atteints de pourriture noble, sont cueillis en plusieurs passages. Le tuffeau lui donne un profil différent des moelleux des schistes d'Anjou : plus aérien, floral, avec une acidité fine qui le rapproche des moelleux de [[vouvray|Vouvray]].
+gout: fleurs blanches, poire, coing, miel, finale crayeuse
+garde: 5 à 20 ans
+service: 8-10 °C
+voir: saumur, vouvray, coteaux-du-layon
+
+# --- Appellations régionales ---
+
+@ cremant-de-loire
+nom: Crémant de Loire
+sous: Val de Loire (appellations régionales)
+niveau: régionale
+couleurs: effervescent
+styles: effervescent-brut
+cepages: chenin*, chardonnay*, cabernet-franc*, pinot-noir, cabernet-sauvignon, grolleau, pineau-d-aunis, orbois
+surface: environ 3 000 ha
+depuis: 1975
+def: L'effervescent de méthode traditionnelle de l'Anjou, du Saumurois et de la Touraine, blanc ou rosé.
+texte: Le crémant peut être élaboré sur les aires d'[[anjou|Anjou]], de [[saumur|Saumur]] et de [[touraine|Touraine]], ainsi qu'à Cheverny ; l'essentiel vient du Saumurois, où les galeries de tuffeau abritent la prise de mousse. Ses règles sont plus exigeantes que celles des autres mousseux ligériens : vendange manuelle, pressurage limité, au moins douze mois de cave. Le chenin apporte la tension, le chardonnay la rondeur, le cabernet franc le fruit.
+gout: pomme, poire, fleurs blanches, brioche, noisette, bulle fine
+garde: à boire dans les 2 à 3 ans
+service: 6-8 °C
+voir: saumur, vouvray, montlouis-sur-loire, cremant-de-bourgogne
+
+@ rose-de-loire
+nom: Rosé de Loire
+sous: Val de Loire (appellations régionales)
+niveau: régionale
+couleurs: rosé
+styles: rose-leger
+cepages: cabernet-franc*, cabernet-sauvignon*, grolleau*, gamay, pineau-d-aunis, pinot-noir
+surface: environ 1 000 ha
+depuis: 1974
+def: Le rosé sec de l'Anjou, du Saumurois et de la Touraine, vif et fruité.
+texte: Créée pour répondre au goût des rosés secs, l'appellation s'étend sur les aires d'[[anjou|Anjou]], de [[saumur|Saumur]] et de [[touraine|Touraine]], mais reste surtout angevine. Contrairement au [[cabernet-d-anjou|Cabernet d'Anjou]] et au [[rose-d-anjou|Rosé d'Anjou]], le vin ne conserve pratiquement pas de sucre. Les cabernets et le grolleau, complétés de gamay, de pineau d'Aunis ou de pinot noir, lui donnent une teinte claire et une bouche nerveuse.
+gout: groseille, framboise, agrumes, note poivrée, bouche sèche et vive
+garde: à boire dans l'année
+service: 8-10 °C
+voir: cabernet-d-anjou, rose-d-anjou, touraine
+
+@ igp-val-de-loire
+nom: Val de Loire
+sous: Val de Loire (appellations régionales)
+niveau: IGP
+couleurs: blanc, rouge, rosé
+styles: blanc-vif, rouge-leger, rose-leger
+cepages: sauvignon-blanc*, chardonnay*, chenin, melon-de-bourgogne, pinot-gris, sauvignon-gris, folle-blanche, gamay*, cabernet-franc*, pinot-noir, grolleau, malbec, merlot
+def: L'indication géographique protégée du bassin de la Loire, de l'Atlantique à l'Auvergne, vouée aux vins de cépage.
+texte: Héritière du vin de pays du Jardin de la France, l'IGP Val de Loire couvre une douzaine de départements, de la Loire-Atlantique au Puy-de-Dôme. Les blancs y dominent : sauvignon et chardonnay surtout, vinifiés seuls et mentionnés sur l'étiquette. Les rouges et les rosés font appel au gamay, au cabernet franc, au pinot noir ou au grolleau. Ce sont des vins simples, frais et légers ; l'IGP sert aussi de refuge à des cuvées originales, hors des règles d'appellation.
+gout: agrumes, buis, fruits blancs ; rouges de petits fruits, bouche légère
+garde: à boire dans les 2 ans
+service: 8-10 °C pour les blancs et rosés ; 13-14 °C pour les rouges
+voir: touraine, muscadet, anjou

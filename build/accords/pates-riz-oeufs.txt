@@ -1,0 +1,121 @@
+# Accords mets-vins — famille « pates-riz-oeufs »
+
+@ pates-carbonara
+nom: Pâtes à la carbonara
+famille: pates-riz-oeufs
+styles: blanc-vif, blanc-ample, rouge-leger
+vins: macon, saint-veran, vin-de-savoie, alsace, patrimonio, vin-de-corse, beaujolais
+conseil: Jaune d'œuf, fromage affiné, lard et poivre : une sauce grasse et salée qui demande un blanc sec assez rond, à l'acidité nette. Chardonnay sans bois, vermentino ou pinot blanc conviennent. Un rouge léger et frais est possible ; les tanins, eux, s'accordent mal avec l'œuf.
+
+@ pates-bolognaise
+nom: Pâtes à la bolognaise
+famille: pates-riz-oeufs
+styles: rouge-souple, rouge-solaire
+vins: cotes-du-rhone, ventoux, costieres-de-nimes, languedoc, igp-pays-d-oc, bergerac, anjou, vin-de-corse
+conseil: Viande mijotée et tomate : il faut un rouge fruité, de corps moyen, dont l'acidité répond à celle de la sauce. Les vins du Midi à base de grenache et de syrah, ou un rouge corse, sont dans le ton. Trop de tanins et de bois se heurtent à la tomate.
+
+@ lasagnes
+nom: Lasagnes
+famille: pates-riz-oeufs
+styles: rouge-souple, rouge-solaire
+vins: cotes-du-rhone-villages, cairanne, lirac, minervois, saint-chinian, bordeaux-superieur, morgon, ajaccio
+conseil: À la sauce bolognaise s'ajoutent la béchamel et le fromage gratiné : le plat est plus riche, le vin peut avoir un peu plus de chair. Un rouge rond et épicé du Rhône ou du Languedoc convient très bien. Garder de la fraîcheur pour équilibrer le gras.
+
+@ pates-au-pesto
+nom: Pâtes au pesto
+famille: pates-riz-oeufs
+styles: blanc-vif, rose-leger
+vins: bellet, cassis, cotes-de-provence, patrimonio, vin-de-corse, igp-mediterranee, sancerre
+conseil: Basilic, ail, pignons, parmesan et huile d'olive : le vermentino, appelé rolle en Provence, est le cépage du pesto des deux côtés de la frontière. Ses notes d'herbes et d'amande prolongent la sauce. Les rouges tanniques sont rendus amers par le basilic et l'ail crus.
+
+@ pates-aux-fruits-de-mer
+nom: Pâtes aux fruits de mer
+famille: pates-riz-oeufs
+styles: blanc-vif, rose-leger
+vins: picpoul-de-pinet, cassis, la-clape, muscadet-sevre-et-maine, vin-de-corse, cotes-de-provence, entre-deux-mers
+conseil: Palourdes, moules, ail et persil, parfois une pointe de tomate et de piment : un blanc sec, vif et salin du littoral accompagne l'iode et rafraîchit. Un rosé pâle convient s'il y a de la tomate. Aucun rouge, à cause de l'iode.
+
+@ pates-a-l-arrabbiata
+nom: Pâtes à la sauce tomate pimentée
+famille: pates-riz-oeufs
+styles: rose-vineux, rouge-leger, rose-leger
+vins: tavel, lirac, costieres-de-nimes, cotes-du-rhone, coteaux-d-aix-en-provence, beaujolais, igp-pays-d-oc
+conseil: Tomate acide, ail et piment : le piment rend brûlants l'alcool et les tanins. On choisit donc un rosé de repas ou un rouge très fruité, peu tannique et servi frais. Les vins puissants et boisés sont le mauvais choix.
+
+@ ravioles-du-dauphine
+nom: Ravioles du Dauphiné
+famille: pates-riz-oeufs
+styles: blanc-ample, blanc-vif
+vins: crozes-hermitage, saint-joseph, saint-peray, igp-collines-rhodaniennes, grignan-les-adhemar, chatillon-en-diois, vin-de-savoie
+conseil: Petites pâtes farcies au fromage frais, au comté et au persil, pochées au bouillon ou gratinées à la crème : les blancs voisins du Rhône nord, ronds et délicatement parfumés, les accompagnent naturellement. Un blanc de Savoie apporte plus de vivacité. Les rouges n'ont guère leur place.
+
+@ gnocchis
+nom: Gnocchis
+famille: pates-riz-oeufs
+styles: blanc-vif, rouge-leger, rose-leger
+vins: bellet, cotes-de-provence, macon, vin-de-savoie, beaujolais, coteaux-varois-en-provence
+conseil: La pâte de pomme de terre est neutre et moelleuse : la sauce décide. Au beurre et à la sauge ou à la crème, un blanc sec et rond ; à la tomate, un rosé ou un rouge léger ; au gorgonzola, un blanc plus ample. Rester sur des vins souples.
+
+@ risotto-aux-champignons
+nom: Risotto aux champignons
+famille: pates-riz-oeufs
+styles: blanc-ample, rouge-elegant, effervescent-brut
+vins: saint-veran, pouilly-fuisse, saint-aubin, cotes-du-jura, savigny-les-beaune, mercurey, champagne
+audace: arbois
+conseil: Crémeux, lié au beurre et au parmesan, parfumé par les champignons : un blanc ample, chardonnay élevé avec mesure, épouse la texture. Un pinot noir souple fait écho au sous-bois, surtout avec des cèpes. Les blancs très vifs paraissent maigres face au crémeux.
+
+@ omelette
+nom: Omelette
+famille: pates-riz-oeufs
+styles: blanc-vif, rouge-leger
+vins: macon, bourgogne-aligote, touraine, alsace, beaujolais, saint-pourcain, anjou
+conseil: L'œuf tapisse le palais et durcit les tanins : on lui sert un blanc sec et rond ou un rouge léger et fruité, jamais un vin de structure. La garniture précise le choix, sauvignon avec les herbes, chardonnay avec le fromage, gamay avec les lardons. Rien de boisé.
+
+@ oeufs-brouilles-a-la-truffe
+nom: Œufs brouillés à la truffe
+famille: pates-riz-oeufs
+styles: blanc-ample, effervescent-brut, rouge-elegant
+vins: champagne, meursault, hermitage, chateauneuf-du-pape, pomerol, saint-peray
+conseil: L'œuf, crémeux, sert d'écrin à la truffe : un blanc ample et évolué, ou un vieux champagne, en respecte le parfum et la texture. Un rouge très fondu, pomerol d'âge par exemple, est admis pour l'accord avec la truffe. Tout vin jeune, tannique ou exubérant masque l'arôme.
+
+@ oeufs-en-meurette
+nom: Œufs en meurette
+famille: pates-riz-oeufs
+styles: rouge-souple, rouge-leger
+vins: bourgogne, mercurey, givry, santenay, marsannay, irancy, macon, julienas
+conseil: Œufs pochés dans une sauce au vin rouge avec lardons et oignons : la sauce l'emporte sur l'œuf et impose le rouge de Bourgogne qui a servi à la préparer. On le choisit fruité, de corps moyen et peu tannique. C'est l'exception qui confirme la mésentente de l'œuf et du rouge.
+
+@ oeufs-mayonnaise
+nom: Œufs mayonnaise et œufs durs
+famille: pates-riz-oeufs
+styles: blanc-vif, effervescent-brut
+vins: bourgogne-aligote, macon, petit-chablis, muscadet, alsace, cremant-de-bourgogne
+conseil: Le jaune d'œuf cuit empâte la bouche et la mayonnaise ajoute du gras : il faut un blanc sec, vif et simple pour nettoyer le palais, ou quelques bulles. C'est un plat de comptoir, à boire sans cérémonie. Les rouges tanniques laissent une impression métallique.
+
+@ piperade
+nom: Piperade
+famille: pates-riz-oeufs
+styles: rose-vineux, rouge-leger, blanc-vif
+vins: irouleguy, bearn, tursan, saint-mont, igp-cotes-de-gascogne, fronton
+conseil: Poivrons, tomates, piment d'Espelette et œufs brouillés, avec une tranche de jambon de Bayonne : le rosé d'Irouléguy ou un rouge basque jeune sont l'accord local. Le poivron amer et l'œuf interdisent les tanins marqués. Un blanc sec de Gascogne, très frais, fonctionne aussi.
+
+@ pizza
+nom: Pizza
+famille: pates-riz-oeufs
+styles: rouge-leger, rose-leger, rouge-souple
+vins: beaujolais, cotes-du-rhone, ventoux, luberon, coteaux-d-aix-en-provence, vin-de-corse, igp-pays-d-oc, igp-mediterranee
+conseil: Tomate, fromage fondu et pâte croustillante : un rouge fruité, souple et frais, ou un rosé sec. La garniture nuance le choix, blanc vif avec les fruits de mer ou les anchois, rouge plus épicé avec le chorizo ou la viande. Les vins tanniques et boisés se heurtent à l'acidité de la tomate.
+
+@ croque-monsieur
+nom: Croque-monsieur
+famille: pates-riz-oeufs
+styles: blanc-vif, rouge-leger, effervescent-brut
+vins: macon, alsace, touraine, beaujolais, saumur, cremant-du-jura
+conseil: Pain grillé, jambon, béchamel et fromage gratiné : un blanc sec et rond ou un rouge de soif, selon l'humeur. Les bulles d'un crémant vont très bien avec le gratiné. Pas de vin compliqué pour un plat aussi simple.
+
+@ galette-de-sarrasin
+nom: Galette de sarrasin
+famille: pates-riz-oeufs
+styles: blanc-vif, rouge-leger
+vins: muscadet-sevre-et-maine, gros-plant-du-pays-nantais, coteaux-d-ancenis, anjou, saumur-champigny, igp-val-de-loire
+conseil: Le cidre est le compagnon breton de la galette, et il n'y a pas lieu de le détrôner. Si l'on préfère le vin, un muscadet vif s'accorde au goût de noisette grillée du blé noir, et un rouge léger de Loire à la complète jambon-œuf-fromage. Éviter les vins puissants.

@@ -1,0 +1,81 @@
+# GUIDE — Déguster
+
+@ degu-conditions
+nom: Déguster : les bonnes conditions
+rubrique: degustation
+def: Déguster, c'est prêter attention : un peu de méthode, un bon éclairage et un verre adapté suffisent pour mieux comprendre ce que l'on a dans le verre.
+texte: La dégustation suit toujours le même ordre — l'œil, le nez, la bouche — puis une conclusion : le vin est-il équilibré, où en est-il de son évolution, que raconte-t-il de son origine ? Cette méthode n'a rien de solennel ; elle oblige seulement à séparer les sensations pour pouvoir les nommer et s'en souvenir.
+texte: Les conditions comptent. La lumière du jour ou un éclairage blanc, une nappe ou une feuille blanche pour juger la robe, une pièce sans odeur de cuisine, de tabac ni de parfum. Le moment le plus favorable est la fin de matinée, quand les sens sont en éveil et le palais reposé. Le vin est servi à bonne température dans un verre en tulipe, rempli au quart.
+texte: Le dégustateur fait aussi partie du réglage : un rhume, un dentifrice mentholé, un café ou un plat épicé faussent la perception. Et chacun n'a pas la même sensibilité aux odeurs ni à l'amertume : deux personnes de bonne foi peuvent décrire différemment le même vin. Comparer plusieurs vins côte à côte reste la manière la plus rapide de progresser.
+
+@ degu-oeil
+nom: L'œil : la robe
+rubrique: degustation
+def: L'examen visuel renseigne sur l'âge du vin, sa concentration et parfois son cépage, avant même de l'avoir senti.
+texte: On incline le verre au-dessus d'un fond blanc et l'on observe trois choses. La limpidité d'abord : un vin doit être net ; un léger trouble est admis dans les vins non filtrés, un dépôt dans les vins âgés. L'intensité ensuite : une robe pâle ou profonde dépend du cépage — le pinot noir et le poulsard sont naturellement clairs, la syrah, le malbec et le tannat presque opaques — et de l'extraction. La teinte enfin, que l'on juge surtout sur le bord du disque.
+texte: La teinte indique l'âge. Les rouges jeunes tirent sur le violet, puis passent au rubis, au grenat et au tuilé. Les blancs vont du jaune pâle à reflets verts à l'or, puis à l'ambre ; un élevage en fût ou des sucres résiduels donnent d'emblée une robe plus dorée. Les rosés s'étendent du gris à peine teinté au rose soutenu, selon le temps de contact avec les peaux, et prennent en vieillissant une nuance pelure d'oignon.
+texte: En faisant tourner le vin, on voit se former sur la paroi des « larmes » ou « jambes ». Elles traduisent la richesse en alcool et en sucre, non la qualité. Pour un effervescent, on regarde la finesse des bulles et la persistance du cordon ; elles dépendent aussi beaucoup de la propreté et de la forme du verre.
+liste: Vocabulaire de la robe = rouges : violacé, pourpre, rubis, grenat, tuilé, acajou ; blancs : jaune pâle, jaune paille, or, vieil or, ambré ; rosés : gris, pétale de rose, saumon, framboise, pelure d'oignon
+
+@ degu-nez
+nom: Le nez
+rubrique: degustation
+def: L'odorat est le sens principal de la dégustation : c'est lui qui perçoit la quasi-totalité de ce que l'on appelle le goût du vin.
+texte: On sent le vin en deux temps. Le premier nez, verre immobile, capte les arômes les plus volatils et révèle d'emblée un éventuel défaut. Puis on fait tourner le vin dans le verre pour l'aérer : le second nez, plus intense, livre les arômes plus lourds. De courtes inspirations répétées valent mieux qu'une longue, car l'odorat se fatigue vite.
+texte: On juge d'abord l'intensité — nez fermé, discret, ouvert, expressif — et la netteté. Puis on cherche à reconnaître les arômes, en procédant par familles avant de préciser : est-ce fruité, floral, végétal, épicé, boisé ? Si c'est fruité, fruits rouges ou noirs, frais ou cuits ? Le vocabulaire procède par analogie : dire qu'un vin sent le cassis ne signifie pas qu'il en contient, mais que certaines molécules sont communes au vin et au fruit.
+texte: Un nez jeune est dominé par le fruit ; un nez évolué par le bouquet né de l'élevage et du vieillissement (voir [[degu-aromes]]). Un vin qui sent peu n'est pas forcément médiocre : il peut être trop froid, ou traverser une phase de fermeture. Quelques minutes d'air, ou la chaleur des mains autour du calice, suffisent souvent à l'ouvrir.
+
+@ degu-bouche
+nom: La bouche
+rubrique: degustation
+def: En bouche, on perçoit les saveurs, la texture, la température et, par l'arrière du nez, les arômes ; l'ensemble se déroule en trois temps.
+texte: On prend une petite gorgée, que l'on promène dans toute la bouche ; les dégustateurs aspirent un filet d'air pour réchauffer le vin et pousser les arômes vers l'arrière du nez : c'est la rétro-olfaction, par laquelle on « goûte » en réalité les parfums. La langue, elle, ne distingue que les saveurs — sucré, acide, amer, salé — tandis que les muqueuses ressentent les sensations tactiles : l'astringence des tanins, le picotement du gaz, la chaleur de l'alcool, le gras.
+texte: On décrit trois moments. L'attaque, première impression, franche ou molle, douce ou vive. Le milieu de bouche, où le vin montre son volume et sa texture : léger ou ample, fluide ou charnu, souple ou ferme. La finale, enfin : les sensations qui demeurent une fois le vin avalé ou recraché. La durée de cette persistance aromatique, appelée longueur, est l'un des meilleurs indices de qualité ; les dégustateurs la comptent en secondes, ou caudalies.
+texte: Il faut distinguer la persistance des arômes de celle de l'acidité, de l'amertume ou de la brûlure de l'alcool, qui peuvent prolonger la sensation sans rien ajouter. Un vin court n'est pas mauvais, il est simple. Un grand vin se reconnaît à ce qu'il réunit intensité, équilibre, complexité et longueur.
+
+@ degu-aromes
+nom: Les familles d'arômes
+rubrique: degustation
+def: On classe les arômes du vin selon leur origine : primaires pour le raisin, secondaires pour la fermentation, tertiaires pour l'élevage et le vieillissement.
+texte: Les arômes primaires, ou variétaux, viennent du cépage et de sa maturité : bourgeon de cassis et agrumes du sauvignon, rose et litchi du gewurztraminer, abricot du viognier, poivron du cabernet peu mûr, violette et poivre de la syrah. Le terroir et le climat les nuancent : un même cépage donne des notes d'agrumes sous un climat frais, de fruits exotiques sous un climat chaud.
+texte: Les arômes secondaires naissent des fermentations. Les levures produisent des notes de banane, de bonbon acidulé, de poire dans les vins jeunes ; la fermentation malolactique, des notes de beurre et de lait ; le séjour sur lies, de la mie de pain, de la brioche et de la noisette, signature des effervescents longuement vieillis.
+texte: Les arômes tertiaires forment le bouquet. L'élevage en fût apporte vanille, pain grillé, café, fumé ; le vieillissement en bouteille, à l'abri de l'air, fait apparaître sous-bois, champignon, truffe, cuir, tabac, gibier pour les rouges, miel, cire et fruits secs pour les blancs. Les vins élevés volontairement au contact de l'air développent noix, curry, cacao, pruneau et rancio.
+liste: Arômes primaires (le raisin) = fruits : agrumes, pomme, poire, pêche, abricot, fruits exotiques, fraise, framboise, cerise, cassis, mûre ; fleurs : acacia, aubépine, tilleul, rose, violette, pivoine ; végétal : herbe coupée, buis, fougère, poivron, menthe ; épices : poivre, réglisse, garrigue
+liste: Arômes secondaires (les fermentations) = fermentaires : banane, bonbon acidulé, levure, mie de pain, brioche ; lactiques : beurre frais, yaourt, crème
+liste: Arômes tertiaires (élevage et vieillissement) = boisés : vanille, noix de coco, cèdre, pain grillé, café, cacao, fumé ; évolution des rouges : fruits cuits, pruneau, sous-bois, humus, champignon, truffe, cuir, tabac, gibier ; évolution des blancs : miel, cire d'abeille, fruits secs, amande, noisette, pétrole pour le riesling ; oxydatifs : noix, curry, rancio
+
+@ degu-equilibre
+nom: L'équilibre : acidité, alcool, tanins, sucre
+rubrique: degustation
+def: Un vin est équilibré quand aucune de ses composantes ne domine les autres : l'acidité et les tanins d'un côté, l'alcool et le sucre de l'autre.
+texte: L'acidité est la colonne vertébrale du vin. Elle fait saliver, donne la fraîcheur et l'allonge, et conditionne la garde. En excès, le vin est vert, mordant ; en défaut, il est mou, plat. L'alcool et les sucres apportent à l'inverse le moelleux, la rondeur, le gras ; trop d'alcool chauffe et brûle en finale. Dans un blanc sec, tout se joue entre ces deux pôles : la vivacité contre la rondeur.
+texte: Les rouges ajoutent une troisième dimension, les tanins, venus des pellicules, des pépins et du bois. Ils assèchent la bouche — c'est l'astringence — et donnent au vin sa charpente. On juge leur quantité et surtout leur qualité : fins, soyeux, veloutés, fermes, ou au contraire verts, secs, rugueux. Acidité et tanins se renforcent mutuellement : un rouge très tannique supporte mal une forte acidité, sauf à être soutenu par beaucoup de chair. Avec le temps, les tanins se fondent.
+texte: Dans les vins doux, le sucre doit être porté par l'acidité : c'est elle qui rend un grand liquoreux digeste et l'empêche d'être pâteux. Dans les effervescents, le gaz renforce la fraîcheur et le dosage arrondit. L'équilibre n'est pas une moyenne : un [[muscadet]] vif et un [[chateauneuf-du-pape]] généreux sont équilibrés chacun dans son style, dès lors que l'ensemble paraît harmonieux et que rien ne dépasse.
+liste: Vocabulaire = acidité : mou, tendre, frais, vif, nerveux, mordant ; alcool : léger, généreux, chaleureux, capiteux, brûlant ; tanins : souples, fondus, soyeux, fermes, serrés, rugueux, asséchants ; sucre : sec, tendre, demi-sec, moelleux, liquoreux ; corps : fluide, léger, rond, ample, charnu, puissant
+
+@ degu-defauts
+nom: Reconnaître les défauts
+rubrique: degustation
+def: Bouchon, oxydation, réduction, acidité volatile, brettanomyces : cinq défauts courants, qui se détectent surtout au nez.
+texte: Le goût de bouchon, dû au trichloroanisole, donne une odeur de carton mouillé, de moisi, de cave humide ; il étouffe le fruit et s'aggrave à l'air. Il n'y a rien à faire (voir [[serv-gout-de-bouchon]]). L'oxydation résulte d'un excès d'air, par un bouchon défaillant ou une garde trop longue : la robe brunit, le nez évoque la pomme blette, la noix, le madère, la bouche est plate. Le défaut est irréversible ; il ne doit pas être confondu avec le caractère voulu du vin jaune ou des rancios.
+texte: La réduction est le défaut inverse : privé d'oxygène, le vin sent l'allumette, le chou, l'ail, le caoutchouc, voire l'œuf pourri. Légère, elle disparaît avec une aération énergique en carafe ; une pièce de cuivre propre plongée dans le verre l'atténue. L'acidité volatile, produite par des bactéries acétiques, donne des odeurs de vinaigre et de vernis à ongles ; à très faible dose elle relève certains vins, mais au-delà le vin est dit piqué.
+texte: Les *Brettanomyces* sont des levures d'altération qui s'installent surtout dans les rouges élevés en fût. Elles produisent des phénols aux odeurs d'écurie, de sueur de cheval, de cuir mouillé, d'encre ou de sparadrap, qui masquent le fruit et uniformisent les vins. Certains amateurs tolèrent une trace de ces notes animales ; marquées, elles sont un défaut.
+texte: D'autres accidents existent : le goût de lumière des blancs et des effervescents exposés au soleil (chou, laine mouillée), le goût de souris de certains vins sans soufre, perceptible en fin de bouche, la refermentation en bouteille d'un vin tranquille, qui pétille et se trouble. En revanche, des cristaux de tartre au fond d'un blanc, un dépôt dans un vieux rouge ou un léger perlant dans un vin jeune ne sont pas des défauts.
+liste: Les défauts et leurs signes = goût de bouchon : carton mouillé, moisi, liège humide ; oxydation : pomme blette, noix, robe brunie ; réduction : allumette, chou, œuf pourri ; acidité volatile : vinaigre, vernis, dissolvant ; brettanomyces : écurie, sueur de cheval, sparadrap ; goût de lumière : chou, laine mouillée ; goût de souris : arrière-goût de cage à rongeurs
+
+@ degu-cracher
+nom: Déguster n'est pas boire
+rubrique: degustation
+def: Dans une dégustation, on recrache : c'est la condition pour garder ses sens intacts et sa lucidité.
+texte: Tout ce que le vin a à dire se perçoit sans l'avaler : les arômes passent par le nez et l'arrière-gorge, les saveurs et la texture se jugent en bouche, la longueur se mesure tout aussi bien après avoir recraché. Les professionnels qui goûtent des dizaines d'échantillons dans une matinée n'en avalent aucun. Recracher n'a rien d'impoli dans une cave, un salon ou chez un vigneron : les crachoirs sont là pour cela.
+texte: Même en recrachant, une petite quantité d'alcool passe par les muqueuses. Après une longue série, on ne prend donc pas le volant sans délai. On boit de l'eau entre les vins, on mange un peu de pain, et l'on limite le nombre d'échantillons : au-delà d'une douzaine, l'attention et le palais se fatiguent.
+texte: La dégustation enseigne ainsi une forme de modération : goûter peu, lentement, avec attention, apporte davantage que boire beaucoup. Un verre regardé, senti et commenté laisse plus de souvenirs qu'une bouteille bue distraitement.
+
+@ degu-carnet
+nom: Tenir un carnet de dégustation
+rubrique: degustation
+def: Noter ses impressions est le moyen le plus sûr d'exercer sa mémoire et de retrouver, des mois plus tard, ce que l'on a pensé d'un vin.
+texte: La mémoire des odeurs est puissante mais désordonnée : sans notes, les vins se confondent vite. Une fiche utile commence par l'identité complète du vin — appellation, producteur, cuvée, millésime — puis la date et les circonstances : le même vin ne se goûte pas pareil seul ou à table, jeune ou après dix ans.
+texte: Viennent ensuite quelques lignes dans l'ordre de la dégustation : la robe, le nez (intensité, familles d'arômes), la bouche (attaque, acidité, tanins, volume, longueur), et une conclusion : équilibre, stade d'évolution, moment où il conviendrait de le reboire. Mieux vaut trois mots justes qu'un long poème ; on a le droit d'écrire « ne m'a pas plu » et de dire pourquoi. Une note chiffrée ou quelques étoiles aident à comparer, à condition de garder toujours la même échelle.
+texte: On y ajoute le plat servi et la réussite de l'accord, l'endroit où la bouteille a été trouvée, le nombre de bouteilles restantes. Relu d'année en année, le carnet devient un livre de cave et un portrait de son propre goût : on y voit ses préférences se dessiner et évoluer.
+liste: Une fiche type = identité : appellation, producteur, cuvée, millésime ; date et circonstances ; œil : limpidité, intensité, teinte ; nez : intensité, arômes ; bouche : attaque, équilibre, tanins, longueur ; conclusion : qualité, évolution, quand le reboire ; accord essayé

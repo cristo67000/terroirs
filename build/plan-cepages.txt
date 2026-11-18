@@ -1,0 +1,101 @@
+# id | nom | couleur de la baie (noir, blanc, gris, rose)
+# Les fiches d'appellation ne citent que ces identifiants.
+abouriou | Abouriou | noir
+aleatico | Aleatico | noir
+alicante-bouschet | Alicante Bouschet | noir
+braquet | Braquet | noir
+cabernet-franc | Cabernet franc | noir
+cabernet-sauvignon | Cabernet-sauvignon | noir
+caladoc | Caladoc | noir
+carignan | Carignan | noir
+carmenere | Carménère | noir
+cesar | César | noir
+cinsault | Cinsault | noir
+counoise | Counoise | noir
+duras | Duras | noir
+fer-servadou | Fer servadou | noir
+folle-noire | Folle noire | noir
+gamay | Gamay | noir
+grenache-noir | Grenache noir | noir
+grolleau | Grolleau | noir
+lledoner-pelut | Lledoner pelut | noir
+malbec | Malbec (côt) | noir
+manseng-noir | Manseng noir | noir
+marselan | Marselan | noir
+merlot | Merlot | noir
+mondeuse | Mondeuse | noir
+mourvedre | Mourvèdre | noir
+muscardin | Muscardin | noir
+negrette | Négrette | noir
+niellucciu | Niellucciu | noir
+persan | Persan | noir
+petit-verdot | Petit verdot | noir
+pineau-d-aunis | Pineau d'Aunis | noir
+pinot-meunier | Meunier | noir
+pinot-noir | Pinot noir | noir
+piquepoul-noir | Piquepoul noir | noir
+poulsard | Poulsard (ploussard) | noir
+prunelard | Prunelard | noir
+sciaccarellu | Sciaccarellu | noir
+syrah | Syrah | noir
+tannat | Tannat | noir
+terret-noir | Terret noir | noir
+tibouren | Tibouren | noir
+trousseau | Trousseau | noir
+vaccarese | Vaccarèse | noir
+gewurztraminer | Gewurztraminer | rose
+clairette-rose | Clairette rose | rose
+savagnin-rose | Savagnin rose (klevener de Heiligenstein) | rose
+grenache-gris | Grenache gris | gris
+pinot-gris | Pinot gris | gris
+sauvignon-gris | Sauvignon gris | gris
+aligote | Aligoté | blanc
+altesse | Altesse (roussette) | blanc
+arbane | Arbane | blanc
+arrufiac | Arrufiac | blanc
+auxerrois | Auxerrois | blanc
+baroque | Baroque | blanc
+biancu-gentile | Biancu gentile | blanc
+bourboulenc | Bourboulenc | blanc
+carignan-blanc | Carignan blanc | blanc
+chardonnay | Chardonnay | blanc
+chasselas | Chasselas | blanc
+chenin | Chenin | blanc
+clairette | Clairette | blanc
+colombard | Colombard | blanc
+courbu | Courbu | blanc
+folle-blanche | Folle blanche | blanc
+grenache-blanc | Grenache blanc | blanc
+gringet | Gringet | blanc
+gros-manseng | Gros manseng | blanc
+jacquere | Jacquère | blanc
+len-de-l-el | Len de l'el (loin de l'œil) | blanc
+macabeu | Macabeu | blanc
+marsanne | Marsanne | blanc
+mauzac | Mauzac | blanc
+melon-de-bourgogne | Melon de Bourgogne | blanc
+molette | Molette | blanc
+muscadelle | Muscadelle | blanc
+muscat-blanc-a-petits-grains | Muscat blanc à petits grains | blanc
+muscat-d-alexandrie | Muscat d'Alexandrie | blanc
+muscat-ottonel | Muscat ottonel | blanc
+ondenc | Ondenc | blanc
+orbois | Orbois (menu pineau) | blanc
+petit-manseng | Petit manseng | blanc
+petit-meslier | Petit meslier | blanc
+picardan | Picardan | blanc
+pinot-blanc | Pinot blanc | blanc
+piquepoul-blanc | Piquepoul blanc | blanc
+riesling | Riesling | blanc
+romorantin | Romorantin | blanc
+roussanne | Roussanne | blanc
+sacy | Sacy (tressallier) | blanc
+sauvignon-blanc | Sauvignon blanc | blanc
+savagnin | Savagnin | blanc
+semillon | Sémillon | blanc
+sylvaner | Sylvaner | blanc
+terret-blanc | Terret blanc | blanc
+tourbat | Tourbat (malvoisie du Roussillon) | blanc
+ugni-blanc | Ugni blanc | blanc
+vermentino | Vermentino (rolle) | blanc
+viognier | Viognier | blanc

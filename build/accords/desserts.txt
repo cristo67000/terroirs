@@ -1,0 +1,144 @@
+# Accords mets-vins — famille « desserts »
+
+@ tarte-tatin
+nom: Tarte Tatin
+famille: desserts
+styles: blanc-moelleux, liquoreux, vin-de-liqueur
+vins: coteaux-du-layon, vouvray, montlouis-sur-loire, bonnezeaux, coteaux-de-l-aubance, jurancon, sainte-croix-du-mont
+audace: pineau-des-charentes, rivesaltes
+conseil: Pommes caramélisées et beurre : la Tatin, née en Sologne, s'accorde aux moelleux de chenin de la Loire, dont les arômes de coing et de pomme cuite la prolongent et dont l'acidité évite la lourdeur. Le vin doit être au moins aussi sucré que le dessert, sinon il paraît aigre. Un rivesaltes ambré répond bien au caramel.
+
+@ tarte-aux-pommes
+nom: Tarte aux pommes
+famille: desserts
+styles: blanc-moelleux, effervescent-doux, liquoreux
+vins: vouvray, coteaux-du-layon, anjou-coteaux-de-la-loire, jurancon, alsace, clairette-de-die, cerons
+conseil: Moins riche que la Tatin, elle demande un moelleux léger et frais, chenin demi-sec ou pinot gris de vendanges tardives. Une clairette de Die, peu alcoolisée et fruitée, est une solution légère en fin de repas. Un vin sec ou un brut paraîtrait acide.
+
+@ tarte-au-citron
+nom: Tarte au citron
+famille: desserts
+styles: liquoreux, blanc-moelleux, vdn-blanc
+vins: jurancon, pacherenc-du-vic-bilh, alsace, sauternes, muscat-de-saint-jean-de-minervois, muscat-du-cap-corse
+conseil: L'acidité du citron est redoutable : seul un vin doux possédant lui-même beaucoup de vivacité peut suivre. Les moelleux de petit manseng et les rieslings de vendanges tardives ont cette tension ; les muscats les plus frais conviennent aussi. Les liquoreux lourds et peu acides s'effondrent.
+
+@ tarte-aux-fruits-rouges
+nom: Tarte aux fruits rouges
+famille: desserts
+styles: effervescent-doux, vdn-rouge, rose-leger
+vins: bugey, clairette-de-die, champagne, maury, banyuls, rose-d-anjou, cabernet-d-anjou
+conseil: Fraises, framboises ou cerises sur une crème pâtissière : le Cerdon du Bugey, rosé pétillant et doux au goût de fruits rouges, est un accord évident. Un champagne rosé demi-sec ou un vin doux naturel rouge jeune, servi frais, fonctionnent également. Un brut très sec ou un rouge tannique durcissent face au sucre.
+
+@ fraises
+nom: Fraises et fruits rouges nature
+famille: desserts
+styles: effervescent-doux, rouge-leger, vdn-rouge
+vins: bugey, clairette-de-die, beaujolais, cabernet-d-anjou, maury, rasteau
+conseil: Les fraises au sucre se servent traditionnellement arrosées d'un rouge léger et fruité, gamay notamment : c'est l'un des rares desserts qui tolèrent un vin rouge sec, s'il est sans tanins. Un rosé demi-sec ou un mousseux doux et léger sont plus sûrs. Éviter les liquoreux puissants, qui écrasent le fruit frais.
+
+@ salade-de-fruits-exotiques
+nom: Salade de fruits et fruits exotiques
+famille: desserts
+styles: vdn-blanc, blanc-moelleux, effervescent-doux
+vins: muscat-de-rivesaltes, muscat-de-beaumes-de-venise, muscat-de-frontignan, muscat-de-lunel, muscat-de-mireval, jurancon, clairette-de-die, pacherenc-du-vic-bilh
+conseil: Mangue, ananas, fruit de la passion, agrumes : des fruits acides et très parfumés. Les muscats doux, servis bien frais, leur répondent par leurs propres arômes de fruits frais, et les moelleux de petit manseng par leurs notes exotiques et leur vivacité. Les vins secs et les rouges sont exclus.
+
+@ fondant-au-chocolat
+nom: Fondant et gâteau au chocolat
+famille: desserts
+styles: vdn-rouge
+vins: banyuls, banyuls-grand-cru, maury, rasteau, rivesaltes, grand-roussillon
+conseil: Le chocolat noir est amer, gras et sucré : il fait paraître acide et maigre tout vin sec, champagne brut compris. Les vins doux naturels rouges du Roussillon et du Rhône, à base de grenache, sont à peu près les seuls à lui tenir tête, avec leurs arômes de cacao, de pruneau et de cerise à l'eau-de-vie. Servir vers 14 °C.
+
+@ mousse-au-chocolat
+nom: Mousse au chocolat
+famille: desserts
+styles: vdn-rouge, vin-de-liqueur
+vins: maury, banyuls, rivesaltes, rasteau, pineau-des-charentes, macvin-du-jura
+conseil: Plus aérienne que le fondant, mais tout aussi chocolatée : un vin doux naturel rouge jeune, sur le fruit, convient mieux qu'un vieux rancio. Un pineau rouge ou rosé est une variante. Les liquoreux blancs s'accordent mal avec le cacao, les vins secs encore moins.
+
+@ creme-brulee
+nom: Crème brûlée et crème caramel
+famille: desserts
+styles: liquoreux, vdn-blanc, blanc-moelleux
+vins: sauternes, barsac, monbazillac, loupiac, muscat-de-rivesaltes, rivesaltes, jurancon, gaillac
+conseil: Crème à la vanille sous une couche de caramel : les liquoreux de sémillon, avec leurs notes de vanille, d'abricot et de miel, s'y fondent naturellement. Un rivesaltes ambré fait écho au caramel. Le vin doit avoir au moins autant de sucre que la crème.
+
+@ ile-flottante
+nom: Île flottante et œufs à la neige
+famille: desserts
+styles: effervescent-doux, blanc-moelleux, vdn-blanc
+vins: clairette-de-die, gaillac, vouvray, montlouis-sur-loire, muscat-de-beaumes-de-venise, limoux
+conseil: Blancs en neige, crème anglaise et caramel : un dessert léger qui appelle un vin doux tout aussi léger, mousseux de méthode ancestrale ou pétillant demi-sec. Les bulles prolongent la texture aérienne. Un grand liquoreux serait trop lourd.
+
+@ crepes-sucrees
+nom: Crêpes sucrées
+famille: desserts
+styles: effervescent-doux, blanc-moelleux, vin-de-liqueur
+vins: clairette-de-die, bugey, vouvray, saumur, coteaux-du-layon, pineau-des-charentes, gaillac
+conseil: Au sucre, au beurre, à la confiture ou flambées : le cidre doux est l'accord de la Chandeleur. Côté vin, un mousseux doux ou demi-sec, ou un moelleux léger, accompagnent sans alourdir ; avec des crêpes Suzette, un muscat ou un pineau répondent à l'orange. Un brut sec paraît dur.
+
+@ galette-des-rois
+nom: Galette des rois à la frangipane
+famille: desserts
+styles: blanc-moelleux, effervescent-doux, liquoreux
+vins: coteaux-du-layon, jurancon, vouvray, montlouis-sur-loire, clairette-de-die, cremant-de-loire, loupiac
+audace: arbois, macvin-du-jura
+conseil: Feuilletage au beurre et crème d'amande : un moelleux de chenin ou de petit manseng, frais et peu lourd, ou un pétillant demi-sec. Le champagne brut que l'on sert par habitude paraît acide sur la frangipane ; préférer un effervescent demi-sec. L'amande s'entend très bien avec un vin de paille du Jura.
+
+@ buche-de-noel
+nom: Bûche de Noël
+famille: desserts
+styles: effervescent-doux, vdn-rouge, vdn-blanc
+vins: champagne, clairette-de-die, maury, banyuls, rivesaltes, muscat-de-rivesaltes, bugey
+conseil: Tout dépend du parfum : vin doux naturel rouge avec le chocolat et le praliné, rivesaltes ambré avec le café et les marrons, muscat ou mousseux doux avec les fruits. Si l'on tient au champagne, le choisir demi-sec. Un brut, après un repas de fête, paraît mince et acide sur la crème au beurre.
+
+@ paris-brest
+nom: Paris-brest et desserts pralinés
+famille: desserts
+styles: vdn-rouge, vin-de-liqueur, liquoreux
+vins: rivesaltes, maury, banyuls, macvin-du-jura, pineau-des-charentes, arbois, rasteau
+conseil: Noisette et amande caramélisées, crème riche : les vins doux naturels ambrés et tuilés, élevés longuement, ont précisément ces arômes de fruits secs grillés. Le macvin et le vin de paille du Jura sont dans le même registre. Les vins vifs et fruités passent à côté.
+
+@ clafoutis-aux-cerises
+nom: Clafoutis aux cerises
+famille: desserts
+styles: vdn-rouge, effervescent-doux, blanc-moelleux
+vins: maury, banyuls, rasteau, bugey, correze, cabernet-d-anjou, clairette-de-die
+conseil: Dessert limousin de cerises noires prises dans un flan : un vin doux naturel rouge jeune, au goût de cerise, lui fait écho, de même qu'un rosé pétillant et doux. Servir frais. Un rouge sec, même fruité, devient acide face au sucre de la pâte.
+
+@ glaces-et-sorbets
+nom: Glaces et sorbets
+famille: desserts
+styles: vdn-blanc, effervescent-doux
+vins: muscat-de-beaumes-de-venise, muscat-de-frontignan, muscat-de-mireval, clairette-de-die, rivesaltes, banyuls
+conseil: Le froid anesthésie les papilles et le sucre est élevé : c'est l'accord le plus ingrat, et l'on peut s'abstenir sans regret. Si l'on sert quelque chose, un muscat doux très frais avec les sorbets de fruits, un vin doux naturel ambré avec la vanille, le café ou le chocolat. Aucun vin fin n'y gagne.
+
+@ tiramisu
+nom: Tiramisu et desserts au café
+famille: desserts
+styles: vdn-rouge, vin-de-liqueur
+vins: rivesaltes, maury, banyuls-grand-cru, rasteau, pineau-des-charentes, macvin-du-jura
+conseil: Café, cacao et mascarpone : les vins doux naturels de type rancio ou tuilé, longuement élevés, partagent ces notes torréfiées et ont assez de force pour le café. Un vieux pineau convient dans le même esprit. Les liquoreux blancs fruités s'accordent mal avec l'amertume du café.
+
+@ tarte-aux-noix
+nom: Tarte aux noix et gâteau aux noix
+famille: desserts
+styles: liquoreux, vdn-rouge, vin-de-liqueur
+vins: arbois, cotes-du-jura, l-etoile, macvin-du-jura, rivesaltes, monbazillac, correze
+audace: chateau-chalon
+conseil: La noix appelle la noix : vin de paille et macvin du Jura, vin paillé de Corrèze, rivesaltes ambré ou monbazillac du Périgord, pays du gâteau aux noix. Leurs arômes de fruits secs et de miel se confondent avec ceux du dessert. Un vin jaune, sec, n'est possible que sur un gâteau très peu sucré.
+
+@ kouglof
+nom: Kouglof, brioche et pain d'épices
+famille: desserts
+styles: blanc-moelleux, liquoreux, effervescent-brut
+vins: alsace, alsace-grand-cru-altenberg-de-bergheim, alsace-grand-cru-kitterle, cremant-d-alsace, coteaux-du-layon, jurancon
+conseil: Pâte levée peu sucrée, raisins secs et amandes : le kouglof se sert en Alsace avec un gewurztraminer ou un pinot gris de vendanges tardives, ou un muscat. Comme il est à peine doux, un crémant convient aussi à l'heure du café. Avec le pain d'épices, plus sucré, un gewurztraminer moelleux s'impose.
+
+@ peches-et-abricots
+nom: Tarte aux abricots, pêches et fruits jaunes
+famille: desserts
+styles: vdn-blanc, blanc-moelleux, liquoreux
+vins: muscat-de-rivesaltes, muscat-de-beaumes-de-venise, muscat-de-saint-jean-de-minervois, jurancon, monbazillac, saussignac, haut-montravel, rosette
+conseil: Les fruits jaunes à noyau partagent leurs arômes avec les muscats doux et les moelleux de sémillon ou de manseng : l'accord se fait par ressemblance. L'abricot cuit est acide, il faut donc un vin vif et franchement sucré. Écarter les vins secs et les bruts.

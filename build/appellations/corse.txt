@@ -1,0 +1,85 @@
+# Corse — 5 fiches
+
+@ vin-de-corse
+nom: Vin de Corse
+sous: Ensemble de l'île
+niveau: régionale
+couleurs: rouge, rosé, blanc
+styles: rose-leger, rouge-solaire, blanc-aromatique, rouge-souple
+cepages: niellucciu*, sciaccarellu*, grenache-noir*, vermentino*, cinsault, mourvedre, syrah, carignan, aleatico, ugni-blanc
+surface: environ 2 000 ha, dénominations locales comprises
+depuis: 1976
+def: L'appellation régionale de la Corse, sur tout le pourtour de l'île, déclinée en cinq dénominations de terroir.
+texte: Sans nom de terroir, l'appellation Vin de Corse concerne surtout la côte orientale, de Bastia à Solenzara : collines et terrasses de schistes, d'arènes et d'alluvions au pied de la Castagniccia, autour d'Aléria et de Ghisonaccia, où coopératives et grands domaines produisent des vins souples et fruités. Les rouges et les rosés reposent sur le [[niellucciu]], le [[sciaccarellu]] et le [[grenache-noir]], qui doivent former ensemble au moins la moitié de l'assemblage ; les blancs sont issus du [[vermentino]], très majoritaire.
+texte: Cinq dénominations précisent l'origine. Calvi, en Balagne, au nord-ouest, s'étend sur des coteaux granitiques ventés entre mer et montagne : rouges structurés, blancs de vermentino parfumés. Sartène, au sud-ouest, autour de la vallée du Rizzanese et de la vallée de l'Ortolo, est une terre de granite et de sciaccarellu, aux rouges épicés. Figari, à l'extrême sud, est le vignoble le plus méridional de France, sur un plateau granitique sec et battu par les vents, aux vins fermes et salins.
+texte: Porto-Vecchio, sur la côte sud-est, petit vignoble granitique, donne des rouges élégants et des blancs frais. Les Coteaux du Cap Corse, enfin, occupent les terrasses de schiste de la péninsule septentrionale ; la production, minuscule, vaut surtout par ses blancs de vermentino, nets et iodés, parmi les plus fins de l'île. Partout le rosé, clair et vif, a pris la première place.
+gout: fruits rouges, épices, maquis et réglisse en rouge ; agrumes, fleurs blanches, amande et pointe saline en blanc
+garde: à boire dans les 2 ans pour les rosés et les blancs ; 4 à 10 ans pour les rouges des dénominations
+service: 8-10 °C pour les rosés et les blancs ; 15-17 °C pour les rouges
+crus: dénominations Calvi, Sartène, Figari, Porto-Vecchio, Coteaux du Cap Corse
+voir: patrimonio, ajaccio, igp-ile-de-beaute
+
+@ patrimonio
+nom: Patrimonio
+sous: Cap Corse et Nebbio
+niveau: communale
+couleurs: rouge, rosé, blanc
+styles: rouge-charpente, blanc-aromatique, rose-vineux
+cepages: niellucciu*, vermentino*, grenache-noir, sciaccarellu
+surface: environ 450 ha
+depuis: 1968
+def: La première appellation reconnue en Corse, au fond du golfe de Saint-Florent : la terre du niellucciu, sur le seul grand terroir calcaire de l'île.
+texte: Patrimonio et six communes voisines, dont Saint-Florent, Barbaggio et Poggio-d'Oletta, forment un amphithéâtre de collines ouvert sur la mer, à la base du Cap Corse, dans le Nebbio. Le relief y abrite la vigne des vents dominants et concentre la chaleur. Fait exceptionnel en Corse, le sous-sol est calcaire : argiles, marnes et calcaires plaqués sur les schistes donnent des sols profonds, qui retiennent l'eau et conviennent au [[niellucciu]]. Ce cépage, très proche du sangiovese de Toscane, s'est sans doute implanté à l'époque génoise.
+texte: Les rouges, qui contiennent au moins neuf dixièmes de niellucciu, sont les plus charpentés de l'île : robe profonde, arômes de fruits rouges et noirs, de réglisse, de violette et d'herbes du maquis, tanins fermes qui demandent quelques années pour se fondre. Les rosés, où le niellucciu domine également, sont vineux et épicés. Les blancs, de pur [[vermentino]], comptent parmi les plus aboutis de la Méditerranée : floraux, amples, relevés d'une amertume fine et d'une touche saline. L'appellation est aussi l'une des plus engagées de France dans la culture biologique.
+gout: cerise noire, réglisse, violette, maquis, tanins fermes ; fleurs blanches, agrumes et amande en blanc
+garde: 5 à 15 ans pour les rouges ; 2 à 6 ans pour les blancs
+service: 16-17 °C pour les rouges, carafés jeunes ; 10-12 °C pour les blancs
+voir: muscat-du-cap-corse, vin-de-corse, ajaccio
+
+@ ajaccio
+nom: Ajaccio
+sous: Côte occidentale
+niveau: communale
+couleurs: rouge, rosé, blanc
+styles: rouge-elegant, rose-leger, blanc-aromatique
+cepages: sciaccarellu*, vermentino*, niellucciu, grenache-noir, cinsault, carignan, ugni-blanc
+surface: environ 260 ha
+depuis: 1984
+def: L'appellation des coteaux granitiques qui entourent Ajaccio, royaume du sciaccarellu, le plus fin des cépages rouges corses.
+texte: L'aire couvre une trentaine de communes de Corse-du-Sud, du golfe de Porto au nord jusqu'au golfe de Valinco au sud, autour des vallées de la Gravona, du Prunelli et du Taravo. Les vignes, parmi les plus hautes de l'île, montent jusqu'à 500 mètres sur des pentes de granite désagrégé en arène, sol pauvre, acide et filtrant. Le soleil est généreux, mais la brise de mer et la fraîcheur des nuits ménagent les arômes. Reconnue d'abord sous le nom de Coteaux d'Ajaccio, l'appellation a pris son nom actuel en 1984.
+texte: Le [[sciaccarellu]] doit représenter au moins quatre dixièmes des rouges et des rosés, et beaucoup de domaines lui donnent une place bien plus grande. Il produit des vins de couleur claire, trompeuse : derrière la robe rubis se cachent un bouquet intense de fruits rouges, de poivre, d'amande grillée et de maquis, et une bouche souple, aux tanins fins, qui vieillit avec grâce. Les rosés, pâles et épicés, sont réputés. Les blancs de [[vermentino]], floraux et ronds, complètent la production.
+gout: framboise, poivre, épices, amande grillée, maquis, tanins soyeux
+garde: 4 à 10 ans pour les rouges ; à boire dans les 2 à 3 ans pour les rosés et les blancs
+service: 15-16 °C pour les rouges ; 8-10 °C pour les rosés et les blancs
+voir: vin-de-corse, patrimonio
+
+@ muscat-du-cap-corse
+nom: Muscat du Cap Corse
+sous: Cap Corse et Nebbio
+niveau: communale
+couleurs: vin doux naturel
+styles: vdn-blanc
+cepages: muscat-blanc-a-petits-grains*
+surface: environ 90 ha
+depuis: 1993
+def: L'unique vin doux naturel de Corse, issu du muscat à petits grains, sur les terrasses du Cap et les coteaux de Patrimonio.
+texte: L'aire réunit dix-sept communes : celles du Cap Corse, longue péninsule de schistes où la vigne s'accroche à d'étroites terrasses face à la mer, et celles de Patrimonio, sur argilo-calcaire. Le muscat y était déjà exporté vers l'Italie à l'époque génoise. Les raisins, vendangés très mûrs, parfois après un début de passerillage, donnent un moût dont la fermentation est arrêtée par mutage à l'alcool neutre. Le vin, d'un or pâle, garde une fraîcheur remarquable sous sa douceur : fleur d'oranger, cédrat, abricot sec, miel, avec une finale nette qui évite toute lourdeur.
+gout: fleur d'oranger, cédrat confit, abricot sec, miel, finale fraîche
+garde: à boire dans les 3 à 5 ans ; les meilleurs se gardent davantage
+service: 8-10 °C
+voir: patrimonio, muscat-de-frontignan, muscat-de-beaumes-de-venise
+
+@ igp-ile-de-beaute
+nom: Île de Beauté
+sous: Ensemble de l'île
+niveau: IGP
+couleurs: rouge, rosé, blanc
+styles: rose-leger, rouge-souple, blanc-vif
+cepages: niellucciu*, sciaccarellu*, vermentino*, grenache-noir, merlot, cabernet-sauvignon, syrah, pinot-noir, cinsault, chardonnay, muscat-blanc-a-petits-grains, biancu-gentile, aleatico
+surface: environ 3 500 ha
+def: L'indication géographique de toute la Corse, qui fournit la majorité des volumes de l'île, en cépages corses comme en cépages du continent.
+texte: L'IGP couvre les deux départements, mais l'essentiel de la production vient de la plaine orientale, entre Bastia et Aléria, où les grands domaines et les coopératives cultivent des vignes mécanisables. Le rosé y est très majoritaire. Les règles, plus souples que celles des appellations, permettent les vins de cépage : chardonnay, merlot, cabernet-sauvignon, syrah, pinot noir, à côté du niellucciu, du sciaccarellu et du vermentino. Des vignerons y logent aussi leurs cuvées de variétés insulaires anciennes — [[biancu-gentile]], [[aleatico]], carcaghjolu, genovese — que les appellations n'admettent pas ou seulement en appoint.
+gout: fruits rouges frais, agrumes, fleurs, bouche souple
+garde: à boire dans les 2 à 3 ans
+service: 8-10 °C pour les rosés et les blancs ; 14-16 °C pour les rouges
+voir: vin-de-corse, igp-mediterranee, igp-pays-d-oc

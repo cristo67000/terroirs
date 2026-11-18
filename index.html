@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <!-- L'application ne parle à personne : ni police distante, ni tuile de carte,
+       ni mesure d'audience. `connect-src 'self'` suffit, et le dit. -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; manifest-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'">
+  <meta name="referrer" content="no-referrer">
+  <meta name="description" content="Les vins et les cépages de France, hors ligne : toutes les appellations région par région, une centaine de cépages, une carte détaillée des vignobles dessinée d'après les délimitations de l'INAO, les accords mets-vins dans les deux sens et les millésimes depuis 1990. Sans compte, sans publicité.">
+  <meta name="theme-color" content="#5c142a">
+  <!-- La version de la coquille, la même que dans sw.js. -->
+  <meta name="application-version" content="v1.0.0">
+  <title>Terroirs — vins et cépages de France</title>
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Terroirs">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Terroirs">
+  <meta property="og:title" content="Terroirs — vins et cépages de France">
+  <meta property="og:description" content="Appellations, cépages, carte détaillée des vignobles, accords mets-vins et millésimes : le guide des vins de France, hors ligne, sans compte ni publicité.">
+  <meta property="og:url" content="https://cristo67000.github.io/terroirs/">
+  <meta property="og:image" content="https://cristo67000.github.io/terroirs/icons/apercu-1200x630.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Terroirs — vins et cépages de France">
+  <meta property="og:locale" content="fr_FR">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png" type="image/png">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="css/theme.css">
+  <link rel="stylesheet" href="css/app.css">
+  <link rel="stylesheet" href="css/carte.css">
+</head>
+<body>
+
+  <div id="demarrage" role="status">
+    <svg class="marque-dessin grand" viewBox="0 0 48 48" aria-hidden="true" focusable="false">
+      <path class="marque-feuille" d="M24 6c-1 4 1 7 5 8"/>
+      <circle class="marque-grain" cx="17" cy="19" r="5"/><circle class="marque-grain" cx="31" cy="19" r="5"/>
+      <circle class="marque-grain" cx="24" cy="19" r="5"/><circle class="marque-grain" cx="20.5" cy="27.5" r="5"/>
+      <circle class="marque-grain" cx="27.5" cy="27.5" r="5"/><circle class="marque-grain" cx="24" cy="36" r="5"/>
+    </svg>
+    <div class="marque">Terroirs</div>
+    <p>On débouche…</p>
+  </div>
+
+  <header id="barre">
+    <h1>
+      <svg class="marque-dessin" viewBox="0 0 48 48" aria-hidden="true" focusable="false">
+        <path class="marque-feuille" d="M24 6c-1 4 1 7 5 8"/>
+        <circle class="marque-grain" cx="17" cy="19" r="5"/><circle class="marque-grain" cx="31" cy="19" r="5"/>
+        <circle class="marque-grain" cx="24" cy="19" r="5"/><circle class="marque-grain" cx="20.5" cy="27.5" r="5"/>
+        <circle class="marque-grain" cx="27.5" cy="27.5" r="5"/><circle class="marque-grain" cx="24" cy="36" r="5"/>
+      </svg>
+      <span class="marque-petite">Terroirs</span>
+    </h1>
+    <p class="sous-titre">vins et cépages de France</p>
+    <span class="espace"></span>
+    <button id="b-guide" type="button" class="bouton-rond" data-vue="guide" aria-label="Le guide du vin" title="Le guide du vin">
+      <svg class="icone" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 6.5c-2-1.4-4.6-1.9-8-1.5v13c3.4-.4 6 .1 8 1.5 2-1.4 4.6-1.9 8-1.5V5c-3.4-.4-6 .1-8 1.5z"/><path d="M12 6.5v13"/></svg>
+    </button>
+    <button id="b-reglages" type="button" class="bouton-rond" data-vue="reglages" aria-label="Réglages" title="Réglages">
+      <svg class="icone" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 7h8M18 7h2M4 12h2M12 12h8M4 17h10M20 17h0"/><circle cx="15" cy="7" r="2"/><circle cx="9" cy="12" r="2"/><circle cx="17" cy="17" r="2"/></svg>
+    </button>
+  </header>
+
+  <main id="scene">
+
+    <!-- ————— Vins : l'accueil et la recherche ————— -->
+    <section id="vue-vins" class="vue">
+      <div id="bloc-recherche">
+        <input id="q" type="search" autocomplete="off" autocapitalize="off"
+               autocorrect="off" spellcheck="false" enterkeyhint="search"
+               placeholder="Chercher : Pauillac, chenin, blanquette…" aria-label="Chercher dans tout le guide">
+        <button id="q-vider" type="button" aria-label="Effacer" hidden>✕</button>
+      </div>
+      <div id="vins-accueil"></div>
+      <div id="vins-resultats" hidden></div>
+    </section>
+
+    <!-- ————— Cépages ————— -->
+    <section id="vue-cepages" class="vue" hidden>
+      <h2>Les cépages</h2>
+      <p class="discret intro-vue">Les variétés de vigne qui font les vins de France : leur caractère, leurs arômes, les appellations où elles s’expriment.</p>
+      <div id="cepages-filtres" class="filtres" role="group" aria-label="Filtrer par couleur de baie"></div>
+      <div id="cepages-liste"></div>
+    </section>
+
+    <!-- ————— Carte ————— -->
+    <section id="vue-carte" class="vue" hidden>
+      <div id="carte-regions" class="filtres" role="group" aria-label="Aller à une région"></div>
+      <div id="carte-cadre" class="carte-cadre">
+        <canvas id="carte-toile" aria-label="Carte des vignobles de France"></canvas>
+        <div class="carte-boutons">
+          <button id="carte-plus" type="button" class="bouton-carte" aria-label="Zoom avant">+</button>
+          <button id="carte-moins" type="button" class="bouton-carte" aria-label="Zoom arrière">−</button>
+          <button id="carte-france" type="button" class="bouton-carte" aria-label="Toute la France" title="Toute la France">
+            <svg class="icone" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 3.5 13 5l3-1 1.5 2.5 3 1.5-1.5 4 1 2.5-2.5 1 .5 3.5-4-.5-2 2-3.5-1.5-.5-3L5 13l1-3.5-2.5-2L7 6.5z"/></svg>
+          </button>
+        </div>
+        <p id="carte-attente" class="carte-attente" hidden>Tracé en cours…</p>
+      </div>
+      <div id="carte-ici"></div>
+      <p class="discret petit carte-sources">Vignes : délimitation parcellaire des AOC viticoles, INAO (Licence Ouverte) ; les aires marquées « communes » suivent les limites communales. Contours administratifs : Etalab. Fleuves et pays voisins : Natural Earth.</p>
+    </section>
+
+    <!-- ————— Accords ————— -->
+    <section id="vue-accords" class="vue" hidden>
+      <h2>Accords mets et vins</h2>
+      <div id="accords-sens" class="segments" role="group" aria-label="Sens de la recherche"></div>
+      <div id="accords-contenu"></div>
+    </section>
+
+    <!-- ————— Millésimes ————— -->
+    <section id="vue-millesimes" class="vue" hidden>
+      <h2>Les millésimes</h2>
+      <div id="millesimes-sens" class="segments" role="group" aria-label="Présentation"></div>
+      <div id="millesimes-contenu"></div>
+    </section>
+
+    <!-- ————— Guide ————— -->
+    <section id="vue-guide" class="vue" hidden>
+      <h2>Le guide du vin</h2>
+      <p class="discret intro-vue">Lire une étiquette, comprendre les classements, servir, conserver, déguster — et le vocabulaire qui va avec.</p>
+      <div id="guide-rubriques" class="filtres" role="group" aria-label="Rubriques"></div>
+      <div id="guide-contenu"></div>
+    </section>
+
+    <!-- ————— Réglages ————— -->
+    <section id="vue-reglages" class="vue" hidden>
+      <div id="reglages-contenu"></div>
+    </section>
+
+  </main>
+
+  <div id="mise-a-jour" role="status" aria-live="polite" hidden>
+    <p id="mise-a-jour-texte">Une nouvelle version est prête.</p>
+    <div class="maj-boutons">
+      <button id="b-mettre-a-jour" type="button" class="bouton-principal">Mettre à jour</button>
+      <button id="b-maj-plus-tard" type="button" class="lien-discret">Plus tard</button>
+    </div>
+  </div>
+
+  <div id="annonce" role="status" aria-live="polite" hidden></div>
+
+  <nav id="onglets" aria-label="Sections">
+    <button type="button" data-vue="vins" aria-current="true">
+      <svg class="icone" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M7.5 3.5h9c.4 4.5-.6 8.5-4.5 8.5S7.1 8 7.500 3.5z"/><path d="M12 12v7.500M8.500 20h7M8 7h8"/></svg>
+      <span>Vins</span>
+    </button>
+    <button type="button" data-vue="cepages">
+      <svg class="icone" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 3c-.5 2 .5 3.500 2.500 4"/><circle cx="8.500" cy="10" r="2.400"/><circle cx="15.500" cy="10" r="2.400"/><circle cx="12" cy="10" r="2.400"/><circle cx="10.200" cy="14.300" r="2.400"/><circle cx="13.800" cy="14.300" r="2.400"/><circle cx="12" cy="18.500" r="2.400"/></svg>
+      <span>Cépages</span>
+    </button>
+    <button type="button" data-vue="carte">
+      <svg class="icone" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M3.5 6.5 9 4l6 2.5 5.5-2.5v13.5L15 20l-6-2.5-5.5 2.5z"/><path d="M9 4v13.5M15 6.5V20"/></svg>
+      <span>Carte</span>
+    </button>
+    <button type="button" data-vue="accords">
+      <svg class="icone" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M6 3v7a2 2 0 0 0 4 0V3M8 3v18M17 3c-2 1.500-3 4-3 7h3zM17 3v18"/></svg>
+      <span>Accords</span>
+    </button>
+    <button type="button" data-vue="millesimes">
+      <svg class="icone" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="5" width="16" height="15" rx="2"/><path d="M4 9.500h16M8 3v4M16 3v4M8 13.500h2M12 13.500h2M8 16.500h2"/></svg>
+      <span>Millésimes</span>
+    </button>
+  </nav>
+
+  <aside id="fiche" hidden aria-modal="true" role="dialog">
+    <div id="fiche-contenu"></div>
+  </aside>
+
+  <script src="js/outils.js"></script>
+  <script src="js/memoire.js"></script>
+  <script src="js/donnees.js"></script>
+  <script src="js/rendu.js"></script>
+  <script src="js/fiche.js"></script>
+  <script src="js/vins.js"></script>
+  <script src="js/cepages.js"></script>
+  <script src="js/carte.js"></script>
+  <script src="js/accords.js"></script>
+  <script src="js/millesimes.js"></script>
+  <script src="js/guide.js"></script>
+  <script src="js/reglages.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/demarrage.js"></script>
+</body>
+</html>

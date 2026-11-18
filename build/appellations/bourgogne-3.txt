@@ -1,0 +1,472 @@
+# Bourgogne 3/3 — Côte de Beaune (28 fiches : 20 appellations communales ou sous-régionales, 8 grands crus)
+
+@ ladoix
+nom: Ladoix
+sous: Côte de Beaune
+niveau: communale
+couleurs: rouge, blanc
+styles: rouge-souple, blanc-vif
+cepages: pinot-noir*, chardonnay*
+surface: environ 95 ha
+depuis: 1970
+def: Le premier village de la Côte de Beaune en venant du nord, sur le flanc est de la colline de Corton.
+texte: Ladoix-Serrigny marque le passage de la Côte de Nuits à la Côte de Beaune. Ses vignes s'appuient au versant oriental de la colline de Corton, dont le sommet, sur la commune, relève des grands crus [[corton]] et [[corton-charlemagne]]. Plus bas, des sols caillouteux et ferrugineux donnent des rouges francs, fruités, d'une fermeté qui rappelle la Côte de Nuits voisine ; les marnes claires du haut conviennent au chardonnay, dont la part progresse. Onze climats sont classés premiers crus. Le vin a longtemps été vendu sous l'étiquette [[cote-de-beaune-villages]].
+gout: cerise, framboise, griotte, épices pour les rouges ; acacia, pomme et noisette pour les blancs
+garde: 4 à 10 ans
+service: 15-16 °C pour les rouges, 11-12 °C pour les blancs
+crus: premiers crus La Corvée, Le Clou d'Orge, Les Joyeuses, Bois Roussot, La Micaude, Les Gréchons, Hautes Mourottes
+voir: aloxe-corton, pernand-vergelesses, corton, chorey-les-beaune
+
+@ aloxe-corton
+nom: Aloxe-Corton
+sous: Côte de Beaune
+niveau: communale
+couleurs: rouge, blanc
+styles: rouge-elegant, rouge-souple
+cepages: pinot-noir*, chardonnay
+surface: environ 120 ha
+depuis: 1938
+def: Village du pied de la colline de Corton, presque entièrement rouge, aux vins fermes et de garde.
+texte: Aloxe, qui se prononce « Alosse », est un petit bourg aux toits vernissés posé sur le versant sud de la colline de Corton. Plus de la moitié de son vignoble relève des grands crus ; l'appellation communale occupe le bas de la pente, sur des sols bruns ou rougeâtres, profonds, riches en silex et en fer, et déborde sur Ladoix-Serrigny pour quelques premiers crus. Le vin est l'un des plus corsés de la Côte de Beaune : robe foncée, fruits rouges et noirs, tanins solides qui demandent quelques années. Quatorze climats sont classés premiers crus, en ceinture sous le [[corton]].
+gout: framboise, cassis, mûre, pivoine, puis cuir et truffe, tanins fermes
+garde: 5 à 12 ans
+service: 15-17 °C
+crus: premiers crus Les Valozières, Les Fournières, Les Vercots, Les Maréchaudes, Clos du Chapitre, Les Chaillots, Les Guérets
+voir: corton, ladoix, pernand-vergelesses, savigny-les-beaune
+
+@ pernand-vergelesses
+nom: Pernand-Vergelesses
+sous: Côte de Beaune
+niveau: communale
+couleurs: rouge, blanc
+styles: blanc-vif, rouge-souple
+cepages: chardonnay*, pinot-noir*
+surface: environ 140 ha
+depuis: 1936
+def: Village perché derrière la colline de Corton, aux blancs tendus et aux rouges frais.
+texte: Blotti à flanc de vallon, à l'ouest de la colline de Corton, Pernand est l'un des villages les plus pittoresques de la Côte. Ses vignes se répartissent sur deux versants : celui de la colline, exposé à l'ouest, qui porte une part du [[corton-charlemagne]] ; et, en face, le coteau des Vergelesses, tourné vers l'est, où mûrissent les meilleurs rouges. L'altitude et la fraîcheur du site donnent des vins droits : des blancs vifs, floraux, d'une minéralité marquée, qui ont fait la réputation récente du village, et des rouges fermes, à attendre. Huit climats sont classés premiers crus.
+gout: fleurs blanches, pomme, agrumes, silex pour les blancs ; fraise, framboise, violette et épices pour les rouges
+garde: 4 à 10 ans
+service: 11-12 °C pour les blancs, 15-16 °C pour les rouges
+crus: premiers crus Île des Vergelesses, Les Vergelesses, En Caradeux, Les Fichots, Creux de la Net, Sous Frétille, Clos Berthet (monopole)
+voir: corton-charlemagne, savigny-les-beaune, aloxe-corton, saint-romain
+
+@ corton
+nom: Corton
+sous: Côte de Beaune
+niveau: grand cru
+couleurs: rouge, blanc
+styles: rouge-elegant, rouge-charpente, blanc-ample
+cepages: pinot-noir*, chardonnay
+surface: environ 100 ha
+depuis: 1937
+def: Le seul grand cru rouge de la Côte de Beaune et le plus étendu de Bourgogne, sur la colline de Corton.
+texte: Coiffée d'un bois, la colline de Corton se voit de loin ; ses pentes, tournées de l'est au sud-ouest, s'étendent sur Aloxe-Corton, Ladoix-Serrigny et Pernand-Vergelesses. Le pinot noir occupe le milieu de la pente, sur des sols rougeâtres, caillouteux, riches en fer et en marnes ; le haut, plus clair, revient au [[corton-charlemagne]]. Le nom de Corton peut être suivi de celui de l'un de ses climats, qui se comptent par dizaines : Clos du Roi, Les Bressandes et Les Renardes passent pour les meilleurs, avec Le Rognet et Les Perrières. Vin sévère et tannique dans sa jeunesse, le Corton rouge s'ouvre après huit à dix ans sur des notes de fruits noirs, de cuir et de fourrure. Il existe aussi un peu de Corton blanc, issu de chardonnay planté hors de l'aire du Charlemagne.
+gout: cerise noire, cassis, violette, puis cuir, fourrure et sous-bois, tanins puissants
+garde: 10 à 25 ans
+service: 16-17 °C
+crus: climats Clos du Roi, Les Bressandes, Les Renardes, Le Rognet, Les Perrières, Les Pougets, Les Maréchaudes, Les Grèves, Clos des Cortons Faiveley (monopole)
+voir: corton-charlemagne, aloxe-corton, ladoix, pommard
+
+@ corton-charlemagne
+nom: Corton-Charlemagne
+sous: Côte de Beaune
+niveau: grand cru
+couleurs: blanc
+styles: blanc-ample
+cepages: chardonnay*
+surface: environ 50 ha
+depuis: 1937
+def: Grand cru blanc de la colline de Corton, puissant et minéral, de très longue garde.
+texte: Le Corton-Charlemagne occupe le haut de la colline, juste sous le bois, entre 280 et 330 mètres, en un arc qui va de Ladoix à Pernand-Vergelesses en passant par Aloxe-Corton ; les expositions tournent du sud-est au plein ouest. Les marnes blanches, argileuses et calcaires, y conviennent au chardonnay mieux qu'au pinot. La légende veut que l'empereur, qui possédait ici des vignes données en 775 à la collégiale de Saulieu, ait fait planter du blanc pour ne plus tacher sa barbe. C'est un blanc de grande carrure, fermé et presque austère dans sa jeunesse, qui développe avec le temps des arômes de pomme cuite, de miel, de cannelle et de silex.
+gout: agrumes, pomme, amande, miel, cannelle, silex, bouche puissante et tendue
+garde: 8 à 25 ans
+service: 12-14 °C
+voir: corton, charlemagne, chevalier-montrachet, chablis-grand-cru, pernand-vergelesses
+
+@ charlemagne
+nom: Charlemagne
+sous: Côte de Beaune
+niveau: grand cru
+couleurs: blanc
+styles: blanc-ample
+cepages: chardonnay*
+def: Grand cru blanc de la colline de Corton, existant en droit mais pratiquement jamais revendiqué.
+texte: L'appellation Charlemagne correspond aux lieux-dits En Charlemagne, sur Pernand-Vergelesses, et Le Charlemagne, sur Aloxe-Corton : le cœur historique du grand cru blanc, sur le flanc sud-ouest de la colline. Comme ces mêmes parcelles ont droit à l'appellation [[corton-charlemagne]], bien plus connue, les producteurs choisissent celle-ci depuis des décennies. Le Charlemagne reste donc inscrit dans les textes parmi les trente-trois grands crus, mais on ne le rencontre presque jamais sur une étiquette ; son vin serait en tout point celui de son double.
+gout: agrumes, pomme, amande, miel, silex, bouche ample et minérale
+garde: 8 à 25 ans
+service: 12-14 °C
+voir: corton-charlemagne, corton, pernand-vergelesses
+
+@ savigny-les-beaune
+nom: Savigny-lès-Beaune
+sous: Côte de Beaune
+niveau: communale
+couleurs: rouge, blanc
+styles: rouge-souple, rouge-elegant, blanc-vif
+cepages: pinot-noir*, chardonnay
+surface: environ 350 ha
+depuis: 1937
+def: Grand village viticole au nord de Beaune, à l'entrée d'une vallée, aux rouges fruités et élégants.
+texte: Savigny s'ouvre sur la vallée du Rhoin, qui partage son vignoble en deux coteaux opposés. Au nord, vers Pernand, les pentes exposées au sud portent des sols caillouteux et calcaires : les vins des Vergelesses, des Lavières ou des Guettes sont fins et parfumés. Au sud, du côté de Beaune, le versant regarde le nord-est, sur des terres plus sableuses et argileuses : La Dominode, Les Marconnets ou Les Narbantons donnent des vins plus fermes.
+texte: Dans l'ensemble, le Savigny est un rouge de corps moyen, au fruit de cerise et de cassis, souple assez tôt ; ses vingt-deux premiers crus offrent davantage de fond et se gardent une dizaine d'années. Le blanc, minoritaire, est floral et vif.
+gout: cerise, cassis, framboise, violette, tanins souples
+garde: 4 à 10 ans
+service: 15-16 °C
+crus: premiers crus Aux Vergelesses, Les Lavières, Aux Guettes, Aux Serpentières, La Dominode, Les Marconnets, Les Narbantons, Les Peuillets, Aux Gravains
+voir: pernand-vergelesses, beaune, chorey-les-beaune, aloxe-corton
+
+@ chorey-les-beaune
+nom: Chorey-lès-Beaune
+sous: Côte de Beaune
+niveau: communale
+couleurs: rouge, blanc
+styles: rouge-souple, rouge-leger
+cepages: pinot-noir*, chardonnay
+surface: environ 130 ha
+depuis: 1970
+def: Village de plaine au pied de la Côte, entre Aloxe-Corton et Beaune, aux rouges tendres et précoces.
+texte: Chorey est l'un des rares villages dont l'appellation s'étend presque entièrement à l'est de la grande route, sur un terrain à peine incliné. Les sols y sont faits d'alluvions calcaires et de cailloutis apportés par les combes de Pernand et de Savigny, bien drainés par endroits, plus argileux ailleurs. Il n'y a pas de premier cru. Le vin, très majoritairement rouge, est un pinot souple et fruité, à boire jeune : une bonne entrée en matière pour la Côte de Beaune.
+gout: cerise, framboise, fraise, notes de réglisse, tanins tendres
+garde: 3 à 6 ans
+service: 14-16 °C
+voir: savigny-les-beaune, aloxe-corton, cote-de-beaune-villages, beaune
+
+@ beaune
+nom: Beaune
+sous: Côte de Beaune
+niveau: communale
+couleurs: rouge, blanc
+styles: rouge-elegant, rouge-souple, blanc-ample
+cepages: pinot-noir*, chardonnay
+surface: environ 410 ha
+depuis: 1936
+def: La capitale des vins de Bourgogne et l'une de ses plus vastes appellations communales, aux trois quarts classée en premiers crus.
+texte: Siège des grandes maisons de négoce et des Hospices, dont la vente aux enchères de novembre rythme l'année viticole, Beaune possède un coteau continu de près de cinq kilomètres, entre Savigny et Pommard. Quarante-deux climats y sont classés premiers crus et couvrent les trois quarts de l'appellation — une proportion sans équivalent. Les négociants beaunois en possèdent une large part.
+texte: Du nord au sud, les terroirs changent. Vers Savigny, les sols minces et caillouteux des Marconnets, des Fèves, des Bressandes ou du Clos du Roi donnent des vins fermes et droits. Au centre, Les Grèves, Les Teurons et Les Cent Vignes, sur graviers et sables calcaires, livrent les crus les plus complets, charnus et fins. Au sud, vers Pommard, le Clos des Mouches et Les Boucherottes sont plus tendres.
+texte: Le Beaune rouge est un vin de juste milieu, coloré, fruité, aux tanins ronds, moins austère qu'un Pommard, plus étoffé qu'un Savigny. Le blanc, environ un sixième de la production, est gras et miellé ; celui du Clos des Mouches est le plus fameux.
+gout: cerise, cassis, groseille, pivoine, puis sous-bois, truffe et cuir, tanins ronds
+garde: 5 à 12 ans
+service: 15-17 °C pour les rouges, 12 °C pour les blancs
+crus: premiers crus Les Grèves (dont la Vigne de l'Enfant Jésus), Les Bressandes, Clos des Mouches, Les Teurons, Les Marconnets, Les Fèves, Clos du Roi, Les Cent Vignes, Les Avaux, Champs Pimont, Clos des Ursules (monopole)
+voir: savigny-les-beaune, pommard, cote-de-beaune, volnay
+
+@ cote-de-beaune
+nom: Côte de Beaune
+sous: Côte de Beaune
+niveau: communale
+couleurs: rouge, blanc
+styles: rouge-souple, blanc-vif
+cepages: pinot-noir*, chardonnay*
+surface: quelques dizaines d'hectares
+def: Petite appellation des hauteurs de Beaune, à ne pas confondre avec la Côte de Beaune-Villages.
+texte: Malgré son nom, l'appellation Côte de Beaune ne couvre pas toute la côte : elle se limite à quelques lieux-dits de la seule commune de Beaune, situés sur la « Montagne », au-dessus des premiers crus, entre 300 et 370 mètres. Les sols y sont minces, calcaires, et le climat plus frais qu'à mi-pente. Les vins, rouges et blancs, sont vifs, droits, moins charnus que les [[beaune|beaunes]], et se boivent assez jeunes. Le Clos des Monsnières, Les Topes Bizot et La Grande Châtelaine figurent parmi ses lieux-dits.
+gout: fruits rouges frais, pivoine pour les rouges ; fleurs blanches, agrumes et noisette pour les blancs
+garde: 3 à 7 ans
+service: 14-15 °C pour les rouges, 11-12 °C pour les blancs
+voir: beaune, cote-de-beaune-villages, saint-romain
+
+@ cote-de-beaune-villages
+nom: Côte de Beaune-Villages
+sous: Côte de Beaune
+niveau: sous-régionale
+couleurs: rouge
+styles: rouge-souple
+cepages: pinot-noir*
+depuis: 1937
+def: Appellation de repli, uniquement rouge, commune à quatorze villages de la Côte de Beaune.
+texte: Tous les villages de la Côte de Beaune peuvent vendre leurs rouges sous ce nom, à l'exception d'Aloxe-Corton, de Beaune, de Pommard et de Volnay. L'appellation sert surtout aux négociants, qui assemblent ainsi des vins de plusieurs communes, et aux villages dont le nom est moins porteur. Les volumes, autrefois importants, ont décliné à mesure que [[ladoix]], [[chorey-les-beaune]], [[maranges]] ou [[saint-romain]] se sont fait connaître sous leur propre nom. Le vin est un pinot noir souple et fruité, sans les nuances d'un terroir particulier.
+gout: cerise, framboise, cassis, tanins souples
+garde: 3 à 7 ans
+service: 15-16 °C
+voir: cote-de-nuits-villages, cote-de-beaune, chorey-les-beaune, maranges
+
+@ pommard
+nom: Pommard
+sous: Côte de Beaune
+niveau: communale
+couleurs: rouge
+styles: rouge-charpente, rouge-elegant
+cepages: pinot-noir*
+surface: environ 320 ha
+depuis: 1936
+def: Le rouge le plus robuste de la Côte de Beaune, exclusivement en pinot noir, au sud immédiat de Beaune.
+texte: Pommard occupe le débouché de la combe de l'Avant-Dheune, entre Beaune et Volnay. Le coteau, tourné vers le sud-est, monte de 240 à 380 mètres. Ses sols, des argiles brun-rouge mêlées d'éboulis calcaires, sont plus lourds et plus riches en fer que ceux des voisins : c'est à eux que le vin doit sa couleur et sa trame. L'appellation ne produit que du rouge.
+texte: Un Pommard est sombre, ferme, tannique : fruits noirs, cerise à l'eau-de-vie, puis cuir, chocolat et gibier après dix ans. On l'oppose traditionnellement au [[volnay]] voisin, tout de finesse, bien que la réalité soit plus nuancée — les parcelles sableuses du bas donnent des vins souples, et certains vignerons recherchent le soyeux plutôt que la force.
+texte: Vingt-huit climats sont classés premiers crus, de part et d'autre du village. Côté Beaune, Les Épenots (Grands et Petits) offrent les vins les plus élégants ; côté Volnay, Les Rugiens, aux terres rouges, les plus puissants et les plus lents à se faire. La partie basse des Rugiens et les Épenots font l'objet d'une demande de classement en grand cru.
+gout: mûre, myrtille, cerise noire, puis cuir, chocolat et gibier, tanins fermes
+garde: 8 à 20 ans
+service: 16-17 °C ; carafer les vins jeunes
+crus: premiers crus Les Rugiens, Les Grands Épenots, Les Petits Épenots, Clos des Épeneaux (monopole), Les Pézerolles, Les Jarolières, Les Charmots, Les Arvelets, Clos de la Commaraine (monopole)
+voir: volnay, beaune, nuits-saint-georges, corton
+
+@ volnay
+nom: Volnay
+sous: Côte de Beaune
+niveau: communale
+couleurs: rouge
+styles: rouge-elegant
+cepages: pinot-noir*
+surface: environ 210 ha
+depuis: 1937
+def: Le plus fin et le plus parfumé des rouges de la Côte de Beaune, entre Pommard et Meursault.
+texte: Accroché haut sur la pente, le village de Volnay domine un coteau étroit, exposé au sud-est, entre 230 et 370 mètres. Les sols sont plus légers qu'à Pommard : calcaires blancs et marnes en haut, cailloutis rougeâtres et graveleux au milieu. Les ducs de Bourgogne y possédaient un château et des vignes dès le XIIIᵉ siècle. Seul le pinot noir a droit à l'appellation.
+texte: Le Volnay est l'équivalent, en Côte de Beaune, du [[chambolle-musigny]] : un vin de parfum — violette, groseille, cerise — et de texture, délicat sans être fragile, agréable jeune et pourtant capable de vieillir. Près de la moitié des surfaces sont en premiers crus, vingt-neuf climats au total. Les Caillerets, Les Champans, le Clos des Chênes et Taillepieds en sont les plus réputés. Le Volnay-Santenots, lui, se récolte sur la commune voisine de [[meursault]], dont les terres rouges du nord conviennent au pinot.
+gout: violette, groseille, cerise, framboise, épices, tanins soyeux
+garde: 6 à 15 ans
+service: 15-17 °C
+crus: premiers crus Les Caillerets, Clos des Chênes, Les Champans, Taillepieds, Clos des Ducs (monopole), Les Santenots, Les Fremiets, Les Mitans, Clos de la Bousse d'Or (monopole)
+voir: pommard, monthelie, chambolle-musigny, meursault
+
+@ monthelie
+nom: Monthélie
+sous: Côte de Beaune
+niveau: communale
+couleurs: rouge, blanc
+styles: rouge-souple, rouge-elegant
+cepages: pinot-noir*, chardonnay
+surface: environ 120 ha
+depuis: 1937
+def: Petit village au-dessus de Meursault, prolongement du coteau de Volnay, aux rouges fins et accessibles.
+texte: Monthélie, dont le nom se prononce « Mont'lie », occupe un éperon entre Volnay et la vallée d'Auxey-Duresses. Le vignoble a deux visages : à l'est, dans la continuité de [[volnay]], des sols calcaires et marneux rougeâtres exposés au sud-est, où se trouvent Les Champs Fulliot et Sur la Velle ; à l'ouest, le versant de la vallée, qui porte Les Duresses. Le vin, rouge pour l'essentiel, ressemble à un Volnay un peu plus ferme et rustique, au fruit net. Quinze climats sont classés premiers crus.
+gout: cerise, cassis, violette, pivoine, tanins fins et fermes
+garde: 4 à 10 ans
+service: 15-16 °C
+crus: premiers crus Les Champs Fulliot, Sur la Velle, Les Duresses, Le Meix Bataille, Le Clos Gauthey, Le Cas Rougeot
+voir: volnay, auxey-duresses, meursault, saint-romain
+
+@ auxey-duresses
+nom: Auxey-Duresses
+sous: Côte de Beaune
+niveau: communale
+couleurs: rouge, blanc
+styles: rouge-souple, blanc-ample
+cepages: pinot-noir*, chardonnay*
+surface: environ 135 ha
+depuis: 1937
+def: Village d'une vallée latérale de la Côte de Beaune, entre Monthélie et Saint-Romain, en rouge et en blanc.
+texte: Auxey, qui se prononce « Aussey », s'allonge au fond de la vallée qui mène aux Hautes-Côtes. Sur le versant exposé au sud-est, celui de la montagne du Bourdon, des sols marno-calcaires portent le pinot noir et les neuf premiers crus, voisins de ceux de Monthélie. Sur le versant opposé, dans le prolongement de [[meursault]], le calcaire fin convient au chardonnay, qui fournit environ un tiers de la récolte. Les rouges sont fermes et frais, à attendre un peu ; les blancs, proches d'un Meursault en plus vif, comptent parmi les bonnes affaires de la Côte.
+gout: framboise, cassis, cuir pour les rouges ; amande, pomme, noisette et notes minérales pour les blancs
+garde: 4 à 10 ans
+service: 15-16 °C pour les rouges, 11-12 °C pour les blancs
+crus: premiers crus Les Duresses, Clos du Val, Climat du Val, Les Écusseaux, Les Bréterins, Reugne
+voir: monthelie, meursault, saint-romain, volnay
+
+@ saint-romain
+nom: Saint-Romain
+sous: Côte de Beaune
+niveau: communale
+couleurs: blanc, rouge
+styles: blanc-vif, rouge-leger
+cepages: chardonnay*, pinot-noir*
+surface: environ 100 ha
+depuis: 1947
+def: Village d'altitude au fond de la vallée d'Auxey, aux blancs tendus et minéraux.
+texte: Saint-Romain occupe un site à part, en retrait de la Côte : un cirque de falaises calcaires au pied duquel les vignes montent de 280 à 400 mètres, parmi les plus hautes des appellations communales de Côte-d'Or. Les sols de marnes et de calcaires, l'altitude et la fraîcheur conviennent surtout au chardonnay, qui domine. Longtemps difficile à mûrir, le cru profite des étés plus chauds : ses blancs sont droits, floraux, salins, ses rouges légers et vifs. Il n'y a pas de premier cru. Le village est aussi connu pour ses tonneliers.
+gout: tilleul, fleurs blanches, agrumes, pomme, pointe saline ; fruits rouges frais pour les rouges
+garde: 3 à 7 ans
+service: 11-12 °C pour les blancs, 14-15 °C pour les rouges
+crus: lieux-dits Sous le Château, Sous Roche, Le Jarron, La Combe Bazin
+voir: auxey-duresses, pernand-vergelesses, meursault, saint-aubin
+
+@ meursault
+nom: Meursault
+sous: Côte de Beaune
+niveau: communale
+couleurs: blanc, rouge
+styles: blanc-ample
+cepages: chardonnay*, pinot-noir
+surface: environ 400 ha
+depuis: 1937
+def: Le grand village blanc de la Côte de Beaune : des chardonnays amples et de garde, sans grand cru mais aux premiers crus illustres.
+texte: Gros bourg vigneron entre Volnay et Puligny, Meursault ouvre la « Côte des Blancs ». Les couches calcaires, qui plongeaient depuis Nuits, remontent ici à la surface : des marnes blanches et des calcaires durs du Jurassique moyen, sur un coteau large, tourné vers l'est et le sud-est, entre 230 et 360 mètres. La nappe d'eau, profonde, a permis de creuser de vastes caves fraîches, favorables aux longs élevages en fût qui ont façonné le style local.
+texte: Le Meursault classique est un blanc doré, ample, onctueux : beurre frais, noisette grillée, amande, fleurs blanches, miel avec l'âge. Les vins actuels sont souvent plus tendus qu'autrefois, moins boisés, mais gardent cette largeur qui les distingue des [[puligny-montrachet|pulignys]], plus ciselés. Les meilleurs lieux-dits du village — Les Narvaux, Les Tessons, Les Tillets, Le Limozin — sont volontiers vinifiés à part.
+texte: Dix-neuf climats sont classés premiers crus. Trois d'entre eux, groupés au sud vers Puligny, dominent : Les Perrières, le plus minéral, que beaucoup jugent digne d'un grand cru ; Les Genevrières, le plus élégant ; Les Charmes, le plus rond. Les Gouttes d'Or et Le Porusot suivent. Au nord, les rouges des Santenots prennent le nom de [[volnay]] ; au sud-ouest, le hameau de [[blagny]] a son propre régime.
+gout: beurre frais, noisette grillée, amande, aubépine, agrumes, miel, bouche ample et longue
+garde: 5 à 15 ans
+service: 12-13 °C
+crus: premiers crus Les Perrières, Les Genevrières, Les Charmes, Les Gouttes d'Or, Le Porusot, Les Bouchères, Les Santenots, Blagny
+voir: puligny-montrachet, chassagne-montrachet, auxey-duresses, blagny, corton-charlemagne
+
+@ blagny
+nom: Blagny
+sous: Côte de Beaune
+niveau: communale
+couleurs: rouge
+styles: rouge-souple, rouge-elegant
+cepages: pinot-noir*
+surface: quelques hectares
+depuis: 1937
+def: Minuscule appellation rouge d'un hameau perché entre Meursault et Puligny-Montrachet.
+texte: Blagny est un hameau situé à 340-400 mètres d'altitude, à cheval sur les communes de Meursault et de Puligny-Montrachet. Son appellation est réservée aux vins rouges ; les blancs issus des mêmes pentes se vendent comme Meursault-Blagny premier cru ou Puligny-Montrachet premier cru, selon le versant. Le chardonnay étant d'un meilleur rapport, le pinot noir y recule sans cesse. Les quelques cuvées qui subsistent, presque toutes en premier cru, sont des rouges fermes, un peu sauvages, au fruit de petits fruits noirs, qui s'affinent avec l'âge.
+gout: mûre, cassis, griotte, notes de cuir et de sous-bois, tanins fermes
+garde: 5 à 12 ans
+service: 15-16 °C
+crus: premiers crus La Pièce sous le Bois, Sous le Dos d'Âne, La Jeunelotte, Sous Blagny, Sous le Puits, Hameau de Blagny, La Garenne
+voir: meursault, puligny-montrachet, auxey-duresses
+
+@ puligny-montrachet
+nom: Puligny-Montrachet
+sous: Côte de Beaune
+niveau: communale
+couleurs: blanc, rouge
+styles: blanc-ample
+cepages: chardonnay*, pinot-noir
+surface: environ 210 ha
+depuis: 1937
+def: Le village des blancs les plus ciselés de Bourgogne, qui partage le Montrachet avec Chassagne et compte quatre grands crus.
+texte: Puligny, qui a joint le nom de Montrachet au sien en 1879, est un village de plaine dont la nappe d'eau affleurante interdit presque les caves enterrées. Son coteau, exposé à l'est et au sud-est entre 230 et 400 mètres, est en revanche l'un des plus précieux du monde pour le chardonnay : des calcaires durs et des marnes, des sols bruns peu épais, pierreux, parfaitement drainés. Le rouge y a presque disparu.
+texte: Le Puligny est un blanc de tension plus que de volume : fleurs blanches, citron, fougère, amande, une trame serrée et une finale saline qui l'opposent à l'ampleur du [[meursault]]. Jeune, il peut paraître réservé ; il lui faut quelques années pour dérouler ses arômes de miel et de noisette.
+texte: Dix-sept climats sont classés premiers crus. Les plus recherchés bordent les grands crus : Le Cailleret, dans le prolongement du [[montrachet]], Les Pucelles, contre le [[batard-montrachet|Bâtard]] ; Les Combettes et Les Referts touchent Meursault ; Les Folatières et Champ Canet occupent le milieu du coteau. Au sommet, quatre grands crus : Montrachet et Bâtard-Montrachet, partagés avec Chassagne, [[chevalier-montrachet]] et [[bienvenues-batard-montrachet]].
+gout: aubépine, citron, fougère, amande, noisette, miel, bouche tendue et saline
+garde: 5 à 15 ans
+service: 12-13 °C
+crus: premiers crus Le Cailleret, Les Pucelles, Les Combettes, Les Folatières, Champ Canet, Les Referts, Clavoillon, Les Perrières, La Truffière, Champ Gain, La Garenne
+voir: montrachet, chevalier-montrachet, meursault, chassagne-montrachet, saint-aubin
+
+@ montrachet
+nom: Montrachet
+sous: Côte de Beaune
+niveau: grand cru
+couleurs: blanc
+styles: blanc-ample
+cepages: chardonnay*
+surface: environ 8 ha
+depuis: 1937
+def: Le plus illustre des blancs secs de Bourgogne, grand cru partagé par moitié entre Puligny et Chassagne.
+texte: Le Montrachet — on ne prononce pas le premier « t » — est une bande de vigne à mi-pente, entre 250 et 270 mètres, sur la colline pelée du « mont Rachet » dont il tire son nom. Quatre hectares sur Puligny, quatre sur Chassagne (où l'on écrit Le Montrachet), une pente douce exposée au sud-est, qui reçoit le soleil jusqu'au soir, un sol brun mince et caillouteux sur calcaire dur : un équilibre que ni le [[chevalier-montrachet|Chevalier]], plus haut, ni le [[batard-montrachet|Bâtard]], plus bas, ne reproduisent tout à fait. Une quinzaine de propriétaires se le partagent. Le vin réunit puissance et finesse à un degré rare : or pâle, arômes de miel, d'amande grillée, d'agrumes et de fleurs, bouche à la fois opulente et tendue, d'une longueur immense. Il demande dix ans.
+gout: miel, amande grillée, agrumes confits, beurre, fleurs blanches, minéralité, bouche opulente et très longue
+garde: 10 à 30 ans
+service: 13-14 °C
+voir: chevalier-montrachet, batard-montrachet, puligny-montrachet, chassagne-montrachet, corton-charlemagne
+
+@ chevalier-montrachet
+nom: Chevalier-Montrachet
+sous: Côte de Beaune
+niveau: grand cru
+couleurs: blanc
+styles: blanc-ample
+cepages: chardonnay*
+surface: environ 7,5 ha
+def: Grand cru blanc de Puligny, juste au-dessus du Montrachet, le plus aérien et le plus minéral de la famille.
+texte: Le Chevalier domine le [[montrachet]], entre 265 et 290 mètres, sur la seule commune de Puligny. La pente y est plus forte, le sol très mince, pierreux, fait de marnes et de rendzines claires sur la roche. Le vin en tire son caractère : moins de gras et de puissance que son voisin du dessous, mais une finesse, une tension et une pureté minérale que certains amateurs placent au même rang. Fleurs blanches, agrumes, pierre à fusil dans la jeunesse, puis noisette et miel : un grand blanc de garde, qui s'ouvre lentement.
+gout: fleurs blanches, citron, pierre à fusil, noisette, miel, bouche tendue et cristalline
+garde: 10 à 25 ans
+service: 13-14 °C
+voir: montrachet, batard-montrachet, puligny-montrachet, corton-charlemagne
+
+@ batard-montrachet
+nom: Bâtard-Montrachet
+sous: Côte de Beaune
+niveau: grand cru
+couleurs: blanc
+styles: blanc-ample
+cepages: chardonnay*
+surface: environ 12 ha
+def: Grand cru blanc à cheval sur Puligny et Chassagne, sous le Montrachet, riche et puissant.
+texte: Le Bâtard s'étend au pied du [[montrachet]], dont une route le sépare, sur une pente très faible, de 240 à 250 mètres ; il se partage à peu près par moitié entre Puligny et Chassagne et compte de nombreux propriétaires. Le sol, plus profond et plus argileux que sur le coteau, donne le vin le plus large et le plus généreux de la famille : couleur dorée, arômes de fruits mûrs, de miel, de pain grillé, bouche grasse et puissante. Il lui manque parfois le tranchant de ses voisins du haut, mais il impressionne par sa densité et vieillit fort bien.
+gout: fruits jaunes mûrs, miel, pain grillé, beurre, épices, bouche grasse et puissante
+garde: 8 à 20 ans
+service: 13-14 °C
+voir: montrachet, bienvenues-batard-montrachet, criots-batard-montrachet, puligny-montrachet, chassagne-montrachet
+
+@ bienvenues-batard-montrachet
+nom: Bienvenues-Bâtard-Montrachet
+sous: Côte de Beaune
+niveau: grand cru
+couleurs: blanc
+styles: blanc-ample
+cepages: chardonnay*
+surface: environ 3,7 ha
+def: Petit grand cru blanc de Puligny, enclavé dans l'angle nord-est du Bâtard-Montrachet.
+texte: Les Bienvenues forment un rectangle détaché du [[batard-montrachet|Bâtard]], sur Puligny seulement, contre le premier cru Les Pucelles. Le nom rappellerait les « bienvenus », métayers à qui les seigneurs confiaient ces terres. Même altitude, même pente presque nulle, sols voisins, un peu plus légers : le vin est de même souche que le Bâtard, avec un peu moins de masse et davantage de grâce — floral, miellé, d'une rondeur fine. Il se montre souvent plus tôt.
+gout: fleurs blanches, pêche, miel, amande, noisette, bouche ronde et fine
+garde: 8 à 20 ans
+service: 13-14 °C
+voir: batard-montrachet, criots-batard-montrachet, montrachet, puligny-montrachet
+
+@ criots-batard-montrachet
+nom: Criots-Bâtard-Montrachet
+sous: Côte de Beaune
+niveau: grand cru
+couleurs: blanc
+styles: blanc-ample
+cepages: chardonnay*
+surface: environ 1,6 ha
+def: Le plus petit des grands crus blancs de la Côte de Beaune, sur la seule commune de Chassagne.
+texte: Les Criots prolongent le [[batard-montrachet|Bâtard]] vers le sud, sur Chassagne-Montrachet, en légère pente vers le sud-est. Le nom, que l'on retrouve dans la Griotte de Gevrey, désigne un terrain crayeux et caillouteux : le sol est en effet plus pierreux et plus mince que chez son voisin. Une poignée de producteurs en tirent quelques milliers de bouteilles d'un vin plus délicat que le Bâtard, floral, minéral, d'une ampleur mesurée, qui fait le lien entre les grands crus du pied de coteau et les premiers crus de Chassagne.
+gout: fleurs blanches, agrumes, fruits secs, miel, notes minérales, bouche fine et longue
+garde: 8 à 20 ans
+service: 13-14 °C
+voir: batard-montrachet, bienvenues-batard-montrachet, montrachet, chassagne-montrachet
+
+@ chassagne-montrachet
+nom: Chassagne-Montrachet
+sous: Côte de Beaune
+niveau: communale
+couleurs: blanc, rouge
+styles: blanc-ample, rouge-souple
+cepages: chardonnay*, pinot-noir*
+surface: environ 300 ha
+depuis: 1937
+def: Dernier des trois grands villages de blancs de la Côte de Beaune, qui produit aussi des rouges solides.
+texte: Chassagne partage avec Puligny le [[montrachet]] et le [[batard-montrachet]], et possède seul les [[criots-batard-montrachet|Criots]]. Son vignoble, qui déborde un peu sur Remigny, en Saône-et-Loire, est plus hétérogène que celui de ses voisins : des calcaires et des marnes blanches propices au chardonnay voisinent avec des terres rouges, argileuses et caillouteuses, longtemps vouées au pinot noir. Le village était majoritairement rouge jusqu'aux années 1980 ; le blanc en occupe aujourd'hui plus des deux tiers.
+texte: Le Chassagne blanc est plein, ferme, généreux : fleurs blanches, fruits mûrs, noisette, avec une assise qui le rapproche du [[meursault]] et une minéralité qui rappelle le [[puligny-montrachet|Puligny]]. Le rouge, coloré et tannique, sur la cerise et le noyau, s'apparente à ceux de [[santenay]] ; les meilleurs viennent de Morgeot et du Clos Saint-Jean.
+texte: Les premiers crus sont nombreux — plus de cinquante climats, souvent regroupés sous une quinzaine de noms. Parmi les plus réputés en blanc : Les Caillerets, Les Ruchottes, La Romanée, Les Chenevottes, Les Vergers, En Remilly et Blanchot-Dessus, voisins des grands crus, ainsi que le vaste Morgeot, au sud.
+gout: aubépine, acacia, poire, noisette, miel pour les blancs ; cerise, noyau et épices pour les rouges
+garde: 5 à 15 ans pour les blancs, 5 à 12 ans pour les rouges
+service: 12-13 °C pour les blancs, 15-16 °C pour les rouges
+crus: premiers crus Les Caillerets, Les Ruchottes, La Romanée, Morgeot, Les Chenevottes, Les Vergers, Clos Saint-Jean, La Maltroie, Les Champs Gain, En Remilly, Blanchot-Dessus, Abbaye de Morgeot
+voir: puligny-montrachet, montrachet, saint-aubin, santenay, meursault
+
+@ saint-aubin
+nom: Saint-Aubin
+sous: Côte de Beaune
+niveau: communale
+couleurs: blanc, rouge
+styles: blanc-vif, blanc-ample, rouge-souple
+cepages: chardonnay*, pinot-noir
+surface: environ 170 ha
+depuis: 1937
+def: Village en retrait, derrière le Montrachet, dont les blancs vifs et minéraux ont gagné une belle réputation.
+texte: Saint-Aubin et son hameau de Gamay — qui aurait donné son nom au cépage — se logent dans une vallée ouverte à l'ouest de Puligny et de Chassagne. Deux ensembles de coteaux : l'un, autour de la roche du May, tourné vers le sud et le sud-est, touche les premiers crus de Puligny et les abords du [[chevalier-montrachet]] ; l'autre, au-dessus du village, regarde le sud-ouest. Les sols calcaires blancs, très caillouteux, et l'altitude, jusqu'à 400 mètres, donnent des chardonnays droits et salins, moins amples que ceux des voisins illustres mais de même famille. Le blanc représente désormais les quatre cinquièmes de la récolte, et les premiers crus — une trentaine de climats — la majorité des surfaces.
+gout: fleurs blanches, citron, amande verte, silex, noisette, bouche vive et minérale
+garde: 4 à 10 ans
+service: 11-12 °C pour les blancs, 15 °C pour les rouges
+crus: premiers crus En Remilly, Les Murgers des Dents de Chien, La Chatenière, Les Frionnes, Sur le Sentier du Clou, Les Charmois, Sur Gamay, Derrière chez Édouard
+voir: puligny-montrachet, chassagne-montrachet, saint-romain, santenay
+
+@ santenay
+nom: Santenay
+sous: Côte de Beaune
+niveau: communale
+couleurs: rouge, blanc
+styles: rouge-souple, rouge-elegant, blanc-vif
+cepages: pinot-noir*, chardonnay
+surface: environ 330 ha
+depuis: 1937
+def: Village du sud de la Côte de Beaune, connu aussi pour ses eaux thermales, aux rouges fermes et terriens.
+texte: À Santenay, la Côte s'infléchit vers le sud-ouest avant de buter sur la vallée de la Dheune ; l'appellation déborde sur Remigny. Le relief est tourmenté, découpé par des failles, et les sols changent vite. À l'est, vers Chassagne, les premiers crus Les Gravières, La Comme et le Clos de Tavannes, sur des marnes et des cailloutis calcaires, donnent les vins les plus fins et les plus complets. Au-dessus du village, Beauregard et Beaurepaire sont plus fermes ; à l'ouest, La Maladière et le Clos Rousseau plus souples.
+texte: Le Santenay rouge est un vin franc, assez tannique, au fruit de cerise et de fraise mêlé de notes terriennes, qui se bonifie cinq à dix ans. Le blanc, en progression, est vif et floral. On y voit encore des vignes taillées en cordon de Royat, tradition locale.
+gout: cerise, fraise, mûre, pivoine, notes terriennes et épicées, tanins fermes
+garde: 5 à 12 ans
+service: 15-16 °C
+crus: premiers crus Les Gravières, La Comme, Clos de Tavannes, Beauregard, Beaurepaire, La Maladière, Clos Rousseau, Passetemps, Clos des Mouches
+voir: chassagne-montrachet, maranges, mercurey, saint-aubin
+
+@ maranges
+nom: Maranges
+sous: Côte de Beaune
+niveau: communale
+couleurs: rouge, blanc
+styles: rouge-souple, rouge-charpente
+cepages: pinot-noir*, chardonnay
+surface: environ 170 ha
+depuis: 1989
+def: L'extrémité sud de la Côte de Beaune, en Saône-et-Loire : trois villages réunis en 1989 sous un même nom.
+texte: Cheilly-lès-Maranges, Dezize-lès-Maranges et Sampigny-lès-Maranges ont fondu leurs trois anciennes appellations en une seule. Leurs coteaux, exposés au sud et au sud-est, entre 240 et 400 mètres, prolongent ceux de [[santenay]] sur des marnes et des calcaires bruns, plus argileux par endroits. Le vin, rouge à plus de neuf dixièmes, est coloré, charpenté, un peu rustique dans sa jeunesse, sur les fruits rouges et noirs et la réglisse : il servait jadis à donner du corps à des cuvées plus légères. Sept climats sont classés premiers crus.
+gout: cerise, cassis, mûre, réglisse, poivre, tanins fermes
+garde: 4 à 10 ans
+service: 15-16 °C
+crus: premiers crus La Fussière, Le Clos des Rois, Le Clos des Loyères, Le Croix Moines, Les Clos Roussots, Clos de la Boutière
+voir: santenay, cote-de-beaune-villages, mercurey, rully

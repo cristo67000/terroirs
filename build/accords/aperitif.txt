@@ -1,0 +1,89 @@
+# Accords mets-vins — famille « aperitif »
+
+@ gougeres
+nom: Gougères
+famille: aperitif
+styles: blanc-vif, effervescent-brut, rouge-leger
+vins: bourgogne-aligote, chablis, macon, saint-veran, rully, cremant-de-bourgogne
+audace: irancy
+conseil: La gougère est née en Bourgogne et c'est là qu'elle trouve ses meilleurs compagnons : un chardonnay sans bois ou un aligoté, dont la fraîcheur allège la pâte à choux et répond au sel du fromage. Un crémant fait le même travail avec ses bulles. Inutile de sortir un grand blanc boisé, qui écraserait cette bouchée légère.
+
+@ olives-et-tapenade
+nom: Olives et tapenade
+famille: aperitif
+styles: rose-leger, blanc-vif
+vins: cotes-de-provence, coteaux-varois-en-provence, cassis, costieres-de-nimes, luberon, picpoul-de-pinet
+audace: bandol
+conseil: Le sel de l'olive, l'anchois et la câpre réclament un vin frais et sec, sans aucun bois : rosé pâle de Provence ou blanc méridional un peu salin. Les rouges tanniques deviennent amers et métalliques au contact de la saumure ; si l'on tient au rouge, le choisir léger et le servir frais.
+
+@ biscuits-sales-et-fruits-secs
+nom: Biscuits salés, cacahuètes et fruits secs
+famille: aperitif
+styles: effervescent-brut, blanc-vif
+vins: cremant-d-alsace, cremant-de-loire, saumur, champagne, cremant-du-jura, igp-cotes-de-gascogne
+audace: arbois
+conseil: Le sel et le gras des grignotages appellent des bulles ou un blanc très vif, qui rincent le palais et donnent envie d'y revenir. Les noix, amandes et noisettes s'entendent à merveille avec un blanc jurassien de voile, au goût de noix fraîche. Éviter les rouges corsés, que le sel durcit.
+
+@ legumes-croquants-et-sauces
+nom: Légumes croquants et sauces froides
+famille: aperitif
+styles: blanc-vif, rose-leger
+vins: touraine, igp-val-de-loire, cheverny, entre-deux-mers, rose-de-loire, coteaux-d-aix-en-provence
+conseil: Radis, carottes, concombre et chou-fleur crus ont un goût végétal et croquant que prolonge un sauvignon de Loire ou de Bordeaux, aux notes d'herbe coupée et d'agrumes. Avec une sauce au fromage blanc ou au yaourt, l'acidité du vin est bienvenue. Les vins boisés et les rouges tanniques n'ont rien à faire ici.
+
+@ feuilletes-au-fromage
+nom: Feuilletés et allumettes au fromage
+famille: aperitif
+styles: effervescent-brut, blanc-vif
+vins: champagne, cremant-de-bourgogne, cremant-du-jura, alsace, vin-de-savoie, petit-chablis
+conseil: Le beurre du feuilletage et le fromage gratiné demandent une acidité franche : les bulles d'un champagne ou d'un crémant découpent le gras et leurs notes briochées font écho à la pâte. À défaut, un blanc sec et droit, pinot blanc d'Alsace ou jacquère de Savoie. Laisser de côté les vins moelleux, qui alourdissent.
+
+@ anchoiade
+nom: Anchoïade
+famille: aperitif
+styles: rose-vineux, blanc-vif
+vins: collioure, tavel, cassis, bandol, picpoul-de-pinet, cotes-du-roussillon
+conseil: L'anchois est très salé, très iodé, et l'ail cru n'arrange rien : il faut un vin sec qui ait du répondant, rosé de repas ou blanc méditerranéen ample et salin. L'accord de terroir avec Collioure, patrie de l'anchois, est une évidence. Pas de rouge tannique : l'iode lui donne un goût de métal.
+
+@ tarama-et-blinis
+nom: Tarama et blinis
+famille: aperitif
+styles: blanc-vif, effervescent-brut
+vins: chablis, petit-chablis, muscadet-sevre-et-maine, sancerre, cremant-de-loire, champagne
+conseil: Les œufs de poisson fumés, gras et salés, veulent un blanc tranchant et minéral qui nettoie la bouche, ou un effervescent brut peu dosé. Un chardonnay de Chablis ou un muscadet sur lie apportent en plus une pointe saline qui prolonge le goût marin. Les blancs aromatiques et sucrés brouillent l'accord.
+
+@ rillettes-de-thon
+nom: Rillettes de poisson
+famille: aperitif
+styles: blanc-vif, rose-leger
+vins: muscadet, gros-plant-du-pays-nantais, fiefs-vendeens, entre-deux-mers, quincy, igp-cotes-de-gascogne
+conseil: Thon, sardine ou maquereau en rillettes : du poisson gras, souvent relevé de citron et d'herbes. Un blanc vif et léger de la façade atlantique s'impose, dont l'acidité tient le rôle du filet de citron. Un rosé sec convient aussi ; les rouges, même légers, prennent un goût ferreux avec les poissons bleus.
+
+@ accras-de-morue
+nom: Accras de morue
+famille: aperitif
+styles: blanc-vif, effervescent-brut, blanc-aromatique
+vins: picpoul-de-pinet, cremant-de-limoux, alsace, igp-cotes-de-gascogne, cotes-de-provence, entre-deux-mers
+audace: vouvray
+conseil: La friture demande de la vivacité ou des bulles pour dégraisser, le piment réclame de la fraîcheur et peu d'alcool. Un blanc sec et fruité, servi bien frais, fait l'affaire ; si les accras sont très relevés, un chenin tendre, à peine sucré, apaise le feu. Proscrire les rouges tanniques et les vins très alcooleux, que le piment rend brûlants.
+
+@ pissaladiere
+nom: Pissaladière
+famille: aperitif
+styles: rose-leger, blanc-vif
+vins: bellet, cotes-de-provence, coteaux-varois-en-provence, cassis, pierrevert, igp-mediterranee
+conseil: La douceur des oignons longuement fondus, le sel des anchois et l'amertume des olives noires composent un équilibre que respecte un rosé sec ou un blanc de rolle des collines niçoises. Le vin doit rester simple et frais. Un rouge charpenté jurerait avec l'anchois, un blanc moelleux avec l'olive.
+
+@ planche-aperitive
+nom: Planche de charcuteries et de fromages
+famille: aperitif
+styles: rouge-leger, blanc-vif, effervescent-brut
+vins: beaujolais, touraine, saumur-champigny, anjou, macon, cotes-du-rhone, cremant-de-bourgogne
+conseil: Devant une planche où tout se mélange, mieux vaut un vin passe-partout qu'un grand vin : un rouge fruité et peu tannique servi frais pour la charcuterie, un blanc sec et rond pour les fromages. Un crémant brut met tout le monde d'accord. Les rouges puissants fatiguent vite et s'entendent mal avec la plupart des fromages.
+
+@ flammekueche
+nom: Flammekueche (tarte flambée)
+famille: aperitif
+styles: blanc-vif, blanc-aromatique, effervescent-brut
+vins: alsace, cremant-d-alsace, moselle, cotes-de-toul, vin-de-savoie
+conseil: Crème, oignons et lardons fumés sur une pâte fine : l'accord de terroir veut un blanc d'Alsace sec et désaltérant, sylvaner, pinot blanc ou riesling simple, dont l'acidité équilibre la crème. Un pinot noir léger servi frais accompagne bien le lard. Éviter les gewurztraminers riches, trop parfumés et trop ronds pour ce plat simple.

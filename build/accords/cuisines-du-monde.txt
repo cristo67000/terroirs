@@ -1,0 +1,159 @@
+# Accords mets-vins — famille « cuisines-du-monde »
+
+@ sushi
+nom: Sushi et sashimi
+famille: cuisines-du-monde
+styles: blanc-vif, effervescent-brut, blanc-aromatique
+vins: chablis, muscadet-sevre-et-maine, sancerre, alsace, champagne, cremant-d-alsace, picpoul-de-pinet
+audace: cotes-du-jura
+conseil: Poisson cru, riz légèrement sucré et vinaigré, sauce soja salée, wasabi piquant : il faut un blanc sec, pur et tranchant, sans bois, ou un champagne peu dosé. Le riesling sec et le chablis respectent la finesse du poisson. Les rouges deviennent métalliques au contact de l'iode et du soja.
+
+@ tempura
+nom: Tempura et fritures japonaises
+famille: cuisines-du-monde
+styles: effervescent-brut, blanc-vif
+vins: champagne, cremant-de-loire, cremant-de-bourgogne, cremant-de-limoux, chablis, muscadet-sevre-et-maine, alsace
+conseil: Une friture légère et croustillante de crevettes et de légumes : les bulles sont l'accord idéal, elles dégraissent et prolongent le croustillant. Un blanc sec et vif fait un bon second choix. Les vins riches ou boisés alourdissent ce plat aérien.
+
+@ ramen
+nom: Ramen et soupes de nouilles
+famille: cuisines-du-monde
+styles: blanc-aromatique, rouge-leger, blanc-vif
+vins: alsace, vin-de-savoie, arbois, beaujolais, touraine, cotes-du-jura
+conseil: Bouillon riche et salé, porc fondant, soja ou miso : l'accord est délicat, comme pour toute soupe. Un blanc sec et parfumé d'Alsace ou un rouge très léger servi frais accompagnent le gras du porc et la saveur umami ; les blancs du Jura s'entendent bien avec le miso. Éviter les tanins et l'alcool, que le bouillon chaud exacerbe.
+
+@ nems-et-rouleaux-de-printemps
+nom: Nems et rouleaux de printemps
+famille: cuisines-du-monde
+styles: blanc-aromatique, blanc-vif, rose-leger
+vins: alsace, igp-cotes-de-gascogne, touraine, cotes-de-provence, vouvray, cremant-d-alsace
+conseil: Friture ou galette de riz, menthe, coriandre et sauce au *nuoc-mâm* sucrée-salée : un blanc sec et aromatique, riesling, muscat ou sauvignon, s'accorde aux herbes fraîches. Une pointe de douceur dans le vin répond à la sauce. Les rouges sont déconseillés.
+
+@ raviolis-vapeur
+nom: Raviolis vapeur et dim sum
+famille: cuisines-du-monde
+styles: blanc-vif, effervescent-brut, blanc-aromatique
+vins: alsace, cremant-d-alsace, champagne, macon, montlouis-sur-loire, saint-bris
+conseil: Bouchées délicates aux crevettes, au porc ou aux légumes, trempées dans le soja et le vinaigre noir : un blanc sec et net ou un effervescent brut passe d'une bouchée à l'autre sans les couvrir. Le champagne est un compagnon reconnu de cette cuisine cantonaise. Pas de bois, pas de tanins.
+
+@ canard-laque
+nom: Canard laqué
+famille: cuisines-du-monde
+styles: blanc-aromatique, rouge-solaire, blanc-moelleux
+vins: alsace, alsace-grand-cru-zinnkoepfle, alsace-grand-cru-furstentum, chateauneuf-du-pape, gigondas, saint-amour, vouvray
+audace: maury, rivesaltes
+conseil: Peau caramélisée au miel et aux cinq épices, chair grasse et parfumée : le gewurztraminer ou le pinot gris, riches et épicés, parfois légèrement moelleux, sont des accords classiques. Côté rouge, il faut un vin très mûr, au fruit confit et aux tanins ronds. Les vins austères sont durcis par le sucre de la laque.
+
+@ bo-bun
+nom: Bo bun et salades vietnamiennes
+famille: cuisines-du-monde
+styles: blanc-aromatique, rose-leger, blanc-vif
+vins: alsace, igp-cotes-de-gascogne, sancerre, cotes-de-provence, rose-de-loire, cheverny
+conseil: Vermicelles froids, bœuf sauté, herbes, cacahuètes et sauce aigre-douce : un plat frais et parfumé qui veut un blanc vif et expressif ou un rosé léger. La citronnelle et la coriandre s'entendent bien avec le sauvignon et le riesling. Éviter les rouges tanniques.
+
+@ curry-vert-thai
+nom: Curry thaï au lait de coco
+famille: cuisines-du-monde
+styles: blanc-aromatique, blanc-moelleux
+vins: alsace, alsace-grand-cru-kaefferkopf, vouvray, montlouis-sur-loire, jurancon, pacherenc-du-vic-bilh, condrieu
+conseil: Lait de coco onctueux, citronnelle, galanga, basilic et piment : les blancs très aromatiques, gewurztraminer, pinot gris ou viognier, ont la richesse voulue, et un peu de sucre résiduel calme le piment. Servir bien frais. L'alcool élevé et les tanins rendent le piquant brûlant.
+
+@ pad-thai
+nom: Pad thaï et nouilles sautées
+famille: cuisines-du-monde
+styles: blanc-aromatique, rose-leger, blanc-vif
+vins: alsace, vouvray, igp-cotes-de-gascogne, cotes-de-provence, cabernet-d-anjou, touraine
+conseil: Nouilles de riz, tamarin, citron vert, cacahuètes et sauce de poisson : l'équilibre sucré, acide et salé du plat demande un blanc fruité à l'acidité vive, sec ou à peine tendre. Un rosé rond et frais convient aussi. Les rouges structurés n'y trouvent pas leur place.
+
+@ curry-indien-doux
+nom: Curry indien doux (korma, tikka masala)
+famille: cuisines-du-monde
+styles: blanc-aromatique, blanc-ample, rose-vineux
+vins: alsace, condrieu, igp-collines-rhodaniennes, saint-joseph, vouvray, tavel, igp-pays-d-oc
+conseil: Sauces crémeuses à la tomate, aux amandes ou au yaourt, riches en épices douces plutôt qu'en piment : un blanc parfumé et rond, pinot gris, viognier ou marsanne, en épouse l'onctuosité. Un rosé corsé est une bonne option. Les tanins se heurtent aux épices et le bois neuf fait double emploi.
+
+@ curry-tres-pimente
+nom: Plats très pimentés (vindaloo, sichuanais)
+famille: cuisines-du-monde
+styles: blanc-moelleux, effervescent-doux, rose-leger
+vins: vouvray, montlouis-sur-loire, coteaux-du-layon, alsace, clairette-de-die, bugey, rose-d-anjou
+conseil: Le piment amplifie l'alcool, les tanins et l'amertume du bois : face à un plat brûlant, tout vin puissant devient pénible. Seuls conviennent des vins légers en alcool, servis très frais, avec un peu de sucre pour apaiser le feu, chenin demi-sec, riesling tendre ou mousseux doux. Aucun grand rouge, qui serait à la fois gâché et agressif.
+
+@ poulet-tandoori
+nom: Poulet tandoori
+famille: cuisines-du-monde
+styles: rose-vineux, blanc-aromatique, rouge-leger
+vins: tavel, lirac, bandol, alsace, cotes-du-rhone, brouilly, igp-cotes-catalanes
+conseil: Poulet mariné au yaourt et aux épices, grillé au four d'argile : le fumé et les épices appellent un rosé de repas ou un blanc aromatique sec. Un rouge fruité et peu tannique, servi frais, passe bien si le plat n'est pas trop relevé. Écarter les vins tanniques.
+
+@ couscous
+nom: Couscous
+famille: cuisines-du-monde
+styles: rouge-solaire, rose-vineux, rouge-souple
+vins: cotes-du-rhone-villages, costieres-de-nimes, corbieres, minervois, cotes-du-roussillon, tavel, vin-de-corse, cotes-de-provence
+conseil: Semoule, légumes au bouillon, pois chiches, agneau, poulet et merguez : les rouges ronds et épicés du Midi sont l'accord d'usage, à condition de les choisir souples et de les servir un peu frais. Avec beaucoup de harissa, un rosé corsé est plus confortable. Le piment n'aime ni les tanins durs ni l'alcool.
+
+@ tajine-aux-pruneaux
+nom: Tajine d'agneau aux pruneaux
+famille: cuisines-du-monde
+styles: rouge-solaire, vdn-rouge
+vins: chateauneuf-du-pape, rasteau, gigondas, saint-chinian, faugeres, cotes-du-roussillon-villages, fitou
+audace: maury, banyuls
+conseil: Agneau confit, fruits secs, miel, cannelle et amandes : un plat sucré-salé qui veut un rouge très mûr, au fruit confituré et aux tanins fondus, comme les grenaches du Sud. Les vins secs et austères paraissent amers face au sucre. Un vin doux naturel rouge, servi frais, est un accord audacieux qui fonctionne.
+
+@ tajine-de-poulet-au-citron
+nom: Tajine de poulet au citron confit
+famille: cuisines-du-monde
+styles: blanc-ample, rose-vineux, blanc-aromatique
+vins: cassis, bandol, cotes-du-rhone, laudun, la-clape, collioure, patrimonio
+conseil: Citron confit, olives, safran et gingembre : acidité, sel et amertume dominent. Un blanc méditerranéen ample, aux notes d'agrumes et d'herbes, ou un rosé de caractère, s'accorde bien mieux qu'un rouge. Les tanins se heurtent à l'olive et au citron.
+
+@ mezze-libanais
+nom: Mezzé libanais
+famille: cuisines-du-monde
+styles: rose-leger, blanc-vif, rouge-leger
+vins: cotes-de-provence, coteaux-d-aix-en-provence, picpoul-de-pinet, sancerre, languedoc, luberon, igp-mediterranee
+conseil: Houmous, taboulé, caviar d'aubergine, falafels, feuilles de vigne : beaucoup de citron, d'ail, de persil et d'huile d'olive. Un rosé sec ou un blanc vif et herbacé suit toute la table. Avec les grillades qui viennent ensuite, un rouge méditerranéen souple prend le relais.
+
+@ paella
+nom: Paella
+famille: cuisines-du-monde
+styles: rose-vineux, blanc-ample, rouge-leger
+vins: collioure, cotes-du-roussillon, igp-cotes-catalanes, tavel, la-clape, corbieres, bandol, irouleguy
+conseil: Riz safrané, fruits de mer, poulet et chorizo : un plat composite où le rosé de repas est le meilleur trait d'union. Les vins catalans du Roussillon, proches par la géographie, sont tout indiqués, en rosé ou en blanc ample. Un rouge n'est acceptable que léger et frais, à cause des coquillages.
+
+@ tapas
+nom: Tapas et jambon ibérique
+famille: cuisines-du-monde
+styles: blanc-vif, rose-vineux, vin-jaune
+vins: collioure, igp-cotes-catalanes, irouleguy, picpoul-de-pinet, cotes-du-roussillon, arbois, champagne
+audace: chateau-chalon
+conseil: Jambon, anchois, olives, croquetas, poivrons : du sel, du gras et de la friture. L'Espagne sert ici ses vins secs élevés sous voile, dont les blancs du Jura sont les cousins français, remarquables avec le jambon. Plus simplement, un blanc vif ou un rosé catalan ; les rouges tanniques sont durcis par le sel.
+
+@ chili-con-carne
+nom: Chili con carne
+famille: cuisines-du-monde
+styles: rouge-solaire, rouge-souple
+vins: languedoc, corbieres, cotes-du-roussillon, costieres-de-nimes, fronton, cotes-du-rhone, igp-pays-d-oc
+conseil: Bœuf, haricots rouges, tomate, cumin et piment : un rouge fruité et rond, aux tanins souples, accompagne la viande et les épices. Plus le chili est pimenté, plus le vin doit être léger en alcool et servi frais. Les rouges boisés et tanniques deviennent âpres.
+
+@ fajitas-et-tacos
+nom: Fajitas, tacos et guacamole
+famille: cuisines-du-monde
+styles: rose-leger, blanc-vif, rouge-leger
+vins: igp-cotes-de-gascogne, touraine, cotes-de-provence, igp-pays-d-oc, beaujolais, fronton
+conseil: Citron vert, coriandre, avocat, tomate crue et piment : la fraîcheur prime. Un sauvignon vif s'entend avec la coriandre et le guacamole, un rosé sec ou un rouge très fruité avec les viandes grillées. Rien de tannique, à cause du piment.
+
+@ moussaka
+nom: Moussaka
+famille: cuisines-du-monde
+styles: rouge-solaire, rouge-souple
+vins: cotes-du-rhone-villages, vinsobres, ventoux, pic-saint-loup, minervois, patrimonio, coteaux-varois-en-provence
+conseil: Aubergines, agneau haché à la tomate et à la cannelle, béchamel gratinée : un plat méditerranéen riche et doucement épicé. Un rouge du Midi rond, aux tanins mûrs, lui répond naturellement. Garder un peu de fraîcheur dans le vin pour alléger l'ensemble.
+
+@ colombo-antillais
+nom: Colombo et cuisine créole
+famille: cuisines-du-monde
+styles: blanc-aromatique, rose-vineux, blanc-moelleux
+vins: alsace, igp-cotes-de-gascogne, tavel, cotes-de-provence, jurancon, vouvray
+conseil: Mélange d'épices proche du curry, lait de coco ou citron vert, piment antillais plus ou moins présent : un blanc aromatique et frais, ou un rosé de repas, accompagne les épices. Si le plat est très relevé, un vin tendre et peu alcoolisé apaise le feu. Pas de rouge tannique.

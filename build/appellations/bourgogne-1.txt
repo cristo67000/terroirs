@@ -1,0 +1,411 @@
+# Bourgogne 1/3 — appellations régionales, Chablisien et Grand Auxerrois, Côte chalonnaise, Mâconnais (24 fiches)
+
+# --- Appellations régionales ---
+
+@ bourgogne
+nom: Bourgogne
+sous: Appellations régionales
+niveau: régionale
+couleurs: rouge, rosé, blanc
+styles: rouge-souple, blanc-vif, rose-leger
+cepages: pinot-noir*, chardonnay*, gamay, cesar, pinot-blanc, pinot-gris
+surface: plusieurs milliers d'hectares, dénominations comprises
+depuis: 1937
+def: L'appellation régionale de base, en pinot noir et en chardonnay, récoltée de l'Yonne au Mâconnais.
+texte: L'appellation Bourgogne peut être produite dans près de quatre cents communes de l'Yonne, de la Côte-d'Or et de Saône-et-Loire, sur les terrains qui n'ont pas droit à une appellation communale : bas de coteau, plateaux, vallons en retrait. Les rouges et rosés naissent du [[pinot-noir]], les blancs du [[chardonnay]] ; le [[cesar|césar]] subsiste dans l'Yonne, et le [[gamay]] n'entre en compte que pour les vins issus des crus du Beaujolais, sous la mention Bourgogne gamay.
+texte: Le nom peut être suivi d'une dénomination géographique, qui en dit long sur le style : Hautes-Côtes de Nuits et Hautes-Côtes de Beaune, sur les plateaux à l'ouest de la Côte, aux vins vifs et droits ; Côte d'Or, créée en 2017 pour les vignes du pied de la Côte ; Côte chalonnaise ; et, dans l'Yonne, Côtes d'Auxerre, Chitry, Épineuil, Tonnerre, Coulanges-la-Vineuse ou Côte Saint-Jacques. S'y ajoutent quelques lieux-dits historiques, tels Montrecul ou Le Chapitre, près de Dijon.
+texte: Bien choisi, un bourgogne est la meilleure introduction à la région : un pinot noir franc, au fruit de cerise, peu tannique, ou un chardonnay net et floral. Ceux des vignerons installés dans les grands villages proviennent souvent de parcelles contiguës aux appellations communales et en donnent un avant-goût fidèle.
+gout: cerise, framboise, tanins légers pour les rouges ; fleurs blanches, pomme, agrumes pour les blancs
+garde: 2 à 5 ans
+service: 14-15 °C pour les rouges, 10-12 °C pour les blancs
+crus: dénominations Hautes-Côtes de Nuits, Hautes-Côtes de Beaune, Côte d'Or, Côte chalonnaise, Côtes d'Auxerre, Chitry, Épineuil, Tonnerre, Coulanges-la-Vineuse, Côte Saint-Jacques
+voir: coteaux-bourguignons, bourgogne-aligote, bourgogne-passe-tout-grains, macon
+
+@ bourgogne-aligote
+nom: Bourgogne aligoté
+sous: Appellations régionales
+niveau: régionale
+couleurs: blanc
+styles: blanc-vif
+cepages: aligote*
+surface: environ 1 600 ha
+depuis: 1937
+def: Le blanc vif et léger de la Bourgogne, issu du seul cépage aligoté, sur toute l'aire régionale.
+texte: Second cépage blanc de la région, l'[[aligote|aligoté]] a longtemps occupé les bonnes pentes de la Côte avant d'être repoussé, après le phylloxéra, vers les hauts de coteau, les plateaux et les plaines. On le trouve partout, du Chablisien au Mâconnais, mais ses bastions sont les Hautes-Côtes, la Côte chalonnaise et les environs de Saint-Bris.
+texte: Le vin est pâle, citronné, d'une acidité franche, à boire jeune sur des huîtres, des escargots ou un jambon persillé ; c'est aussi le partenaire traditionnel de la crème de cassis. Issu de vieilles vignes à petits rendements, parfois élevé en fût, il prend une tout autre dimension : plus de gras, des notes de noisette et de fleurs blanches. Un seul village a obtenu pour lui une appellation communale, [[bouzeron]].
+gout: citron, pomme verte, fleurs blanches, pointe saline, acidité vive
+garde: à boire dans les 2 à 3 ans
+service: 8-10 °C
+voir: bouzeron, bourgogne, saint-bris
+
+@ bourgogne-passe-tout-grains
+nom: Bourgogne Passe-tout-grains
+sous: Appellations régionales
+niveau: régionale
+couleurs: rouge, rosé
+styles: rouge-leger, rose-leger
+cepages: pinot-noir*, gamay*
+depuis: 1937
+def: Assemblage bourguignon de pinot noir et de gamay, vinifiés ensemble, pour un rouge de soif.
+texte: Le Passe-tout-grains est l'une des rares appellations bourguignonnes fondées sur un assemblage : le [[pinot-noir]] doit en fournir au moins un tiers environ, le [[gamay]] au moins 15 %, les deux cépages étant encuvés ensemble. Il est produit surtout en Saône-et-Loire et sur les terres basses de la Côte-d'Or. Le gamay apporte le fruit et la vivacité, le pinot la tenue : un vin simple et gai, à boire jeune et frais.
+gout: groseille, cerise, framboise, bouche vive et peu tannique
+garde: à boire dans les 2 à 3 ans
+service: 12-14 °C
+voir: bourgogne, coteaux-bourguignons, beaujolais
+
+@ coteaux-bourguignons
+nom: Coteaux bourguignons
+sous: Appellations régionales
+niveau: régionale
+couleurs: rouge, rosé, blanc
+styles: rouge-leger, blanc-vif, rose-leger
+cepages: gamay*, pinot-noir*, cesar, chardonnay*, aligote*, melon-de-bourgogne, pinot-blanc, pinot-gris
+depuis: 2011
+def: La plus large des appellations régionales, de l'Auxerrois au Beaujolais, qui admet l'assemblage des cépages.
+texte: Créée en 2011 pour remplacer le Bourgogne grand ordinaire, l'appellation couvre toute la Bourgogne viticole et s'étend au Beaujolais. Elle laisse une grande liberté : rouges et rosés de [[gamay]] ou de [[pinot-noir]], seuls ou assemblés, avec le [[cesar|césar]] dans l'Yonne ; blancs de [[chardonnay]], d'[[aligote|aligoté]], de [[melon-de-bourgogne|melon]] ou de pinot blanc. Dans les faits, l'essentiel des volumes est rouge, à dominante de gamay : des vins fruités et souples, sans prétention de garde.
+gout: fruits rouges frais, bouche souple ; blancs légers et floraux
+garde: à boire dans les 2 à 3 ans
+service: 12-14 °C pour les rouges, 9-11 °C pour les blancs
+voir: bourgogne, bourgogne-passe-tout-grains, beaujolais
+
+@ cremant-de-bourgogne
+nom: Crémant de Bourgogne
+sous: Appellations régionales
+niveau: régionale
+couleurs: effervescent
+styles: effervescent-brut
+cepages: pinot-noir*, chardonnay*, gamay, aligote, pinot-blanc, pinot-gris, melon-de-bourgogne, sacy
+surface: environ 3 000 ha
+depuis: 1975
+def: L'effervescent de méthode traditionnelle de la Bourgogne, blanc ou rosé, élaboré dans toute la région.
+texte: La Bourgogne fait mousser ses vins depuis les années 1820, à Rully, Nuits-Saint-Georges, Tonnerre ou Chablis. Le crémant en a fixé les règles en 1975 : vendanges manuelles, pressurage en raisins entiers, seconde fermentation en bouteille et au moins neuf mois sur lattes. Les raisins viennent de toute l'aire régionale, avec des foyers dans le Châtillonnais, l'Auxerrois, la Côte chalonnaise et le Mâconnais.
+texte: [[pinot-noir|Pinot noir]] et [[chardonnay]] forment le cœur des assemblages, le [[gamay]] ne pouvant dépasser un cinquième, l'[[aligote|aligoté]] apportant sa vivacité. Les blancs de blancs sont floraux et citronnés, les blancs de noirs plus vineux, les rosés nets et fruités. Deux mentions distinguent les cuvées de long vieillissement : Éminent (au moins vingt-quatre mois sur lattes) et Grand Éminent (trente-six mois, pinot noir et chardonnay surtout).
+gout: pomme, agrumes, fleurs blanches, brioche pour les cuvées vieillies, bulle fine
+garde: à boire dans les 2 à 3 ans ; davantage pour les cuvées de long vieillissement
+service: 6-8 °C
+voir: bourgogne-mousseux, champagne, cremant-du-jura, cremant-d-alsace
+
+@ bourgogne-mousseux
+nom: Bourgogne mousseux
+sous: Appellations régionales
+niveau: régionale
+couleurs: effervescent
+styles: effervescent-brut
+cepages: pinot-noir*, gamay*, cesar
+depuis: 1943
+def: Curiosité bourguignonne : un effervescent rouge de méthode traditionnelle, à base de pinot noir et de gamay.
+texte: Depuis que le [[cremant-de-bourgogne]] a repris les blancs et les rosés, l'appellation Bourgogne mousseux est réservée aux seuls vins rouges, élaborés par seconde fermentation en bouteille. La production, confidentielle, perpétue une mode du XIXᵉ siècle, quand les maisons de Nuits-Saint-Georges et de Rully faisaient mousser jusqu'à leurs meilleurs crus. Le vin, d'un rubis vif, associe la mousse à un fruit de cassis et de cerise, avec une légère pointe tannique ; on le sert en brut ou en demi-sec.
+gout: cassis, cerise, mûre, légère structure tannique, mousse vive
+garde: à boire dans les 2 ans
+service: 8-10 °C
+voir: cremant-de-bourgogne, bourgogne-passe-tout-grains
+
+@ igp-coteaux-de-l-auxois
+nom: Coteaux de l'Auxois
+sous: Appellations régionales
+niveau: IGP
+couleurs: blanc, rouge, rosé
+styles: blanc-vif, rouge-leger, rose-leger
+cepages: chardonnay, pinot-noir, auxerrois, pinot-gris, aligote, gamay, melon-de-bourgogne
+def: Indication géographique du nord-ouest de la Côte-d'Or, autour de Semur-en-Auxois, Flavigny et Alésia.
+texte: Prospère jusqu'au phylloxéra, le vignoble de l'Auxois avait presque disparu quand quelques producteurs l'ont replanté à partir des années 1990, sur les coteaux marno-calcaires de Flavigny-sur-Ozerain, Villaines-les-Prévôtes ou Viserny. Il ne couvre que quelques dizaines d'hectares. Le climat, plus frais que sur la Côte, donne des blancs légers et vifs — de [[chardonnay]], d'[[auxerrois]] ou de [[pinot-gris|pinot gris]] — et des rouges de pinot noir clairs et fruités.
+gout: agrumes, fleurs blanches, fruits rouges frais, bouche légère et vive
+garde: à boire dans les 2 à 3 ans
+service: 9-11 °C pour les blancs, 13-14 °C pour les rouges
+voir: bourgogne, vezelay
+
+# --- Chablisien et Grand Auxerrois ---
+
+@ petit-chablis
+nom: Petit Chablis
+sous: Chablisien et Grand Auxerrois
+niveau: communale
+couleurs: blanc
+styles: blanc-vif
+cepages: chardonnay*
+surface: environ 1 200 ha
+depuis: 1944
+def: Le premier échelon du vignoble de Chablis : un chardonnay léger et vif, venu surtout des plateaux.
+texte: Le Petit Chablis se récolte dans les mêmes communes que le [[chablis]], mais sur d'autres sols : les calcaires durs du Portlandien, bruns et caillouteux, qui coiffent les coteaux et s'étendent sur les plateaux exposés au vent. Plus jeune géologiquement et plus froid, ce terroir donne un vin moins profond, mais d'une fraîcheur immédiate : agrumes, fleurs blanches, finale saline. Il se boit dans sa jeunesse, sans passage sous bois.
+gout: citron, pamplemousse, fleurs blanches, pointe iodée, bouche légère et vive
+garde: à boire dans les 2 à 3 ans
+service: 8-10 °C
+voir: chablis, saint-bris, bourgogne-aligote
+
+@ chablis
+nom: Chablis
+sous: Chablisien et Grand Auxerrois
+niveau: communale
+couleurs: blanc
+styles: blanc-vif, blanc-ample
+cepages: chardonnay*
+surface: environ 3 700 ha, dont près de 800 en premiers crus
+depuis: 1938
+def: Le grand blanc sec de l'Yonne : un chardonnay minéral né des marnes à huîtres fossiles de la vallée du Serein.
+texte: Autour de la petite ville de Chablis, une vingtaine de communes se partagent les coteaux de la vallée du Serein et de ses vallons latéraux. Le sous-sol date du Kimméridgien : une alternance de marnes grises et de bancs calcaires truffés de minuscules huîtres fossiles, *Exogyra virgula*. Le climat, déjà septentrional, expose la vigne aux gelées de printemps, que l'on combat par des chaufferettes, l'aspersion d'eau ou des fils chauffants.
+texte: Le [[chardonnay]] prend ici un visage qu'il n'a nulle part ailleurs : robe pâle à reflets verts, nez de citron, de pomme verte, de coquille d'huître et de pierre à fusil, bouche droite et saline. La plupart des vins sont élevés en cuve pour préserver cette netteté ; le fût, quand il intervient, reste discret et concerne surtout les crus.
+texte: Les premiers crus regroupent une quarantaine de climats, le plus souvent vendus sous dix-sept noms principaux. Ceux de la rive droite du Serein, voisins des grands crus — Montée de Tonnerre, Fourchaume, Mont de Milieu —, sont les plus amples ; ceux de la rive gauche — Vaillons, Montmains, Côte de Léchet — sont plus tendus et floraux. Ils demandent trois à cinq ans pour s'ouvrir et peuvent tenir une décennie.
+gout: citron, pomme verte, fleurs blanches, coquille d'huître, pierre à fusil, bouche droite et saline
+garde: 3 à 6 ans ; 5 à 12 ans pour les premiers crus
+service: 10-12 °C
+crus: premiers crus Montée de Tonnerre, Fourchaume, Mont de Milieu, Vaulorent, Vaillons, Montmains, Côte de Léchet, Vaucoupin, Beauroy, Vosgros, Les Fourneaux
+voir: chablis-grand-cru, petit-chablis, saint-bris, sancerre
+
+@ chablis-grand-cru
+nom: Chablis Grand Cru
+sous: Chablisien et Grand Auxerrois
+niveau: grand cru
+couleurs: blanc
+styles: blanc-ample, blanc-vif
+cepages: chardonnay*
+surface: environ 100 ha
+depuis: 1938
+def: Un seul coteau au-dessus de Chablis, sept climats, et les chardonnays les plus profonds de l'Yonne.
+texte: Le grand cru de Chablis forme une seule appellation, d'un seul tenant, sur la rive droite du Serein, face à la ville : un coteau raide tourné vers le sud et le sud-ouest, entre 100 et 250 mètres d'altitude, sur les marnes kimméridgiennes. Sept climats le composent, d'ouest en est : Bougros, Preuses, Vaudésir, Grenouilles, Valmur, Les Clos et Blanchot. Les Clos, le plus vaste, passe pour le plus puissant et le plus lent à se faire ; Vaudésir et Preuses pour les plus fins ; Blanchot, tourné vers le levant, pour le plus floral. La Moutonne, à cheval sur Vaudésir et Preuses, est un monopole toléré sur l'étiquette sans être un climat officiel. Plus mûrs et plus denses que les premiers crus, souvent élevés en partie sous bois, ces vins gardent la tension minérale de Chablis et demandent cinq à dix ans de patience.
+gout: agrumes confits, miel, amande, pierre à fusil, iode, bouche ample et tendue, grande longueur
+garde: 8 à 20 ans
+service: 12-13 °C
+crus: sept climats : Blanchot, Bougros, Les Clos, Grenouilles, Preuses, Valmur, Vaudésir
+voir: chablis, corton-charlemagne, meursault
+
+@ saint-bris
+nom: Saint-Bris
+sous: Chablisien et Grand Auxerrois
+niveau: communale
+couleurs: blanc
+styles: blanc-vif, blanc-aromatique
+cepages: sauvignon-blanc*, sauvignon-gris
+surface: environ 150 ha
+depuis: 2003
+def: La seule appellation bourguignonne de sauvignon, au sud-est d'Auxerre.
+texte: Exception en terre de chardonnay, Saint-Bris-le-Vineux et quatre communes voisines de l'Auxerrois cultivent le [[sauvignon-blanc|sauvignon]], implanté ici de longue date et consacré par l'appellation en 2003. Les vignes occupent des coteaux de calcaires et de marnes du Jurassique supérieur, proches de ceux de [[chablis]]. Le vin, vif et très aromatique, évoque les sauvignons du Centre-Loire avec une note plus crayeuse. Le village est aussi connu pour ses caves médiévales creusées sous les maisons.
+gout: agrumes, bourgeon de cassis, buis, pêche blanche, finale saline
+garde: à boire dans les 2 à 4 ans
+service: 9-11 °C
+voir: sancerre, pouilly-fume, chablis, irancy
+
+@ irancy
+nom: Irancy
+sous: Chablisien et Grand Auxerrois
+niveau: communale
+couleurs: rouge
+styles: rouge-souple, rouge-leger
+cepages: pinot-noir*, cesar
+surface: environ 190 ha
+depuis: 1999
+def: Le village rouge de l'Yonne : un pinot noir ferme, parfois relevé d'une touche de césar.
+texte: À une quinzaine de kilomètres au sud d'Auxerre, Irancy se niche au fond d'un cirque de coteaux marneux qui l'abrite des vents et concentre la chaleur ; l'appellation déborde sur Cravant et Vincelottes. Le [[pinot-noir]] y est seul ou accompagné, à hauteur d'un dixième au plus, du [[cesar|césar]], vieux cépage local très tannique. Les vins, d'un rouge franc, sont fermes et frais dans leur jeunesse, sur la cerise et les fruits noirs ; les bons millésimes vieillissent bien. Les climats Palotte et Les Mazelots sont les plus réputés.
+gout: cerise, griotte, cassis, poivre, tanins fermes, bonne fraîcheur
+garde: 3 à 8 ans
+service: 14-16 °C
+crus: climats Palotte, Les Mazelots, Côte du Moutier, Veaupessiot
+voir: bourgogne, saint-bris, marsannay
+
+@ vezelay
+nom: Vézelay
+sous: Chablisien et Grand Auxerrois
+niveau: communale
+couleurs: blanc
+styles: blanc-vif
+cepages: chardonnay*
+surface: environ 70 ha
+depuis: 2017
+def: Petit vignoble de chardonnay au pied de la colline de Vézelay, promu appellation communale en 2017.
+texte: Aux portes du Morvan, les vignes de Vézelay, Asquins, Saint-Père et Tharoiseau occupent les pentes argilo-calcaires de la vallée de la Cure, entre 200 et 300 mètres d'altitude. Ruiné par le phylloxéra, le vignoble a été relevé à partir des années 1970 ; il est passé du rang de dénomination régionale à celui d'appellation communale en 2017, pour les seuls blancs. Le [[chardonnay]] y donne un vin frais, droit, floral, d'une minéralité discrète.
+gout: fleurs blanches, agrumes, poire, pointe de noisette, bouche fraîche
+garde: 2 à 5 ans
+service: 10-12 °C
+voir: chablis, petit-chablis, bourgogne
+
+# --- Côte chalonnaise ---
+
+@ bouzeron
+nom: Bouzeron
+sous: Côte chalonnaise
+niveau: communale
+couleurs: blanc
+styles: blanc-vif
+cepages: aligote*
+surface: environ 55 ha
+depuis: 1998
+def: Le seul village de Bourgogne dont l'appellation communale soit réservée à l'aligoté.
+texte: Au nord de la Côte chalonnaise, tout près de Chagny, Bouzeron occupe les deux versants d'un vallon étroit, sur des marnes blanches et des calcaires. L'[[aligote|aligoté]] y est planté sur les pentes, à la place que le chardonnay occupe ailleurs, et l'on y conserve la variété dite « dorée », aux petites baies. Avec des rendements contenus, il donne un blanc plus mûr et plus rond qu'un [[bourgogne-aligote]] courant, sans perdre sa vivacité.
+gout: fleurs blanches, citron, pomme, noisette, silex, bouche vive et ronde
+garde: 2 à 5 ans
+service: 10-11 °C
+voir: bourgogne-aligote, rully, montagny
+
+@ rully
+nom: Rully
+sous: Côte chalonnaise
+niveau: communale
+couleurs: blanc, rouge
+styles: blanc-vif, rouge-souple
+cepages: chardonnay*, pinot-noir*
+surface: environ 360 ha
+depuis: 1939
+def: Village du nord de la Côte chalonnaise, surtout réputé pour ses blancs vifs et fruités.
+texte: Rully, que complète une partie de Chagny, prolonge la Côte de Beaune au-delà de la vallée de la Dheune. Les vignes montent entre 230 et 300 mètres sur des sols bruns calcaires ou argilo-calcaires. Le [[chardonnay]] occupe les deux tiers des surfaces : il donne un blanc floral et citronné, plus tendu que ses voisins du sud. Les rouges sont légers et fruités. Vingt-trois climats sont classés premiers crus. Le village fut aussi, dès les années 1820, un berceau des effervescents bourguignons.
+gout: acacia, chèvrefeuille, citron, pêche blanche pour les blancs ; cerise et cassis pour les rouges
+garde: 3 à 6 ans
+service: 11-12 °C pour les blancs, 14-15 °C pour les rouges
+crus: premiers crus Grésigny, Rabourcé, Les Cloux, La Pucelle, Clos Saint-Jacques, Le Meix Cadot, Clos du Chaigne
+voir: mercurey, montagny, bouzeron, cremant-de-bourgogne
+
+@ mercurey
+nom: Mercurey
+sous: Côte chalonnaise
+niveau: communale
+couleurs: rouge, blanc
+styles: rouge-souple, blanc-vif
+cepages: pinot-noir*, chardonnay*
+surface: environ 640 ha
+depuis: 1936
+def: La plus vaste et la plus connue des appellations de la Côte chalonnaise, aux rouges fermes et charnus.
+texte: Mercurey et sa voisine Saint-Martin-sous-Montaigu occupent un large amphithéâtre de collines, à une douzaine de kilomètres de Chalon-sur-Saône. Les vignes s'étagent entre 230 et 320 mètres sur des marnes et des calcaires du Jurassique, aux expositions très variées. Le [[pinot-noir]] couvre plus des quatre cinquièmes de l'appellation.
+texte: Le rouge de Mercurey a la réputation d'un vin solide : couleur soutenue, fruit de cerise et de framboise, tanins présents dans la jeunesse, qui s'arrondissent en quatre ou cinq ans. Il se rapproche par son assise des rouges du sud de la Côte de Beaune. Trente-deux climats sont classés premiers crus et fournissent les cuvées de garde. Les blancs, minoritaires, sont fermes et floraux.
+gout: cerise, framboise, fraise, épices, sous-bois avec l'âge, tanins fermes
+garde: 4 à 10 ans
+service: 15-16 °C
+crus: premiers crus Clos du Roy, Les Champs Martin, Clos des Barraults, Clos l'Évêque, Les Naugues, Clos des Myglands (monopole), Les Velley, Les Croichots
+voir: givry, rully, santenay, maranges
+
+@ givry
+nom: Givry
+sous: Côte chalonnaise
+niveau: communale
+couleurs: rouge, blanc
+styles: rouge-souple, blanc-vif
+cepages: pinot-noir*, chardonnay*
+surface: environ 270 ha
+depuis: 1946
+def: Appellation de la Côte chalonnaise dominée par des rouges fruités et structurés, que la tradition dit préférés d'Henri IV.
+texte: À l'ouest de Chalon-sur-Saône, Givry et quelques parcelles de Dracy-le-Fort et de Jambles alignent leurs vignes sur des coteaux tournés vers l'est et le sud-est, entre 240 et 280 mètres, sur des sols bruns calcaires. Le rouge, qui représente plus des quatre cinquièmes de la récolte, est coloré, parfumé — violette, fraise, mûre —, avec une trame tannique nette qui s'assouplit en trois à cinq ans. Une part notable du vignoble est classée en premiers crus, dont plusieurs anciens clos monastiques.
+gout: violette, fraise, mûre, réglisse, tanins fins mais présents
+garde: 3 à 8 ans
+service: 15-16 °C
+crus: premiers crus Clos Salomon (monopole), Clos du Cellier aux Moines, Clos Jus, La Grande Berge, Servoisine, Clos de la Baraude, Les Bois Chevaux
+voir: mercurey, rully, montagny
+
+@ montagny
+nom: Montagny
+sous: Côte chalonnaise
+niveau: communale
+couleurs: blanc
+styles: blanc-vif, blanc-ample
+cepages: chardonnay*
+surface: environ 350 ha
+depuis: 1936
+def: L'appellation la plus méridionale de la Côte chalonnaise, exclusivement en blanc de chardonnay.
+texte: Montagny-lès-Buxy, Buxy, Jully-lès-Buxy et Saint-Vallerin se partagent des coteaux marneux et calcaires assez raides, entre 250 et 400 mètres. Seul le [[chardonnay]] a droit à l'appellation. Le vin est pâle, fin, de bonne fraîcheur, avec des arômes d'aubépine, de noisette et de silex ; il gagne du gras après deux ou trois ans. Les premiers crus sont nombreux — une cinquantaine de climats — et couvrent plus de la moitié des surfaces.
+gout: aubépine, acacia, citron, noisette, silex, bouche fraîche et fine
+garde: 3 à 6 ans
+service: 11-12 °C
+crus: premiers crus Les Coères, Les Burnins, Montcuchot, Le Vieux Château, Les Chaniots, Vignes Derrière
+voir: rully, vire-clesse, macon
+
+# --- Mâconnais ---
+
+@ macon
+nom: Mâcon
+sous: Mâconnais
+niveau: sous-régionale
+couleurs: blanc, rouge, rosé
+styles: blanc-vif, rouge-leger, rose-leger
+cepages: chardonnay*, gamay*, pinot-noir
+surface: près de 4 000 ha
+depuis: 1937
+def: L'appellation du Mâconnais, vaste source de chardonnays mûrs et francs, complétés de rouges de gamay.
+texte: Le Mâconnais étire sur une cinquantaine de kilomètres, de Tournus à la roche de Solutré, une série de chaînons calcaires parallèles séparés par de petites vallées. Le climat s'adoucit, les toits prennent des tuiles rondes : on sent déjà le Midi. Le [[chardonnay]] — dont un village du pays porte le nom — occupe plus des quatre cinquièmes des vignes, sur les pentes argilo-calcaires ; le [[gamay]] garde les sols sableux ou siliceux.
+texte: L'appellation se décline en trois niveaux : Mâcon, pour les trois couleurs ; Mâcon-Villages, réservé aux blancs ; et Mâcon suivi d'un nom de commune ou de secteur, parmi vingt-sept dénominations — Lugny, Chardonnay, Uchizy, Azé, Igé, Milly-Lamartine, Pierreclos, La Roche-Vineuse, Bussières… Certaines valent aussi pour les rouges, comme Serrières ou Cruzille.
+texte: Les blancs sont dorés, ronds, sur les fleurs blanches, la poire et les agrumes mûrs, avec moins de tension qu'en Côte-d'Or mais beaucoup de franchise ; la plupart ne voient pas le bois. Les rouges et rosés, surtout de gamay, sont fruités et à boire jeunes.
+gout: fleurs blanches, poire, pêche, agrumes mûrs, bouche ronde et fraîche ; fruits rouges pour les gamays
+garde: 2 à 4 ans
+service: 10-12 °C pour les blancs, 13-14 °C pour les rouges
+crus: Mâcon-Villages ; dénominations communales Lugny, Chardonnay, Uchizy, Azé, Igé, Milly-Lamartine, Pierreclos, La Roche-Vineuse, Bussières, Verzé, Péronne, Cruzille
+voir: vire-clesse, saint-veran, pouilly-fuisse, beaujolais
+
+@ vire-clesse
+nom: Viré-Clessé
+sous: Mâconnais
+niveau: communale
+couleurs: blanc
+styles: blanc-ample, blanc-vif
+cepages: chardonnay*
+surface: environ 430 ha
+depuis: 1999
+def: Appellation communale du nord du Mâconnais, née de la réunion de deux villages réputés pour leur chardonnay.
+texte: Viré et Clessé, auxquels s'ajoutent Laizé et Montbellet, étaient les deux Mâcon-Villages les plus cotés quand ils ont obtenu leur propre appellation. Les vignes regardent l'est et le sud-est, vers la Saône, sur des calcaires et des marnes parfois riches en chailles. Le vin est ample, souvent très mûr, avec des arômes de fruits jaunes, de coing et de miel. Une petite production de vins demi-secs ou moelleux, issus de raisins surmûris, perpétue un usage local.
+gout: aubépine, acacia, pêche, coing, miel, pointe de fruits exotiques, bouche ronde
+garde: 3 à 6 ans
+service: 11-12 °C
+voir: macon, saint-veran, montagny
+
+@ pouilly-fuisse
+nom: Pouilly-Fuissé
+sous: Mâconnais
+niveau: communale
+couleurs: blanc
+styles: blanc-ample
+cepages: chardonnay*
+surface: environ 800 ha
+depuis: 1936
+def: Le cru phare du Mâconnais, au pied des roches de Solutré et de Vergisson, premier de la région à compter des premiers crus.
+texte: Quatre communes composent l'appellation : Fuissé, Solutré-Pouilly, Vergisson et Chaintré. Le paysage est l'un des plus spectaculaires du vignoble français : deux éperons calcaires, les roches de Solutré et de Vergisson, dominent un amphithéâtre de pentes orientées dans toutes les directions, entre 200 et plus de 400 mètres. Les sols, très variés — calcaires à entroques, marnes, argiles, parfois schistes et grès —, expliquent la diversité des vins d'un village à l'autre.
+texte: Le Pouilly-Fuissé est un [[chardonnay]] doré, riche, plus solaire qu'un blanc de la Côte de Beaune, mais soutenu par une belle minéralité. Vergisson donne les vins les plus tendus, Fuissé les plus opulents, Chaintré les plus tendres. L'élevage en fût est fréquent pour les meilleures cuvées, qui se gardent une dizaine d'années.
+texte: Depuis le millésime 2020, vingt-deux climats sont classés premiers crus, aboutissement d'un travail de délimitation de plus de dix ans : c'était une première pour le Mâconnais.
+gout: amande, noisette, agrumes, pêche, brioche, miel, notes minérales, bouche ample
+garde: 4 à 10 ans
+service: 11-13 °C
+crus: premiers crus Les Vignes Blanches, Le Clos, Les Ménétrières, Les Perrières, Vers Cras, Sur la Roche, Les Crays, La Maréchaude, Le Clos de Monsieur Noly, Au Vignerais
+voir: pouilly-vinzelles, pouilly-loche, saint-veran, meursault
+
+@ pouilly-loche
+nom: Pouilly-Loché
+sous: Mâconnais
+niveau: communale
+couleurs: blanc
+styles: blanc-ample, blanc-vif
+cepages: chardonnay*
+surface: environ 30 ha
+depuis: 1940
+def: La plus petite des trois appellations « Pouilly » du Mâconnais, sur le village de Loché.
+texte: Loché, hameau rattaché à la ville de Mâcon, occupe un coteau tourné vers l'est, sur des sols argilo-calcaires teintés de fer, à l'est de [[pouilly-fuisse]]. Sa production est si réduite que le vin a souvent été vendu sous le nom de son voisin Vinzelles, comme les textes l'autorisent. Le style est proche du Pouilly-Fuissé, en un peu plus souple. Le climat Les Mûres a été reconnu premier cru à compter du millésime 2024.
+gout: fleurs blanches, pêche, agrumes, noisette, bouche ronde et minérale
+garde: 3 à 7 ans
+service: 11-12 °C
+crus: premier cru Les Mûres
+voir: pouilly-vinzelles, pouilly-fuisse, saint-veran
+
+@ pouilly-vinzelles
+nom: Pouilly-Vinzelles
+sous: Mâconnais
+niveau: communale
+couleurs: blanc
+styles: blanc-ample, blanc-vif
+cepages: chardonnay*
+surface: environ 55 ha
+depuis: 1940
+def: Petit cru de chardonnay du sud du Mâconnais, voisin oriental de Pouilly-Fuissé.
+texte: Sur les communes de Vinzelles et de Loché, le vignoble forme un coteau régulier exposé à l'est, face à la plaine de la Saône, sur des calcaires et des argiles rouges riches en oxydes de fer. Le vin est plein, mûr, avec des arômes de fruits jaunes et une assise minérale ; les vieilles vignes du haut de coteau donnent des cuvées de garde. Trois climats — Les Quarts, Les Longeays et Les Pétaux — sont classés premiers crus depuis le millésime 2024.
+gout: acacia, pêche jaune, agrumes confits, miel, bouche ample et minérale
+garde: 3 à 8 ans
+service: 11-12 °C
+crus: premiers crus Les Quarts, Les Longeays, Les Pétaux
+voir: pouilly-loche, pouilly-fuisse, saint-veran
+
+@ saint-veran
+nom: Saint-Véran
+sous: Mâconnais
+niveau: communale
+couleurs: blanc
+styles: blanc-vif, blanc-ample
+cepages: chardonnay*
+surface: environ 750 ha
+depuis: 1971
+def: Appellation de chardonnay de l'extrême sud du Mâconnais, qui encadre Pouilly-Fuissé au nord et au sud.
+texte: Saint-Véran se compose de deux ensembles séparés par [[pouilly-fuisse]] : au nord, Prissé et Davayé, sur des marnes et des calcaires ; au sud, Chasselas, Leynes, Chânes, Saint-Vérand et une partie de Saint-Amour, où le calcaire rencontre les premiers sols siliceux du Beaujolais. Le vin, sec et floral, a la rondeur des blancs du Mâconnais avec davantage de nerf et de minéralité ; il se place entre un Mâcon-Villages et un Pouilly-Fuissé. Sur les mêmes communes du sud, les vignes rouges produisent du [[saint-amour]] ou du beaujolais.
+gout: acacia, chèvrefeuille, pêche, poire, amande fraîche, finale minérale
+garde: 3 à 6 ans
+service: 11-12 °C
+voir: pouilly-fuisse, macon, vire-clesse, saint-amour

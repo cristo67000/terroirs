@@ -1,0 +1,109 @@
+# Accords mets-vins — famille « viandes-blanches »
+
+@ blanquette-de-veau
+nom: Blanquette de veau
+famille: viandes-blanches
+styles: blanc-ample, blanc-vif, rouge-leger
+vins: saint-veran, rully, montagny, saint-romain, meursault, anjou, montlouis-sur-loire, saint-peray
+audace: chiroubles, sancerre
+conseil: Viande pochée, sauce blanche liée à la crème et au jaune d'œuf, pointe de citron : tout désigne un blanc rond et frais à la fois, chardonnay de Bourgogne ou chenin sec. C'est l'un des plats de viande qui préfèrent nettement le blanc. Si l'on tient au rouge, un gamay ou un pinot noir très légers ; les tanins tournent à l'amer avec la crème.
+
+@ roti-de-veau
+nom: Rôti de veau
+famille: viandes-blanches
+styles: rouge-elegant, rouge-souple, blanc-ample
+vins: volnay, beaune, mercurey, fleurie, margaux, saint-emilion, bourgueil, pouilly-fuisse
+conseil: Viande tendre au goût délicat : elle appelle un rouge de finesse, aux tanins fondus, pinot noir de la Côte de Beaune, cru élégant du Beaujolais ou bordeaux assagi par quelques années. Un blanc ample convient aussi, surtout avec des champignons. Les rouges massifs l'écrasent.
+
+@ escalope-a-la-creme
+nom: Escalope de veau à la crème
+famille: viandes-blanches
+styles: blanc-ample, blanc-vif, effervescent-brut
+vins: macon, vire-clesse, pouilly-fuisse, anjou, vouvray, alsace, cotes-du-jura
+audace: arbois
+conseil: Crème, champignons, parfois une touche de cidre ou de calvados à la normande : un blanc sec et rond, chardonnay ou chenin, se fond dans la sauce. Avec des morilles, les blancs du Jura sont remarquables. Pas de rouge tannique sur la crème.
+
+@ cote-de-veau
+nom: Côte de veau
+famille: viandes-blanches
+styles: rouge-elegant, rouge-souple, blanc-ample
+vins: chambolle-musigny, savigny-les-beaune, saint-julien, moulis, saint-joseph, chinon, chassagne-montrachet
+conseil: Poêlée au beurre ou grillée, épaisse et juteuse, la côte de veau a plus de caractère que le rôti. Elle met en valeur un beau rouge sans dureté, bourgogne, médoc évolué ou syrah fine. Avec un jus crémé ou des girolles, un grand blanc de la Côte de Beaune est superbe.
+
+@ roti-de-porc
+nom: Rôti de porc
+famille: viandes-blanches
+styles: rouge-leger, rouge-souple, blanc-ample
+vins: beaujolais, julienas, anjou, saumur, cotes-du-rhone, alsace, bergerac, coteaux-du-lyonnais
+conseil: Viande douce et peu grasse, que la cuisson peut assécher : un rouge fruité et souple, ou un blanc sec et rond, lui apportent le moelleux qui manque. Avec de la moutarde ou des herbes, un gamay ou un cabernet franc léger. Les vins très tanniques durcissent la viande.
+
+@ cote-de-porc
+nom: Côte de porc et échine grillées
+famille: viandes-blanches
+styles: rouge-leger, rouge-souple, rose-vineux
+vins: brouilly, regnie, cotes-du-rhone, ventoux, touraine, gaillac, costieres-de-nimes
+conseil: Grillée ou poêlée, parfois accompagnée d'une sauce charcutière aux cornichons : un rouge simple, fruité et frais convient, gamay, grenache souple ou cabernet de Loire. Un rosé de repas fait l'affaire en été. Les cornichons et la moutarde n'aiment pas les vins boisés.
+
+@ filet-mignon-a-la-moutarde
+nom: Filet mignon de porc à la moutarde
+famille: viandes-blanches
+styles: blanc-ample, rouge-leger, rouge-souple
+vins: bourgogne, macon, rully, givry, chablis, saint-amour, irancy, saint-pourcain
+conseil: La moutarde et la crème appellent l'acidité d'un blanc de Bourgogne, pays de la moutarde, ou d'un pinot noir léger et frais. Le vin doit avoir de la vivacité pour répondre au piquant. Les rouges puissants deviennent âcres avec la moutarde.
+
+@ travers-de-porc
+nom: Travers de porc caramélisés
+famille: viandes-blanches
+styles: rouge-solaire, rouge-souple, rose-vineux
+vins: cotes-du-rhone-villages, vacqueyras, minervois, saint-chinian, fronton, cotes-du-roussillon, tavel
+conseil: Marinade sucrée-salée, caramel, fumée de la braise : il faut un rouge au fruit mûr et généreux, aux tanins ronds, comme en donnent le grenache et la syrah du Midi. Le sucre de la laque rend acerbes les vins austères. Un rosé corsé, bien frais, est l'option d'été.
+
+@ porc-aux-pruneaux
+nom: Porc aux pruneaux
+famille: viandes-blanches
+styles: rouge-souple, blanc-moelleux
+vins: chinon, bourgueil, saumur-champigny, touraine, cahors, buzet, cotes-de-duras
+audace: vouvray, montlouis-sur-loire
+conseil: Spécialité tourangelle où le pruneau apporte une douceur fruitée : un rouge de cabernet franc mûr, aux notes de fruits noirs, s'y accorde sans rudesse. La tradition locale connaît aussi l'accord avec un chenin demi-sec, cuit avec le plat. Éviter les rouges jeunes et durs, que le sucré rend amers.
+
+@ potee
+nom: Potée
+famille: viandes-blanches
+styles: rouge-leger, blanc-vif
+vins: cotes-d-auvergne, saint-pourcain, chateaumeillant, cote-roannaise, beaujolais, cotes-de-toul, marcillac
+conseil: Chou, légumes d'hiver, lard et saucisses longuement cuits au bouillon : un plat paysan, salé et réconfortant, qui veut un rouge de soif, fruité et franc. Chaque province accorde sa potée à son vin, gamay d'Auvergne ou gris de Toul en Lorraine. Les grands vins n'ont rien à y gagner.
+
+@ baeckeoffe
+nom: Baeckeoffe
+famille: viandes-blanches
+styles: blanc-aromatique, blanc-vif
+vins: alsace, alsace-grand-cru-rosacker, alsace-grand-cru-wiebelsberg, alsace-grand-cru-altenberg-de-bergheim, cremant-d-alsace, moselle
+conseil: Trois viandes marinées au vin blanc et cuites à l'étouffée avec des pommes de terre : on sert le blanc de la marinade, riesling ou sylvaner, ou un pinot gris sec pour plus de rondeur. Un riesling de grand cru un peu évolué honore un beau baeckeoffe. Les rouges, en dehors d'un pinot noir léger, ne sont pas dans le ton.
+
+@ lapin-a-la-moutarde
+nom: Lapin à la moutarde
+famille: viandes-blanches
+styles: blanc-vif, rouge-leger, rouge-souple
+vins: chablis, bourgogne, saint-bris, sancerre, menetou-salon, givry, saumur-champigny, cotes-du-jura
+conseil: Chair maigre et fine, sauce piquante adoucie de crème : un blanc sec et vif, ou un rouge léger et frais, pinot noir ou cabernet franc. L'acidité du vin doit répondre à celle de la moutarde. Bois et tanins marqués sont à éviter.
+
+@ lapin-aux-pruneaux
+nom: Lapin chasseur ou aux pruneaux
+famille: viandes-blanches
+styles: rouge-souple, rouge-leger
+vins: chinon, saint-nicolas-de-bourgueil, cotes-du-rhone, ventoux, luberon, bergerac, morgon, pierrevert
+conseil: En sauce brune, avec champignons, lardons, olives ou pruneaux, le lapin réclame un rouge souple et fruité, de corps moyen. Avec du thym et des olives, les vins du Rhône sud et de Provence sont tout indiqués. Rester sur des tanins modérés, la chair étant maigre.
+
+@ cassoulet
+nom: Cassoulet
+famille: viandes-blanches
+styles: rouge-charpente, rouge-solaire, rouge-souple
+vins: cahors, madiran, fronton, corbieres, minervois, cabardes, malepere, fitou
+conseil: Haricots fondants, confit, saucisse et couenne : un plat riche et gras qui demande un rouge du pays, solide et frais, dont les tanins sont assouplis par la graisse. De Castelnaudary à Toulouse, les vignobles voisins fournissent l'accord. Les vins légers disparaissent, les vins trop alcooleux alourdissent.
+
+@ saucisses-grillees
+nom: Saucisses grillées et saucisse-purée
+famille: viandes-blanches
+styles: rouge-leger, rouge-souple, rose-vineux
+vins: beaujolais, cotes-du-rhone, fronton, gaillac, igp-comte-tolosan, languedoc, anjou
+conseil: Chipolatas, saucisse de Toulouse ou merguez peu relevées : du gras, du sel, un peu de grillé. Un rouge fruité, simple et servi frais, ou un rosé de caractère, suffit amplement. Avec des merguez pimentées, éviter les vins tanniques et forts en alcool.

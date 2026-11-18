@@ -1,0 +1,840 @@
+# MILLÉSIMES — dix-huit zones, de 2025 à 1990, puis les millésimes de légende.
+# Note de 1 (petit) à 5 (exceptionnel) ; état à la fin de 2026 pour les bons vins de la zone.
+
+@ bordeaux-rive-gauche
+nom: Bordeaux rouge — rive gauche
+region: bordeaux
+porte: Médoc et Graves : assemblages à dominante de cabernet-sauvignon, de [[saint-estephe]] à [[pessac-leognan]].
+2025: ? | garder | Année chaude, sèche et très précoce, petits rendements et raisins concentrés ; les premiers avis sont flatteurs, mais le recul manque encore.
+2024: 2 | boire | Printemps noyé, mildiou, coulure et pluies de vendange : des vins légers, frais et peu alcoolisés, à boire sur leur fruit.
+2023: 4 | garder | Forte pression du mildiou puis fin d'été très chaude : des cabernets mûrs et classiques, de belle tenue chez ceux qui ont sauvé leur récolte.
+2022: 5 | garder | Sécheresse et canicules ont donné de petites baies très concentrées ; puissance, tanins veloutés et fraîcheur inattendue, grand millésime de garde.
+2021: 3 | boire | Gel d'avril, mildiou et été frais : des vins de faible degré, tendus et aromatiques, d'un classicisme à l'ancienne.
+2020: 5 | garder | Printemps humide puis été sec ; des vins denses, profonds et droits, troisième volet d'une trilogie remarquable.
+2019: 5 | garder | Été chaud ponctué de pluies bienvenues : fruit éclatant, tanins mûrs et grande fraîcheur, un millésime complet et séduisant.
+2018: 5 | garder | Mildiou au printemps puis été chaud et sec jusqu'en octobre : des vins riches, sombres et puissants, de longue garde.
+2017: 3 | boire | Le gel de la fin d'avril a épargné les meilleurs terroirs proches de l'estuaire ; vins fins, frais, de demi-corps.
+2016: 5 | garder | Printemps pluvieux, été très sec, nuits fraîches en septembre : équilibre idéal entre maturité, tanins et acidité, immense millésime du Médoc.
+2015: 4 | boire | Été chaud puis pluies de septembre plus marquées au nord du Médoc : superbe à [[margaux]] et dans les Graves, plus inégal ailleurs.
+2014: 4 | boire | Été frais sauvé par un superbe été indien : des cabernets mûrs, droits et classiques, particulièrement réussis au nord du Médoc.
+2013: 1 | passe | Printemps froid, coulure, pourriture à la vendange : vins maigres et dilués, le plus petit millésime des vingt dernières années.
+2012: 3 | apogee | Cycle tardif et pluies d'octobre ont gêné les cabernets ; vins souples et fruités, à boire.
+2011: 3 | apogee | Printemps caniculaire, été frais et sec : des vins stricts, aux tanins fermes, qui se sont assouplis.
+2010: 5 | garder | Année sèche aux nuits fraîches : concentration, tanins et acidité hors norme, un monument bâti pour des décennies.
+2009: 5 | boire | Saison idéale, chaude et lumineuse : des vins opulents, au fruit mûr et aux tanins soyeux, déjà superbes.
+2008: 3 | apogee | Été frais et vendange tardive sous un beau soleil d'octobre : vins droits, classiques, de bonne fraîcheur.
+2007: 2 | passe | Été maussade sauvé de justesse par septembre : vins légers et tendres, qu'il ne faut plus attendre.
+2006: 3 | apogee | Juillet torride, pluies à la mi-septembre : des vins fermes et austères dans leur jeunesse, aujourd'hui ouverts.
+2005: 5 | boire | Année sèche sans excès, maturité parfaite de tous les cépages : des vins denses et harmonieux, d'une garde immense.
+2004: 3 | apogee | Récolte abondante et tardive : des médocs classiques, de corps moyen, d'un fruit net.
+2003: 4 | apogee | Canicule historique : très beaux vins sur les graves profondes du nord du Médoc, exotiques et parfois fatigués ailleurs.
+2002: 3 | apogee | Coulure et été gris, puis été indien favorable au cabernet : réussite discrète à [[pauillac]] et [[saint-julien]].
+2001: 4 | apogee | Arrière-saison fraîche et lente : vins élégants et équilibrés, longtemps éclipsés par 2000.
+2000: 5 | apogee | Fin d'été magnifique après un début de saison difficile : des vins complets, charnus et structurés, à maturité.
+1999: 3 | passe | Chaleur et pluies à la vendange : vins souples et aimables, aujourd'hui à boire sans tarder.
+1998: 3 | apogee | Les pluies de la fin de septembre ont saisi les cabernets : médocs tanniques et sévères, meilleurs dans les Graves.
+1997: 2 | passe | Floraison précoce et été humide : vins tendres et dilués, vite prêts, à présent déclinants.
+1996: 5 | apogee | Septembre sec et venté : de grands cabernets mûrs et tendus, millésime de référence au nord du Médoc.
+1995: 4 | apogee | Été chaud et sec, quelques pluies en septembre : vins pleins et tanniques, longs à s'ouvrir.
+1994: 3 | passe | Bel été ruiné par les pluies de vendange : vins durs, aux tanins secs.
+1993: 2 | passe | Septembre très pluvieux : vins légers, à boire depuis longtemps.
+1992: 1 | passe | L'été le plus humide depuis un demi-siècle : vins dilués, sans avenir.
+1991: 1 | passe | Le gel du 21 avril a détruit l'essentiel de la récolte ; seuls quelques crus proches de la Gironde ont réussi.
+1990: 5 | apogee | Année chaude et généreuse : des vins riches, suaves, de faible acidité, d'un charme toujours intact dans les grands crus.
+legende: 1989 | Vendange très précoce après un été torride : vins opulents et veloutés, splendides dans les Graves.
+legende: 1986 | Grand millésime de cabernet-sauvignon, tannique et lent, magistral à [[pauillac]] et [[saint-julien]].
+legende: 1982 | Récolte abondante et très mûre, vins charnus et sensuels : le millésime qui a ouvert l'ère moderne de Bordeaux.
+legende: 1961 | Petite récolte après gel et coulure, concentration prodigieuse : l'un des plus grands millésimes du siècle.
+legende: 1959 | Année de grande chaleur, vins riches et puissants, d'une longévité étonnante.
+legende: 1945 | Gel de mai, été brûlant, rendements infimes : le millésime de la Victoire, d'une densité légendaire.
+legende: 1928 | Vins très tanniques, longtemps fermés, devenus des modèles de longévité.
+
+@ bordeaux-rive-droite
+nom: Bordeaux rouge — rive droite
+region: bordeaux
+porte: [[saint-emilion]], [[pomerol]], [[fronsac]] et leurs satellites : assemblages à dominante de merlot et de cabernet franc.
+2025: ? | garder | Année chaude et très précoce ; le merlot a parfois souffert de la sécheresse, les terroirs argileux et calcaires semblent très réussis. Recul insuffisant.
+2024: 2 | boire | Mildiou, coulure du merlot et vendange sous la pluie : vins légers et fruités, meilleurs sur le calcaire.
+2023: 4 | garder | Le mildiou a frappé durement le merlot, mais la fin d'été chaude a donné des vins mûrs et veloutés chez les rescapés.
+2022: 5 | garder | Sécheresse et chaleur extrêmes, magnifiquement supportées par les argiles et le calcaire : vins denses, soyeux et frais.
+2021: 3 | boire | Gel et mildiou ont amputé la récolte ; le cabernet franc a sauvé des vins frais, élancés, de garde moyenne.
+2020: 5 | garder | Été sec, argiles bien pourvues en eau : merlots profonds et droits, superbes à [[pomerol]].
+2019: 5 | garder | Chaleur estivale et pluies opportunes : fruit éclatant, richesse et fraîcheur réunies.
+2018: 5 | garder | Printemps de mildiou, été chaud et long : des vins amples, puissants, très mûrs.
+2017: 3 | boire | Le gel d'avril a dévasté les bas de coteaux ; les plateaux épargnés ont donné des vins fins et frais.
+2016: 5 | garder | Sécheresse estivale puis pluie salvatrice à la mi-septembre : équilibre, éclat du fruit et grande structure.
+2015: 5 | boire | Été chaud et sec, pluies modérées : merlots riches, veloutés et parfumés, grande réussite de la rive droite.
+2014: 3 | boire | Été frais, arrière-saison superbe : vins fruités et droits, sans la densité de la rive gauche.
+2013: 1 | passe | Coulure et pourriture : très petite récolte de vins minces.
+2012: 4 | apogee | Le merlot, précoce, a été rentré avant les pluies d'octobre : vins charnus et gourmands, à leur meilleur.
+2011: 3 | apogee | Sécheresse et été sans chaleur : vins fermes, un peu stricts.
+2010: 5 | garder | Année sèche, petites baies : puissance, alcool élevé et grande fraîcheur, vins de très longue garde.
+2009: 5 | boire | Maturité somptueuse : vins opulents, parfois capiteux, d'un velouté rare.
+2008: 4 | apogee | Vendange tardive sous le soleil d'octobre : merlots mûrs et frais, belle surprise à [[pomerol]].
+2007: 2 | passe | Été gris, pression du mildiou : vins légers, à boire.
+2006: 4 | apogee | Le merlot a été ramassé avant les pluies : vins pleins et structurés, réussis à [[pomerol]].
+2005: 5 | boire | Année sèche et lumineuse : concentration et harmonie, un très grand millésime de garde.
+2004: 3 | apogee | Grosse récolte : vins souples et francs, de corps moyen.
+2003: 3 | passe | La canicule a éprouvé le merlot sur les sols secs : réussites sur argile et calcaire, vins cuits ailleurs.
+2002: 2 | passe | Coulure du merlot et été frais : vins légers.
+2001: 4 | apogee | Maturité lente et fraîche : vins fins et parfumés, souvent supérieurs aux 2000 à [[pomerol]].
+2000: 5 | apogee | Arrière-saison parfaite : vins riches, charnus, à pleine maturité.
+1999: 3 | passe | Pluies de septembre et grêle sur une partie de Saint-Émilion : vins souples.
+1998: 5 | apogee | Les merlots ont été vendangés mûrs avant les pluies : très grand millésime de [[pomerol]] et de [[saint-emilion]].
+1997: 2 | passe | Vendange hétérogène et humide : vins tendres et précoces.
+1996: 3 | passe | Pluies sur les merlots à la fin de septembre : vins corrects, moins réussis que dans le Médoc.
+1995: 4 | apogee | Été chaud et sec : merlots mûrs, denses et tanniques.
+1994: 3 | passe | Merlots rentrés avant le gros des pluies : vins fermes, plus réussis qu'en rive gauche.
+1993: 2 | passe | Septembre pluvieux : quelques jolis pomerols, aujourd'hui fatigués.
+1992: 1 | passe | Été détrempé : vins dilués.
+1991: 1 | passe | Gel d'avril : presque pas de récolte, plusieurs grands crus n'ont rien produit.
+1990: 5 | apogee | Chaleur et abondance : vins somptueux, veloutés, au sommet à Saint-Émilion.
+legende: 1989 | Très grande maturité, vins riches et puissants, magnifiques à [[pomerol]].
+legende: 1982 | Merlots d'une richesse inédite, vins charnus et voluptueux qui ont fait la réputation moderne de la rive droite.
+legende: 1964 | Les merlots furent vendangés avant les pluies qui gâchèrent le Médoc : grand millésime de Saint-Émilion et de Pomerol.
+legende: 1961 | Rendements minuscules, vins d'une concentration et d'une longévité hors du commun.
+legende: 1947 | Été torride, vins presque confits, d'une richesse proche de celle des portos : le mythe de la rive droite.
+legende: 1945 | Petite récolte de vins denses et profonds, d'une garde exceptionnelle.
+
+@ bordeaux-blanc-sec
+nom: Bordeaux blanc sec
+region: bordeaux
+porte: [[pessac-leognan]], [[graves]] et [[entre-deux-mers]] : sauvignon et sémillon ; l'état vaut pour les blancs de garde des Graves.
+2025: ? | garder | Vendanges très précoces, dès la mi-août, pour préserver l'acidité ; vins mûrs et aromatiques, à juger avec plus de recul.
+2024: 4 | boire | L'année fraîche et humide, pénible pour les rouges, a donné des blancs vifs, précis et très aromatiques.
+2023: 4 | boire | Raisins rentrés avant les grosses chaleurs de septembre : blancs nets, équilibrés, de bonne fraîcheur.
+2022: 3 | boire | Sécheresse et canicule : blancs amples et mûrs, d'acidité modeste, mieux tenus sur calcaire et argile.
+2021: 5 | boire | Été frais, maturité lente : acidités éclatantes et arômes purs, grand millésime de blancs secs.
+2020: 4 | boire | Vendange précoce, blancs charnus et parfumés, d'un bel équilibre.
+2019: 4 | boire | Chaleur maîtrisée, nuits fraîches en septembre : blancs riches, gardant de la tension.
+2018: 3 | apogee | Été très chaud : blancs opulents, moins vifs, à boire.
+2017: 4 | apogee | Vendange précoce et saine chez ceux que le gel a épargnés : blancs droits, incisifs, très réussis.
+2016: 3 | apogee | La sécheresse estivale a donné des blancs mûrs et ronds, un peu courts en acidité.
+2015: 4 | apogee | Blancs généreux et fruités, soutenus par une fraîcheur suffisante.
+2014: 5 | apogee | Été frais, septembre radieux : acidité vive et grande maturité aromatique, blancs de longue tenue.
+2013: 4 | apogee | Millésime difficile pour les rouges, mais blancs nerveux et parfumés.
+2012: 4 | apogee | Blancs vendangés avant les pluies : fruit net, belle vivacité.
+2011: 4 | passe | Vendange très précoce : blancs frais et aromatiques.
+2010: 4 | apogee | Nuits fraîches, blancs denses et tendus ; les grands pessac-léognan tiennent encore.
+2009: 4 | passe | Blancs riches et solaires, plus amples que nerveux.
+2008: 4 | passe | Année fraîche : blancs vifs, citronnés, de style classique.
+2007: 5 | apogee | Été frais, septembre ensoleillé : blancs éclatants, les grands crus sont à leur sommet.
+2006: 4 | passe | Blancs pleins et aromatiques, rentrés avant les pluies.
+2005: 5 | apogee | Concentration et équilibre : blancs complets, de grande garde dans les crus classés.
+2004: 4 | passe | Blancs frais et francs, de style classique.
+2003: 2 | passe | Canicule : blancs lourds, pauvres en acidité.
+2002: 4 | passe | Maturité lente, belle acidité.
+2001: 4 | passe | Blancs fins et vifs.
+2000: 4 | passe | Blancs mûrs et ronds.
+1999: 3 | passe | Blancs corrects, souples.
+1998: 4 | passe | Vendange précoce avant les pluies, blancs aromatiques et structurés.
+1997: 3 | passe | Blancs tendres, à boire tôt.
+1996: 4 | passe | Belle acidité, blancs longs et droits.
+1995: 4 | passe | Blancs riches et mûrs.
+1994: 4 | passe | Vendangés avant les pluies : meilleurs que les rouges.
+1993: 3 | passe | Blancs légers et frais.
+1992: 2 | passe | Année pluvieuse, blancs dilués.
+1991: 2 | passe | Récolte amputée par le gel.
+1990: 4 | passe | Blancs très mûrs et amples ; seuls les plus grands crus des Graves ont traversé le temps.
+legende: 1989 | Année de grande chaleur, blancs somptueux et gras dans les crus classés des Graves.
+legende: 1983 | Blancs classiques, fermes et de longue garde.
+legende: 1978 | Vendange tardive et saine, blancs de grande tenue.
+
+@ sauternes
+nom: Sauternes et Barsac
+region: bordeaux
+porte: Liquoreux de pourriture noble de [[sauternes]] et de [[barsac]], et par extension [[cerons]], [[loupiac]], [[sainte-croix-du-mont]], [[cadillac]].
+2025: ? | garder | Été sec et très précoce, botrytis venu tard ; petites quantités, à juger plus tard.
+2024: 3 | garder | Année humide, tries nombreuses et sévères : liquoreux frais et délicats, de concentration moyenne.
+2023: 4 | garder | Botrytis rapide et franc à la fin de septembre : vins riches, purs et bien équilibrés.
+2022: 4 | garder | Longue attente après la sécheresse, puis pourriture noble fulgurante en octobre : vins très concentrés et onctueux.
+2021: 4 | garder | Gel et mildiou n'ont laissé qu'une récolte minuscule, mais d'une grande pureté et d'une belle acidité.
+2020: 3 | boire | Botrytis irrégulier, pluies d'octobre : vins fins, de richesse moyenne.
+2019: 4 | garder | Pourriture noble concentrée sur quelques jours d'octobre : vins éclatants, plus frais que massifs.
+2018: 3 | boire | Arrière-saison trop sèche, botrytis tardif : vins souvent passerillés, riches mais moins complexes.
+2017: 4 | garder | Gel d'avril à [[barsac]] puis beau botrytis en septembre : vins éclatants, frais et rôtis.
+2016: 4 | garder | Botrytis tardif mais généreux : vins amples et veloutés.
+2015: 5 | garder | Alternance idéale de pluies et de soleil : pourriture noble pure, liqueur et fraîcheur en équilibre.
+2014: 4 | boire | Acidités vives et grande concentration : liquoreux ciselés, très toniques.
+2013: 4 | boire | Année sombre pour les rouges, mais botrytis précoce et abondant : vins purs et nerveux.
+2012: 1 | passe | Pluies d'octobre, pourriture grise : plusieurs grands crus, dont le premier cru supérieur, ont renoncé à produire.
+2011: 5 | boire | Botrytis précoce, rapide et massif : vins riches, vifs et aromatiques, grand millésime.
+2010: 4 | boire | Vins denses et frais, de structure classique.
+2009: 5 | boire | Maturité et pourriture noble exceptionnelles : vins opulents, d'une richesse rare.
+2008: 3 | apogee | Gel de printemps, petite récolte de vins vifs et délicats.
+2007: 5 | boire | Arrière-saison parfaite, tries étalées jusqu'en novembre : pureté et acidité superbes.
+2006: 3 | apogee | Botrytis difficile à trier : vins de demi-liqueur.
+2005: 5 | boire | Pourriture noble homogène sur des raisins très mûrs : puissance et harmonie.
+2004: 3 | apogee | Tries exigeantes : vins fins, moyennement concentrés.
+2003: 4 | apogee | Canicule puis botrytis éclair : vins très riches, de faible acidité.
+2002: 3 | apogee | Vins élégants, de liqueur moyenne.
+2001: 5 | boire | Botrytis parfait après les pluies de fin septembre : millésime de légende, d'un équilibre et d'une longueur prodigieux.
+2000: 2 | passe | Pluies d'octobre : seules les premières tries ont compté, volumes infimes.
+1999: 3 | apogee | Vins fins et précoces.
+1998: 3 | apogee | Bon botrytis interrompu par la pluie : vins classiques.
+1997: 4 | apogee | Tries longues, pourriture noble concentrée : vins riches et rôtis.
+1996: 4 | apogee | Vins fins et vifs, d'un bel équilibre.
+1995: 3 | apogee | Vins mûrs, sans la complexité des grands botrytis.
+1994: 2 | passe | Pluies de septembre : vins légers.
+1993: 1 | passe | Pourriture grise, millésime à oublier.
+1992: 1 | passe | Année détrempée, très peu de vins dignes de l'appellation.
+1991: 2 | passe | Récolte presque anéantie par le gel ; quelques vins honorables.
+1990: 5 | apogee | Richesse en sucre record : vins massifs et somptueux, dernier volet d'une trilogie historique.
+legende: 1989 | Chaleur et botrytis généreux : vins opulents et puissants.
+legende: 1988 | Pourriture noble lente et pure : le plus classique et le plus fin de la trilogie 1988-1989-1990.
+legende: 1983 | Grand botrytis, vins riches et rôtis, alors que les rouges étaient seulement bons.
+legende: 1975 | Vins concentrés, de très longue garde.
+legende: 1967 | Très grand millésime de liquoreux dans une année médiocre pour les rouges.
+legende: 1959 | Vins d'une richesse solaire, devenus ambrés et somptueux.
+legende: 1947 | Liquoreux puissants, d'une concentration hors norme.
+legende: 1921 | Été brûlant : le millésime mythique du Sauternais.
+
+@ bourgogne-rouge
+nom: Bourgogne rouge
+region: bourgogne
+porte: Pinots noirs de la Côte de Nuits, de la Côte de Beaune et de la Côte chalonnaise.
+2025: ? | garder | Vendange précoce et saine après un été chaud, volumes contrastés ; raisins concentrés et équilibrés, promesse à confirmer.
+2024: 3 | boire | Pluies incessantes et mildiou : récolte minuscule en Côte de Nuits, vins frais, parfumés, de demi-corps.
+2023: 4 | boire | Récolte abondante mûrie sous les fortes chaleurs de septembre : vins fruités et souples, à condition d'avoir trié.
+2022: 4 | garder | Été chaud et sec tempéré par les pluies de juin : vins généreux, charnus, d'un équilibre inattendu.
+2021: 3 | boire | Gel d'avril et été frais : petite récolte de vins légers, fins et aromatiques, d'un style à l'ancienne.
+2020: 4 | garder | Vendange dès le mois d'août après la sécheresse : vins sombres, très concentrés, soutenus par une acidité étonnante.
+2019: 5 | garder | Chaleur et petits rendements : richesse, éclat du fruit et fraîcheur, un grand millésime solaire.
+2018: 4 | boire | Année chaude et abondante : vins mûrs et veloutés, parfois capiteux.
+2017: 3 | boire | Récolte généreuse et précoce : vins tendres, fruités et charmeurs.
+2016: 4 | garder | Gel dévastateur du 27 avril, puis été parfait : peu de vin, mais d'une pureté et d'un équilibre superbes.
+2015: 5 | garder | Été chaud et sec, petites baies saines : vins denses, mûrs et profonds, de très longue garde.
+2014: 4 | boire | Grêle en Côte de Beaune, septembre lumineux : vins classiques, frais et précis.
+2013: 3 | apogee | Vendange tardive d'octobre, grêle de juillet sur la Côte de Beaune : vins vifs, fins, meilleurs en Côte de Nuits.
+2012: 4 | boire | Coulure, grêle, rendements infimes : vins concentrés et charnus.
+2011: 3 | apogee | Vendange précoce : vins souples, de demi-corps.
+2010: 5 | boire | Petite récolte après la coulure : pureté, tension et profondeur, le classicisme bourguignon à son meilleur.
+2009: 4 | boire | Année solaire : vins ronds et gourmands, de grande maturité.
+2008: 3 | apogee | Été frais sauvé par le vent du nord de septembre : vins acidulés, droits.
+2007: 3 | passe | Été humide : vins légers et fruités, à boire.
+2006: 3 | apogee | Août frais et pluvieux : meilleure réussite en Côte de Nuits.
+2005: 5 | garder | Saison parfaite, raisins sains et concentrés : vins complets, longtemps fermés, d'une garde immense.
+2004: 2 | passe | Grosse récolte, oïdium : vins maigres, souvent marqués de notes végétales.
+2003: 3 | passe | Canicule et vendanges en août : vins atypiques, confits et tanniques.
+2002: 4 | apogee | Vent du nord en septembre : raisins sains et concentrés, vins harmonieux.
+2001: 3 | passe | Année fraîche, grêle à [[volnay]] : vins fins en Côte de Nuits.
+2000: 3 | passe | Pluies à la vendange en Côte de Beaune : vins souples et précoces.
+1999: 5 | apogee | Récolte abondante et parfaitement mûre : vins riches, colorés et harmonieux.
+1998: 3 | passe | Gel, grêle, coup de chaleur en août : vins tanniques et fermes.
+1997: 3 | passe | Vins mûrs, de faible acidité, vite évolués.
+1996: 4 | apogee | Vent du nord, acidités élevées : vins droits et lents, les meilleurs se sont enfin ouverts.
+1995: 4 | apogee | Petite récolte : vins concentrés et structurés.
+1994: 2 | passe | Pluies de septembre : vins légers.
+1993: 4 | apogee | Peaux épaisses malgré les pluies : vins colorés et tanniques, de belle garde en Côte de Nuits.
+1992: 2 | passe | Récolte abondante : vins tendres et fluides.
+1991: 3 | passe | Gel et grêle, petits rendements : vins concentrés, longtemps sous-estimés.
+1990: 5 | apogee | Chaleur et abondance : vins riches et profonds, superbes dans les grands crus.
+legende: 1985 | Raisins d'une santé parfaite après un hiver glacial : vins au fruit pur et charmeur.
+legende: 1978 | Arrière-saison miraculeuse : vins structurés et de très longue garde.
+legende: 1969 | Petite récolte de vins concentrés et vifs.
+legende: 1959 | Année chaude et généreuse, vins riches et veloutés.
+legende: 1949 | Élégance et harmonie, le millésime préféré de bien des amateurs.
+legende: 1947 | Été torride, vins opulents et capiteux.
+legende: 1945 | Gel et grêle, rendements minuscules, concentration extrême.
+
+@ bourgogne-blanc
+nom: Bourgogne blanc
+region: bourgogne
+porte: Chardonnays de [[chablis]], de la Côte de Beaune, de la Côte chalonnaise et du Mâconnais.
+2025: ? | garder | Vendange précoce, raisins sains et mûrs ; qualité annoncée belle, à confirmer.
+2024: 4 | boire | Mildiou et grêle à Chablis, mais le chardonnay a mieux résisté que le pinot : blancs tendus, précis, de style classique.
+2023: 4 | boire | Récolte généreuse : blancs mûrs et ouverts, d'acidité modérée.
+2022: 4 | boire | Chaleur et volumes confortables : blancs amples, étonnamment équilibrés.
+2021: 3 | boire | Le gel d'avril a détruit une grande part de la récolte : blancs vifs et minéraux, rares.
+2020: 4 | boire | Vendange d'août : concentration et acidité élevées, blancs denses et droits.
+2019: 4 | boire | Année chaude et petits rendements : blancs riches, soutenus par une belle fraîcheur.
+2018: 3 | apogee | Récolte très abondante et solaire : blancs ronds et souples.
+2017: 4 | boire | Gel à Chablis, belle récolte en Côte de Beaune : blancs purs, équilibrés, très classiques.
+2016: 3 | apogee | Gel sévère : petite récolte de blancs mûrs, inégaux.
+2015: 3 | apogee | Année chaude : blancs riches et gras, manquant parfois de nerf.
+2014: 5 | boire | Septembre lumineux après un été frais : maturité, tension et pureté, le grand millésime blanc de la décennie.
+2013: 3 | apogee | Vendange tardive, un peu de botrytis : blancs vifs, parfois exotiques.
+2012: 4 | apogee | Très petits rendements : blancs concentrés et charnus.
+2011: 3 | passe | Blancs souples et précoces.
+2010: 5 | apogee | Petite récolte, grande acidité : blancs intenses et ciselés.
+2009: 3 | passe | Blancs solaires, amples, de faible acidité.
+2008: 4 | apogee | Acidité vive et belle concentration, superbe à [[chablis]].
+2007: 4 | apogee | Blancs tendus et minéraux, de style classique.
+2006: 3 | passe | Blancs riches et rapides à évoluer.
+2005: 4 | apogee | Blancs puissants et concentrés.
+2004: 4 | passe | Blancs vifs et droits, bien meilleurs que les rouges.
+2003: 2 | passe | Canicule : blancs lourds.
+2002: 5 | apogee | Maturité et acidité réunies : blancs complets et harmonieux.
+2001: 3 | passe | Blancs corrects, inégaux.
+2000: 4 | passe | Blancs mûrs et équilibrés.
+1999: 4 | passe | Récolte abondante de blancs ronds et fruités.
+1998: 3 | passe | Gel à [[chablis]], blancs évolués.
+1997: 3 | passe | Blancs tendres, de faible acidité.
+1996: 5 | passe | Acidité et richesse exceptionnelles, mais beaucoup de bouteilles ont souffert d'une oxydation prématurée.
+1995: 4 | passe | Petite récolte de blancs concentrés.
+1994: 2 | passe | Blancs touchés par la pourriture, vite évolués.
+1993: 3 | passe | Blancs vifs, un peu maigres.
+1992: 4 | passe | Blancs charmeurs, mûrs et gras.
+1991: 2 | passe | Gel et pluies : blancs modestes.
+1990: 4 | passe | Blancs riches et généreux ; les grands crus conservés au frais tiennent encore.
+legende: 1989 | Blancs opulents et puissants, d'une grande longévité.
+legende: 1986 | Blancs aromatiques et structurés, à peine touchés de pourriture noble.
+legende: 1985 | Blancs denses et équilibrés.
+legende: 1979 | Récolte généreuse de blancs fins et harmonieux.
+legende: 1978 | Arrière-saison tardive, blancs de grande tenue.
+
+@ beaujolais
+nom: Beaujolais — les crus
+region: beaujolais
+porte: Gamays des dix crus, de [[saint-amour]] à [[brouilly]] ; l'état vaut pour les crus de garde ([[morgon]], [[moulin-a-vent]]).
+2025: ? | garder | Été chaud et sec, vendange précoce et petite ; raisins concentrés, à confirmer.
+2024: 3 | boire | Année pluvieuse, mildiou et grêle par endroits : vins légers, frais et croquants.
+2023: 3 | boire | Fortes chaleurs à la veille des vendanges : récolte hétérogène, vins mûrs et gourmands après tri.
+2022: 4 | boire | Sécheresse et chaleur : vins concentrés, charnus, d'un fruit éclatant.
+2021: 3 | boire | Gel et été frais : gamays légers, vifs et floraux.
+2020: 4 | boire | Vendange très précoce : vins denses et mûrs, de bonne tenue.
+2019: 4 | boire | Gel, grêle et canicule ont réduit la récolte : vins équilibrés et fruités.
+2018: 5 | boire | Été chaud et raisins sains : vins riches, veloutés, grand millésime des crus.
+2017: 4 | apogee | Grêle violente sur [[fleurie]] et [[moulin-a-vent]] : vins concentrés et structurés.
+2016: 3 | apogee | Grêle au nord, belle fin de saison : vins souples et fruités.
+2015: 5 | apogee | Année solaire, petites baies : vins puissants, presque rhodaniens, de longue garde.
+2014: 4 | apogee | Septembre splendide : gamays frais, précis et gourmands.
+2013: 3 | passe | Vendange tardive : vins vifs et légers.
+2012: 2 | passe | Gel, grêle et coulure : très petite récolte.
+2011: 4 | apogee | Vendange précoce, raisins sains : vins mûrs et structurés.
+2010: 4 | apogee | Vins classiques, frais et équilibrés.
+2009: 5 | apogee | Maturité parfaite : vins charnus et profonds, millésime de référence.
+2008: 2 | passe | Été frais, grêle : vins maigres.
+2007: 3 | passe | Vins fruités et légers.
+2006: 3 | passe | Vins souples et agréables.
+2005: 5 | apogee | Raisins concentrés et sains : vins structurés ; les grands morgons et moulin-à-vent tiennent encore.
+2004: 3 | passe | Récolte abondante, vins légers.
+2003: 3 | passe | Canicule et vendange en août : vins riches, atypiques.
+2002: 3 | passe | Pluies à la vendange : vins souples.
+2001: 2 | passe | Année fraîche, vins minces.
+2000: 4 | passe | Vins mûrs et ronds.
+1999: 4 | passe | Belle maturité, vins charnus.
+1998: 3 | passe | Vins fermes et corrects.
+1997: 3 | passe | Vins tendres et fruités.
+1996: 3 | passe | Vins vifs, bien constitués.
+1995: 4 | passe | Vins concentrés et équilibrés.
+1994: 3 | passe | Vins souples.
+1993: 3 | passe | Vins corrects, de garde courte.
+1992: 2 | passe | Récolte abondante et diluée.
+1991: 4 | passe | Petits rendements, vins denses et colorés.
+1990: 4 | passe | Année chaude, vins riches et ronds.
+legende: 1989 | Vins amples et mûrs, d'une belle longévité dans les crus.
+legende: 1985 | Fruit éclatant, gamays d'un charme exemplaire.
+legende: 1983 | Vins concentrés et structurés.
+legende: 1978 | Vendange tardive, vins solides et de garde.
+legende: 1976 | Année de sécheresse, vins puissants et tanniques.
+legende: 1947 | Été torride, vins d'une richesse devenue légendaire.
+
+@ champagne
+nom: Champagne
+region: champagne
+porte: Champagnes millésimés ; les bruts sans année, assemblés de plusieurs récoltes, échappent en partie à l'effet millésime.
+2025: ? | garder | Vendange précoce, dès la fin d'août, raisins sains et mûrs en volume limité ; les vins clairs sont jugés prometteurs.
+2024: 3 | garder | Gel, pluies continues et mildiou : petite récolte, vins vifs, plus réussis en chardonnay.
+2023: 3 | garder | Grappes très lourdes et chaleur à la vendange : récolte abondante, hétérogène, exigeant un tri sévère.
+2022: 4 | garder | Année ensoleillée, généreuse et saine : vins mûrs, ronds et fruités.
+2021: 2 | garder | Gel et mildiou ont ruiné une grande part de la récolte ; quelques beaux chardonnays tendus.
+2020: 4 | garder | Vendange en août après un été sec : vins concentrés et droits.
+2019: 4 | garder | Canicules et petits rendements : richesse et acidité réunies, vins denses et frais.
+2018: 4 | boire | Récolte record et très mûre : vins amples et solaires, d'acidité modérée.
+2017: 2 | boire | Gel puis pourriture sur les raisins noirs ; seuls les chardonnays ont brillé.
+2016: 3 | boire | Gel et mildiou, puis fin de saison ensoleillée : vins fins, bons pinots noirs.
+2015: 4 | boire | Sécheresse et chaleur : vins puissants et vineux.
+2014: 3 | boire | Août pluvieux, septembre sauveur : beaux chardonnays, raisins noirs plus inégaux.
+2013: 4 | boire | Vendange tardive d'octobre : vins tendus et fins, d'un classicisme à l'ancienne.
+2012: 5 | boire | Gel et grêle ont réduit la récolte, puis été parfait : maturité, concentration et acidité, grand millésime.
+2011: 2 | apogee | Vendange très précoce et inégale : peu de millésimés.
+2010: 2 | apogee | Pluies d'août et pourriture sur les noirs : quelques bons chardonnays.
+2009: 4 | apogee | Année chaude : champagnes ronds, mûrs et accessibles.
+2008: 5 | boire | Été frais, septembre lumineux : acidité ciselée, pureté et profondeur, millésime de très longue garde.
+2007: 3 | apogee | Vendange précoce, vins vifs, surtout en chardonnay.
+2006: 4 | apogee | Juillet chaud, septembre splendide : vins amples et généreux.
+2005: 3 | apogee | Vins riches, parfois lourds.
+2004: 4 | apogee | Récolte énorme et pourtant fine : vins élégants et frais.
+2003: 2 | passe | Gel puis canicule, vendange en août : vins atypiques, de faible acidité.
+2002: 5 | apogee | Saison idéale : richesse, harmonie et fraîcheur, l'un des sommets récents.
+2001: 1 | passe | Vendange sous la pluie, vins dilués : presque aucun millésimé.
+2000: 3 | apogee | Vins ronds et souples.
+1999: 3 | apogee | Vins mûrs, de faible acidité.
+1998: 4 | apogee | Récolte abondante : vins fins et équilibrés.
+1997: 3 | passe | Vins tendres et précoces.
+1996: 5 | apogee | Sucre et acidité tous deux très élevés : vins tranchants, de garde exceptionnelle, parfois austères.
+1995: 4 | apogee | Très beaux chardonnays, vins classiques.
+1994: 2 | passe | Pluies de vendange, peu de millésimés.
+1993: 3 | passe | Vins légers, quelques réussites.
+1992: 3 | passe | Récolte abondante, vins souples.
+1991: 2 | passe | Gel de printemps, vins modestes.
+1990: 5 | apogee | Chaleur, abondance et acidité préservée : champagnes riches et complets.
+legende: 1989 | Vins opulents et mûrs.
+legende: 1988 | Vins droits, tendus, de longue garde : le classique de la trilogie 1988-1989-1990.
+legende: 1985 | Petite récolte après le gel d'hiver, vins concentrés et harmonieux.
+legende: 1982 | Récolte abondante et parfaite, superbes chardonnays.
+legende: 1979 | Vins fins et élégants.
+legende: 1964 | Champagnes riches et vineux.
+legende: 1959 | Année très chaude, vins puissants.
+legende: 1928 | Millésime historique, d'une longévité fabuleuse.
+
+@ alsace
+nom: Alsace
+region: alsace
+porte: Blancs secs, grands crus, vendanges tardives et sélections de grains nobles ; l'état vaut pour les rieslings de terroir.
+2025: ? | garder | Été chaud, vendange précoce ; raisins sains et mûrs, à juger avec le recul.
+2024: 3 | boire | Printemps et été pluvieux, mildiou : vins frais, légers en alcool, aux acidités marquées.
+2023: 4 | boire | Année généreuse, chaleur à la vendange : vins mûrs et ronds, à trier.
+2022: 3 | boire | Sécheresse et canicule : vins riches, d'acidité basse, meilleurs sur les sols profonds.
+2021: 4 | garder | Gel et mildiou, petite récolte : rieslings tendus, éclatants, d'un grand classicisme.
+2020: 4 | boire | Vendange précoce : vins équilibrés, fruités et nets.
+2019: 5 | garder | Chaleur et petits rendements, acidités fermes : vins concentrés et droits, grande année de riesling.
+2018: 4 | boire | Récolte abondante et solaire : vins amples et ronds.
+2017: 5 | boire | Gel d'avril, rendements réduits : concentration et fraîcheur, vins superbes.
+2016: 4 | boire | Fin de saison ensoleillée : vins fins et équilibrés.
+2015: 4 | boire | Année chaude et sèche : vins riches et puissants, beaux pinots gris et gewurztraminers.
+2014: 3 | apogee | Attaques de drosophile : beaux rieslings vifs, cépages colorés plus touchés.
+2013: 3 | apogee | Vendange tardive, petite récolte de vins acidulés.
+2012: 4 | apogee | Vins équilibrés et droits, de style classique.
+2011: 3 | passe | Récolte abondante, vins souples.
+2010: 4 | apogee | Très petite récolte, acidités élevées : grands rieslings de garde.
+2009: 4 | apogee | Année chaude, vins riches, belles vendanges tardives.
+2008: 4 | apogee | Acidité vive et maturité : rieslings ciselés.
+2007: 5 | apogee | Arrière-saison longue et saine : vins complets, superbes dans tous les cépages.
+2006: 2 | passe | Pourriture à la vendange : millésime difficile.
+2005: 4 | apogee | Vins mûrs et structurés, beau botrytis.
+2004: 3 | passe | Récolte abondante, vins vifs.
+2003: 2 | passe | Canicule : vins lourds, sans acidité.
+2002: 4 | apogee | Vins équilibrés, beaux rieslings.
+2001: 4 | apogee | Octobre magnifique : grands rieslings et belles vendanges tardives.
+2000: 4 | passe | Vins riches, belles sélections de grains nobles.
+1999: 3 | passe | Grosse récolte, vins dilués.
+1998: 4 | passe | Vins mûrs, beau botrytis.
+1997: 4 | passe | Arrière-saison parfaite : vins amples et moelleux.
+1996: 4 | passe | Acidités vives : rieslings de garde.
+1995: 4 | passe | Grands rieslings, belles vendanges tardives.
+1994: 3 | passe | Pluies de septembre, mais magnifiques sélections de grains nobles.
+1993: 3 | passe | Vins corrects, secs et légers.
+1992: 3 | passe | Récolte abondante, vins souples.
+1991: 2 | passe | Gel et pluies : vins modestes.
+1990: 5 | apogee | Maturité exceptionnelle : grands vins secs et liquoreux qui tiennent encore.
+legende: 1989 | Botrytis généreux : année mémorable pour les vendanges tardives et les sélections de grains nobles.
+legende: 1988 | Vins classiques et équilibrés.
+legende: 1985 | Petite récolte de vins concentrés.
+legende: 1983 | Très grande année, riche et puissante.
+legende: 1976 | Été de sécheresse : vins opulents, liquoreux d'anthologie.
+legende: 1971 | Vins concentrés et de très longue garde.
+legende: 1959 | Millésime solaire resté dans les mémoires.
+
+@ loire-blanc-sec
+nom: Loire — blancs secs
+region: loire
+porte: Sauvignons du Centre ([[sancerre]], [[pouilly-fume]], [[menetou-salon]], [[quincy]], [[reuilly]]) et melons du [[muscadet]].
+2025: ? | garder | Année chaude et précoce, raisins sains ; qualité annoncée très bonne, à confirmer.
+2024: 3 | boire | Gel, pluies et mildiou : petite récolte de blancs vifs et légers.
+2023: 4 | boire | Récolte généreuse : blancs mûrs, ronds et fruités.
+2022: 4 | boire | Été chaud et sec : blancs amples et expressifs, d'acidité modérée.
+2021: 3 | boire | Gel sévère d'avril, été frais : blancs tranchants, de style classique, en petite quantité.
+2020: 4 | boire | Vendange précoce : blancs riches et équilibrés.
+2019: 4 | boire | Chaleur et petits rendements : blancs concentrés, de belle fraîcheur.
+2018: 4 | apogee | Année solaire et abondante : blancs ronds et mûrs.
+2017: 4 | apogee | Gel de printemps, rendements réduits : blancs nets et précis.
+2016: 3 | apogee | Gel et mildiou, puis bel été : blancs mûrs, inégaux.
+2015: 4 | apogee | Année chaude : blancs riches et charnus.
+2014: 5 | apogee | Septembre radieux : maturité et acidité idéales, grand millésime de sauvignon et de [[muscadet]].
+2013: 2 | passe | Vendange tardive et difficile : blancs maigres.
+2012: 4 | passe | Petite récolte de blancs concentrés et vifs.
+2011: 3 | passe | Vendange précoce, blancs souples.
+2010: 4 | passe | Blancs droits et minéraux, de style classique.
+2009: 4 | passe | Blancs mûrs et opulents.
+2008: 4 | passe | Belle acidité, blancs tendus.
+2007: 3 | passe | Été frais, blancs vifs.
+2006: 3 | passe | Blancs ronds, vite prêts.
+2005: 5 | passe | Blancs complets et concentrés ; quelques grandes cuvées tiennent encore.
+2004: 3 | passe | Récolte abondante, blancs légers.
+2003: 2 | passe | Canicule : blancs lourds.
+2002: 5 | passe | Maturité et fraîcheur remarquables.
+2001: 3 | passe | Blancs vifs, corrects.
+2000: 3 | passe | Blancs souples.
+1999: 3 | passe | Récolte abondante, blancs tendres.
+1998: 3 | passe | Blancs corrects.
+1997: 4 | passe | Blancs mûrs et ronds.
+1996: 5 | passe | Acidité et concentration, blancs de grande tenue.
+1995: 4 | passe | Blancs mûrs et équilibrés.
+1994: 2 | passe | Pluies de vendange.
+1993: 3 | passe | Blancs vifs.
+1992: 2 | passe | Récolte abondante, blancs dilués.
+1991: 2 | passe | Le gel du 21 avril a détruit l'essentiel de la récolte.
+1990: 5 | passe | Blancs très mûrs et riches, de garde inhabituelle pour le sauvignon.
+legende: 1989 | Année de grande chaleur, blancs puissants.
+legende: 1988 | Blancs classiques, équilibrés.
+legende: 1976 | Été de sécheresse, vins très mûrs.
+
+@ loire-chenin
+nom: Loire — chenins d'Anjou et de Touraine
+region: loire
+porte: Secs, demi-secs et liquoreux de chenin : [[savennieres]], [[coteaux-du-layon]], [[bonnezeaux]], [[quarts-de-chaume]], [[saumur]], [[vouvray]], [[montlouis-sur-loire]].
+2025: ? | garder | Année chaude et précoce ; beaux secs annoncés, les moelleux dépendront de l'arrière-saison. Recul insuffisant.
+2024: 3 | boire | Pluies et mildiou, récolte réduite : secs tendus et fins, très peu de moelleux.
+2023: 3 | boire | Chaleur humide et pourriture à la vendange : tri indispensable, secs mûrs et quelques beaux liquoreux.
+2022: 4 | garder | Été chaud et sec, pluies de septembre : secs amples, moelleux de passerillage.
+2021: 3 | boire | Gel d'avril et été frais : secs vifs et ciselés, moelleux rares.
+2020: 4 | garder | Vendange précoce et saine : secs denses, beaux demi-secs.
+2019: 4 | garder | Gel puis canicule, petits rendements : vins concentrés et frais.
+2018: 4 | garder | Année généreuse et solaire : secs riches, nombreux moelleux de belle concentration.
+2017: 4 | boire | Gel localisé, belle arrière-saison : secs précis, liquoreux fins.
+2016: 4 | boire | Gel et mildiou ont réduit la récolte, automne superbe : vins équilibrés.
+2015: 4 | boire | Année chaude : secs puissants, liquoreux riches.
+2014: 4 | boire | Septembre et octobre lumineux : secs éclatants, moelleux d'une grande pureté.
+2013: 2 | passe | Année froide et tardive, pourriture : vins maigres.
+2012: 2 | passe | Petite récolte, automne pluvieux : presque pas de liquoreux.
+2011: 4 | apogee | Vendange précoce, botrytis abondant dans le Layon : beaux liquoreux.
+2010: 5 | boire | Acidité et concentration magnifiques : grands secs et grands liquoreux.
+2009: 4 | apogee | Année chaude, vins riches, moelleux de passerillage.
+2008: 4 | apogee | Petits rendements, acidités vives : secs de garde.
+2007: 3 | apogee | Été gris sauvé par l'automne : bons liquoreux de tries tardives.
+2006: 2 | passe | Pourriture à la vendange.
+2005: 5 | boire | Maturité exceptionnelle, raisins sains : liquoreux somptueux, secs puissants.
+2004: 3 | passe | Récolte abondante, vins vifs.
+2003: 4 | apogee | Canicule : moelleux très riches, concentrés par passerillage, d'acidité basse.
+2002: 4 | apogee | Vent d'est, raisins concentrés : grands secs et demi-secs.
+2001: 3 | apogee | Bons liquoreux dans le Layon.
+2000: 3 | passe | Vins souples.
+1999: 2 | passe | Pluies de vendange.
+1998: 2 | passe | Automne humide.
+1997: 5 | apogee | Arrière-saison chaude et sèche : liquoreux très riches, de passerillage et de botrytis.
+1996: 5 | apogee | Concentration et acidité : grands vins dans tous les styles, de très longue garde.
+1995: 4 | apogee | Beau botrytis, liquoreux équilibrés.
+1994: 2 | passe | Pluies de septembre.
+1993: 3 | passe | Vins vifs, quelques moelleux.
+1992: 2 | passe | Récolte abondante, vins dilués.
+1991: 1 | passe | Gel du 21 avril : presque pas de récolte.
+1990: 5 | apogee | Richesse en sucre record : liquoreux monumentaux, presque immortels.
+legende: 1989 | Chaleur et botrytis : avec 1990, un sommet des moelleux de Loire.
+legende: 1976 | Année de sécheresse, vins puissants.
+legende: 1971 | Vins fins et équilibrés, de grande garde.
+legende: 1959 | Très grande année de liquoreux.
+legende: 1947 | Le millésime mythique du chenin, dont les moelleux sont encore vivants.
+legende: 1945 | Petite récolte très concentrée.
+legende: 1921 | Été brûlant, liquoreux de légende.
+
+@ loire-rouge
+nom: Loire — rouges
+region: loire
+porte: Cabernets francs de [[chinon]], [[bourgueil]], [[saint-nicolas-de-bourgueil]], [[saumur-champigny]] et d'Anjou.
+2025: ? | garder | Été chaud, vendange précoce : cabernets mûrs et sains, à confirmer.
+2024: 2 | boire | Pluies continues et mildiou : vins légers, de faible degré, à boire sur le fruit.
+2023: 3 | boire | Récolte abondante, fin de saison chaude et humide : vins souples et fruités.
+2022: 4 | garder | Chaleur et sécheresse : cabernets mûrs, charnus, aux tanins ronds.
+2021: 3 | boire | Gel et été frais : vins légers et croquants, d'un style ligérien à l'ancienne.
+2020: 4 | garder | Vendange précoce : vins denses, mûrs et frais.
+2019: 4 | garder | Gel puis été chaud, petits rendements : vins concentrés et structurés.
+2018: 5 | garder | Année solaire et généreuse, maturité parfaite : rouges profonds et veloutés.
+2017: 4 | boire | Gel sévère par endroits : vins mûrs et équilibrés.
+2016: 4 | boire | Gel et mildiou, puis été sec : petite récolte de vins concentrés.
+2015: 4 | boire | Année chaude : cabernets riches et charnus.
+2014: 4 | apogee | Septembre splendide : vins frais, précis et bien mûrs.
+2013: 2 | passe | Année froide et tardive : vins maigres.
+2012: 3 | passe | Petite récolte, vins de demi-corps.
+2011: 3 | apogee | Vins souples et fruités.
+2010: 5 | boire | Maturité et fraîcheur : vins structurés, de longue garde.
+2009: 4 | apogee | Année chaude, vins riches et ronds.
+2008: 3 | apogee | Petits rendements, vins vifs.
+2007: 2 | passe | Été humide, vins légers.
+2006: 3 | passe | Vins corrects, à boire.
+2005: 5 | apogee | Raisins concentrés et sains : grands rouges, denses et tanniques.
+2004: 3 | passe | Récolte abondante, vins frais.
+2003: 4 | apogee | Canicule : rouges inhabituellement riches et mûrs.
+2002: 4 | apogee | Vins équilibrés et droits.
+2001: 3 | passe | Vins de corps moyen.
+2000: 3 | passe | Vins souples.
+1999: 3 | passe | Vins tendres.
+1998: 2 | passe | Pluies de vendange.
+1997: 4 | passe | Vins mûrs et ronds.
+1996: 5 | apogee | Concentration et acidité : les grandes cuvées de [[chinon]] et de [[bourgueil]] sont superbes.
+1995: 4 | passe | Vins riches et structurés.
+1994: 2 | passe | Vins légers.
+1993: 3 | passe | Vins corrects.
+1992: 2 | passe | Vins dilués.
+1991: 1 | passe | Gel dévastateur du 21 avril.
+1990: 5 | apogee | Année chaude, vins amples et profonds.
+legende: 1989 | Cabernets francs d'une maturité exceptionnelle, vins de très longue garde.
+legende: 1976 | Année de sécheresse, vins puissants et tanniques.
+legende: 1964 | Grand millésime classique de Touraine.
+legende: 1959 | Vins riches, d'une longévité étonnante.
+legende: 1947 | Été torride, rouges légendaires.
+
+@ rhone-nord
+nom: Rhône septentrional
+region: rhone
+porte: Syrahs de [[cote-rotie]], [[hermitage]], [[cornas]], [[saint-joseph]] et [[crozes-hermitage]].
+2025: ? | garder | Été chaud, vendange précoce et petite récolte ; raisins concentrés, à confirmer.
+2024: 3 | boire | Année fraîche et pluvieuse, mildiou : syrahs légères, florales et poivrées.
+2023: 4 | garder | Chaleur de fin d'été sur une récolte correcte : vins mûrs et charnus, équilibrés.
+2022: 4 | garder | Sécheresse et canicule, pluies d'août bienvenues : vins riches et ronds.
+2021: 3 | boire | Gel d'avril, été frais : syrahs fines, peu alcoolisées, d'un style classique.
+2020: 4 | garder | Année sèche et précoce : vins équilibrés, au fruit pur.
+2019: 5 | garder | Canicules et petits rendements : vins denses, puissants et frais, grand millésime de garde.
+2018: 4 | garder | Année chaude et généreuse : vins mûrs et veloutés.
+2017: 4 | garder | Sécheresse, petite récolte : vins concentrés et tanniques.
+2016: 4 | boire | Grêle sur [[hermitage]], saison équilibrée : vins élégants et frais, superbes à [[cote-rotie]].
+2015: 5 | garder | Été chaud et sec : syrahs monumentales, d'une concentration et d'une garde exceptionnelles.
+2014: 3 | apogee | Été frais, drosophile : vins souples et fruités.
+2013: 4 | boire | Vendange tardive : vins frais, tendus et de belle tenue.
+2012: 4 | boire | Vins charmeurs et équilibrés.
+2011: 3 | apogee | Vins souples, précoces.
+2010: 5 | boire | Petits rendements, maturité lente : profondeur, tension et pureté, immense millésime.
+2009: 5 | boire | Année solaire : vins puissants et riches, superbes à [[hermitage]].
+2008: 2 | passe | Pluies de septembre : vins légers.
+2007: 3 | apogee | Été frais, bel automne : vins fruités, de demi-corps.
+2006: 4 | apogee | Vins charnus et équilibrés.
+2005: 4 | boire | Sécheresse : vins très tanniques, lents à s'ouvrir.
+2004: 3 | apogee | Récolte abondante, vins frais.
+2003: 4 | apogee | Canicule, vendange en août : vins massifs et confits, impressionnants à [[hermitage]].
+2002: 1 | passe | Pluies diluviennes de septembre : millésime sinistré.
+2001: 4 | apogee | Vins droits et structurés, de belle garde.
+2000: 3 | passe | Vins souples et ronds.
+1999: 5 | apogee | Maturité parfaite : très grand millésime, surtout à [[cote-rotie]].
+1998: 4 | apogee | Gel de printemps, vins tanniques et fermes.
+1997: 3 | passe | Vins mûrs, de faible acidité.
+1996: 3 | passe | Acidités élevées, vins stricts.
+1995: 4 | apogee | Vins concentrés et structurés.
+1994: 3 | passe | Pluies de septembre.
+1993: 1 | passe | Vendange noyée, pourriture.
+1992: 2 | passe | Vins légers.
+1991: 4 | apogee | Très beau millésime en [[cote-rotie]], éclipsé par 1990.
+1990: 5 | apogee | Chaleur et concentration : hermitages légendaires.
+legende: 1989 | Vins riches et tanniques, de longue garde.
+legende: 1988 | Syrahs fermes et classiques.
+legende: 1985 | Vins mûrs et séduisants, superbes à [[cote-rotie]].
+legende: 1983 | Année sèche, vins très tanniques.
+legende: 1978 | Le millésime de référence du Rhône, d'une profondeur inégalée.
+legende: 1961 | Hermitages mythiques, parmi les plus grands vins du siècle.
+
+@ rhone-sud
+nom: Rhône méridional
+region: rhone
+porte: Assemblages à base de grenache : [[chateauneuf-du-pape]], [[gigondas]], [[vacqueyras]], [[rasteau]], [[cairanne]] et les villages.
+2025: ? | garder | Canicule d'août, vendange précoce, volumes en baisse ; vins jugés harmonieux, à confirmer.
+2024: 3 | boire | Pluies de printemps, coulure du grenache : vins frais, fruités, de demi-corps.
+2023: 4 | garder | Été chaud, canicule tardive : vins mûrs et généreux.
+2022: 4 | boire | Sécheresse extrême, puis pluies à la mi-août : vins ronds et fruités, inégaux.
+2021: 3 | boire | Gel d'avril, été sans excès : vins légers, frais et digestes.
+2020: 4 | boire | Année précoce et équilibrée : vins charmeurs, au fruit pur.
+2019: 5 | garder | Canicules mais raisins sains : vins riches, concentrés et harmonieux.
+2018: 3 | boire | Mildiou exceptionnel, grosses pertes en grenache : vins souples.
+2017: 4 | boire | Coulure et sécheresse, très petite récolte : vins concentrés et structurés.
+2016: 5 | garder | Journées chaudes et nuits fraîches : fruit éclatant, équilibre parfait, immense millésime.
+2015: 4 | boire | Année chaude : vins riches et puissants.
+2014: 3 | apogee | Été frais et humide : vins légers et fruités.
+2013: 3 | apogee | Coulure massive du grenache : vins frais, plus marqués par la syrah et le mourvèdre.
+2012: 4 | apogee | Vins équilibrés et gourmands.
+2011: 3 | apogee | Récolte abondante, vins souples.
+2010: 5 | boire | Petite récolte, concentration et fraîcheur : très grand millésime de garde.
+2009: 4 | apogee | Sécheresse : vins puissants et tanniques.
+2008: 2 | passe | Année pluvieuse, vins légers.
+2007: 5 | apogee | Mistral et soleil, raisins parfaits : vins opulents et capiteux.
+2006: 4 | apogee | Vins équilibrés et classiques.
+2005: 4 | boire | Vins concentrés et tanniques, de longue garde.
+2004: 4 | apogee | Vins frais et élégants.
+2003: 3 | passe | Canicule : vins confits, tanins secs, inégaux.
+2002: 1 | passe | Inondations de septembre : millésime sinistré.
+2001: 4 | apogee | Vins structurés et classiques, de grande garde.
+2000: 4 | apogee | Vins ronds et charnus.
+1999: 4 | passe | Vins équilibrés et fins.
+1998: 5 | apogee | Grande année de grenache : vins riches et puissants.
+1997: 2 | passe | Vins légers et précoces.
+1996: 2 | passe | Année fraîche, vins minces.
+1995: 4 | apogee | Vins concentrés et tanniques.
+1994: 3 | passe | Pluies de septembre.
+1993: 2 | passe | Pluies de vendange.
+1992: 1 | passe | Inondations d'automne.
+1991: 1 | passe | Année froide, vins maigres.
+1990: 5 | apogee | Chaleur et maturité idéales : châteauneufs somptueux.
+legende: 1989 | Vins puissants et structurés, de très longue garde.
+legende: 1981 | Belle réussite du Sud dans une année ailleurs moyenne.
+legende: 1978 | Millésime légendaire, concentré et presque inusable.
+legende: 1967 | Grand millésime classique de [[chateauneuf-du-pape]].
+legende: 1961 | Vins d'une profondeur exceptionnelle.
+
+@ provence
+nom: Provence — Bandol et rouges de garde
+region: provence
+porte: Rouges de mourvèdre de [[bandol]] et rouges de garde de [[palette]], des [[les-baux-de-provence|Baux]] et des meilleurs domaines ; les rosés se boivent dans les deux ans.
+2025: ? | garder | Été chaud et sec, vendange précoce ; à juger après l'élevage.
+2024: 3 | garder | Année plus arrosée que les précédentes : vins frais et équilibrés.
+2023: 4 | garder | Été chaud, pluies de printemps bienvenues : mourvèdres mûrs et charnus.
+2022: 4 | garder | Sécheresse sévère : petite récolte de vins concentrés.
+2021: 3 | boire | Gel d'avril, été tempéré : vins frais, de demi-corps.
+2020: 4 | garder | Année équilibrée : vins fins et aromatiques.
+2019: 4 | garder | Canicule de juin, bel automne : vins riches et structurés.
+2018: 3 | boire | Printemps humide, mildiou : vins souples.
+2017: 4 | boire | Gel et sécheresse, petite récolte : vins denses et tanniques.
+2016: 5 | garder | Année sèche et lumineuse : mourvèdres profonds, d'un grand équilibre.
+2015: 4 | boire | Année chaude : vins généreux et veloutés.
+2014: 3 | apogee | Été frais et orageux : vins légers.
+2013: 3 | apogee | Vendange tardive, vins frais.
+2012: 3 | apogee | Vins équilibrés, de corps moyen.
+2011: 4 | boire | Belle maturité, vins charnus.
+2010: 5 | boire | Petite récolte, concentration et fraîcheur : grand millésime de garde.
+2009: 4 | apogee | Année chaude, vins puissants.
+2008: 3 | apogee | Année fraîche, vins classiques.
+2007: 4 | apogee | Vins mûrs et amples.
+2006: 4 | apogee | Vins structurés et équilibrés.
+2005: 4 | apogee | Vins concentrés et tanniques.
+2004: 4 | apogee | Vins frais et élégants.
+2003: 3 | passe | Canicule, tanins secs.
+2002: 2 | passe | Pluies de septembre.
+2001: 5 | apogee | Mourvèdres parfaitement mûrs : grands bandols, complexes et profonds.
+2000: 4 | apogee | Vins ronds et généreux.
+1999: 4 | passe | Vins équilibrés.
+1998: 5 | apogee | Année chaude et sèche : vins puissants, de très longue garde.
+1997: 3 | passe | Vins souples.
+1996: 3 | passe | Année fraîche, vins vifs.
+1995: 4 | passe | Vins structurés.
+1994: 3 | passe | Vins corrects.
+1993: 3 | passe | Vins de corps moyen.
+1992: 2 | passe | Vins légers.
+1991: 3 | passe | Vins corrects, sans grande concentration.
+1990: 5 | apogee | Maturité idéale : bandols riches et complets, encore superbes.
+legende: 1989 | Vins puissants et tanniques.
+legende: 1988 | Vins classiques, de longue garde.
+legende: 1985 | Mourvèdres mûrs et harmonieux.
+legende: 1982 | Année chaude, grands bandols.
+
+@ languedoc-roussillon
+nom: Languedoc et Roussillon
+region: languedoc
+porte: Rouges de garde du [[languedoc]] et du Roussillon ([[pic-saint-loup]], [[terrasses-du-larzac]], [[faugeres]], [[saint-chinian]], [[corbieres]], [[minervois]], [[cotes-du-roussillon-villages]], [[collioure]]) ; les vins doux naturels suivent leur propre logique.
+2025: ? | garder | Canicule et sécheresse, incendies dans les Corbières ; très petite récolte, à juger plus tard.
+2024: 3 | boire | Sécheresse dramatique en Roussillon et dans l'Aude, pluies plus généreuses à l'est : vins inégaux, souvent frais.
+2023: 3 | boire | Sécheresse sévère, surtout en Roussillon : petits rendements, vins concentrés mais hétérogènes.
+2022: 4 | boire | Année chaude, pluies d'août salutaires : vins mûrs et équilibrés.
+2021: 3 | boire | Gel d'avril historique : vins frais, plus légers.
+2020: 4 | boire | Année tempérée : vins fins et fruités.
+2019: 4 | garder | Canicule record de la fin de juin, bel automne : vins riches et structurés.
+2018: 3 | boire | Printemps pluvieux et mildiou : vins souples.
+2017: 4 | boire | Gel et sécheresse, récolte historiquement faible : vins concentrés.
+2016: 4 | boire | Sécheresse, petites baies : vins denses et frais.
+2015: 5 | boire | Saison équilibrée, raisins sains : vins complets et harmonieux.
+2014: 3 | apogee | Grêle et pluies d'automne : vins légers.
+2013: 4 | apogee | Vendange tardive : vins frais et élégants.
+2012: 3 | apogee | Vins de corps moyen.
+2011: 4 | apogee | Récolte généreuse, vins charnus.
+2010: 5 | apogee | Petite récolte, fraîcheur et concentration : grand millésime.
+2009: 4 | apogee | Sécheresse, vins puissants.
+2008: 3 | passe | Vins frais et équilibrés.
+2007: 4 | apogee | Vins mûrs et fruités.
+2006: 3 | passe | Vins solides.
+2005: 4 | apogee | Vins structurés et équilibrés.
+2004: 3 | passe | Vins frais.
+2003: 3 | passe | Canicule, vins confits.
+2002: 2 | passe | Pluies diluviennes de septembre dans le Gard et l'est de l'Hérault.
+2001: 5 | apogee | Année sèche et concentrée : vins profonds et de garde.
+2000: 4 | passe | Vins ronds et mûrs.
+1999: 3 | passe | Pluies d'automne dans l'Aude, vins inégaux.
+1998: 5 | apogee | Grande maturité : vins riches et puissants.
+1997: 2 | passe | Vins légers.
+1996: 3 | passe | Vins frais.
+1995: 4 | passe | Vins concentrés.
+1994: 3 | passe | Vins corrects.
+1993: 3 | passe | Vins de corps moyen.
+1992: 2 | passe | Pluies de vendange.
+1991: 3 | passe | Vins corrects.
+1990: 4 | passe | Année chaude et généreuse.
+legende: 1989 | Vins mûrs et solides.
+legende: 1988 | Beau millésime classique.
+legende: 1985 | Année de référence pour les rouges et pour les vins doux naturels de [[banyuls]] et de [[maury]].
+
+@ sud-ouest
+nom: Sud-Ouest
+region: sud-ouest
+porte: Rouges de [[cahors]] et de [[madiran]], moelleux de [[jurancon]] ; par extension [[bergerac]], [[monbazillac]], [[gaillac]], [[irouleguy]].
+2025: ? | garder | Été chaud et sec, vendange précoce ; à juger avec plus de recul.
+2024: 3 | boire | Printemps très pluvieux, mildiou : rouges légers, beaux moelleux d'arrière-saison à [[jurancon]].
+2023: 3 | boire | Mildiou dévastateur puis chaleur de fin d'été : petite récolte, vins mûrs chez les rescapés.
+2022: 4 | garder | Gel, grêle, puis sécheresse : faibles volumes de vins concentrés.
+2021: 2 | boire | Gel d'avril et mildiou : rouges légers, récolte très réduite.
+2020: 4 | garder | Année chaude et précoce : rouges denses et mûrs.
+2019: 4 | garder | Canicules, bel automne : vins riches et structurés.
+2018: 4 | boire | Mildiou au printemps, été superbe : rouges pleins et veloutés.
+2017: 3 | boire | Gel sévère à [[cahors]] et à [[bergerac]] : petite récolte ; belle année à [[jurancon]].
+2016: 4 | garder | Été sec, arrière-saison idéale : rouges équilibrés et profonds.
+2015: 5 | boire | Maturité parfaite : rouges amples, moelleux somptueux.
+2014: 4 | boire | Été indien : vins frais et précis.
+2013: 2 | passe | Année froide et humide : rouges maigres.
+2012: 3 | apogee | Vins de corps moyen.
+2011: 4 | apogee | Vins mûrs et structurés.
+2010: 5 | boire | Concentration et acidité : grands rouges de garde, moelleux éclatants.
+2009: 4 | apogee | Année solaire, vins riches.
+2008: 3 | apogee | Vins frais et droits.
+2007: 3 | passe | Été gris, vins légers.
+2006: 3 | passe | Vins fermes.
+2005: 5 | apogee | Année sèche : rouges denses et tanniques, de grande garde.
+2004: 4 | apogee | Vins classiques et équilibrés.
+2003: 3 | passe | Canicule, tanins secs.
+2002: 3 | passe | Vins de corps moyen, bons à [[madiran]].
+2001: 4 | apogee | Très beaux rouges, grands moelleux.
+2000: 4 | apogee | Vins mûrs et ronds.
+1999: 3 | passe | Vins souples.
+1998: 4 | passe | Vins tanniques et solides.
+1997: 2 | passe | Vins légers.
+1996: 3 | passe | Vins frais.
+1995: 4 | passe | Vins concentrés.
+1994: 3 | passe | Vins corrects.
+1993: 2 | passe | Pluies de vendange.
+1992: 1 | passe | Année détrempée.
+1991: 2 | passe | Gel d'avril.
+1990: 5 | apogee | Année chaude : grands rouges, moelleux d'anthologie à [[jurancon]] et à [[monbazillac]].
+legende: 1989 | Vins riches et puissants.
+legende: 1988 | Millésime classique, de garde.
+legende: 1985 | Rouges mûrs et harmonieux.
+legende: 1982 | Année généreuse et solaire.
+
+@ jura
+nom: Jura
+region: jura
+porte: Blancs de chardonnay et de savagnin, vins jaunes, rouges de poulsard, de trousseau et de pinot ; l'état vaut pour les blancs et les rouges, le vin jaune se garde bien plus longtemps.
+2025: ? | garder | Vendange précoce, raisins sains ; à juger avec le recul.
+2024: 3 | boire | Gel d'avril dévastateur puis mildiou : récolte infime, vins vifs et fins.
+2023: 4 | boire | Récolte abondante et saine : vins fruités et équilibrés.
+2022: 4 | garder | Année chaude et généreuse : vins mûrs et amples, soutenus par une bonne acidité.
+2021: 2 | boire | Gel et mildiou ont anéanti l'essentiel de la récolte : vins légers, acides.
+2020: 4 | boire | Vendange précoce : vins concentrés et nets.
+2019: 4 | garder | Gel de printemps, canicule : petite récolte de vins denses.
+2018: 5 | garder | Récolte abondante et parfaitement mûre : grande année dans toutes les couleurs.
+2017: 3 | boire | Gel d'avril, volumes très faibles : vins concentrés et frais.
+2016: 4 | boire | Mildiou, puis bel été : vins équilibrés.
+2015: 5 | boire | Année chaude : blancs riches, rouges d'une maturité rare.
+2014: 4 | apogee | Beaux blancs tendus ; rouges touchés par la drosophile.
+2013: 3 | apogee | Vendange tardive, vins vifs.
+2012: 3 | apogee | Petite récolte, vins corrects.
+2011: 4 | apogee | Vendange précoce, vins mûrs.
+2010: 4 | apogee | Acidités marquées : blancs de garde.
+2009: 4 | apogee | Année solaire, vins amples.
+2008: 3 | passe | Vins vifs.
+2007: 3 | passe | Vins légers.
+2006: 3 | passe | Vins corrects.
+2005: 5 | apogee | Concentration et équilibre : grand millésime, superbe en vin jaune.
+2004: 3 | passe | Récolte abondante.
+2003: 3 | passe | Canicule, vins riches et atypiques.
+2002: 4 | apogee | Vins droits et équilibrés.
+2001: 2 | passe | Année pluvieuse.
+2000: 4 | passe | Vins mûrs.
+1999: 4 | apogee | Très beaux savagnins.
+1998: 3 | passe | Vins corrects.
+1997: 4 | passe | Vins mûrs et ronds.
+1996: 4 | apogee | Acidité et concentration : grands vins jaunes.
+1995: 4 | passe | Vins équilibrés.
+1994: 3 | passe | Vins corrects.
+1993: 2 | passe | Vins maigres.
+1992: 3 | passe | Récolte abondante.
+1991: 2 | passe | Gel de printemps.
+1990: 5 | apogee | Année chaude et généreuse : vins jaunes de très longue garde.
+legende: 1989 | Vins riches, grands jaunes.
+legende: 1985 | Petite récolte concentrée.
+legende: 1983 | Beau millésime de savagnin.
+legende: 1976 | Année de sécheresse, vins puissants.
+legende: 1959 | Vins jaunes d'anthologie.
+legende: 1947 | Millésime légendaire, dont les jaunes et les vins de paille vivent encore.

@@ -1,0 +1,64 @@
+# GUIDE — Conserver le vin
+
+@ cons-cave-ideale
+nom: La cave idéale
+rubrique: conservation
+def: Une bonne cave est fraîche, stable, humide, obscure, calme et sans odeur : six conditions qui laissent le vin évoluer lentement.
+texte: La température est le facteur décisif. L'idéal se situe entre 10 et 14 °C, mais la constance importe plus que le chiffre : une cave qui passe doucement de 10 °C en hiver à 16 °C en été convient très bien, alors que des écarts brusques dilatent et contractent le vin, fatiguent le bouchon et font « couler » les bouteilles. Au-dessus de 20 °C de façon durable, le vin vieillit trop vite et perd sa finesse.
+texte: L'humidité doit rester élevée, autour de 70 à 80 %, pour que les bouchons ne se dessèchent pas ; au-delà, les étiquettes moisissent, sans dommage pour le vin. L'obscurité est indispensable : la lumière, surtout celle du soleil et des tubes fluorescents, altère les vins, blancs et effervescents en tête, et leur donne le « goût de lumière ». Le calme compte aussi : pas de vibrations répétées, machine ou circulation proche.
+texte: Enfin, la cave doit être aérée et saine. Le vin respire à travers le liège : on n'y entrepose ni fioul, ni peinture, ni oignons, ni cartons humides, dont les odeurs finissent par passer. Un sol de terre battue ou de gravier, que l'on peut arroser en été, des murs épais et une petite ventilation côté nord composent la cave enterrée traditionnelle, encore la meilleure.
+liste: Les six conditions = température de 10 à 14 °C, sans variation brusque ; humidité de 70 à 80 % ; obscurité ; absence de vibrations ; aération et absence d'odeurs ; bouteilles couchées
+
+@ cons-armoire
+nom: Sans cave : armoire à vin et solutions d'appartement
+rubrique: conservation
+def: Faute de cave enterrée, une armoire de vieillissement ou un coin bien choisi du logement permet de garder du vin dans de bonnes conditions.
+texte: L'armoire à vin est la solution la plus sûre en appartement. Il en existe trois familles, qu'il ne faut pas confondre. L'armoire de vieillissement reproduit la cave : température unique et stable autour de 12 °C, humidité régulée, porte pleine ou vitrée traitée contre les ultraviolets, compresseur monté sur amortisseurs. L'armoire de service, à une ou plusieurs zones, maintient les bouteilles à température de dégustation pour quelques semaines. L'armoire polyvalente tente de faire les deux. Pour garder des vins plusieurs années, seule la première convient.
+texte: Sans équipement, on choisit l'endroit le plus frais et le plus stable du logement : un placard contre un mur au nord, un dessous d'escalier, une pièce non chauffée. On évite la cuisine, la proximité d'un radiateur ou d'un chauffe-eau, le garage qui gèle en hiver et surchauffe en été, le grenier. Les bouteilles restent dans leurs cartons ou leurs caisses, couchées, à l'abri de la lumière ; un thermomètre à mémoire renseigne sur les écarts réels.
+texte: Dans ces conditions imparfaites, il est sage de se limiter aux vins à boire dans les deux ou trois ans et de ne pas y faire vieillir de grandes bouteilles. Pour celles-ci, certains cavistes et sociétés spécialisées louent des emplacements en cave climatisée. Le réfrigérateur ménager, trop froid, trop sec et vibrant, ne convient que pour quelques jours.
+
+@ cons-coucher
+nom: Pourquoi coucher les bouteilles ?
+rubrique: conservation
+def: Couchée, la bouteille garde son bouchon de liège humide, donc gonflé et étanche.
+texte: Un bouchon de liège qui se dessèche se rétracte, laisse entrer l'air et le vin s'oxyde. En position horizontale, le vin reste au contact du liège et entretient son élasticité. C'est pourquoi toute bouteille bouchée de liège et destinée à attendre plus de quelques mois se range couchée, étiquette vers le haut : on la lit sans la remuer et le dépôt se forme du côté opposé.
+texte: La règle connaît des exceptions. Les bouteilles fermées par une capsule à vis ou un bouchon de verre peuvent rester debout. Les effervescents, dont le bouchon est maintenu humide par la pression du gaz, supportent aussi la position verticale pour une garde courte. Les eaux-de-vie, elles, se conservent toujours debout, car l'alcool attaque le liège.
+texte: Pour le rangement, les casiers permettent d'atteindre chaque bouteille sans déplacer les autres ; l'empilement en rangées, tête-bêche, économise la place pour les vins achetés par caisses. On place en bas, où il fait le plus frais, les blancs et les effervescents, et l'on tient un registre : sans plan ni livre de cave, on oublie des bouteilles qui dépassent leur apogée.
+
+@ cons-duree
+nom: Combien de temps garder un vin ?
+rubrique: conservation
+def: La plupart des vins sont faits pour être bus dans les trois à cinq ans ; seule une minorité gagne réellement à vieillir.
+texte: L'aptitude à la garde tient à la structure du vin. L'acidité, les tanins, le sucre et l'alcool sont des conservateurs naturels ; la concentration du fruit donne de la matière à l'évolution. Un rouge tannique de cabernet, de tannat ou de mourvèdre, un blanc très acide de riesling ou de chenin, un liquoreux, un vin muté ont de quoi durer. Un vin léger, souple, peu acide, est à boire sur son fruit.
+texte: Le millésime module ces durées : une grande année ajoute dix ans, une petite en retire autant (voir les tableaux de millésimes). Le format joue également : le vin évolue plus lentement en magnum qu'en bouteille, plus vite en demi-bouteille. Enfin, les conditions de conservation sont décisives : toutes les durées indiquées supposent une cave fraîche.
+texte: Mieux vaut boire un vin un peu trop tôt que trop tard. Acheter plusieurs bouteilles du même vin et en ouvrir une de temps à autre reste la seule façon de suivre son évolution et de saisir son apogée. Le goût personnel compte aussi : certains préfèrent le fruit de la jeunesse, d'autres les arômes d'évolution.
+liste: Blancs et rosés = rosés et blancs vifs : 1 à 3 ans ; muscadets sur lie, sancerres, chablis : 3 à 8 ans ; blancs aromatiques d'Alsace : 3 à 10 ans, 20 ans pour les grands crus ; grands blancs de Bourgogne, de Pessac-Léognan, de l'Hermitage : 8 à 20 ans ; chenins secs de Loire : 5 à 20 ans ; moelleux et liquoreux : 10 à 50 ans ; vin jaune : 20 à 100 ans
+liste: Rouges = rouges légers et primeurs : 1 à 3 ans ; rouges souples : 3 à 7 ans ; crus du Beaujolais : 3 à 10 ans ; cabernets francs de Loire : 5 à 20 ans ; bourgognes villages et premiers crus : 5 à 15 ans ; grands crus de Bourgogne : 10 à 30 ans ; crus du Médoc, de Saint-Émilion et de Pomerol : 10 à 40 ans ; Rhône nord : 8 à 30 ans ; Châteauneuf-du-Pape, Gigondas, Bandol : 8 à 25 ans ; Cahors, Madiran : 8 à 20 ans
+liste: Effervescents et vins mutés = champagnes bruts sans année et crémants : 1 à 4 ans après l'achat ; champagnes millésimés : 8 à 25 ans ; muscats doux : 1 à 3 ans ; Banyuls, Maury, Rivesaltes grenat : 5 à 15 ans ; vins doux naturels élevés en milieu oxydatif : presque indéfiniment
+
+@ cons-formats
+nom: Les formats de bouteilles
+rubrique: conservation
+def: De la demi-bouteille au melchior, les contenances suivent une échelle de multiples de la bouteille de 75 centilitres, avec des noms empruntés à la Bible.
+texte: La bouteille de 75 centilitres s'est imposée au XIXᵉ siècle et a été rendue obligatoire en Europe dans les années 1970. Sa forme varie selon les régions : bordelaise à épaules marquées, bourguignonne aux épaules tombantes, flûte élancée d'Alsace, champenoise épaisse pour résister à la pression. Le Jura a gardé pour son vin jaune le clavelin de 62 centilitres, censé représenter ce qui reste d'un litre de vin après plus de six ans d'élevage sous voile.
+texte: Le format influe sur le vieillissement. Le volume d'air sous le bouchon étant à peu près le même quelle que soit la taille, le vin évolue plus lentement dans un grand contenant : le magnum passe pour le format idéal de garde, et les effervescents y sont souvent meilleurs. À l'inverse, la demi-bouteille vieillit plus vite. Au-delà du jéroboam, les très grands formats sont surtout des pièces d'apparat ; en Champagne, ils sont souvent remplis par transvasement à partir de bouteilles ordinaires.
+texte: Les noms diffèrent entre Bordeaux et la Champagne, ce qui prête à confusion : le jéroboam champenois et bourguignon contient trois litres, soit ce que Bordeaux appelle double magnum, tandis que le jéroboam bordelais en contient cinq. De même, les six litres se nomment impériale à Bordeaux et mathusalem en Champagne.
+liste: Petits formats = quart ou piccolo : 20 cl ; demi-bouteille ou fillette : 37,5 cl ; pot lyonnais : 46 cl ; bouteille de 50 cl, fréquente pour les vins doux ; clavelin du Jura : 62 cl ; bouteille : 75 cl
+liste: Grands formats = magnum : 1,5 l (2 bouteilles) ; marie-jeanne, à Bordeaux : 2,25 l (3 bouteilles) ; double magnum à Bordeaux, jéroboam en Champagne et en Bourgogne : 3 l (4 bouteilles) ; réhoboam, en Champagne : 4,5 l (6 bouteilles) ; jéroboam bordelais : 5 l ; impériale à Bordeaux, mathusalem en Champagne : 6 l (8 bouteilles) ; salmanazar : 9 l (12 bouteilles) ; balthazar : 12 l (16 bouteilles) ; nabuchodonosor : 15 l (20 bouteilles) ; melchior ou salomon : 18 l (24 bouteilles)
+
+@ cons-primeur
+nom: Acheter en primeur
+rubrique: conservation
+def: La vente en primeur consiste à acheter un vin encore en cours d'élevage, livré un an et demi à deux ans plus tard.
+texte: Le système est né à Bordeaux et y reste concentré. Chaque printemps suivant la vendange, les crus présentent des échantillons tirés des barriques aux négociants, aux courtiers et aux critiques. Les châteaux annoncent ensuite leur prix de sortie et mettent en vente tout ou partie de leur récolte, par l'intermédiaire du négoce de la place. L'acheteur paie alors le vin hors taxes ; il règle la TVA et le transport à la livraison, après la mise en bouteille. Quelques domaines de Bourgogne, du Rhône ou de la Loire pratiquent aussi des ventes par souscription.
+texte: Le principe est un échange : le producteur perçoit de la trésorerie avant d'avoir fini son vin, l'acheteur espère en retour un prix inférieur à celui du vin livrable, l'accès à des crus rares et le choix des formats. L'avantage n'est pas garanti : dans plusieurs millésimes récents, des vins se sont retrouvés moins chers quelques années après leur sortie. L'achat se fait en outre sur la foi d'échantillons provisoires, que l'élevage peut encore modifier.
+texte: Quelques précautions s'imposent : acheter auprès d'un négociant ou d'un caviste solidement établi, car le vin ne sera livré que deux ans plus tard et l'acheteur supporte le risque de défaillance du vendeur ; conserver les bons de réservation ; se rappeler qu'il s'agit de vins de garde, qu'il faudra pouvoir loger correctement. Il ne faut pas confondre ces primeurs avec les « vins primeurs » ou nouveaux, comme le beaujolais nouveau, mis en vente quelques semaines après la vendange.
+
+@ cons-evolution
+nom: Lire l'évolution d'un vin
+rubrique: conservation
+def: Un vin de garde traverse plusieurs âges — jeunesse, fermeture, maturité, déclin — que la couleur, le nez et la bouche permettent de reconnaître.
+texte: La robe est le premier indice. Les rouges perdent de leur couleur : du violacé de la jeunesse, ils passent au rubis, puis au grenat, enfin au tuilé et à l'orangé sur le bord du verre. Les blancs, au contraire, foncent : de l'or pâle à reflets verts vers l'or soutenu, puis l'ambre. Un bord brun sur un rouge ou une teinte de thé sur un blanc sec annoncent un vin sur le déclin.
+texte: Le nez évolue du fruit frais vers le bouquet. Aux arômes de fruits et de fleurs succèdent des notes de fruits cuits ou secs, puis de sous-bois, de champignon, de truffe, de cuir, de tabac pour les rouges ; de miel, de cire, de fruits secs, de noisette pour les blancs. En bouche, les tanins se fondent, l'acidité s'intègre, la texture devient plus soyeuse ; un dépôt se forme au fond de la bouteille. Quand le fruit a disparu, que le vin sèche et que l'acidité ressort, il est passé.
+texte: Entre la jeunesse et la maturité, beaucoup de vins de garde connaissent une phase de fermeture : quelques années après la mise, ils se replient, sentent peu, paraissent durs. Ce n'est pas un défaut, mais un âge ingrat ; il faut attendre. D'autres signes se lisent sans ouvrir la bouteille : le niveau du vin, qui baisse avec les décennies — bas dans l'épaule, il fait craindre l'oxydation —, un bouchon qui suinte ou une capsule bombée, indices d'un coup de chaleur.
+liste: Les âges du vin = jeunesse : fruit frais, tanins fermes, robe vive ; fermeture : nez discret, bouche austère ; maturité ou apogée : bouquet complexe, tanins fondus ; déclin : fruit éteint, robe brunie, bouche sèche

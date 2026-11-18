@@ -1,0 +1,387 @@
+# région | id | nom | signe | tracé (pN = parcellaire INAO, cN = communes, - = aucun) | départements | nom officiel complet
+alsace | alsace | Alsace | AOC | p1 | 67,68 | Alsace ou Vin d'Alsace
+alsace | alsace-grand-cru-altenberg-de-bergbieten | Alsace grand cru Altenberg de Bergbieten | AOC | p1187 | 67 | Alsace grand cru Altenberg de Bergbieten
+alsace | alsace-grand-cru-altenberg-de-bergheim | Alsace grand cru Altenberg de Bergheim | AOC | p1188 | 68 | Alsace grand cru Altenberg de Bergheim
+alsace | alsace-grand-cru-altenberg-de-wolxheim | Alsace grand cru Altenberg de Wolxheim | AOC | p1189 | 67 | Alsace grand cru Altenberg de Wolxheim
+alsace | alsace-grand-cru-brand | Alsace grand cru Brand | AOC | p1190 | 68 | Alsace grand cru Brand
+alsace | alsace-grand-cru-bruderthal | Alsace grand cru Bruderthal | AOC | p1191 | 67 | Alsace grand cru Bruderthal
+alsace | alsace-grand-cru-eichberg | Alsace grand cru Eichberg | AOC | p1192 | 68 | Alsace grand cru Eichberg
+alsace | alsace-grand-cru-engelberg | Alsace grand cru Engelberg | AOC | p1193 | 67 | Alsace grand cru Engelberg
+alsace | alsace-grand-cru-florimont | Alsace grand cru Florimont | AOC | p1194 | 68 | Alsace grand cru Florimont
+alsace | alsace-grand-cru-frankstein | Alsace grand cru Frankstein | AOC | p1195 | 67 | Alsace grand cru Frankstein
+alsace | alsace-grand-cru-froehn | Alsace grand cru Froehn | AOC | p1196 | 68 | Alsace grand cru Froehn
+alsace | alsace-grand-cru-furstentum | Alsace grand cru Furstentum | AOC | p1197 | 68 | Alsace grand cru Furstentum
+alsace | alsace-grand-cru-geisberg | Alsace grand cru Geisberg | AOC | p1198 | 68 | Alsace grand cru Geisberg
+alsace | alsace-grand-cru-gloeckelberg | Alsace grand cru Gloeckelberg | AOC | p1199 | 68 | Alsace grand cru Gloeckelberg
+alsace | alsace-grand-cru-goldert | Alsace grand cru Goldert | AOC | p1200 | 68 | Alsace grand cru Goldert
+alsace | alsace-grand-cru-hatschbourg | Alsace grand cru Hatschbourg | AOC | p1201 | 68 | Alsace grand cru Hatschbourg
+alsace | alsace-grand-cru-hengst | Alsace grand cru Hengst | AOC | p1202 | 68 | Alsace grand cru Hengst
+alsace | alsace-grand-cru-kaefferkopf | Alsace grand cru Kaefferkopf | AOC | p1203 | 68 | Alsace grand cru Kaefferkopf
+alsace | alsace-grand-cru-kanzlerberg | Alsace grand cru Kanzlerberg | AOC | p1204 | 68 | Alsace grand cru Kanzlerberg
+alsace | alsace-grand-cru-kastelberg | Alsace grand cru Kastelberg | AOC | p1205 | 67 | Alsace grand cru Kastelberg
+alsace | alsace-grand-cru-kessler | Alsace grand cru Kessler | AOC | p1206 | 68 | Alsace grand cru Kessler
+alsace | alsace-grand-cru-kirchberg-de-barr | Alsace grand cru Kirchberg de Barr | AOC | p1207 | 67 | Alsace grand cru Kirchberg de Barr
+alsace | alsace-grand-cru-kirchberg-de-ribeauville | Alsace grand cru Kirchberg de Ribeauvillé | AOC | p1208 | 68 | Alsace grand cru Kirchberg de Ribeauvillé
+alsace | alsace-grand-cru-kitterle | Alsace grand cru Kitterlé | AOC | p1209 | 68 | Alsace grand cru Kitterlé
+alsace | alsace-grand-cru-mambourg | Alsace grand cru Mambourg | AOC | p1210 | 68 | Alsace grand cru Mambourg
+alsace | alsace-grand-cru-mandelberg | Alsace grand cru Mandelberg | AOC | p1211 | 68 | Alsace grand cru Mandelberg
+alsace | alsace-grand-cru-marckrain | Alsace grand cru Marckrain | AOC | p1212 | 68 | Alsace grand cru Marckrain
+alsace | alsace-grand-cru-moenchberg | Alsace grand cru Moenchberg | AOC | p1213 | 67 | Alsace grand cru Moenchberg
+alsace | alsace-grand-cru-muenchberg | Alsace grand cru Muenchberg | AOC | p1214 | 67 | Alsace grand cru Muenchberg
+alsace | alsace-grand-cru-ollwiller | Alsace grand cru Ollwiller | AOC | p1215 | 68 | Alsace grand cru Ollwiller
+alsace | alsace-grand-cru-osterberg | Alsace grand cru Osterberg | AOC | p1216 | 68 | Alsace grand cru Osterberg
+alsace | alsace-grand-cru-pfersigberg | Alsace grand cru Pfersigberg | AOC | p1217 | 68 | Alsace grand cru Pfersigberg
+alsace | alsace-grand-cru-pfingstberg | Alsace grand cru Pfingstberg | AOC | p1218 | 68 | Alsace grand cru Pfingstberg
+alsace | alsace-grand-cru-praelatenberg | Alsace grand cru Praelatenberg | AOC | p1219 | 67 | Alsace grand cru Praelatenberg
+alsace | alsace-grand-cru-rangen | Alsace grand cru Rangen | AOC | p1220 | 68 | Alsace grand cru Rangen
+alsace | alsace-grand-cru-rosacker | Alsace grand cru Rosacker | AOC | p1221 | 68 | Alsace grand cru Rosacker
+alsace | alsace-grand-cru-saering | Alsace grand cru Saering | AOC | p1222 | 68 | Alsace grand cru Saering
+alsace | alsace-grand-cru-schlossberg | Alsace grand cru Schlossberg | AOC | p1223 | 68 | Alsace grand cru Schlossberg
+alsace | alsace-grand-cru-schoenenbourg | Alsace grand cru Schoenenbourg | AOC | p1224 | 68 | Alsace grand cru Schoenenbourg
+alsace | alsace-grand-cru-sommerberg | Alsace grand cru Sommerberg | AOC | p1225 | 68 | Alsace grand cru Sommerberg
+alsace | alsace-grand-cru-sonnenglanz | Alsace grand cru Sonnenglanz | AOC | p1226 | 68 | Alsace grand cru Sonnenglanz
+alsace | alsace-grand-cru-spiegel | Alsace grand cru Spiegel | AOC | p1227 | 68 | Alsace grand cru Spiegel
+alsace | alsace-grand-cru-sporen | Alsace grand cru Sporen | AOC | p1228 | 68 | Alsace grand cru Sporen
+alsace | alsace-grand-cru-steinert | Alsace grand cru Steinert | AOC | p1229 | 68 | Alsace grand cru Steinert
+alsace | alsace-grand-cru-steingrubler | Alsace grand cru Steingrubler | AOC | p1230 | 68 | Alsace grand cru Steingrubler
+alsace | alsace-grand-cru-steinklotz | Alsace grand cru Steinklotz | AOC | p1231 | 67 | Alsace grand cru Steinklotz
+alsace | alsace-grand-cru-vorbourg | Alsace grand cru Vorbourg | AOC | p1232 | 68 | Alsace grand cru Vorbourg
+alsace | alsace-grand-cru-wiebelsberg | Alsace grand cru Wiebelsberg | AOC | p1233 | 67 | Alsace grand cru Wiebelsberg
+alsace | alsace-grand-cru-wineck-schlossberg | Alsace grand cru Wineck-Schlossberg | AOC | p1234 | 68 | Alsace grand cru Wineck-Schlossberg
+alsace | alsace-grand-cru-winzenberg | Alsace grand cru Winzenberg | AOC | p1235 | 67 | Alsace grand cru Winzenberg
+alsace | alsace-grand-cru-zinnkoepfle | Alsace grand cru Zinnkoepfle | AOC | p1236 | 68 | Alsace grand cru Zinnkoepfle
+alsace | alsace-grand-cru-zotzenberg | Alsace grand cru Zotzenberg | AOC | p1237 | 67 | Alsace grand cru Zotzenberg
+alsace | cotes-de-toul | Côtes de Toul | AOC | p4 | 54 | Côtes de Toul
+alsace | cremant-d-alsace | Crémant d'Alsace | AOC | p2 | 67,68 | Crémant d'Alsace
+alsace | moselle | Moselle | AOC | p690 | 54,57 | Moselle
+beaujolais | beaujolais | Beaujolais | AOC | p1032 | 69,71 | Beaujolais
+beaujolais | brouilly | Brouilly | AOC | p145 | 69 | Brouilly
+beaujolais | chenas | Chénas | AOC | p156 | 69,71 | Chénas
+beaujolais | chiroubles | Chiroubles | AOC | p158 | 69 | Chiroubles
+beaujolais | cote-de-brouilly | Côte de Brouilly | AOC | p169 | 69 | Côte de Brouilly
+beaujolais | coteaux-du-lyonnais | Coteaux du Lyonnais | AOC | p172 | 69 | Coteaux du Lyonnais
+beaujolais | fleurie | Fleurie | AOC | p181 | 69 | Fleurie
+beaujolais | julienas | Juliénas | AOC | p186 | 69,71 | Juliénas
+beaujolais | morgon | Morgon | AOC | p209 | 69 | Morgon
+beaujolais | moulin-a-vent | Moulin-à-Vent | AOC | p210 | 69,71 | Moulin-à-Vent
+beaujolais | regnie | Régnié | AOC | p220 | 69 | Régnié
+beaujolais | saint-amour | Saint-Amour | AOC | p226 | 71 | Saint-Amour
+bordeaux | barsac | Barsac | AOC | p8 | 33 | Barsac
+bordeaux | blaye | Blaye | AOC | c62 |  | Blaye
+bordeaux | bordeaux | Bordeaux | AOC | p14 | 33 | Bordeaux
+bordeaux | bordeaux-superieur | Bordeaux supérieur | AOC | p585 | 33 | Bordeaux supérieur
+bordeaux | cadillac | Cadillac | AOC | p20 | 33 | Cadillac
+bordeaux | canon-fronsac | Canon Fronsac | AOC | p22 | 33 | Canon Fronsac
+bordeaux | cerons | Cérons | AOC | p23 | 33 | Cérons
+bordeaux | cotes-de-bordeaux | Côtes de Bordeaux | AOC | p685 | 33 | Côtes de Bordeaux
+bordeaux | cotes-de-bordeaux-saint-macaire | Côtes de Bordeaux-Saint-Macaire | AOC | p25 | 33 | Côtes de Bordeaux-Saint-Macaire
+bordeaux | cotes-de-bourg | Côtes de Bourg | AOC | p18 | 33 | Côtes de Bourg, Bourg et Bourgeais
+bordeaux | cremant-de-bordeaux | Crémant de Bordeaux | AOC | p31 | 33 | Crémant de Bordeaux
+bordeaux | entre-deux-mers | Entre-deux-Mers | AOC | p32 | 33 | Entre-deux-Mers
+bordeaux | fronsac | Fronsac | AOC | p33 | 33 | Fronsac
+bordeaux | graves | Graves | AOC | p37 | 33 | Graves
+bordeaux | graves-de-vayres | Graves de Vayres | AOC | p38 | 33 | Graves de Vayres
+bordeaux | graves-superieures | Graves supérieures | AOC | p855 | 33 | Graves supérieures
+bordeaux | haut-medoc | Haut-Médoc | AOC | p39 | 33 | Haut-Médoc
+bordeaux | igp-atlantique | Atlantique | IGP | - |  | Atlantique
+bordeaux | lalande-de-pomerol | Lalande-de-Pomerol | AOC | p44 | 33 | Lalande-de-Pomerol
+bordeaux | listrac-medoc | Listrac-Médoc | AOC | p45 | 33 | Listrac-Médoc
+bordeaux | loupiac | Loupiac | AOC | p46 | 33 | Loupiac
+bordeaux | lussac-saint-emilion | Lussac Saint-Emilion | AOC | p47 | 33 | Lussac Saint-Emilion
+bordeaux | margaux | Margaux | AOC | p52 | 33 | Margaux
+bordeaux | medoc | Médoc | AOC | p53 | 33 | Médoc
+bordeaux | montagne-saint-emilion | Montagne-Saint-Emilion | AOC | p55 | 33 | Montagne-Saint-Emilion
+bordeaux | moulis | Moulis | AOC | p57 | 33 | Moulis ou Moulis-en-Médoc
+bordeaux | pauillac | Pauillac | AOC | p59 | 33 | Pauillac
+bordeaux | pessac-leognan | Pessac-Léognan | AOC | p61 | 33 | Pessac-Léognan
+bordeaux | pomerol | Pomerol | AOC | p62 | 33 | Pomerol
+bordeaux | premieres-cotes-de-bordeaux | Premières Côtes de Bordeaux | AOC | p64 | 33 | Premières Côtes de Bordeaux
+bordeaux | puisseguin-saint-emilion | Puisseguin Saint-Emilion | AOC | p65 | 33 | Puisseguin Saint-Emilion
+bordeaux | saint-emilion | Saint-Emilion | AOC | p67 | 33 | Saint-Emilion
+bordeaux | saint-emilion-grand-cru | Saint-Emilion grand cru | AOC | p68 | 33 | Saint-Emilion grand cru
+bordeaux | saint-estephe | Saint-Estèphe | AOC | p69 | 33 | Saint-Estèphe
+bordeaux | saint-georges-saint-emilion | Saint-Georges-Saint-Emilion | AOC | p70 | 33 | Saint-Georges-Saint-Emilion
+bordeaux | saint-julien | Saint-Julien | AOC | p71 | 33 | Saint-Julien
+bordeaux | sainte-croix-du-mont | Sainte-Croix-du-Mont | AOC | p72 | 33 | Sainte-Croix-du-Mont
+bordeaux | sauternes | Sauternes | AOC | p75 | 33 | Sauternes
+bourgogne | aloxe-corton | Aloxe-Corton | AOC | p126 | 21 | Aloxe-Corton
+bourgogne | auxey-duresses | Auxey-Duresses | AOC | p129 | 21 | Auxey-Duresses
+bourgogne | batard-montrachet | Bâtard-Montrachet | AOC | p130 | 21 | Bâtard-Montrachet
+bourgogne | beaune | Beaune | AOC | p134 | 21 | Beaune
+bourgogne | bienvenues-batard-montrachet | Bienvenues-Bâtard-Montrachet | AOC | p135 | 21 | Bienvenues-Bâtard-Montrachet
+bourgogne | blagny | Blagny | AOC | p136 | 21 | Blagny
+bourgogne | bonnes-mares | Bonnes-Mares | AOC | p137 | 21 | Bonnes-Mares
+bourgogne | bourgogne | Bourgogne | AOC | p138 | 21,71,89 | Bourgogne
+bourgogne | bourgogne-aligote | Bourgogne aligoté | AOC | p140 | 21,71,89 | Bourgogne aligoté
+bourgogne | bourgogne-mousseux | Bourgogne mousseux | AOC | p141 | 21,71,89 | Bourgogne mousseux
+bourgogne | bourgogne-passe-tout-grains | Bourgogne Passe-tout-grains | AOC | p144 | 21,71,89 | Bourgogne Passe-tout-grains
+bourgogne | bouzeron | Bouzeron | AOC | p245 | 71 | Bouzeron
+bourgogne | chablis | Chablis | AOC | p146 | 89 | Chablis
+bourgogne | chablis-grand-cru | Chablis Grand Cru | AOC | p147 | 89 | Chablis Grand Cru
+bourgogne | chambertin | Chambertin | AOC | p148 | 21 | Chambertin
+bourgogne | chambertin-clos-de-beze | Chambertin-Clos de Bèze | AOC | p149 | 21 | Chambertin-Clos de Bèze
+bourgogne | chambolle-musigny | Chambolle-Musigny | AOC | p150 | 21 | Chambolle-Musigny
+bourgogne | chapelle-chambertin | Chapelle-Chambertin | AOC | p151 | 21 | Chapelle-Chambertin
+bourgogne | charlemagne | Charlemagne | AOC | p152 | 21 | Charlemagne
+bourgogne | charmes-chambertin | Charmes-Chambertin | AOC | p153 | 21 | Charmes-Chambertin
+bourgogne | chassagne-montrachet | Chassagne-Montrachet | AOC | p154 | 21,71 | Chassagne-Montrachet
+bourgogne | chevalier-montrachet | Chevalier-Montrachet | AOC | p157 | 21 | Chevalier-Montrachet
+bourgogne | chorey-les-beaune | Chorey-lès-Beaune | AOC | p159 | 21 | Chorey-lès-Beaune
+bourgogne | clos-de-la-roche | Clos de la Roche | AOC | p160 | 21 | Clos de la Roche
+bourgogne | clos-de-tart | Clos de Tart | AOC | p161 | 21 | Clos de Tart
+bourgogne | clos-de-vougeot | Clos de Vougeot | AOC | p162 | 21 | Clos de Vougeot ou Clos Vougeot
+bourgogne | clos-des-lambrays | Clos des Lambrays | AOC | p163 | 21 | Clos des Lambrays
+bourgogne | clos-saint-denis | Clos Saint-Denis | AOC | p164 | 21 | Clos Saint-Denis
+bourgogne | corton | Corton | AOC | p165 | 21 | Corton
+bourgogne | corton-charlemagne | Corton-Charlemagne | AOC | p166 | 21 | Corton-Charlemagne
+bourgogne | cote-de-beaune | Côte de Beaune | AOC | p167 | 21 | Côte de Beaune
+bourgogne | cote-de-beaune-villages | Côte de Beaune-Villages | AOC | p168 | 21,71 | Côte de Beaune-Villages
+bourgogne | cote-de-nuits-villages | Côte de Nuits-Villages | AOC | p171 | 21 | Côte de Nuits-Villages ou Vins fins de la Côte de Nuits
+bourgogne | coteaux-bourguignons | Coteaux Bourguignons | AOC | p1027 | 21,71,89 | Coteaux Bourguignons ou Bourgogne grand ordinaire ou Bourgogne ordinaire
+bourgogne | cremant-de-bourgogne | Crémant de Bourgogne | AOC | p175 | 21,69,71,89 | Crémant de Bourgogne
+bourgogne | criots-batard-montrachet | Criots-Bâtard-Montrachet | AOC | p178 | 21 | Criots-Bâtard-Montrachet
+bourgogne | echezeaux | Echezeaux | AOC | p179 | 21 | Echezeaux
+bourgogne | fixin | Fixin | AOC | p180 | 21 | Fixin
+bourgogne | gevrey-chambertin | Gevrey-Chambertin | AOC | p182 | 21 | Gevrey-Chambertin
+bourgogne | givry | Givry | AOC | p183 | 71 | Givry
+bourgogne | grands-echezeaux | Grands-Echezeaux | AOC | p184 | 21 | Grands-Echezeaux
+bourgogne | griotte-chambertin | Griotte-Chambertin | AOC | p185 | 21 | Griotte-Chambertin
+bourgogne | igp-coteaux-de-l-auxois | Coteaux de l'Auxois | IGP | - |  | Coteaux de l'Auxois
+bourgogne | irancy | Irancy | AOC | p247 | 89 | Irancy
+bourgogne | la-grande-rue | La Grande Rue | AOC | p189 | 21 | La Grande Rue
+bourgogne | la-romanee | La Romanée | AOC | p190 | 21 | La Romanée
+bourgogne | la-tache | La Tâche | AOC | p191 | 21 | La Tâche
+bourgogne | ladoix | Ladoix | AOC | p192 | 21 | Ladoix
+bourgogne | latricieres-chambertin | Latricières-Chambertin | AOC | p193 | 21 | Latricières-Chambertin
+bourgogne | macon | Mâcon | AOC | p583 | 71 | Mâcon
+bourgogne | maranges | Maranges | AOC | p198 | 71 | Maranges
+bourgogne | marsannay | Marsannay | AOC | p199 | 21 | Marsannay
+bourgogne | mazis-chambertin | Mazis-Chambertin | AOC | p201 | 21 | Mazis-Chambertin
+bourgogne | mazoyeres-chambertin | Mazoyères-Chambertin | AOC | p202 | 21 | Mazoyères-Chambertin
+bourgogne | mercurey | Mercurey | AOC | p203 | 71 | Mercurey
+bourgogne | meursault | Meursault | AOC | p204 | 21 | Meursault
+bourgogne | montagny | Montagny | AOC | p205 | 71 | Montagny
+bourgogne | monthelie | Monthélie | AOC | p206 | 21 | Monthélie
+bourgogne | montrachet | Montrachet | AOC | p207 | 21 | Montrachet
+bourgogne | morey-saint-denis | Morey-Saint-Denis | AOC | p208 | 21 | Morey-Saint-Denis
+bourgogne | musigny | Musigny | AOC | p211 | 21 | Musigny
+bourgogne | nuits-saint-georges | Nuits-Saint-Georges | AOC | p212 | 21 | Nuits-Saint-Georges
+bourgogne | pernand-vergelesses | Pernand-Vergelesses | AOC | p213 | 21 | Pernand-Vergelesses
+bourgogne | petit-chablis | Petit Chablis | AOC | p214 | 89 | Petit Chablis
+bourgogne | pommard | Pommard | AOC | p215 | 21 | Pommard
+bourgogne | pouilly-fuisse | Pouilly-Fuissé | AOC | p216 | 71 | Pouilly-Fuissé
+bourgogne | pouilly-loche | Pouilly-Loché | AOC | p217 | 71 | Pouilly-Loché
+bourgogne | pouilly-vinzelles | Pouilly-Vinzelles | AOC | p218 | 71 | Pouilly-Vinzelles
+bourgogne | puligny-montrachet | Puligny-Montrachet | AOC | p219 | 21 | Puligny-Montrachet
+bourgogne | richebourg | Richebourg | AOC | p221 | 21 | Richebourg
+bourgogne | romanee-conti | Romanée-Conti | AOC | p222 | 21 | Romanée-Conti
+bourgogne | romanee-saint-vivant | Romanée-Saint-Vivant | AOC | p223 | 21 | Romanée-Saint-Vivant
+bourgogne | ruchottes-chambertin | Ruchottes-Chambertin | AOC | p224 | 21 | Ruchottes-Chambertin
+bourgogne | rully | Rully | AOC | p225 | 71 | Rully
+bourgogne | saint-aubin | Saint-Aubin | AOC | p227 | 21 | Saint-Aubin
+bourgogne | saint-bris | Saint-Bris | AOC | p478 | 89 | Saint-Bris
+bourgogne | saint-romain | Saint-Romain | AOC | p228 | 21 | Saint-Romain
+bourgogne | saint-veran | Saint-Véran | AOC | p229 | 71 | Saint-Véran
+bourgogne | santenay | Santenay | AOC | p230 | 21,71 | Santenay
+bourgogne | savigny-les-beaune | Savigny-lès-Beaune | AOC | p231 | 21 | Savigny-lès-Beaune
+bourgogne | vezelay | Vézelay | AOC | p1170 | 89 | Vézelay
+bourgogne | vire-clesse | Viré-Clessé | AOC | p246 | 71 | Viré-Clessé
+bourgogne | volnay | Volnay | AOC | p240 | 21 | Volnay
+bourgogne | vosne-romanee | Vosne-Romanée | AOC | p241 | 21 | Vosne-Romanée
+bourgogne | vougeot | Vougeot | AOC | p242 | 21 | Vougeot
+champagne | champagne | Champagne | AOC | c54 |  | Champagne
+champagne | coteaux-champenois | Coteaux champenois | AOC | c1963 |  | Coteaux champenois
+champagne | rose-des-riceys | Rosé des Riceys | AOC | c1961 |  | Rosé des Riceys
+corse | ajaccio | Ajaccio | AOC | p291 | 2A | Ajaccio
+corse | igp-ile-de-beaute | Île de Beauté | IGP | - |  | Île de Beauté
+corse | muscat-du-cap-corse | Muscat du Cap Corse | AOC | p312 | 2B | Muscat du Cap Corse
+corse | patrimonio | Patrimonio | AOC | p299 | 2B | Patrimonio
+corse | vin-de-corse | Vin de Corse | AOC | p300 | 2A,2B | Vin de Corse ou Corse
+jura | arbois | Arbois | AOC | p127 | 39 | Arbois
+jura | chateau-chalon | Château-Chalon | AOC | p155 | 39 | Château-Chalon
+jura | cotes-du-jura | Côtes du Jura | AOC | p173 | 39 | Côtes du Jura
+jura | cremant-du-jura | Crémant du Jura | AOC | p176 | 39 | Crémant du Jura
+jura | igp-franche-comte | Franche-Comté | IGP | - |  | Franche-Comté
+jura | l-etoile | L'Etoile | AOC | p187 | 39 | L'Etoile
+jura | macvin-du-jura | Macvin du Jura | AOC | p244 | 39 | Macvin du Jura
+languedoc | boutenac | Boutenac | AOC | p1098 | 11 | Boutenac
+languedoc | cabardes | Cabardès | AOC | p264 | 11 | Cabardès
+languedoc | clairette-du-languedoc | Clairette du Languedoc | AOC | p253 | 34 | Clairette du Languedoc
+languedoc | corbieres | Corbières | AOC | p255 | 11 | Corbières
+languedoc | cremant-de-limoux | Crémant de Limoux | AOC | p250 | 11 | Crémant de Limoux
+languedoc | faugeres | Faugères | AOC | p260 | 34 | Faugères
+languedoc | fitou | Fitou | AOC | p261 | 11 | Fitou
+languedoc | gres-de-montpellier | Grés de Montpellier | AOC | p1265 | 34 | Grés de Montpellier
+languedoc | igp-cotes-de-thongue | Côtes de Thongue | IGP | - |  | Côtes de Thongue
+languedoc | igp-pays-d-oc | Pays d'Oc | IGP | - |  | Pays d'Oc
+languedoc | igp-saint-guilhem-le-desert | Saint-Guilhem-le-Désert | IGP | - |  | Saint-Guilhem-le-Désert
+languedoc | la-clape | La Clape | AOC | p831 | 11 | La Clape
+languedoc | la-liviniere | La Livinière | AOC | p265 | 11,34 | La Livinière
+languedoc | languedoc | Languedoc | AOC | p257 | 11,30,34,66 | Languedoc
+languedoc | limoux | Limoux | AOC | p251 | 11 | Limoux
+languedoc | malepere | Malepère | AOC | p608 | 11 | Malepère
+languedoc | minervois | Minervois | AOC | p262 | 11,34 | Minervois
+languedoc | montpeyroux | Montpeyroux | AOC | p1275 | 34 | Montpeyroux
+languedoc | muscat-de-frontignan | Muscat de Frontignan | AOC | p304 | 34 | Muscat de Frontignan ou Frontignan ou Vin de Frontignan
+languedoc | muscat-de-lunel | Muscat de Lunel | AOC | p309 | 34 | Muscat de Lunel
+languedoc | muscat-de-mireval | Muscat de Mireval | AOC | p310 | 34 | Muscat de Mireval
+languedoc | muscat-de-saint-jean-de-minervois | Muscat de Saint-Jean-de-Minervois | AOC | p311 | 34 | Muscat de Saint-Jean-de-Minervois
+languedoc | pic-saint-loup | Pic Saint-Loup | AOC | p833 | 30,34 | Pic Saint-Loup
+languedoc | picpoul-de-pinet | Picpoul de Pinet | AOC | p733 | 34 | Picpoul de Pinet
+languedoc | sable-de-camargue | Sable de Camargue | AOC | p1260 | 13,30,34 | Sable de Camargue
+languedoc | saint-chinian | Saint-Chinian | AOC | p263 | 34 | Saint-Chinian
+languedoc | terrasses-du-larzac | Terrasses du Larzac | AOC | p1042 | 34 | Terrasses du Larzac
+loire | anjou | Anjou | AOC | p76 | 49,79,86 | Anjou
+loire | anjou-brissac | Anjou Brissac | AOC | p124 | 49 | Anjou Brissac
+loire | anjou-coteaux-de-la-loire | Anjou-Coteaux de la Loire | AOC | p77 | 49 | Anjou-Coteaux de la Loire
+loire | anjou-villages | Anjou Villages | AOC | p79 | 49,79 | Anjou Villages
+loire | bonnezeaux | Bonnezeaux | AOC | p80 | 49 | Bonnezeaux
+loire | bourgueil | Bourgueil | AOC | p81 | 37 | Bourgueil
+loire | cabernet-d-anjou | Cabernet d'Anjou | AOC | p82 | 49,79,86 | Cabernet d'Anjou
+loire | chateaumeillant | Châteaumeillant | AOC | p836 | 18,36 | Châteaumeillant
+loire | cheverny | Cheverny | AOC | p84 | 41 | Cheverny
+loire | chinon | Chinon | AOC | p85 | 37 | Chinon
+loire | cote-roannaise | Côte roannaise | AOC | p170 | 42 | Côte roannaise
+loire | coteaux-d-ancenis | Coteaux d'Ancenis | AOC | p840 | 44,49 | Coteaux d'Ancenis
+loire | coteaux-de-l-aubance | Coteaux de l'Aubance | AOC | p86 | 49 | Coteaux de l'Aubance
+loire | coteaux-de-saumur | Coteaux de Saumur | AOC | p87 | 49,79,86 | Coteaux de Saumur
+loire | coteaux-du-giennois | Coteaux du Giennois | AOC | p125 | 45,58 | Coteaux du Giennois
+loire | coteaux-du-layon | Coteaux du Layon | AOC | p88 | 49 | Coteaux du Layon
+loire | coteaux-du-loir | Coteaux du Loir | AOC | p89 | 37,72 | Coteaux du Loir
+loire | coteaux-du-vendomois | Coteaux du Vendômois | AOC | p469 | 41 | Coteaux du Vendômois
+loire | cotes-d-auvergne | Côtes d'Auvergne | AOC | p837 | 63 | Côtes d'Auvergne
+loire | cotes-du-forez | Côtes du Forez | AOC | p243 | 42 | Côtes du Forez
+loire | coulee-de-serrant | Coulée de Serrant | AOC | p1164 | 49 | Coulée de Serrant
+loire | cour-cheverny | Cour-Cheverny | AOC | p90 | 41 | Cour-Cheverny
+loire | cremant-de-loire | Crémant de Loire | AOC | p91 | 37,41,49,79,86 | Crémant de Loire
+loire | fiefs-vendeens | Fiefs Vendéens | AOC | p1028 | 85 | Fiefs Vendéens
+loire | gros-plant-du-pays-nantais | Gros Plant du Pays Nantais | AOC | p843 | 44,49,85 | Gros Plant du Pays Nantais
+loire | haut-poitou | Haut-Poitou | AOC | p1018 | 79,86 | Haut-Poitou
+loire | igp-val-de-loire | Val de Loire | IGP | - |  | Val de Loire
+loire | jasnieres | Jasnières | AOC | p92 | 72 | Jasnières
+loire | menetou-salon | Menetou-Salon | AOC | p93 | 18 | Menetou-Salon
+loire | montlouis-sur-loire | Montlouis-sur-Loire | AOC | p94 | 37 | Montlouis-sur-Loire
+loire | muscadet | Muscadet | AOC | p97 | 44,49,85 | Muscadet
+loire | muscadet-coteaux-de-la-loire | Muscadet Coteaux de la Loire | AOC | p98 | 44,49 | Muscadet Coteaux de la Loire
+loire | muscadet-cotes-de-grandlieu | Muscadet Côtes de Grandlieu | AOC | p99 | 44,85 | Muscadet Côtes de Grandlieu
+loire | muscadet-sevre-et-maine | Muscadet Sèvre et Maine | AOC | p100 | 39,44,49,80,85 | Muscadet Sèvre et Maine
+loire | orleans | Orléans | AOC | p600 | 45 | Orléans
+loire | orleans-clery | Orléans-Cléry | AOC | p598 | 45 | Orléans-Cléry
+loire | pouilly-fume | Pouilly-Fumé | AOC | p101 | 58 | Pouilly-Fumé ou Blanc Fumé de Pouilly
+loire | pouilly-sur-loire | Pouilly-sur-Loire | AOC | p102 | 58 | Pouilly-sur-Loire
+loire | quarts-de-chaume | Quarts de Chaume | AOC | p103 | 49 | Quarts de Chaume
+loire | quincy | Quincy | AOC | p104 | 18 | Quincy
+loire | reuilly | Reuilly | AOC | p105 | 18,36 | Reuilly
+loire | rose-d-anjou | Rosé d'Anjou | AOC | p106 | 49,79,86 | Rosé d'Anjou
+loire | rose-de-loire | Rosé de Loire | AOC | p107 | 37,41,49,79,86 | Rosé de Loire
+loire | saint-nicolas-de-bourgueil | Saint-Nicolas-de-Bourgueil | AOC | p108 | 37 | Saint-Nicolas-de-Bourgueil
+loire | saint-pourcain | Saint-Pourçain | AOC | p677 | 03 | Saint-Pourçain
+loire | sancerre | Sancerre | AOC | p109 | 18 | Sancerre
+loire | saumur | Saumur | AOC | p110 | 49,79,86 | Saumur
+loire | saumur-champigny | Saumur-Champigny | AOC | p122 | 49 | Saumur-Champigny
+loire | savennieres | Savennières | AOC | p112 | 49 | Savennières
+loire | savennieres-roche-aux-moines | Savennières Roche aux Moines | AOC | p1034 | 49 | Savennières Roche aux Moines
+loire | touraine | Touraine | AOC | p113 | 36,37,41 | Touraine
+loire | touraine-noble-joue | Touraine Noble Joué | AOC | p123 | 37 | Touraine Noble Joué
+loire | valencay | Valençay | AOC | p564 | 36,41 | Valençay
+loire | vouvray | Vouvray | AOC | p119 | 37 | Vouvray
+provence | bandol | Bandol | AOC | p292 | 83 | Bandol
+provence | bellet | Bellet | AOC | c1318 |  | Bellet
+provence | cassis | Cassis | AOC | c1319 |  | Cassis
+provence | coteaux-d-aix-en-provence | Coteaux d'Aix-en-Provence | AOC | p295 | 13,83 | Coteaux d'Aix-en-Provence
+provence | coteaux-varois-en-provence | Coteaux varois en Provence | AOC | p582 | 83 | Coteaux varois en Provence
+provence | cotes-de-provence | Côtes de Provence | AOC | p297 | 06,13,83 | Côtes de Provence
+provence | igp-alpilles | Alpilles | IGP | - |  | Alpilles
+provence | igp-mediterranee | Méditerranée | IGP | - |  | Méditerranée
+provence | les-baux-de-provence | Les Baux de Provence | AOC | p301 | 13 | Les Baux de Provence
+provence | palette | Palette | AOC | p298 | 13 | Palette
+provence | pierrevert | Pierrevert | AOC | p290 | 04 | Pierrevert
+rhone | beaumes-de-venise | Beaumes de Venise | AOC | p1097 | 84 | Beaumes de Venise
+rhone | cairanne | Cairanne | AOC | p819 | 84 | Cairanne
+rhone | chateau-grillet | Château-Grillet | AOC | p266 | 42 | Château-Grillet
+rhone | chateauneuf-du-pape | Châteauneuf-du-Pape | AOC | p267 | 84 | Châteauneuf-du-Pape
+rhone | chatillon-en-diois | Châtillon-en-Diois | AOC | p268 | 26 | Châtillon-en-Diois
+rhone | clairette-de-bellegarde | Clairette de Bellegarde | AOC | p252 | 30 | Clairette de Bellegarde
+rhone | clairette-de-die | Clairette de Die | AOC | p269 | 26 | Clairette de Die
+rhone | condrieu | Condrieu | AOC | p270 | 07,42,69 | Condrieu
+rhone | cornas | Cornas | AOC | p271 | 07 | Cornas
+rhone | costieres-de-nimes | Costières de Nîmes | AOC | p256 | 30 | Costières de Nîmes
+rhone | cote-rotie | Côte Rôtie | AOC | p272 | 69 | Côte Rôtie
+rhone | coteaux-de-die | Coteaux de Die | AOC | p273 | 26 | Coteaux de Die
+rhone | cotes-du-rhone | Côtes du Rhône | AOC | p275 | 07,26,30,42,69,84 | Côtes du Rhône
+rhone | cotes-du-rhone-villages | Côtes du Rhône Villages | AOC | p276 | 07,26,30,84 | Côtes du Rhône Villages
+rhone | cotes-du-vivarais | Côtes du Vivarais | AOC | p289 | 07,30 | Côtes du Vivarais
+rhone | cremant-de-die | Crémant de Die | AOC | p279 | 26 | Crémant de Die
+rhone | crozes-hermitage | Crozes-Hermitage | AOC | p280 | 26 | Crozes-Hermitage ou Crozes-Ermitage
+rhone | duche-d-uzes | Duché d'Uzès | AOC | c1836 |  | Duché d'Uzès
+rhone | gigondas | Gigondas | AOC | p281 | 84 | Gigondas
+rhone | grignan-les-adhemar | Grignan-les-Adhémar | AOC | p1013 | 26 | Grignan-les-Adhémar
+rhone | hermitage | Hermitage | AOC | p282 | 26 | Hermitage ou Ermitage ou l'Hermitage ou l'Ermitage
+rhone | igp-ardeche | Ardèche | IGP | - |  | Ardèche
+rhone | igp-collines-rhodaniennes | Collines Rhodaniennes | IGP | - |  | Collines Rhodaniennes
+rhone | igp-vaucluse | Vaucluse | IGP | - |  | Vaucluse
+rhone | laudun | Laudun | AOC | p1267 | 30 | Laudun
+rhone | lirac | Lirac | AOC | p283 | 30 | Lirac
+rhone | luberon | Luberon | AOC | p854 | 84 | Luberon
+rhone | muscat-de-beaumes-de-venise | Muscat de Beaumes-de-Venise | AOC | p308 | 84 | Muscat de Beaumes-de-Venise
+rhone | rasteau | Rasteau | AOC | p313 | 84 | Rasteau
+rhone | saint-joseph | Saint-Joseph | AOC | p284 | 07,42 | Saint-Joseph
+rhone | saint-peray | Saint-Péray | AOC | p285 | 07 | Saint-Péray
+rhone | tavel | Tavel | AOC | p287 | 30 | Tavel
+rhone | vacqueyras | Vacqueyras | AOC | p288 | 84 | Vacqueyras
+rhone | ventoux | Ventoux | AOC | p278 | 84 | Ventoux
+rhone | vinsobres | Vinsobres | AOC | p1130 | 26 | Vinsobres
+roussillon | banyuls | Banyuls | AOC | p302 | 66 | Banyuls
+roussillon | banyuls-grand-cru | Banyuls grand cru | AOC | p303 | 66 | Banyuls grand cru
+roussillon | collioure | Collioure | AOC | p254 | 66 | Collioure
+roussillon | cotes-du-roussillon | Côtes du Roussillon | AOC | p258 | 66 | Côtes du Roussillon
+roussillon | cotes-du-roussillon-villages | Côtes du Roussillon Villages | AOC | p259 | 66 | Côtes du Roussillon Villages
+roussillon | grand-roussillon | Grand Roussillon | AOC | p305 | 11,66 | Grand Roussillon
+roussillon | igp-cotes-catalanes | Côtes Catalanes | IGP | - |  | Côtes Catalanes
+roussillon | maury | Maury | AOC | p306 | 66 | Maury
+roussillon | muscat-de-rivesaltes | Muscat de Rivesaltes | AOC | p307 | 11,66 | Muscat de Rivesaltes
+roussillon | rivesaltes | Rivesaltes | AOC | p314 | 11,66 | Rivesaltes
+savoie-bugey | bugey | Bugey | AOC | p674 | 01 | Bugey
+savoie-bugey | igp-vin-des-allobroges | Vin des Allobroges | IGP | - |  | Vin des Allobroges
+savoie-bugey | roussette-de-savoie | Roussette de Savoie | AOC | p234 | 38,73,74 | Roussette de Savoie
+savoie-bugey | roussette-du-bugey | Roussette du Bugey | AOC | p675 | 01 | Roussette du Bugey
+savoie-bugey | seyssel | Seyssel | AOC | p232 | 01,74 | Seyssel
+savoie-bugey | vin-de-savoie | Vin de Savoie | AOC | p235 | 38,73,74 | Vin de Savoie ou Savoie
+sud-ouest | bearn | Béarn | AOC | p9 | 32,64,65 | Béarn
+sud-ouest | bergerac | Bergerac | AOC | p10 | 24 | Bergerac
+sud-ouest | brulhois | Brulhois | AOC | p1019 | 32,47,82 | Brulhois
+sud-ouest | buzet | Buzet | AOC | p19 | 47 | Buzet
+sud-ouest | cahors | Cahors | AOC | p21 | 46 | Cahors
+sud-ouest | correze | Corrèze | AOC | c2419 |  | Corrèze
+sud-ouest | coteaux-du-quercy | Coteaux du Quercy | AOC | p688 | 46,82 | Coteaux du Quercy
+sud-ouest | cotes-de-bergerac | Côtes de Bergerac | AOC | p12 | 24 | Côtes de Bergerac
+sud-ouest | cotes-de-duras | Côtes de Duras | AOC | p27 | 47 | Côtes de Duras
+sud-ouest | cotes-de-millau | Côtes de Millau | AOC | p731 | 12 | Côtes de Millau
+sud-ouest | cotes-de-montravel | Côtes de Montravel | AOC | p28 | 24 | Côtes de Montravel
+sud-ouest | cotes-du-marmandais | Côtes du Marmandais | AOC | p30 | 47 | Côtes du Marmandais
+sud-ouest | entraygues-le-fel | Entraygues - Le Fel | AOC | p1016 | 12,15 | Entraygues - Le Fel
+sud-ouest | estaing | Estaing | AOC | p1017 | 12 | Estaing
+sud-ouest | floc-de-gascogne | Floc de Gascogne | AOC | c1347 |  | Floc de Gascogne
+sud-ouest | fronton | Fronton | AOC | p29 | 31,82 | Fronton
+sud-ouest | gaillac | Gaillac | AOC | p34 | 81 | Gaillac
+sud-ouest | gaillac-premieres-cotes | Gaillac premières côtes | AOC | p36 | 81 | Gaillac premières côtes
+sud-ouest | haut-montravel | Haut-Montravel | AOC | p40 | 24 | Haut-Montravel
+sud-ouest | igp-charentais | Charentais | IGP | - |  | Charentais
+sud-ouest | igp-comte-tolosan | Comté Tolosan | IGP | - |  | Comté Tolosan
+sud-ouest | igp-cotes-de-gascogne | Côtes de Gascogne | IGP | - |  | Côtes de Gascogne
+sud-ouest | igp-cotes-du-lot | Côtes du Lot | IGP | - |  | Côtes du Lot
+sud-ouest | igp-perigord | Périgord | IGP | - |  | Périgord
+sud-ouest | irouleguy | Irouléguy | AOC | p41 | 64 | Irouléguy
+sud-ouest | jurancon | Jurançon | AOC | p42 | 64 | Jurançon
+sud-ouest | madiran | Madiran | AOC | p48 | 32,64,65 | Madiran
+sud-ouest | marcillac | Marcillac | AOC | p51 | 12 | Marcillac
+sud-ouest | monbazillac | Monbazillac | AOC | p54 | 24 | Monbazillac
+sud-ouest | montravel | Montravel | AOC | p56 | 24 | Montravel
+sud-ouest | pacherenc-du-vic-bilh | Pacherenc du Vic-Bilh | AOC | p49 | 32,64,65 | Pacherenc du Vic-Bilh
+sud-ouest | pecharmant | Pécharmant | AOC | p60 | 24 | Pécharmant
+sud-ouest | pineau-des-charentes | Pineau des Charentes | AOC | c2137 |  | Pineau des Charentes
+sud-ouest | rosette | Rosette | AOC | p66 | 24 | Rosette
+sud-ouest | saint-mont | Saint-Mont | AOC | p741 | 32 | Saint-Mont
+sud-ouest | saint-sardos | Saint-Sardos | AOC | c2337 |  | Saint-Sardos
+sud-ouest | saussignac | Saussignac | AOC | p74 | 24 | Saussignac
+sud-ouest | tursan | Tursan | AOC | p1020 | 32,40 | Tursan

@@ -1,0 +1,143 @@
+# Accords mets-vins — famille « viandes-rouges »
+
+@ boeuf-bourguignon
+nom: Bœuf bourguignon
+famille: viandes-rouges
+styles: rouge-souple, rouge-elegant, rouge-charpente
+vins: mercurey, givry, gevrey-chambertin, nuits-saint-georges, cote-de-nuits-villages, fixin, morgon, bourgogne
+audace: madiran
+conseil: Le vin de la sauce donne la direction : un pinot noir de Bourgogne ayant assez de corps pour la viande longuement mijotée, les lardons et les champignons. Un cru solide du Beaujolais fonctionne très bien. Éviter les vins trop légers, que la sauce réduite fait paraître maigres.
+
+@ pot-au-feu
+nom: Pot-au-feu
+famille: viandes-rouges
+styles: rouge-leger, rouge-souple
+vins: beaujolais, chiroubles, saumur-champigny, anjou, bourgueil, coteaux-bourguignons, cote-roannaise, alsace
+conseil: Viande bouillie, légumes, moutarde et cornichons : rien de gras ni de rôti pour assouplir des tanins. Il faut un rouge fruité, frais et peu tannique, gamay ou cabernet franc léger, servi à peine rafraîchi. Les rouges charpentés paraissent durs et secs.
+
+@ cote-de-boeuf
+nom: Côte de bœuf
+famille: viandes-rouges
+styles: rouge-charpente, rouge-solaire, rouge-elegant
+vins: pauillac, saint-estephe, saint-julien, haut-medoc, cornas, madiran, gigondas, pic-saint-loup
+conseil: Viande épaisse, grillée, saignante et persillée : c'est le terrain des rouges tanniques, dont l'astringence est fondue par le gras et les protéines. Un médoc, une syrah du Rhône nord ou un rouge du Sud-Ouest ont la carrure voulue. Un vin fluet serait effacé.
+
+@ entrecote-bordelaise
+nom: Entrecôte à la bordelaise
+famille: viandes-rouges
+styles: rouge-charpente, rouge-souple
+vins: saint-emilion, pessac-leognan, graves, medoc, listrac-medoc, fronsac, cotes-de-bourg, bordeaux-superieur
+conseil: Grillée sur les sarments, nappée d'échalotes et de moelle, parfois d'une sauce au vin rouge : l'accord de terroir est sans surprise, du petit château au cru classé. Les tanins du cabernet et du merlot aiment la viande saignante. Un vin jeune sera carafé.
+
+@ steak-frites
+nom: Steak-frites
+famille: viandes-rouges
+styles: rouge-souple, rouge-leger
+vins: cotes-du-rhone, bordeaux, chinon, brouilly, crozes-hermitage, corbieres, bergerac, cotes-de-bordeaux
+conseil: Le plat de bistrot par excellence s'accommode de presque tous les rouges francs, de corps moyen, bus sur leur fruit. On cherche le plaisir immédiat, pas la complexité. Garder les grandes bouteilles pour une pièce de bœuf plus noble.
+
+@ steak-au-poivre
+nom: Steak au poivre
+famille: viandes-rouges
+styles: rouge-solaire, rouge-charpente
+vins: crozes-hermitage, saint-joseph, cornas, vacqueyras, lirac, faugeres, terrasses-du-larzac, cotes-du-roussillon-villages
+conseil: Le poivre et la sauce crémée flambée demandent un rouge épicé et rond : la syrah, naturellement poivrée, est le cépage tout désigné, au nord comme au sud. Préférer un vin au fruit mûr, car le piquant du poivre accentue les tanins verts et l'alcool. Les vins très boisés ajoutent de l'amertume.
+
+@ tournedos-rossini
+nom: Tournedos Rossini
+famille: viandes-rouges
+styles: rouge-elegant, rouge-charpente
+vins: pomerol, saint-emilion-grand-cru, margaux, pauillac, chambertin, hermitage, cote-rotie
+audace: sauternes
+conseil: Filet de bœuf, foie gras poêlé, truffe et sauce au madère : un plat d'apparat qui appelle un grand rouge à maturité, velouté plutôt que tannique. Les pomerols et saint-émilions évolués, aux arômes truffés, sont l'accord classique. Un vin jeune et dur jurerait avec le foie gras.
+
+@ boeuf-en-croute
+nom: Filet de bœuf en croûte
+famille: viandes-rouges
+styles: rouge-elegant, rouge-charpente
+vins: saint-julien, margaux, pessac-leognan, pommard, corton, cote-rotie, saint-emilion-grand-cru, moulin-a-vent
+conseil: Le filet est la pièce la plus tendre et la moins grasse du bœuf ; la duxelles de champignons et le feuilletage ajoutent de la finesse. On choisit un rouge élégant, aux tanins polis par quelques années de garde. La puissance brute n'a pas sa place ici.
+
+@ daube-provencale
+nom: Daube provençale
+famille: viandes-rouges
+styles: rouge-solaire, rouge-charpente
+vins: bandol, gigondas, vacqueyras, chateauneuf-du-pape, les-baux-de-provence, cotes-de-provence, coteaux-varois-en-provence, palette
+conseil: Bœuf mariné puis mijoté des heures avec vin rouge, zeste d'orange, olives et herbes : un plat sombre et parfumé, fait pour les rouges du Midi, mourvèdre de Bandol ou grenache du Rhône sud. Leurs notes de garrigue et d'épices prolongent la sauce. Un vin léger du Nord y paraîtrait acide.
+
+@ carbonade-flamande
+nom: Carbonade flamande
+famille: viandes-rouges
+styles: rouge-souple, rouge-leger
+vins: saumur-champigny, chinon, anjou-villages, morgon, cotes-du-rhone, bergerac, alsace
+conseil: Le bœuf est braisé à la bière avec du pain d'épices et de la cassonade : la sauce est douce-amère, ce qui exclut les vins austères. Un rouge fruité et rond, peu tannique, s'en sort le mieux, cabernet franc mûr ou gamay de cru. La bière reste, sans honte, le premier accord de ce plat.
+
+@ steak-tartare
+nom: Steak tartare
+famille: viandes-rouges
+styles: rouge-leger, rouge-souple, rose-vineux
+vins: brouilly, fleurie, saint-nicolas-de-bourgueil, saumur-champigny, crozes-hermitage, tavel, marsannay
+conseil: Viande crue, câpres, cornichons, moutarde et sauce relevée : rien pour arrondir des tanins, beaucoup pour les heurter. Il faut un rouge fruité, frais et souple, voire un rosé de caractère. Les grands rouges tanniques sont durcis par l'assaisonnement.
+
+@ hachis-parmentier
+nom: Hachis parmentier
+famille: viandes-rouges
+styles: rouge-souple, rouge-leger
+vins: bordeaux, blaye, cotes-de-bourg, bergerac, touraine, cotes-du-rhone, beaujolais, buzet
+conseil: Bœuf haché ou restes de pot-au-feu sous une purée gratinée : un plat familial, moelleux, qui demande un rouge simple et rond. Petits bordeaux, vins du Sud-Ouest ou gamays remplissent parfaitement l'office. Pas besoin de structure ni de bois.
+
+@ burger
+nom: Burger
+famille: viandes-rouges
+styles: rouge-souple, rouge-solaire, rose-vineux
+vins: cotes-du-rhone, languedoc, igp-pays-d-oc, crozes-hermitage, bordeaux, morgon, costieres-de-nimes, ventoux
+conseil: Viande grillée, fromage fondu, pain brioché, sauces sucrées et cornichons : il faut un rouge fruité, rond, aux tanins souples, capable de supporter le ketchup. Syrah et grenache du Midi s'en acquittent très bien. Les vins austères et très tanniques réagissent mal au sucre des sauces.
+
+@ barbecue
+nom: Grillades au barbecue
+famille: viandes-rouges
+styles: rouge-solaire, rose-vineux, rouge-souple
+vins: minervois, corbieres, saint-chinian, cotes-du-roussillon, cotes-du-rhone-villages, tavel, bandol, cahors
+conseil: Brochettes, côtes et saucisses saisies sur la braise ont un goût fumé et caramélisé qui appelle des vins généreux, au fruit mûr et aux épices : les rouges du Languedoc, du Roussillon et du Rhône sont nés pour cela. Par forte chaleur, les servir un peu frais, ou passer à un rosé de repas. Éviter les marinades très sucrées avec les vins tanniques.
+
+@ gigot-d-agneau
+nom: Gigot d'agneau
+famille: viandes-rouges
+styles: rouge-charpente, rouge-elegant, rouge-solaire
+vins: pauillac, saint-julien, haut-medoc, medoc, saint-emilion, bandol, chateauneuf-du-pape, pic-saint-loup
+conseil: L'agneau de Pauillac a fait la réputation de l'accord avec les médocs, dont le cabernet-sauvignon s'entend à merveille avec la chair rosée et l'ail. Piqué de thym et de romarin, le gigot regarde plutôt vers la Provence et le Languedoc. Choisir un vin de quelques années, aux tanins fondus.
+
+@ carre-d-agneau
+nom: Carré d'agneau
+famille: viandes-rouges
+styles: rouge-elegant, rouge-charpente
+vins: margaux, saint-julien, pessac-leognan, pomerol, cote-rotie, hermitage, les-baux-de-provence, volnay
+conseil: La pièce la plus fine de l'agneau, rôtie rosée en croûte d'herbes : elle mérite un rouge de grande classe, plus en élégance qu'en force. Margaux, graves ou syrah de la Côte-Rôtie lui répondent avec précision. Un vin rustique lui ferait injure.
+
+@ agneau-de-sept-heures
+nom: Agneau de sept heures et souris confite
+famille: viandes-rouges
+styles: rouge-solaire, rouge-charpente
+vins: gigondas, chateauneuf-du-pape, rasteau, vinsobres, faugeres, la-liviniere, boutenac, collioure
+conseil: Cuite très longuement, la viande devient confite, presque sucrée, dans un jus réduit parfumé d'ail et d'aromates. Un rouge du Midi ample et velouté, riche en grenache, épouse cette texture fondante. Les tanins anguleux d'un vin jeune du Nord paraîtraient secs.
+
+@ navarin-d-agneau
+nom: Navarin d'agneau
+famille: viandes-rouges
+styles: rouge-souple, rouge-leger
+vins: saint-nicolas-de-bourgueil, chinon, saumur-champigny, julienas, chenas, santenay, lussac-saint-emilion, montagne-saint-emilion
+conseil: Ragoût printanier aux petits légumes nouveaux, plus tendre que corsé : il lui faut un rouge souple et frais, cabernet franc de Loire, cru du Beaujolais ou satellite de Saint-Émilion. Le fruit doit primer sur la structure. Les vins puissants masquent les légumes.
+
+@ cotelettes-d-agneau
+nom: Côtelettes d'agneau grillées
+famille: viandes-rouges
+styles: rouge-souple, rouge-solaire, rose-vineux
+vins: cotes-de-provence, coteaux-d-aix-en-provence, luberon, ventoux, ajaccio, patrimonio, haut-medoc, irouleguy
+conseil: Vite grillées aux herbes, les côtelettes ont un goût franc et un gras qui croustille. Un rouge méditerranéen de corps moyen, aux notes de garrigue, ou un rosé structuré, les accompagne simplement. Un médoc souple reste un choix sûr.
+
+@ gardiane-de-taureau
+nom: Gardiane de taureau
+famille: viandes-rouges
+styles: rouge-solaire, rouge-charpente
+vins: costieres-de-nimes, les-baux-de-provence, gres-de-montpellier, languedoc, pic-saint-loup, lirac, duche-d-uzes
+conseil: Daube camarguaise de taureau, sombre, marinée au vin rouge avec olives et herbes : la viande est maigre et puissante, la sauce corsée. Les rouges voisins des Costières et du Languedoc, chaleureux et épicés, sont l'accord local. Il faut du corps, sans excès de bois.

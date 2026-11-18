@@ -1,0 +1,85 @@
+# GUIDE — Servir le vin
+
+@ serv-temperatures
+nom: À quelle température servir ?
+rubrique: service
+def: La température modifie profondément la perception d'un vin : trop froid, il se ferme et durcit ; trop chaud, l'alcool domine et le fruit s'efface.
+texte: Le froid atténue les arômes et renforce la sensation d'acidité et d'amertume, ainsi que la dureté des tanins ; la chaleur exalte les parfums, mais aussi l'alcool. De là une règle simple : plus un vin est léger, vif ou sucré, plus on le sert frais ; plus il est tannique et structuré, plus il supporte quelques degrés de plus, sans jamais dépasser 18 °C.
+texte: La vieille consigne de servir les rouges « chambrés » date d'un temps où les salles à manger étaient à 16 ou 17 °C. Dans une pièce à 21 °C, un rouge servi à température ambiante paraît lourd et alcooleux. Mieux vaut le servir un peu trop frais : dans le verre, le vin gagne un degré toutes les quelques minutes. À l'inverse, un grand blanc sorti du réfrigérateur à 5 °C ne sent plus rien ; il faut le laisser remonter.
+texte: En pratique : deux heures de réfrigérateur ou vingt minutes dans un seau d'eau et de glace pour un blanc ; un quart d'heure de réfrigérateur en été pour un rouge léger. Le congélateur est déconseillé, les glaçons dans le verre aussi. Un thermomètre à vin lève tous les doutes.
+liste: Températures de service = effervescents et champagnes bruts : 8-10 °C ; champagnes millésimés et grandes cuvées : 10-12 °C ; blancs vifs et rosés légers : 8-10 °C ; blancs aromatiques : 9-11 °C ; blancs amples élevés en fût : 11-13 °C ; moelleux et liquoreux : 8-10 °C ; rosés vineux : 10-12 °C ; rouges légers et fruités : 12-14 °C ; rouges souples : 14-16 °C ; rouges élégants de Bourgogne : 15-16 °C ; rouges charpentés et solaires : 16-18 °C ; vins doux naturels blancs et muscats : 8-10 °C ; vins doux naturels rouges et ambrés : 12-15 °C ; vin jaune : 14-16 °C
+
+@ serv-carafer
+nom: Carafer ou décanter ?
+rubrique: service
+def: Deux gestes voisins qui répondent à deux besoins opposés : aérer un vin jeune, ou séparer un vin vieux de son dépôt.
+texte: Carafer, c'est verser franchement un vin jeune dans une carafe large pour le mettre au contact de l'air. L'oxygène assouplit les tanins, dissipe les odeurs de réduction et libère les arômes d'un vin encore fermé. Les rouges jeunes et charpentés — [[cahors]], [[madiran]], [[bandol]], médocs, syrahs du Rhône — y gagnent presque toujours, une à deux heures avant le repas. Certains blancs puissants ou réduits en profitent aussi : grands bourgognes jeunes, chenins de Loire, blancs du Rhône.
+texte: Décanter, c'est transvaser avec délicatesse un vin âgé pour laisser le dépôt au fond de la bouteille. On redresse celle-ci un jour ou deux à l'avance, puis on verse lentement, en un seul geste, devant une source de lumière — la flamme d'une bougie, par tradition —, et l'on s'arrête dès que les particules atteignent l'épaule. Une carafe étroite limite ici l'aération.
+texte: La prudence s'impose avec les vieux millésimes : un vin de trente ans peut s'épanouir quelques minutes puis s'effondrer à l'air. On le décante au dernier moment, ou on le sert directement en inclinant doucement la bouteille. Les pinots noirs délicats, les rouges légers et la plupart des blancs vifs se passent de carafe. Dans le doute, goûter d'abord : un vin déjà ouvert et expressif n'a besoin de rien.
+texte: Ouvrir simplement la bouteille une heure avant ne sert presque à rien : la surface de vin en contact avec l'air, dans le goulot, est trop petite.
+
+@ serv-ordre
+nom: Dans quel ordre servir les vins ?
+rubrique: service
+def: L'ordre des vins suit une progression : chaque bouteille doit pouvoir être appréciée sans souffrir du souvenir de la précédente.
+texte: Quelques principes guident la succession : le léger avant le puissant, le sec avant le doux, le simple avant le complexe, le frais avant le chambré. Dans la plupart des cas, cela conduit à servir les effervescents et les blancs secs d'abord, puis les rouges du plus souple au plus charpenté, enfin les vins moelleux, liquoreux ou mutés.
+texte: La règle « le jeune avant le vieux » est plus discutable. Un vieux vin délicat, tout en nuances, peut être écrasé s'il vient après un vin jeune et vigoureux ; beaucoup d'amateurs préfèrent alors l'ordre inverse, ou servent le vin âgé sur un plat plus sobre. De même, le blanc ne précède pas toujours le rouge : au fromage, un blanc revient souvent avec bonheur après les rouges.
+texte: Le cas classique du foie gras servi en entrée avec un liquoreux illustre la difficulté : le sucre sature le palais et dessert les vins secs qui suivent. On peut choisir un blanc sec et ample, un moelleux peu sucré, ou prévoir une pause — un bouillon, un peu de pain et d'eau — avant de poursuivre. L'essentiel est que la montée en intensité des vins accompagne celle des plats.
+
+@ serv-verres
+nom: Choisir ses verres
+rubrique: service
+def: Un bon verre à vin est incolore, fin, porté par une tige, et se resserre vers le haut pour retenir les arômes.
+texte: La forme compte plus que le prix. Le calice en tulipe, plus large à la base qu'à l'ouverture, concentre les parfums vers le nez ; la tige permet de tenir le verre sans réchauffer le vin ni marquer la paroi ; un verre transparent et sans décor laisse juger la robe ; un bord mince fait oublier le verre. Les verres évasés, colorés ou à bord épais ne rendent justice à aucun vin.
+texte: Un seul modèle de taille moyenne, de 35 à 45 centilitres, convient à presque tout, effervescents compris. Si l'on veut aller plus loin : un verre plus étroit pour les blancs vifs, qui garde la fraîcheur ; un grand verre droit pour les rouges tanniques de type bordelais ; un verre ballon très large pour les pinots noirs et les grands blancs de Bourgogne, dont il déploie le bouquet. Pour le champagne, la flûte montre bien les bulles mais bride les arômes, et la coupe les disperse : un verre à vin blanc fait mieux que l'une et l'autre.
+texte: On remplit le verre au tiers, jamais plus : il faut de la place pour faire tourner le vin et laisser les arômes se rassembler. Les verres se lavent à l'eau très chaude, avec peu ou pas de détergent, et se rincent abondamment ; rangés dans un meuble ou un carton, ils prennent des odeurs qu'un rinçage avant usage suffit à chasser.
+
+@ serv-ouvrir
+nom: Déboucher une bouteille
+rubrique: service
+def: Un bon tire-bouchon, une capsule coupée net et un geste lent suffisent à ouvrir proprement n'importe quelle bouteille.
+texte: On coupe la capsule sous la bague du goulot, afin que le vin ne touche pas le métal, et l'on essuie le haut du bouchon. La mèche du tire-bouchon doit être une spire fine et ouverte, en forme de queue de cochon, plutôt qu'une vis pleine qui émiette le liège. On l'enfonce bien au centre, presque jusqu'au bout, sans traverser le bouchon, puis on extrait celui-ci sans à-coup. Le « limonadier » à double cran des sommeliers reste l'outil le plus sûr et le moins encombrant.
+texte: Les bouchons des vieilles bouteilles sont fragiles et parfois collés au verre. Le tire-bouchon à deux lames, que l'on glisse entre le liège et le goulot, permet de les sortir entiers. Si le bouchon se brise ou tombe dans le vin, rien de grave : on filtre à travers une passoire fine en versant dans une carafe.
+texte: Une fois la bouteille ouverte, on essuie le goulot, on sent le bouchon — il doit sentir le vin, non le moisi — et l'on goûte un fond de verre avant de servir les convives. Les capsules à vis, de plus en plus fréquentes, n'ont rien de déshonorant : elles protègent très bien les vins à boire jeunes et écartent tout risque de goût de bouchon.
+
+@ serv-effervescent
+nom: Ouvrir un champagne ou un crémant
+rubrique: service
+def: Une bouteille d'effervescent contient une pression de cinq à six bars : elle s'ouvre sans bruit, en retenant le bouchon.
+texte: La bouteille doit être bien fraîche et n'avoir pas été secouée ; tiède ou agitée, elle mousse et déborde. On retire l'habillage d'étain, puis on desserre le muselet en gardant le pouce sur le bouchon, sans plus le lâcher : un bouchon de champagne peut partir seul et blesser gravement un œil. On incline la bouteille à quarante-cinq degrés, en la dirigeant à l'écart des personnes et des objets fragiles.
+texte: Le geste juste consiste à tenir fermement le bouchon d'une main et à faire tourner la bouteille de l'autre, par la base. Le bouchon vient de lui-même ; on le retient pour qu'il s'échappe dans un soupir plutôt que dans une détonation, qui fait perdre du gaz et du vin. Sabrer une bouteille est un geste spectaculaire mais dangereux, à laisser aux mains exercées.
+texte: On verse en deux temps : un fond de verre d'abord, que l'on laisse retomber, puis le complément jusqu'aux deux tiers, verre incliné si l'on veut préserver la mousse. Un seau rempli d'eau et de glace garde la bouteille à bonne température ; la glace seule refroidit mal. Entre deux services, un bouchon hermétique à ailettes conserve les bulles un jour ou deux au réfrigérateur — bien mieux que la petite cuillère dans le goulot, qui n'a jamais rien retenu.
+
+@ serv-gout-de-bouchon
+nom: Le bouchon et le goût de bouchon
+rubrique: service
+def: Le bouchon de liège protège le vin pendant des années, mais il peut aussi lui transmettre une odeur de moisi qui le rend imbuvable.
+texte: Le liège, écorce du chêne-liège, est élastique, étanche aux liquides et laisse passer d'infimes quantités d'air : c'est ce qui en fait depuis le XVIIᵉ siècle l'allié des vins de garde. Les bouchons d'une seule pièce, longs et de belle qualité, équipent les grands vins ; les bouchons agglomérés ou techniques, les vins à boire plus tôt ; les bouchons synthétiques et les capsules à vis, les vins à consommer dans leur jeunesse.
+texte: Le « goût de bouchon » est dû à une molécule, le trichloroanisole (TCA), formée par des moisissures au contact de composés chlorés, dans le liège ou parfois dans les bois du chai. Quelques milliardièmes de gramme par litre suffisent : le vin sent le carton mouillé, la cave moisie, le liège humide, et son fruit disparaît. Le défaut, sans danger pour la santé, ne s'atténue pas à l'air : il s'aggrave. Les progrès du tri et du traitement des bouchons l'ont rendu bien plus rare qu'il y a vingt ans.
+texte: Tous les défauts ne viennent pas du bouchon : un vin oxydé, réduit ou piqué est fautif pour d'autres raisons (voir [[degu-defauts]]). Et un bouchon taché de vin sur toute sa longueur, ou de petits cristaux brillants à sa base, ne sont pas des défauts. Au restaurant, on signale simplement le doute au sommelier ; chez un caviste, une bouteille bouchonnée est en général échangée.
+
+@ serv-quantites
+nom: Combien de bouteilles prévoir ?
+rubrique: service
+def: Une bouteille de 75 centilitres donne six verres de 12 centilitres : c'est la base de tout calcul, à manier avec mesure.
+texte: Pour un repas, on compte d'ordinaire une bouteille pour trois convives sur l'ensemble de la soirée, toutes couleurs confondues, soit deux verres par personne environ ; il n'y a aucune raison de prévoir davantage. Quand plusieurs vins se succèdent, on sert de plus petites quantités de chacun : huit centilitres suffisent pour apprécier un vin sur un plat, et une bouteille fait alors huit à dix verres. Pour un apéritif, une bouteille d'effervescent sert six à sept flûtes.
+texte: Les repères de consommation à moindre risque des autorités de santé rappellent que chaque verre compte : pas plus de deux verres par jour, pas plus de dix par semaine, et des jours sans alcool. Un verre de vin de 10 centilitres à 12 % contient autant d'alcool pur — dix grammes — qu'un demi de bière ou une dose d'apéritif.
+texte: Un hôte attentif met toujours de l'eau sur la table, en quantité, et propose une vraie boisson sans alcool : jus de raisin de vigneron, infusion froide, eau pétillante. Il ne remplit pas un verre sans y avoir été invité, ne presse personne, et veille à ce que celles et ceux qui prennent le volant ne boivent pas. Les femmes enceintes s'abstiennent de toute boisson alcoolisée.
+liste: Repères = une bouteille (75 cl) : 6 verres de 12 cl ou 8 à 10 verres de dégustation ; un magnum (1,5 l) : 12 verres de 12 cl ; apéritif : une bouteille d'effervescent pour 6 à 7 flûtes ; repas : une bouteille pour 3 convives environ, eau à volonté
+
+@ serv-bouteille-entamee
+nom: Garder une bouteille entamée
+rubrique: service
+def: Une fois ouvert, le vin s'oxyde ; rebouché et gardé au froid, il tient de un à cinq jours selon son type.
+texte: L'ennemi est l'oxygène : au contact de l'air, le fruit s'éteint, puis viennent des notes de pomme blette et, à terme, de vinaigre. Deux gestes ralentissent le phénomène : reboucher la bouteille aussitôt servie, et la ranger debout au réfrigérateur, y compris les rouges, que l'on sortira une heure avant de les resservir. Le froid freine toutes les réactions chimiques.
+texte: Moins il reste de vin, plus il y a d'air dans la bouteille et plus l'évolution est rapide. Transvaser le reste dans une demi-bouteille propre, remplie à ras bord, est une méthode simple et efficace. Les pompes à vide aident un peu pendant un jour ou deux ; les systèmes à gaz inerte, qui remplacent l'air par de l'argon ou de l'azote, protègent plus longtemps.
+texte: Les vins jeunes, tanniques ou acides résistent le mieux, et certains sont même meilleurs le lendemain. Les vieux millésimes, eux, ne passent pas la nuit. Les vins doux naturels élevés à l'air, le vin jaune et les rancios, déjà rompus à l'oxygène, se conservent plusieurs semaines. Un reste de vin fatigué trouve toujours son emploi en cuisine : sauce, marinade, poire pochée.
+liste: Durée indicative, rebouché et au réfrigérateur = effervescent, avec bouchon hermétique : 1 à 2 jours ; blanc sec et rosé : 2 à 3 jours ; rouge léger : 2 jours ; rouge jeune et charpenté : 3 à 5 jours ; vieux millésime : le jour même ; liquoreux : 5 à 7 jours ; vin doux naturel, vin jaune : plusieurs semaines
+
+@ serv-preparer
+nom: Préparer les bouteilles avant le repas
+rubrique: service
+def: Un vin bien servi se prépare à l'avance : repos, mise à température, ouverture et vérification.
+texte: Un vin qui vient de voyager — transport en voiture, livraison — gagne à reposer quelques jours ; un vieux rouge, dont le dépôt a été remué, une à deux semaines. La veille ou le matin, on redresse les bouteilles âgées pour que le dépôt glisse au fond. On remonte les rouges de la cave quelques heures avant le repas pour qu'ils gagnent doucement leur température, sans jamais les approcher d'une source de chaleur.
+texte: Chaque bouteille est goûtée avant d'être servie : cela permet d'écarter un vin bouchonné sans embarras, de décider si un carafage s'impose et d'ajuster la température. Prévoir une bouteille de secours pour les vins anciens, toujours incertains, évite les déconvenues.
+texte: À table, le vin se sert par la droite, sans remplir les verres au-delà du tiers ; on change de verre, ou on le rince d'un peu du vin suivant, quand on passe d'une couleur à l'autre. Une légère rotation du poignet en relevant la bouteille évite la goutte sur la nappe.

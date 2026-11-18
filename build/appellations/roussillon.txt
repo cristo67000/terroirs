@@ -1,0 +1,170 @@
+# Roussillon — 10 fiches
+
+# ---------- Ensemble du Roussillon ----------
+
+@ cotes-du-roussillon
+nom: Côtes du Roussillon
+sous: Ensemble du Roussillon
+niveau: régionale
+couleurs: rouge, rosé, blanc
+styles: rouge-solaire, rose-vineux, blanc-ample
+cepages: grenache-noir*, carignan*, syrah*, mourvedre*, lledoner-pelut, cinsault, grenache-blanc*, macabeu*, tourbat*, grenache-gris, marsanne, roussanne, vermentino
+surface: environ 4 500 ha
+depuis: 1977
+def: L'appellation de base des vins secs du Roussillon, dans les trois couleurs, sur l'ensemble des Pyrénées-Orientales.
+texte: Des Corbières aux Albères, l'appellation couvre plus d'une centaine de communes et tous les terroirs du département : terrasses caillouteuses de la Têt et du Tech, collines argileuses des Aspres, schistes et calcaires du nord. Les rouges, toujours issus d'un assemblage, s'appuient sur le grenache noir, le carignan, la syrah et le mourvèdre ; ils sont chaleureux, fruités, épicés. Les rosés sont colorés et vineux. Les blancs, de grenache blanc, de macabeu et de tourbat, gagnent en fraîcheur depuis qu'on les vendange plus tôt.
+gout: cerise noire, mûre, garrigue, épices, réglisse, tanins ronds
+garde: 2 à 6 ans
+service: 15-17 °C pour les rouges ; 9-11 °C pour les blancs et les rosés
+voir: cotes-du-roussillon-villages, collioure, igp-cotes-catalanes, languedoc
+
+@ igp-cotes-catalanes
+nom: Côtes Catalanes
+sous: Ensemble du Roussillon
+niveau: IGP
+couleurs: rouge, rosé, blanc
+styles: blanc-ample, rouge-solaire, rose-leger, blanc-aromatique
+cepages: grenache-noir, carignan, syrah, mourvedre, merlot, cabernet-sauvignon, grenache-gris*, grenache-blanc*, macabeu*, carignan-blanc, muscat-blanc-a-petits-grains, muscat-d-alexandrie, chardonnay, viognier, vermentino
+def: L'indication géographique du Roussillon, devenue l'étiquette de nombreux vins d'auteur, blancs de grenache gris en tête.
+texte: L'IGP couvre la quasi-totalité des Pyrénées-Orientales. Plus souple que les appellations, elle permet les vins d'un seul cépage : vieux carignans, grenaches purs, muscats secs très parfumés. Elle doit surtout sa réputation à des blancs de grenache gris, de grenache blanc et de macabeu nés sur les schistes et les granites de la vallée de l'Agly, tendus, salins, de longue garde. Elle abrite enfin les rancios secs, vins oxydatifs non mutés, vieille tradition catalane.
+gout: en blanc, agrumes, fenouil, pierre à fusil, amande, salinité ; en rouge, fruits noirs, garrigue
+garde: 2 à 10 ans selon les cuvées
+service: 11-13 °C pour les blancs ; 15-17 °C pour les rouges
+voir: cotes-du-roussillon, cotes-du-roussillon-villages, igp-pays-d-oc
+
+@ rivesaltes
+nom: Rivesaltes
+sous: Ensemble du Roussillon
+niveau: sous-régionale
+couleurs: vin doux naturel
+styles: vdn-rouge, vdn-blanc
+cepages: grenache-noir*, grenache-gris*, grenache-blanc*, macabeu*, tourbat*, muscat-blanc-a-petits-grains, muscat-d-alexandrie
+depuis: 1936
+def: La plus vaste appellation de vin doux naturel de France : toute la palette des grenaches mutés, du grenat fruité aux vieux ambrés.
+texte: L'aire couvre la plus grande partie du Roussillon viticole, plus de quatre-vingts communes des Pyrénées-Orientales et quelques-unes de l'Aude, sur des terrasses de cailloux roulés, des schistes et des argiles calcaires, sous le climat le plus sec du pays. Rivesaltes, « hautes rives » en catalan, a donné son nom à un vin dont la production, considérable au XXᵉ siècle, a beaucoup reculé avec le goût pour les vins doux.
+texte: Le principe est celui du mutage : un ajout d'alcool neutre arrête la fermentation et laisse au vin une partie de son sucre. Tout se joue ensuite dans l'élevage. Le grenat, de grenache noir, mis tôt en bouteille à l'abri de l'air, garde le fruit, cerise et mûre. Le tuilé, issu lui aussi de raisins noirs, et l'ambré, de raisins blancs et gris, vieillissent au contact de l'air, en foudres, en fûts ou en bonbonnes de verre laissées dehors : ils prennent des arômes de fruits secs, d'orange confite, de café et de noix. Il existe aussi un rosé.
+texte: La mention « hors d'âge » demande au moins cinq ans d'élevage ; « rancio » signale un caractère oxydatif poussé. Les vieux millésimes, conservés parfois plus d'un demi-siècle, comptent parmi les grands vins de méditation.
+gout: grenat : cerise, mûre, cacao ; ambré et tuilé : noix, figue sèche, orange confite, café, caramel, rancio
+garde: grenat à boire dans les 5 ans ; ambrés et tuilés presque indéfiniment
+service: 12-14 °C ; les vieux vins se conservent plusieurs semaines une fois ouverts
+voir: muscat-de-rivesaltes, maury, banyuls, grand-roussillon, rasteau
+
+@ muscat-de-rivesaltes
+nom: Muscat de Rivesaltes
+sous: Ensemble du Roussillon
+niveau: sous-régionale
+couleurs: vin doux naturel
+styles: vdn-blanc
+cepages: muscat-blanc-a-petits-grains*, muscat-d-alexandrie*
+surface: environ 3 000 ha
+depuis: 1956
+def: Le muscat doux naturel du Roussillon, le plus produit de France, né de deux muscats complémentaires.
+texte: L'appellation peut être produite sur toute l'aire des vins doux naturels du Roussillon, Côte Vermeille comprise. Elle associe le muscat à petits grains, précoce et fin, aux notes d'agrumes et de fruits exotiques, et le muscat d'Alexandrie, plus tardif, qui apporte des arômes de fruits mûrs et de fleurs. Le vin se boit jeune, sur son fruit. Le « Muscat de Noël », mis en bouteille dès l'automne de la récolte, en est la version primeur.
+gout: citron, pêche, litchi, fleur d'oranger, menthe, douceur fraîche
+garde: à boire dans les 2 ans
+service: 6-8 °C
+voir: rivesaltes, muscat-de-frontignan, muscat-de-beaumes-de-venise, muscat-du-cap-corse
+
+@ grand-roussillon
+nom: Grand Roussillon
+sous: Ensemble du Roussillon
+niveau: régionale
+couleurs: vin doux naturel
+styles: vdn-rouge, vdn-blanc
+cepages: grenache-noir*, grenache-gris*, grenache-blanc*, macabeu*, tourbat*, muscat-blanc-a-petits-grains, muscat-d-alexandrie
+def: Une appellation de vin doux naturel presque théorique, qui sert de repli aux vins de Rivesaltes, de Maury et de Banyuls.
+texte: Grand Roussillon recouvre l'ensemble des aires de vins doux naturels du département. Elle n'a pas de terroir propre : elle permet de commercialiser, sous un nom plus général, des vins issus des mêmes cépages et de la même méthode que le [[rivesaltes]]. Très peu revendiquée, elle ne se rencontre presque jamais sur une étiquette, et sa production est aujourd'hui infime.
+gout: fruits secs, figue, noix, caramel
+garde: selon l'élevage, comme un Rivesaltes
+service: 12-14 °C
+voir: rivesaltes, maury, banyuls
+
+# ---------- Vallée de l'Agly ----------
+
+@ cotes-du-roussillon-villages
+nom: Côtes du Roussillon Villages
+sous: Vallée de l'Agly
+niveau: sous-régionale
+couleurs: rouge
+styles: rouge-solaire, rouge-charpente
+cepages: grenache-noir*, carignan*, syrah*, mourvedre*, lledoner-pelut*
+surface: environ 2 000 ha
+depuis: 1977
+def: Les meilleurs coteaux du nord du Roussillon, réservés aux rouges : des vins concentrés, où cinq terroirs peuvent signer de leur nom.
+texte: L'appellation se limite, pour l'essentiel, à la partie septentrionale du département, autour de la vallée de l'Agly et de ses affluents, entre les Corbières et le Fenouillèdes. C'est un pays âpre de collines sèches, où se côtoient sur de courtes distances schistes noirs, gneiss, arènes granitiques et calcaires. Les rendements y sont très faibles, les vieilles vignes de carignan et de grenache nombreuses. Les vins, exclusivement rouges, associent toujours plusieurs cépages.
+texte: Cinq dénominations communales peuvent compléter le nom de l'appellation. Caramany, sur gneiss, donne des vins souples, longtemps marqués par la macération carbonique du carignan. Latour-de-France, sur schistes, a plus de fermeté. Lesquerde, sur des sables granitiques d'altitude, se distingue par sa fraîcheur et sa finesse. Tautavel, au pied des falaises calcaires, produit des rouges puissants, élevés plus longuement avant la mise en vente. Les Aspres, reconnue en 2017, correspond aux collines argileuses et caillouteuses situées au sud de la Têt, au pied du Canigou.
+texte: Plus denses que les simples [[cotes-du-roussillon]], ces vins allient fruits noirs, garrigue et épices à une trame tannique serrée ; les meilleurs, issus des terroirs de schiste et de granite, montrent une fraîcheur inattendue sous cette latitude.
+gout: mûre, cerise noire, garrigue, poivre, réglisse, graphite, tanins serrés
+garde: 4 à 12 ans
+service: 16-17 °C ; carafer les vins jeunes
+crus: dénominations Caramany, Latour-de-France, Lesquerde, Tautavel, Les Aspres
+voir: cotes-du-roussillon, maury, fitou, corbieres
+
+@ maury
+nom: Maury
+sous: Vallée de l'Agly
+niveau: communale
+couleurs: vin doux naturel, rouge
+styles: vdn-rouge, rouge-solaire
+cepages: grenache-noir*, grenache-gris, grenache-blanc, macabeu, carignan, syrah, mourvedre
+depuis: 1936
+def: Dans une vallée de schistes noirs, sous le château de Quéribus : un vin doux naturel de grenache noir et, depuis 2011, un rouge sec.
+texte: Maury occupe un couloir étroit de la vallée de l'Agly, entre deux barres calcaires, sur quatre communes : Maury, Saint-Paul-de-Fenouillet, Tautavel et Rasiguères. Le sol est fait de marnes schisteuses noires, friables, qui chauffent au soleil ; la tramontane y souffle sans relâche. Le grenache noir, largement majoritaire, y donne des raisins petits et concentrés.
+texte: Le vin doux naturel se décline en deux familles. Le grenat, mis jeune en bouteille, est un vin de fruit, cerise noire, mûre et cacao, aux tanins présents. Le tuilé, élevé en milieu oxydatif, parfois en bonbonnes de verre exposées au soleil, puis en vieux foudres, tire vers le pruneau, le café, la noix et le rancio ; les « hors d'âge » ont vieilli au moins cinq ans. Il existe aussi, en petite quantité, des Maury blancs et ambrés. Plus tannique et plus sombre qu'un [[rivesaltes]], le Maury est souvent comparé au [[banyuls]], en plus terrien.
+texte: Depuis 2011, l'appellation comprend un rouge sec, le Maury sec, à dominante de grenache noir, puissant et velouté.
+gout: cerise noire, mûre, cacao, réglisse ; pruneau, café, noix et rancio pour les vins élevés
+garde: grenat à boire dans les 5 à 10 ans ; tuilés et hors d'âge pendant des décennies
+service: 13-15 °C pour les vins doux ; 16-17 °C pour le Maury sec
+voir: banyuls, rivesaltes, cotes-du-roussillon-villages, rasteau
+
+# ---------- Côte Vermeille ----------
+
+@ banyuls
+nom: Banyuls
+sous: Côte Vermeille
+niveau: communale
+couleurs: vin doux naturel
+styles: vdn-rouge, vdn-blanc
+cepages: grenache-noir*, grenache-gris, grenache-blanc, carignan, macabeu, tourbat, muscat-blanc-a-petits-grains, muscat-d-alexandrie
+surface: environ 1 000 ha
+depuis: 1936
+def: Le grand vin doux naturel de la Côte Vermeille : un grenache de terrasses de schiste, entre mer et montagne, à la frontière de l'Espagne.
+texte: Là où les Pyrénées tombent dans la Méditerranée, quatre communes, Collioure, Port-Vendres, Banyuls-sur-Mer et Cerbère, se partagent un vignoble spectaculaire. Les pentes de schiste brun, très raides, sont découpées en milliers de terrasses étroites, soutenues par des kilomètres de murets et drainées par un réseau de rigoles de pierre, les « peus de gall », qui canalisent les orages. Presque rien ne s'y mécanise. Les vieux grenaches, taillés en gobelet et battus par la tramontane, produisent à peine quelques grappes par souche.
+texte: Le grenache noir fournit au moins la moitié de l'assemblage. Le vin est le plus souvent muté sur le marc, c'est-à-dire que l'alcool est versé sur les raisins en cours de fermentation, ce qui extrait davantage de couleur et d'arômes. Deux écoles se partagent ensuite l'élevage. Le rimage, équivalent d'un millésimé, est mis tôt en bouteille pour garder le fruit noir et la fraîcheur. Les Banyuls traditionnels vieillissent au contact de l'air, en foudres ou en bonbonnes, et développent des notes de pruneau, de cacao, de café, de noix et d'écorce d'orange.
+texte: Il existe aussi des Banyuls blancs, rosés et ambrés. Plus fin et plus nuancé que la plupart des vins doux naturels, le Banyuls est l'un des rares vins capables de tenir tête au chocolat. Les vins les plus longuement élevés relèvent de l'appellation [[banyuls-grand-cru]] ; les vins secs du même terroir portent le nom de [[collioure]].
+gout: rimage : cerise noire, mûre, cacao ; traditionnel : pruneau, figue, café, noix, orange confite
+garde: rimage 5 à 15 ans ; traditionnels plusieurs décennies
+service: 13-15 °C
+voir: banyuls-grand-cru, collioure, maury, rivesaltes
+
+@ banyuls-grand-cru
+nom: Banyuls grand cru
+sous: Côte Vermeille
+niveau: grand cru
+couleurs: vin doux naturel
+styles: vdn-rouge
+cepages: grenache-noir*, grenache-gris, grenache-blanc, carignan
+depuis: 1962
+def: La sélection la plus exigeante de Banyuls : davantage de grenache noir et un long élevage sous bois.
+texte: Produit sur la même aire que le [[banyuls]], le grand cru répond à des règles plus sévères : le grenache noir doit représenter au moins les trois quarts de l'assemblage et le vin vieillit au minimum trente mois sous bois avant d'être commercialisé. C'est donc toujours un vin d'élevage oxydatif, tuilé ou acajou, aux arômes de fruits cuits, de torréfaction, de tabac et de noix, d'une grande longueur. Il n'est élaboré que dans les années qui s'y prêtent.
+gout: pruneau, figue sèche, cacao, café, tabac, noix, grande longueur
+garde: prêt à la vente ; se conserve des décennies
+service: 14-15 °C
+voir: banyuls, maury, rivesaltes
+
+@ collioure
+nom: Collioure
+sous: Côte Vermeille
+niveau: communale
+couleurs: rouge, rosé, blanc
+styles: rouge-solaire, rose-vineux, blanc-ample
+cepages: grenache-noir*, syrah*, mourvedre*, carignan, cinsault, grenache-gris*, grenache-blanc*, macabeu, tourbat, marsanne, roussanne, vermentino
+surface: environ 600 ha
+depuis: 1971
+def: Le vin sec des terrasses de Banyuls : des rouges chaleureux, des rosés de caractère et des blancs salins, entre schiste et mer.
+texte: Collioure partage exactement l'aire du [[banyuls]] : les quatre communes de la Côte Vermeille, leurs terrasses de schiste et leurs vieilles vignes. Selon la parcelle et l'année, le même vigneron y récolte de quoi faire un vin doux ou un vin sec. L'appellation, reconnue pour les rouges en 1971, s'est ouverte aux rosés puis, en 2003, aux blancs. La proximité de la mer, quelques centaines de mètres parfois, apporte de l'humidité et modère la chaleur.
+texte: Les rouges assemblent le grenache noir, la syrah et le mourvèdre, avec un appoint de carignan. Ils sont mûrs, épicés, d'une texture veloutée, avec des tanins que le schiste rend fins ; le mourvèdre, à l'aise près de l'eau, leur donne de la tenue. Les rosés, colorés et vineux, sont des vins de repas. Les blancs, à base de grenache gris et de grenache blanc, sont devenus l'une des spécialités du cru : amples mais tendus, avec des notes de fenouil, d'agrumes et une finale saline. La faiblesse des rendements explique la concentration de l'ensemble.
+gout: fruits noirs mûrs, épices, garrigue, cacao, tanins fins ; en blanc, fenouil, agrumes, amande, salinité
+garde: 3 à 10 ans
+service: 16-17 °C pour les rouges ; 10-12 °C pour les blancs et les rosés
+voir: banyuls, cotes-du-roussillon, bandol

@@ -1,0 +1,119 @@
+# Accords mets-vins — famille « coquillages-crustaces »
+
+@ huitres
+nom: Huîtres
+famille: coquillages-crustaces
+styles: blanc-vif, effervescent-brut
+vins: muscadet-sevre-et-maine, chablis, petit-chablis, entre-deux-mers, picpoul-de-pinet, gros-plant-du-pays-nantais, sancerre, alsace
+audace: champagne, graves
+conseil: L'huître crue est iodée, saline, d'une texture charnue : il lui faut un blanc sec, vif et sans bois, qui joue le rôle du citron. Chaque bassin a son vin, muscadet en Bretagne et en Vendée, entre-deux-mers à Arcachon, picpoul à Bouzigues. L'iode rend les tanins métalliques : aucun rouge, et pas de blanc sucré.
+
+@ huitres-chaudes
+nom: Huîtres chaudes gratinées
+famille: coquillages-crustaces
+styles: blanc-ample, effervescent-brut
+vins: champagne, vouvray, savennieres, pessac-leognan, saint-aubin, chablis-grand-cru, cremant-de-loire
+conseil: Pochées et nappées d'un sabayon ou d'une crème, les huîtres perdent de leur iode et gagnent en rondeur. Le vin peut alors avoir plus d'ampleur : chenin sec, chardonnay de belle origine ou champagne, qui est souvent l'ingrédient de la sauce. On garde de la fraîcheur, mais on quitte les petits blancs nerveux.
+
+@ moules-marinieres
+nom: Moules marinières
+famille: coquillages-crustaces
+styles: blanc-vif
+vins: muscadet, muscadet-cotes-de-grandlieu, gros-plant-du-pays-nantais, fiefs-vendeens, entre-deux-mers, picpoul-de-pinet, igp-charentais
+conseil: Vin blanc, échalote et persil : on boit ce que l'on a mis dans la marmite, un blanc sec, léger et frais. Rien de coûteux n'est nécessaire, la moule ne le rendrait pas. Avec une sauce à la crème, choisir un blanc un peu plus rond ; éviter les rouges et les vins boisés.
+
+@ moules-frites
+nom: Moules-frites
+famille: coquillages-crustaces
+styles: blanc-vif, effervescent-brut
+vins: muscadet-sevre-et-maine, petit-chablis, alsace, haut-poitou, igp-val-de-loire, cremant-de-loire
+conseil: Aux moules s'ajoutent le gras et le sel des frites : l'acidité d'un blanc sec et désaltérant, ou les bulles d'un crémant, remettent le palais à neuf entre deux bouchées. Dans le Nord, on sert volontiers un pinot blanc d'Alsace. Les vins tendres ou parfumés n'apportent rien.
+
+@ saint-jacques-poelees
+nom: Noix de Saint-Jacques poêlées
+famille: coquillages-crustaces
+styles: blanc-ample, effervescent-brut
+vins: meursault, puligny-montrachet, saint-aubin, pessac-leognan, savennieres, pouilly-fuisse, vire-clesse, champagne
+audace: condrieu
+conseil: La noix de Saint-Jacques est douce, presque sucrée, et le beurre de cuisson lui donne un goût de noisette : un chardonnay de Bourgogne, ample et finement boisé, lui répond trait pour trait. Un chenin sec ou un champagne blanc de blancs conviennent aussi. Les vins très vifs paraissent durs à côté d'elle, les rouges l'écrasent.
+
+@ carpaccio-de-saint-jacques
+nom: Carpaccio de Saint-Jacques
+famille: coquillages-crustaces
+styles: blanc-vif, effervescent-brut
+vins: chablis, sancerre, pouilly-fume, champagne, muscadet-sevre-et-maine, cassis, alsace-grand-cru-schlossberg
+conseil: Crue, à peine assaisonnée d'huile d'olive et de citron, la noix demande un blanc pur et précis, sans bois, dont la minéralité souligne sa douceur. Chablis, riesling sec ou champagne peu dosé sont des valeurs sûres. Tout vin puissant ou parfumé prendrait le dessus.
+
+@ homard-grille
+nom: Homard grillé ou rôti
+famille: coquillages-crustaces
+styles: blanc-ample, effervescent-brut
+vins: meursault, chassagne-montrachet, corton-charlemagne, pessac-leognan, hermitage, champagne, chateauneuf-du-pape
+audace: chateau-chalon
+conseil: Chair ferme, dense, légèrement sucrée, relevée de beurre : le homard est l'un des rares mets qui tiennent tête aux plus grands blancs secs, bourgognes de la Côte de Beaune, graves de garde ou blancs du Rhône. Un champagne millésimé convient aux grandes occasions. Préférer un vin de quelques années, au boisé fondu.
+
+@ homard-a-l-armoricaine
+nom: Homard à l'armoricaine
+famille: coquillages-crustaces
+styles: blanc-ample, rose-vineux, vin-jaune
+vins: hermitage, saint-joseph, chateauneuf-du-pape, savennieres, tavel, bandol, arbois
+conseil: Tomate, échalote, cognac et piment : la sauce, puissante et relevée, compte plus que le crustacé. Il faut un blanc riche et sans mollesse, marsanne du Rhône ou chenin de caractère, voire un rosé corsé ou un blanc du Jura sous voile, à l'aise avec les épices. Les blancs fins et les rouges tanniques s'y perdent.
+
+@ langoustines
+nom: Langoustines
+famille: coquillages-crustaces
+styles: blanc-vif, blanc-ample
+vins: muscadet-sevre-et-maine, chablis, sancerre, pouilly-fuisse, graves, savennieres, alsace
+conseil: Chair fine et sucrée, plus délicate que celle du homard. Simplement pochées avec une mayonnaise, les langoustines veulent un blanc vif et net ; poêlées ou rôties au beurre, elles acceptent un chardonnay ou un chenin plus ample. Éviter le bois appuyé, qui masque leur finesse.
+
+@ crevettes
+nom: Crevettes grises et roses
+famille: coquillages-crustaces
+styles: blanc-vif, rose-leger
+vins: muscadet, entre-deux-mers, picpoul-de-pinet, petit-chablis, igp-cotes-de-gascogne, cotes-de-provence, sable-de-camargue
+conseil: À décortiquer à l'apéritif ou en entrée, avec du beurre salé ou une mayonnaise : un blanc léger, sec et iodé, ou un rosé pâle très frais. L'accord repose sur la fraîcheur et la simplicité. Les rouges prennent un goût de fer au contact de l'iode.
+
+@ gambas-grillees
+nom: Gambas grillées
+famille: coquillages-crustaces
+styles: rose-vineux, blanc-ample, blanc-vif
+vins: tavel, collioure, bandol, cassis, la-clape, patrimonio, picpoul-de-pinet
+conseil: Grillées à la plancha avec de l'ail, du persil et parfois du piment, les gambas ont plus de caractère que les crevettes bouillies. Un blanc méditerranéen ample ou un rosé de repas leur donne la réplique. Si elles sont très pimentées, rester sur un vin frais et peu alcoolisé.
+
+@ plateau-de-fruits-de-mer
+nom: Plateau de fruits de mer
+famille: coquillages-crustaces
+styles: blanc-vif, effervescent-brut
+vins: muscadet-sevre-et-maine, chablis, entre-deux-mers, picpoul-de-pinet, sancerre, alsace, cremant-de-loire, champagne
+conseil: Huîtres, bulots, crevettes, crabe et mayonnaise : un seul vin doit suivre le tout, donc sec, vif, peu aromatique et sans bois. Les blancs du littoral, nés près des parcs, sont les plus à l'aise ; un riesling sec ou un champagne brut élèvent le ton. Aucun rouge, que l'iode rendrait métallique.
+
+@ crabe-et-araignee
+nom: Tourteau et araignée de mer
+famille: coquillages-crustaces
+styles: blanc-vif, blanc-aromatique
+vins: muscadet-sevre-et-maine, sancerre, chablis, savennieres, alsace, graves, jasnieres
+conseil: La chair du crabe est fine, douce et un peu sucrée, celle de l'araignée plus délicate encore. Un blanc sec à l'acidité mûre, sauvignon, chenin ou riesling, la fait ressortir sans l'agresser. Avec la mayonnaise, garder un vin franchement vif.
+
+@ oursins
+nom: Oursins
+famille: coquillages-crustaces
+styles: blanc-vif
+vins: cassis, picpoul-de-pinet, patrimonio, bellet, muscadet-sevre-et-maine, chablis
+audace: champagne
+conseil: Le corail d'oursin concentre l'iode avec une douceur presque crémeuse : c'est l'un des goûts les plus marins qui soient. On l'accompagne d'un blanc sec et salin du littoral, sans bois ni excès d'arômes, servi bien frais. Rouges, rosés corsés et blancs sucrés sont à bannir.
+
+@ ecrevisses
+nom: Écrevisses à la nage ou sauce Nantua
+famille: coquillages-crustaces
+styles: blanc-ample, vin-jaune, blanc-vif
+vins: roussette-de-savoie, roussette-du-bugey, seyssel, pouilly-fuisse, saint-peray, condrieu, arbois, alsace
+audace: chateau-chalon
+conseil: Crustacé d'eau douce à la chair délicate, souvent servi dans une sauce crémée et corsée. Les blancs de Savoie, du Bugey et du Rhône nord, ronds et parfumés, l'accompagnent de longue date ; le gratin d'écrevisses s'entend très bien avec un vin du Jura. Pas de vin maigre face à la crème.
+
+@ encornets-et-seiches
+nom: Encornets, seiches et poulpe
+famille: coquillages-crustaces
+styles: blanc-vif, rose-vineux, rouge-leger
+vins: picpoul-de-pinet, la-clape, collioure, cassis, cotes-de-provence, irouleguy, languedoc
+audace: bandol
+conseil: Grillés à la plancha, farcis ou mijotés à la tomate, les céphalopodes appellent les vins de la Méditerranée et du Pays basque : blanc salin, rosé de caractère. Cuisinés à la sétoise ou à l'encre, ils supportent un rouge souple et peu tannique servi frais. Les rouges durs restent déconseillés.

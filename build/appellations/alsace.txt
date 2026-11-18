@@ -1,0 +1,848 @@
+# Alsace et Lorraine — 55 fiches
+
+@ alsace
+nom: Alsace
+sous: Appellations régionales
+niveau: régionale
+couleurs: blanc, rouge, rosé, moelleux, liquoreux
+styles: blanc-aromatique, blanc-vif, rouge-leger, liquoreux
+cepages: riesling*, gewurztraminer*, pinot-gris*, pinot-blanc*, auxerrois*, sylvaner*, pinot-noir*, muscat-blanc-a-petits-grains, muscat-ottonel, chasselas, savagnin-rose
+surface: environ 15 500 ha pour l'ensemble du vignoble, dont plus des deux tiers en AOC Alsace
+depuis: 1962
+def: L'appellation de base du vignoble alsacien, de Marlenheim à Thann : des vins de cépage, surtout blancs, vendus dans la bouteille élancée appelée flûte.
+texte: L'appellation s'étend sur près de cent vingt communes du Bas-Rhin et du Haut-Rhin, au flanc des collines sous-vosgiennes et sur les premiers replats de la plaine. Protégé par les Vosges, le vignoble compte parmi les plus secs de France, et la variété de ses sols — granites, grès, calcaires, marnes, lœss — explique celle de ses vins. Tous doivent être mis en bouteille dans la région de production, dans la flûte qui leur est réservée.
+texte: L'étiquette porte en général le nom du cépage, seul présent dans la bouteille. Le [[riesling]] est sec, vif et minéral ; le [[sylvaner]], léger et désaltérant ; le [[pinot-blanc]], souvent uni à l'[[auxerrois]], souple et rond ; le muscat, sec et croquant ; le [[pinot-gris]], ample et fumé ; le [[gewurztraminer]], exubérant, parfois tendre. Le [[pinot-noir]] donne des rosés et des rouges, de plus en plus colorés et élevés en fût. Les assemblages de plusieurs cépages blancs se nomment edelzwicker, ou gentil lorsqu'ils font la part belle aux cépages nobles.
+texte: Treize dénominations communales ou locales — Bergheim, Blienschwiller, Côtes de Barr, Côte de Rouffach, Coteaux du Haut-Koenigsbourg, Klevener de Heiligenstein, Ottrott, Rodern, Saint-Hippolyte, Scherwiller, Vallée Noble, Val Saint-Grégoire, Wolxheim — et les noms de lieux-dits peuvent compléter l'appellation, avec des règles plus strictes. Le klevener de Heiligenstein est issu du [[savagnin-rose]] ; Ottrott, Rodern et Saint-Hippolyte sont réputés pour leurs rouges. Les mentions « vendanges tardives » et « sélection de grains nobles » désignent des vins moelleux ou liquoreux de raisins surmûris, réservés aux quatre cépages nobles.
+gout: agrumes, fleurs blanches, fruits à chair blanche, épices selon le cépage, acidité franche
+garde: 2 à 5 ans pour la plupart ; 10 ans et plus pour les meilleurs rieslings et les vendanges tardives
+service: 8-10 °C pour les blancs ; 12-14 °C pour les rouges légers, 15-16 °C pour les rouges élevés en fût
+crus: dénominations communales Klevener de Heiligenstein, Ottrott, Rodern, Saint-Hippolyte, Scherwiller, Wolxheim, Côte de Rouffach, Vallée Noble
+voir: cremant-d-alsace, alsace-grand-cru-schlossberg, moselle
+
+@ cremant-d-alsace
+nom: Crémant d'Alsace
+sous: Appellations régionales
+niveau: régionale
+couleurs: effervescent
+styles: effervescent-brut
+cepages: pinot-blanc*, auxerrois*, pinot-noir*, riesling, pinot-gris, chardonnay
+surface: environ un quart de la production alsacienne
+depuis: 1976
+def: L'effervescent de l'Alsace, élaboré par seconde fermentation en bouteille sur la même aire que l'appellation Alsace ; le plus vendu des crémants français.
+texte: Des maisons alsaciennes élaboraient des mousseux selon la méthode champenoise dès la fin du XIXᵉ siècle, mais l'appellation ne date que de 1976. Elle couvre tout le vignoble, et les parcelles qui lui sont destinées doivent être déclarées avant la vendange. Les raisins sont cueillis à la main, parmi les premiers de la saison, pour garder leur acidité ; ils sont pressés en grappes entières, et le vin repose au moins neuf mois sur lattes avant le dégorgement.
+texte: Le [[pinot-blanc]] et l'[[auxerrois]] forment la base de la plupart des cuvées, auxquelles ils donnent souplesse et fruité. Le [[riesling]] apporte de la nervosité, le [[pinot-gris]] du corps, le [[chardonnay]] — admis en Alsace pour ce seul usage — de la finesse. Le rosé provient exclusivement du [[pinot-noir]], qui sert aussi aux blancs de noirs. Presque toujours brut, le crémant d'Alsace se distingue par sa fraîcheur et sa franchise aromatique ; les cuvées millésimées ou longuement vieillies sur lies gagnent des notes briochées.
+gout: pomme, fleurs blanches, agrumes, brioche légère, bulle fine
+garde: à boire dans les 2 à 3 ans ; 5 ans et plus pour les cuvées de long vieillissement
+service: 6-8 °C
+voir: alsace, champagne, cremant-du-jura
+
+# ---------- Grands crus du Bas-Rhin (14) ----------
+
+@ alsace-grand-cru-steinklotz
+nom: Alsace grand cru Steinklotz
+sous: Grands crus du Bas-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique
+cepages: riesling*, pinot-gris*, gewurztraminer*, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 40 ha
+def: Le grand cru le plus septentrional d'Alsace, à Marlenheim, porte d'entrée de la route des vins, sur un coteau calcaire.
+texte: Le Steinklotz, « bloc de pierre », domine Marlenheim, à l'ouest de Strasbourg. Son versant tourné au sud et au sud-est repose sur les calcaires coquilliers du Muschelkalk, caillouteux et vite réchauffés. Cité dès l'époque mérovingienne, ce vignoble donne des rieslings fins et floraux, des pinots gris et des gewurztraminers de bonne tenue. Marlenheim est aussi connue pour son pinot noir, vendu sous l'appellation Alsace.
+gout: fleurs blanches, agrumes, pêche, finale calcaire et saline
+garde: 5 à 12 ans
+service: 10-12 °C
+voir: alsace-grand-cru-engelberg, alsace-grand-cru-altenberg-de-bergbieten
+
+@ alsace-grand-cru-engelberg
+nom: Alsace grand cru Engelberg
+sous: Grands crus du Bas-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique
+cepages: gewurztraminer*, riesling*, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 15 ha
+def: La « colline des anges », petit coteau calcaire plein sud partagé entre Dahlenheim et Scharrachbergheim.
+texte: À une vingtaine de kilomètres à l'ouest de Strasbourg, l'Engelberg occupe le flanc sud du Scharrach, entre 250 et 300 mètres. Ses sols marno-calcaires, peu épais et pierreux, se réchauffent tôt mais gardent assez de fraîcheur pour une maturation lente. Le gewurztraminer y prend des accents d'épices et de fruits exotiques sans lourdeur ; le riesling, long à s'ouvrir, y gagne une finale saline. Ce cru confidentiel est rarement vu hors de la région.
+gout: épices douces, fruits jaunes, agrumes confits, trame calcaire
+garde: 5 à 12 ans
+service: 10-12 °C
+voir: alsace-grand-cru-steinklotz, alsace-grand-cru-altenberg-de-wolxheim
+
+@ alsace-grand-cru-altenberg-de-bergbieten
+nom: Alsace grand cru Altenberg de Bergbieten
+sous: Grands crus du Bas-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique
+cepages: riesling*, gewurztraminer*, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 29 ha
+def: Un coteau de marnes à gypse au sud-est de Bergbieten, près de Molsheim, réputé pour ses rieslings floraux.
+texte: L'Altenberg, la « vieille montagne », s'étage entre 210 et 265 mètres en exposition sud-est. Ses marnes dolomitiques du Keuper, mêlées de gypse et de cailloutis, retiennent l'eau et donnent des vins qui demandent quelques années pour se livrer. Les évêques de Strasbourg y possédaient déjà des vignes au Moyen Âge. Le riesling, tout en délicatesse, y développe des arômes de fleurs et d'agrumes ; le gewurztraminer s'y montre plus fin que puissant.
+gout: fleurs blanches, citron, pamplemousse, notes fumées avec l'âge
+garde: 5 à 15 ans
+service: 10-12 °C
+voir: alsace-grand-cru-engelberg, alsace-grand-cru-altenberg-de-wolxheim
+
+@ alsace-grand-cru-altenberg-de-wolxheim
+nom: Alsace grand cru Altenberg de Wolxheim
+sous: Grands crus du Bas-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique
+cepages: riesling*, gewurztraminer, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 31 ha
+def: Un versant marno-calcaire adossé à la colline du Horn, à Wolxheim, terre de rieslings droits et de longue garde.
+texte: Au débouché de la vallée de la Bruche, l'Altenberg de Wolxheim regarde le sud et le sud-ouest, à l'abri du Horn. Le sol, marno-calcaire et très caillouteux, est riche en éboulis qui restituent la chaleur. Le riesling y règne presque sans partage : serré dans sa jeunesse, il s'ouvre avec le temps sur des notes d'agrumes et de pierre chaude. La tradition veut que ce vin ait figuré à la table de Napoléon.
+gout: citron, fleurs blanches, pierre à fusil, acidité tendue
+garde: 6 à 15 ans
+service: 10-12 °C
+voir: alsace-grand-cru-bruderthal, alsace-grand-cru-altenberg-de-bergbieten
+
+@ alsace-grand-cru-bruderthal
+nom: Alsace grand cru Bruderthal
+sous: Grands crus du Bas-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique
+cepages: riesling*, gewurztraminer*, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 18 ha
+def: Le « vallon des frères », unique grand cru de Molsheim, sur des calcaires coquilliers exposés au sud-est.
+texte: Le Bruderthal doit son nom aux moines cisterciens qui le mirent en valeur au XIVᵉ siècle. Il s'élève au nord-ouest de Molsheim, entre 225 et 300 mètres, sur des marnes et des calcaires du Muschelkalk, caillouteux dans le haut du coteau, plus profonds à sa base. Le riesling y est floral puis délicatement fruité, avec une belle acidité ; le gewurztraminer, élégant, évoque la rose et les épices.
+gout: fleurs, agrumes, pêche blanche, épices fines
+garde: 5 à 12 ans
+service: 10-12 °C
+voir: alsace-grand-cru-altenberg-de-wolxheim, alsace-grand-cru-kirchberg-de-barr
+
+@ alsace-grand-cru-kirchberg-de-barr
+nom: Alsace grand cru Kirchberg de Barr
+sous: Grands crus du Bas-Rhin
+niveau: grand cru
+couleurs: blanc, rouge
+styles: blanc-aromatique, rouge-elegant
+cepages: gewurztraminer*, riesling*, pinot-gris*, pinot-noir, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 40 ha
+def: La « colline de l'église » qui domine Barr, sur marnes et calcaires jurassiques ; l'un des rares grands crus admis aussi en pinot noir.
+texte: Au-dessus de la petite capitale viticole du Bas-Rhin, le Kirchberg se déploie en exposition sud-est, entre 215 et 350 mètres, sur des marnes couvertes de cailloutis calcaires du Jurassique. Le gewurztraminer y est épicé et corsé, le pinot gris ample, le riesling fruité et ferme. Depuis le millésime 2022, le pinot noir peut y revendiquer le rang de grand cru : une première en Alsace, partagée avec le Hengst.
+gout: épices, rose, fruits jaunes ; cerise noire et tanins fins en rouge
+garde: 5 à 15 ans
+service: 10-12 °C en blanc, 15-16 °C en rouge
+crus: Clos Gaensbroennel, Clos Zisser
+voir: alsace-grand-cru-zotzenberg, alsace-grand-cru-hengst
+
+@ alsace-grand-cru-zotzenberg
+nom: Alsace grand cru Zotzenberg
+sous: Grands crus du Bas-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique, blanc-vif
+cepages: sylvaner*, riesling*, gewurztraminer*, pinot-gris
+surface: environ 36 ha
+def: Le coteau de Mittelbergheim, seul grand cru d'Alsace où le sylvaner a droit de cité.
+texte: Le Zotzenberg forme une cuvette tournée vers le sud et l'est, au nord de Mittelbergheim, entre 215 et 320 mètres. Ses marnes et calcaires jurassiques, coiffés de conglomérats, conviennent au sylvaner, cultivé là de longue date et reconnu en grand cru depuis 2005 : sur ce terroir, il gagne une densité et une tenue inhabituelles. Riesling, gewurztraminer et pinot gris complètent l'encépagement ; le muscat, en revanche, n'y est pas admis.
+gout: fruits blancs, fleurs, amande, texture ample et finale saline
+garde: 5 à 12 ans
+service: 10-12 °C
+voir: alsace-grand-cru-kirchberg-de-barr, alsace-grand-cru-wiebelsberg
+
+@ alsace-grand-cru-wiebelsberg
+nom: Alsace grand cru Wiebelsberg
+sous: Grands crus du Bas-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique
+cepages: riesling*, gewurztraminer, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 12 ha
+def: Un coteau de grès rose au-dessus d'Andlau, voué au riesling le plus aérien du village.
+texte: Voisin du Kastelberg, le Wiebelsberg s'en distingue par sa roche : des grès vosgiens altérés en sables rougeâtres, pauvres et très drainants. La pente, forte, regarde le sud et le sud-est, entre 220 et 300 mètres. Le riesling, presque seul planté, y est précoce à s'exprimer : floral, délicat, d'une grande pureté, il gagne avec l'âge des nuances minérales sans jamais perdre sa légèreté.
+gout: fleurs blanches, pêche, agrumes, finale fine et épicée
+garde: 5 à 15 ans
+service: 10-12 °C
+voir: alsace-grand-cru-kastelberg, alsace-grand-cru-moenchberg
+
+@ alsace-grand-cru-kastelberg
+nom: Alsace grand cru Kastelberg
+sous: Grands crus du Bas-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique
+cepages: riesling*, gewurztraminer, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 6 ha
+def: Le seul grand cru d'Alsace sur schistes, minuscule coteau en terrasses à Andlau, consacré au riesling.
+texte: Le Kastelberg s'accroche à une pente raide au-dessus de la rivière Andlau, face au sud-est. Son sol, unique dans le vignoble, provient des schistes de Steige, roches sombres et dures durcies au contact du granite voisin : elles emmagasinent la chaleur et forcent la vigne à plonger ses racines. Le riesling qui en naît est austère dans sa jeunesse, d'une minéralité saisissante, et compte parmi les vins d'Alsace les plus aptes à vieillir.
+gout: agrumes, pierre à fusil, notes fumées, tension et longueur
+garde: 8 à 25 ans
+service: 10-12 °C ; carafer les vins jeunes
+voir: alsace-grand-cru-wiebelsberg, alsace-grand-cru-moenchberg, alsace-grand-cru-rangen
+
+@ alsace-grand-cru-moenchberg
+nom: Alsace grand cru Moenchberg
+sous: Grands crus du Bas-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique
+cepages: riesling*, gewurztraminer, pinot-gris*, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 12 ha
+def: La « colline des moines », entre Andlau et Eichhoffen, aux pentes douces de marnes, de calcaires et de grès.
+texte: Défriché au Moyen Âge par les bénédictins de l'abbaye d'Altorf, le Moenchberg regarde le sud, entre 230 et 260 mètres. Ses sols de marnes, de calcaires et de grès mêlés de colluvions sont plus profonds et plus frais que ceux des deux autres grands crus d'Andlau. Le riesling y est rond et fruité, plus vite abordable que sur les schistes du Kastelberg ; le pinot gris y trouve aussi de quoi s'épanouir.
+gout: fruits jaunes, agrumes mûrs, fleurs, bouche ronde
+garde: 5 à 12 ans
+service: 10-12 °C
+voir: alsace-grand-cru-kastelberg, alsace-grand-cru-wiebelsberg, alsace-grand-cru-muenchberg
+
+@ alsace-grand-cru-muenchberg
+nom: Alsace grand cru Muenchberg
+sous: Grands crus du Bas-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique
+cepages: riesling*, pinot-gris, gewurztraminer, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 18 ha
+def: Un cirque plein sud à Nothalten, sur des sédiments volcaniques et gréseux d'âge permien, planté par les cisterciens.
+texte: Le Muenchberg dessine un fer à cheval abrité au pied de l'Ungersberg, entre 250 et 330 mètres. Les moines de l'abbaye de Baumgarten y cultivaient la vigne dès le XIIᵉ siècle. Le sol, rose et sableux, provient de grès, de tufs et de conglomérats volcaniques du Permien : pauvre, il se réchauffe vite. Le riesling y est ciselé, mûr sans mollesse, marqué par une salinité persistante ; le pinot gris y garde une rare fraîcheur.
+gout: agrumes, fruits à noyau, notes fumées, finale saline
+garde: 6 à 20 ans
+service: 10-12 °C
+voir: alsace-grand-cru-moenchberg, alsace-grand-cru-winzenberg
+
+@ alsace-grand-cru-winzenberg
+nom: Alsace grand cru Winzenberg
+sous: Grands crus du Bas-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique
+cepages: riesling*, gewurztraminer*, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 19 ha
+def: Le coteau granitique de Blienschwiller, exposé au sud-sud-est, aux vins fins et floraux.
+texte: Le Winzenberg, « montagne des vignerons », s'élève au-dessus de Blienschwiller entre 240 et 320 mètres. Son granite à deux micas, désagrégé en arène sableuse, donne un sol léger, acide et filtrant, qui favorise la précocité et l'expression aromatique. Le riesling y est floral et cristallin, ouvert dès sa jeunesse ; le gewurztraminer évoque la rose plutôt que les épices lourdes.
+gout: fleurs, agrumes, rose, minéralité granitique
+garde: 5 à 12 ans
+service: 10-12 °C
+voir: alsace-grand-cru-frankstein, alsace-grand-cru-muenchberg
+
+@ alsace-grand-cru-frankstein
+nom: Alsace grand cru Frankstein
+sous: Grands crus du Bas-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique
+cepages: riesling*, gewurztraminer*, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 56 ha
+def: Le grand cru de Dambach-la-Ville, première commune viticole du Bas-Rhin, réparti en quatre îlots sur arène granitique.
+texte: Le Frankstein entoure la cité médiévale de Dambach-la-Ville sur quatre coteaux distincts, tournés vers l'est et le sud-est entre 220 et 310 mètres. Le granite à deux micas s'y défait en un sable grossier, pauvre et très drainant, qui craint la sécheresse mais donne des vins d'une grande finesse. Le riesling domine : floral et délicat dans sa jeunesse, il prend ensuite un caractère plus minéral. Le gewurztraminer y est léger et parfumé.
+gout: fleurs blanches, agrumes, pêche, finale droite
+garde: 5 à 12 ans
+service: 10-12 °C
+voir: alsace-grand-cru-winzenberg, alsace-grand-cru-praelatenberg
+
+@ alsace-grand-cru-praelatenberg
+nom: Alsace grand cru Praelatenberg
+sous: Grands crus du Bas-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique
+cepages: riesling*, gewurztraminer*, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 19 ha
+def: La « colline des prélats », à Kintzheim, sous le château du Haut-Koenigsbourg, sur des gneiss riches en quartz.
+texte: Dernier grand cru du Bas-Rhin vers le sud, le Praelatenberg appartenait à l'abbaye d'Ebersmunster dès le IXᵉ siècle. Il s'étage de 250 à 350 mètres, face à l'est et au sud-est, sur des sols siliceux et caillouteux issus de gneiss, lourds mais bien drainés par la pente. Le riesling y est ferme et long à se faire ; le gewurztraminer et le pinot gris y acquièrent du corps tout en restant tendus.
+gout: agrumes, fruits jaunes, épices, structure ferme
+garde: 5 à 15 ans
+service: 10-12 °C
+voir: alsace-grand-cru-frankstein, alsace-grand-cru-gloeckelberg
+
+# ---------- Grands crus du Haut-Rhin (37) ----------
+
+@ alsace-grand-cru-gloeckelberg
+nom: Alsace grand cru Gloeckelberg
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc, moelleux
+styles: blanc-aromatique, blanc-moelleux
+cepages: pinot-gris*, gewurztraminer*, riesling, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 23 ha
+def: La « colline aux clochettes », entre Rodern et Saint-Hippolyte, sur des sols sableux et acides nés du granite et du grès.
+texte: Premier grand cru du Haut-Rhin en venant du nord, le Gloeckelberg est exposé au sud et au sud-est, entre 250 et 360 mètres. Ses sols légers, sablo-limoneux, proviennent de l'altération du granite et du grès vosgien. Le pinot gris et le gewurztraminer y sont à leur avantage : ronds, souples, d'une maturité sans excès, ils se bonifient quelques années. Les deux villages sont par ailleurs réputés pour leur pinot noir.
+gout: fruits jaunes, notes fumées, épices douces, bouche ronde
+garde: 5 à 12 ans
+service: 10-12 °C
+voir: alsace-grand-cru-praelatenberg, alsace-grand-cru-altenberg-de-bergheim
+
+@ alsace-grand-cru-altenberg-de-bergheim
+nom: Alsace grand cru Altenberg de Bergheim
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc, moelleux, liquoreux
+styles: blanc-aromatique, blanc-moelleux, liquoreux
+cepages: gewurztraminer*, riesling*, pinot-gris*, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 35 ha
+def: Le grand coteau marno-calcaire de Bergheim, plein sud, connu depuis le XIIᵉ siècle et admis aussi en vin d'assemblage.
+texte: L'Altenberg domine la cité fortifiée de Bergheim, entre 220 et 320 mètres. Ses terres rouges, argilo-calcaires et pierreuses, riches en fossiles du Jurassique, jouissent d'un microclimat chaud qui favorise la surmaturité et la pourriture noble. Le gewurztraminer y est opulent et de très longue garde, le riesling puissant. Fait rare, le cahier des charges autorise ici un grand cru issu de l'assemblage de plusieurs cépages, à la manière des anciennes vignes complantées.
+gout: fruits confits, épices, miel, agrumes mûrs, bouche puissante et longue
+garde: 8 à 25 ans
+service: 10-12 °C
+voir: alsace-grand-cru-kanzlerberg, alsace-grand-cru-kaefferkopf
+
+@ alsace-grand-cru-kanzlerberg
+nom: Alsace grand cru Kanzlerberg
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique
+cepages: riesling*, gewurztraminer*, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 3 ha
+def: Le plus petit des grands crus d'Alsace, à Bergheim, sur de lourdes marnes à gypse.
+texte: Voisin immédiat de l'Altenberg, le Kanzlerberg, « colline du chancelier », fut propriété des Templiers puis des chevaliers de Saint-Jean. Ses trois hectares, tournés vers le sud et le sud-ouest, reposent sur des marnes argileuses du Keuper chargées de gypse, sol froid et compact qui retarde la maturité. Il en sort des vins sévères dans leur jeunesse, très structurés, qui réclament une longue patience : rieslings de garde, gewurztraminers plus épicés que floraux.
+gout: agrumes, épices, notes fumées, charpente ferme
+garde: 8 à 20 ans
+service: 10-12 °C
+voir: alsace-grand-cru-altenberg-de-bergheim, alsace-grand-cru-schoenenbourg
+
+@ alsace-grand-cru-osterberg
+nom: Alsace grand cru Osterberg
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique
+cepages: riesling*, gewurztraminer*, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 24 ha
+def: Le « mont de l'est », à Ribeauvillé, sur des marnes caillouteuses, pour des rieslings et des gewurztraminers de garde.
+texte: L'Osterberg prolonge vers le nord-est les coteaux de Ribeauvillé, entre 250 et 350 mètres, en exposition est et sud-est. Son sous-sol de marnes, de calcaires et de grès du Muschelkalk donne une terre argileuse, pierreuse, assez lourde. Les seigneurs de Ribeaupierre y avaient leurs vignes. Le riesling y est plus large que sur le Geisberg voisin, avec une acidité mûre ; le gewurztraminer y prend de la profondeur en vieillissant.
+gout: agrumes mûrs, fruits jaunes, épices, bouche ample et saline
+garde: 6 à 15 ans
+service: 10-12 °C
+voir: alsace-grand-cru-geisberg, alsace-grand-cru-kirchberg-de-ribeauville
+
+@ alsace-grand-cru-geisberg
+nom: Alsace grand cru Geisberg
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique
+cepages: riesling*, gewurztraminer, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 8,5 ha
+def: La « montagne aux chèvres », étroit coteau en terrasses au-dessus de Ribeauvillé, l'un des hauts lieux du riesling.
+texte: Coincé entre le Kirchberg et l'Osterberg, le Geisberg descend en terrasses abruptes, plein sud, jusqu'aux premières maisons de Ribeauvillé. Marnes, calcaires dolomitiques et grès du Muschelkalk s'y mêlent en un sol caillouteux, peu épais, où la vigne souffre juste ce qu'il faut. Le riesling occupe presque toute la surface : puissant, serré, d'une acidité noble, il demande souvent dix ans pour dévoiler sa complexité.
+gout: citron confit, fleurs, pierre mouillée, grande longueur
+garde: 8 à 25 ans
+service: 10-12 °C
+voir: alsace-grand-cru-osterberg, alsace-grand-cru-kirchberg-de-ribeauville, alsace-grand-cru-rosacker
+
+@ alsace-grand-cru-kirchberg-de-ribeauville
+nom: Alsace grand cru Kirchberg de Ribeauvillé
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique
+cepages: riesling*, muscat-blanc-a-petits-grains*, muscat-ottonel*, pinot-gris, gewurztraminer
+surface: environ 11 ha
+def: Un coteau pentu à l'entrée de la vallée du Strengbach, à Ribeauvillé, réputé pour le riesling et le muscat.
+texte: Le Kirchberg regarde le sud et le sud-ouest, entre 270 et 350 mètres, au pied des trois châteaux de Ribeauvillé. Comme ses voisins, il repose sur les marnes, calcaires et grès du Muschelkalk, ici très caillouteux. Son nom figure dans les textes dès le XIVᵉ siècle. Le riesling y est racé, épicé, de longue garde ; le muscat, peu fréquent en grand cru, y trouve l'un de ses meilleurs terroirs, fin et croquant.
+gout: agrumes, raisin frais, fleurs, épices, acidité fine
+garde: 6 à 20 ans
+service: 10-12 °C
+voir: alsace-grand-cru-geisberg, alsace-grand-cru-osterberg, alsace-grand-cru-goldert
+
+@ alsace-grand-cru-rosacker
+nom: Alsace grand cru Rosacker
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique
+cepages: riesling*, gewurztraminer, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 26 ha
+def: Le « champ de roses » de Hunawihr, sur calcaire dolomitique, berceau de rieslings parmi les plus recherchés d'Alsace.
+texte: Le Rosacker s'étend au nord du village de Hunawihr et de son église fortifiée, entre 260 et 330 mètres, en exposition est et sud-est. Il doit son nom aux églantiers qui bordaient les parcelles. Son sol lourd, marno-calcaire, issu des calcaires dolomitiques du Muschelkalk, mûrit tard et donne des rieslings secs, tendus, lents à s'ouvrir, d'une longévité remarquable. Le Clos Sainte-Hune, enclavé dans le cru, en est l'expression la plus célèbre.
+gout: citron, zeste, fleurs blanches, pierre à fusil, acidité cristalline
+garde: 8 à 25 ans
+service: 10-12 °C
+crus: Clos Sainte-Hune
+voir: alsace-grand-cru-geisberg, alsace-grand-cru-schoenenbourg
+
+@ alsace-grand-cru-froehn
+nom: Alsace grand cru Froehn
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc, moelleux
+styles: blanc-aromatique, blanc-moelleux
+cepages: gewurztraminer*, pinot-gris*, muscat-blanc-a-petits-grains*, muscat-ottonel, riesling
+surface: environ 14 ha
+def: Le versant sud de la butte de Zellenberg, village perché, sur des marnes schisteuses favorables au gewurztraminer et au muscat.
+texte: Le Froehn ceinture le flanc sud et sud-est de la colline où se dresse Zellenberg, entre 270 et 300 mètres. Ses marnes argileuses et feuilletées, sombres, datent du Lias ; elles gardent la fraîcheur et donnent des vins fruités, charnus, qui tiennent bien dans le temps. Le gewurztraminer et le pinot gris y dominent ; le muscat, très parfumé, y a une réputation ancienne.
+gout: rose, raisin frais, fruits jaunes, épices, bouche charnue
+garde: 5 à 12 ans
+service: 10-12 °C
+voir: alsace-grand-cru-schoenenbourg, alsace-grand-cru-sporen
+
+@ alsace-grand-cru-schoenenbourg
+nom: Alsace grand cru Schoenenbourg
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc, moelleux, liquoreux
+styles: blanc-aromatique, liquoreux
+cepages: riesling*, pinot-gris, gewurztraminer, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 53 ha
+def: Le grand coteau qui surplombe Riquewihr au nord, sur marnes à gypse : un riesling célébré depuis la Renaissance.
+texte: Pentu, exposé au sud et au sud-est entre 265 et 380 mètres, le Schoenenbourg domine les remparts de Riquewihr et déborde sur Zellenberg. Ses marnes du Keuper, riches en gypse, sont couvertes d'éboulis de grès et de calcaire ; elles retiennent l'eau et nourrissent la vigne en profondeur. Le riesling y est puissant, épicé, souvent marqué de notes fumées, et vieillit des décennies. Le lieu se prête aussi aux vendanges tardives et aux sélections de grains nobles.
+gout: agrumes confits, épices, notes fumées, bouche large et saline
+garde: 8 à 30 ans
+service: 10-12 °C
+voir: alsace-grand-cru-sporen, alsace-grand-cru-rosacker, alsace-grand-cru-kanzlerberg
+
+@ alsace-grand-cru-sporen
+nom: Alsace grand cru Sporen
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc, moelleux, liquoreux
+styles: blanc-aromatique, blanc-moelleux, liquoreux
+cepages: gewurztraminer*, pinot-gris*, riesling, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 23 ha
+def: Une cuvette de marnes profondes au sud-est de Riquewihr, terre de gewurztraminers lents et complexes.
+texte: Le Sporen forme un amphithéâtre aux pentes douces, entre 265 et 310 mètres, tourné vers le sud-est. Ses sols argilo-marneux du Lias, profonds et bien pourvus en eau, ne craignent pas la sécheresse et conviennent aux cépages tardifs. Le gewurztraminer y est moins exubérant qu'ailleurs mais plus profond, avec une longue aptitude à la garde ; le pinot gris y atteint une belle richesse. Le cru était autrefois célèbre pour ses assemblages de cépages nobles.
+gout: rose fanée, fruits exotiques, épices, miel avec l'âge
+garde: 6 à 20 ans
+service: 10-12 °C
+voir: alsace-grand-cru-schoenenbourg, alsace-grand-cru-sonnenglanz
+
+@ alsace-grand-cru-sonnenglanz
+nom: Alsace grand cru Sonnenglanz
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc, moelleux
+styles: blanc-aromatique, blanc-moelleux
+cepages: pinot-gris*, gewurztraminer*, riesling, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 33 ha
+def: L'« éclat du soleil », coteau marno-calcaire de Beblenheim exposé au sud-est, propice au pinot gris et au gewurztraminer.
+texte: Au-dessus de Beblenheim, le Sonnenglanz s'élève en pente régulière de 220 à 270 mètres. Son nom dit l'essentiel : un ensoleillement généreux, dans l'un des secteurs les plus secs du vignoble. Les sols, marnes et conglomérats calcaires de l'Oligocène, sont lourds mais caillouteux. Pinot gris et gewurztraminer y mûrissent pleinement et donnent des vins riches, moelleux de texture, souvent récoltés en vendanges tardives.
+gout: fruits jaunes mûrs, épices, miel, bouche onctueuse
+garde: 5 à 15 ans
+service: 10-12 °C
+voir: alsace-grand-cru-mandelberg, alsace-grand-cru-sporen
+
+@ alsace-grand-cru-mandelberg
+nom: Alsace grand cru Mandelberg
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique
+cepages: riesling*, gewurztraminer*, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 22 ha
+def: La « côte des amandiers », entre Mittelwihr et Beblenheim, l'un des coteaux les plus précoces d'Alsace.
+texte: Le Mandelberg doit son nom aux amandiers qui y fleurissent dès la fin de l'hiver, signe d'un microclimat particulièrement doux. Exposé au sud et au sud-est, entre 210 et 250 mètres, il repose sur des marnes et des calcaires oligocènes. La vigne y est attestée depuis l'époque gallo-romaine. Le riesling y est mûr, fruité, d'accès rapide ; le gewurztraminer, délicat et floral, évite la lourdeur.
+gout: pêche, agrumes mûrs, amande, fleurs
+garde: 5 à 12 ans
+service: 10-12 °C
+voir: alsace-grand-cru-sonnenglanz, alsace-grand-cru-marckrain
+
+@ alsace-grand-cru-marckrain
+nom: Alsace grand cru Marckrain
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc, moelleux
+styles: blanc-aromatique, blanc-moelleux
+cepages: gewurztraminer*, pinot-gris*, riesling, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 53 ha
+def: Le grand cru de Bennwihr, prolongé sur Sigolsheim, aux terres marno-calcaires lourdes faites pour le gewurztraminer.
+texte: Au sud de Bennwihr, village rebâti après les combats de l'hiver 1944-1945, le Marckrain s'incline doucement vers l'est et le sud-est, entre 200 et 300 mètres. Ses marnes et calcaires oolithiques forment un sol profond, riche, qui garde la fraîcheur dans un secteur très sec. Le gewurztraminer y donne des vins corsés, épicés, de bonne garde ; le pinot gris y est plein et fumé.
+gout: épices, litchi, fruits confits, notes fumées
+garde: 5 à 15 ans
+service: 10-12 °C
+voir: alsace-grand-cru-mambourg, alsace-grand-cru-mandelberg
+
+@ alsace-grand-cru-mambourg
+nom: Alsace grand cru Mambourg
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc, moelleux, liquoreux
+styles: blanc-aromatique, blanc-moelleux, liquoreux
+cepages: gewurztraminer*, pinot-gris*, riesling, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 62 ha
+def: Le coteau plein sud qui domine Sigolsheim, sur conglomérats calcaires : l'un des terroirs les plus chauds d'Alsace, voué au gewurztraminer.
+texte: Le Mambourg s'étire sur plus d'un kilomètre au-dessus de Sigolsheim, de 210 à 350 mètres, face au midi. Ses sols de marnes et de conglomérats calcaires, riches en magnésium, se réchauffent très tôt, et la pluie y est rare. Cité dès le VIIIᵉ siècle, le cru est fait pour les cépages qui aiment la chaleur : le gewurztraminer y atteint une opulence et une puissance aromatique rarement égalées, et se prête aux vendanges tardives.
+gout: litchi, rose, fruits exotiques, épices, bouche opulente
+garde: 6 à 20 ans
+service: 10-12 °C
+voir: alsace-grand-cru-furstentum, alsace-grand-cru-marckrain
+
+@ alsace-grand-cru-furstentum
+nom: Alsace grand cru Furstentum
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc, moelleux, liquoreux
+styles: blanc-aromatique, blanc-moelleux, liquoreux
+cepages: gewurztraminer*, pinot-gris*, riesling*, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 30 ha
+def: Un versant abrupt et brûlant entre Kientzheim et Sigolsheim, sur calcaires et conglomérats, à la végétation presque méridionale.
+texte: Le Furstentum, « principauté », occupe une pente forte exposée au sud et au sud-ouest, entre 300 et 400 mètres, à l'entrée de la vallée de Kaysersberg. Le sol brun, caillouteux, provient de calcaires, de marnes et de grès ; il est peu épais et se réchauffe vite. Le gewurztraminer et le pinot gris y prennent une richesse solaire tenue par une belle acidité ; le riesling, plus rare, y est large et épicé.
+gout: fruits exotiques, épices, fleurs séchées, finale calcaire
+garde: 6 à 20 ans
+service: 10-12 °C
+voir: alsace-grand-cru-mambourg, alsace-grand-cru-schlossberg
+
+@ alsace-grand-cru-schlossberg
+nom: Alsace grand cru Schlossberg
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique
+cepages: riesling*, gewurztraminer, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 80 ha
+depuis: 1975
+def: Le premier grand cru délimité en Alsace, et le plus vaste : des terrasses granitiques à Kientzheim, au-dessus de la Weiss, vouées au riesling.
+texte: Le Schlossberg, « mont du château », s'étage en terrasses soutenues par des murets, de 230 à 400 mètres, entre Kientzheim et Kaysersberg. Presque tout le cru regarde le sud. Le sous-sol de granite et de migmatite se désagrège en une arène sableuse, riche en minéraux, pauvre en argile. Le riesling, très majoritaire, y est floral et aérien dans sa jeunesse, puis gagne une minéralité profonde ; c'est l'un des modèles du riesling de granite.
+gout: fleurs blanches, citron, pêche de vigne, finale saline et épicée
+garde: 6 à 20 ans
+service: 10-12 °C
+voir: alsace-grand-cru-furstentum, alsace-grand-cru-brand, alsace-grand-cru-sommerberg
+
+@ alsace-grand-cru-kaefferkopf
+nom: Alsace grand cru Kaefferkopf
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique
+cepages: gewurztraminer*, riesling*, pinot-gris*, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 71 ha
+depuis: 2007
+def: Le cinquante et unième et dernier grand cru reconnu, à Ammerschwihr, délimité par jugement dès 1932 et admis en vin d'assemblage.
+texte: Le Kaefferkopf, « tête de scarabée », s'élève au sud d'Ammerschwihr, face à l'est, entre 230 et 350 mètres. Sa géologie est composite : granite dans le haut, calcaires, grès et marnes plus bas. Les vignerons du village en avaient fait reconnaître les limites par un tribunal dès 1932, mais le classement n'est intervenu qu'en 2007. Outre les vins de cépage, on y élabore, selon l'usage local, un grand cru d'assemblage dominé par le gewurztraminer et le riesling.
+gout: fruits exotiques, épices, agrumes, bouche ample et fraîche
+garde: 5 à 15 ans
+service: 10-12 °C
+voir: alsace-grand-cru-wineck-schlossberg, alsace-grand-cru-altenberg-de-bergheim
+
+@ alsace-grand-cru-wineck-schlossberg
+nom: Alsace grand cru Wineck-Schlossberg
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique
+cepages: riesling*, gewurztraminer*, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 27 ha
+def: Un cirque granitique autour des ruines du château du Wineck, à Katzenthal et Ammerschwihr, aux rieslings délicats.
+texte: À l'écart de la route des vins, Katzenthal se niche dans un vallon que domine le donjon du Wineck, entouré de vignes. Le cru, exposé au sud et au sud-est entre 280 et 400 mètres, repose sur un granite à deux micas très altéré, sol léger et acide. L'altitude et l'abri des collines assurent une maturation lente. Le riesling y est fin, floral, d'une grande netteté ; le gewurztraminer y gagne en élégance.
+gout: fleurs, citron, pêche blanche, finale minérale
+garde: 5 à 15 ans
+service: 10-12 °C
+voir: alsace-grand-cru-sommerberg, alsace-grand-cru-kaefferkopf
+
+@ alsace-grand-cru-sommerberg
+nom: Alsace grand cru Sommerberg
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique
+cepages: riesling*, pinot-gris, gewurztraminer, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 28 ha
+def: La « colline de l'été », pente vertigineuse de granite au-dessus de Niedermorschwihr, plein sud.
+texte: Le Sommerberg grimpe de 260 à 400 mètres avec une inclinaison qui atteint par endroits 45 degrés, entre Niedermorschwihr et Katzenthal. Son granite à deux micas, dit de Turckheim, donne une arène maigre que seules les terrasses retiennent ; le travail s'y fait largement à la main. Le riesling y exprime une grande pureté : agrumes, fleurs, puis une minéralité épicée après quelques années de bouteille.
+gout: agrumes, fleurs blanches, épices, tension granitique
+garde: 6 à 20 ans
+service: 10-12 °C
+voir: alsace-grand-cru-brand, alsace-grand-cru-wineck-schlossberg, alsace-grand-cru-schlossberg
+
+@ alsace-grand-cru-florimont
+nom: Alsace grand cru Florimont
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc, moelleux
+styles: blanc-aromatique, blanc-moelleux
+cepages: gewurztraminer*, riesling*, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 21 ha
+def: Le « mont fleuri », colline calcaire entre Ingersheim et Katzenthal, connue pour sa flore de milieu sec.
+texte: Aux portes de Colmar, dans le secteur le moins arrosé d'Alsace, le Florimont présente deux versants, au sud et à l'est, entre 250 et 280 mètres. Ses sols marno-calcaires, caillouteux, portent au printemps une végétation de pelouse sèche — anémones, orchidées — qui lui a valu son nom. Le gewurztraminer y est épicé, tendu par le calcaire ; le riesling, mûr et structuré, vieillit bien.
+gout: épices, fruits jaunes, agrumes confits, trame calcaire
+garde: 5 à 15 ans
+service: 10-12 °C
+voir: alsace-grand-cru-brand, alsace-grand-cru-hengst
+
+@ alsace-grand-cru-brand
+nom: Alsace grand cru Brand
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc, moelleux, liquoreux
+styles: blanc-aromatique, liquoreux
+cepages: riesling*, pinot-gris*, gewurztraminer*, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 58 ha
+def: La « terre de feu » de Turckheim, grand coteau de granite plein sud à l'entrée de la vallée de Munster.
+texte: Le Brand s'élève au-dessus de Turckheim de 250 à 380 mètres. La légende y place le combat du soleil et d'un dragon, dont le sang aurait embrasé le sol ; elle traduit la chaleur d'un coteau exposé au midi et abrité des vents. Le granite à deux micas s'y délite en sable grossier, pauvre et filtrant. Le riesling y est ample, mûr, aux arômes d'agrumes et de fruits à noyau ; pinot gris et gewurztraminer y donnent des vendanges tardives réputées.
+gout: pêche, agrumes mûrs, fleurs, épices, finale saline
+garde: 6 à 20 ans
+service: 10-12 °C
+voir: alsace-grand-cru-sommerberg, alsace-grand-cru-hengst, alsace-grand-cru-schlossberg
+
+@ alsace-grand-cru-hengst
+nom: Alsace grand cru Hengst
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc, rouge, moelleux, liquoreux
+styles: blanc-aromatique, rouge-elegant, liquoreux
+cepages: gewurztraminer*, pinot-gris*, riesling, pinot-noir, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 53 ha
+def: L'« étalon » de Wintzenheim, coteau marno-calcaire aux vins puissants, l'un des rares grands crus reconnus pour le pinot noir.
+texte: Au sud-ouest de Colmar, le Hengst s'incline vers le sud et le sud-est, entre 270 et 360 mètres. Ses marnes et conglomérats calcaires de l'Oligocène forment un sol profond, lourd, qui donne des vins vigoureux, fermés dans leur jeunesse. Le gewurztraminer y est corsé et épicé, le pinot gris dense et fumé. Depuis le millésime 2022, le pinot noir y a droit au rang de grand cru : coloré, charpenté, il confirme une vocation rouge ancienne.
+gout: épices, fruits confits, notes fumées ; fruits noirs et tanins fermes en rouge
+garde: 8 à 20 ans
+service: 10-12 °C en blanc, 15-16 °C en rouge
+voir: alsace-grand-cru-steingrubler, alsace-grand-cru-kirchberg-de-barr, alsace-grand-cru-vorbourg
+
+@ alsace-grand-cru-steingrubler
+nom: Alsace grand cru Steingrubler
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique
+cepages: riesling*, gewurztraminer*, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 23 ha
+def: La « carrière de pierres » de Wettolsheim, coteau du sud-est où se rencontrent marnes calcaires et arènes granitiques.
+texte: Le Steingrubler monte de 280 à 350 mètres à l'ouest de Wettolsheim. Le bas du coteau, marno-calcaire et gréseux, est plus lourd ; le haut, sableux, mêlé d'arène granitique, est plus léger et plus précoce. Cette dualité donne des vins qui allient finesse et structure : rieslings aux arômes d'agrumes, gewurztraminers d'une ampleur mesurée. Le cru était mentionné au Moyen Âge parmi les biens des abbayes de la région.
+gout: agrumes, fleurs, épices fines, finale équilibrée
+garde: 5 à 15 ans
+service: 10-12 °C
+voir: alsace-grand-cru-hengst, alsace-grand-cru-pfersigberg
+
+@ alsace-grand-cru-eichberg
+nom: Alsace grand cru Eichberg
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc, moelleux, liquoreux
+styles: blanc-aromatique, blanc-moelleux, liquoreux
+cepages: gewurztraminer*, riesling*, pinot-gris*, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 57 ha
+def: La « colline aux chênes », au pied des trois châteaux d'Eguisheim, sur marnes et conglomérats, fief du gewurztraminer.
+texte: L'Eichberg s'étend au sud-ouest d'Eguisheim, berceau présumé du vignoble alsacien, en exposition sud-est entre 220 et 340 mètres. Les environs de Colmar comptent parmi les lieux les plus secs de France. Marnes et conglomérats calcaires de l'Oligocène, mêlés de cailloutis siliceux, donnent un sol qui mûrit bien les cépages tardifs. Le gewurztraminer y est puissant, charnu, de garde ; le riesling et le pinot gris y sont amples et structurés.
+gout: rose, litchi, fruits confits, épices, bouche charnue
+garde: 6 à 20 ans
+service: 10-12 °C
+voir: alsace-grand-cru-pfersigberg, alsace-grand-cru-hatschbourg
+
+@ alsace-grand-cru-pfersigberg
+nom: Alsace grand cru Pfersigberg
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc, moelleux, liquoreux
+styles: blanc-aromatique, blanc-moelleux, liquoreux
+cepages: gewurztraminer*, riesling*, pinot-gris, muscat-blanc-a-petits-grains*, muscat-ottonel
+surface: environ 75 ha
+def: La « colline des pêchers », vaste cru calcaire partagé entre Eguisheim et Wettolsheim.
+texte: Second grand cru d'Eguisheim, le Pfersigberg occupe plusieurs croupes tournées vers l'est et le sud-est, entre 220 et 330 mètres. Ses sols de conglomérats calcaires et de marnes, très caillouteux, sont bien drainés et se réchauffent facilement. Les vins y sont plus élancés que sur l'Eichberg : gewurztraminers fruités, à la fraîcheur préservée, rieslings fins et persistants, muscats réputés.
+gout: pêche, agrumes, rose, épices, fraîcheur calcaire
+garde: 6 à 20 ans
+service: 10-12 °C
+voir: alsace-grand-cru-eichberg, alsace-grand-cru-steingrubler
+
+@ alsace-grand-cru-hatschbourg
+nom: Alsace grand cru Hatschbourg
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc, moelleux
+styles: blanc-aromatique, blanc-moelleux
+cepages: gewurztraminer*, pinot-gris*, muscat-blanc-a-petits-grains, muscat-ottonel, riesling
+surface: environ 47 ha
+def: Un coteau marno-calcaire recouvert de lœss, entre Hattstatt et Voegtlinshoffen, aux vins riches et ronds.
+texte: Le Hatschbourg s'élève de 210 à 330 mètres au sud d'Eguisheim, en exposition sud et sud-est. Le socle de marnes et de calcaires est tapissé de lœss, limon fertile qui retient bien l'eau : un atout dans ce secteur chaud et sec. Gewurztraminer et pinot gris y donnent des vins généreux, à la texture veloutée, qui vieillissent avec bonheur ; le muscat y est également apprécié.
+gout: fruits jaunes, épices, miel, bouche ronde et longue
+garde: 5 à 15 ans
+service: 10-12 °C
+voir: alsace-grand-cru-goldert, alsace-grand-cru-eichberg
+
+@ alsace-grand-cru-goldert
+nom: Alsace grand cru Goldert
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc, moelleux
+styles: blanc-aromatique, blanc-moelleux
+cepages: gewurztraminer*, muscat-blanc-a-petits-grains*, muscat-ottonel*, pinot-gris, riesling
+surface: environ 45 ha
+def: Le coteau « doré » de Gueberschwihr, sur calcaires oolithiques, terroir de référence du muscat d'Alsace.
+texte: Au nord de Gueberschwihr et de son clocher roman, le Goldert s'étage de 230 à 330 mètres, face à l'est. Son nom évoque la couleur de ses vins. Les sols, marnes et conglomérats mêlés de calcaire oolithique, sont profonds et riches en cailloux. Le gewurztraminer y occupe la plus grande place, mais le cru doit sa singularité au muscat : sec, intensément parfumé, capable de vieillir, ce qui est rare pour ce cépage.
+gout: raisin frais, fleurs, rose, épices, finale légèrement amère
+garde: 5 à 15 ans
+service: 10-12 °C
+voir: alsace-grand-cru-hatschbourg, alsace-grand-cru-steinert, alsace-grand-cru-kirchberg-de-ribeauville
+
+@ alsace-grand-cru-steinert
+nom: Alsace grand cru Steinert
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc, moelleux
+styles: blanc-aromatique, blanc-moelleux
+cepages: gewurztraminer*, pinot-gris*, riesling*, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 38 ha
+def: Un coteau pierreux de calcaire oolithique à Pfaffenheim, débordant sur Westhalten, sec et précoce.
+texte: Le Steinert, dont le nom rappelle la pierre, domine Pfaffenheim entre 250 et 350 mètres, en exposition est. La roche calcaire du Jurassique moyen affleure presque ; le sol, mince et caillouteux, draine vite et craint la sécheresse. Les vins y gagnent en intensité aromatique : gewurztraminers très parfumés, pinots gris fumés et denses, rieslings qui évoluent vers des notes minérales marquées.
+gout: fruits jaunes, fleurs, notes fumées, minéralité calcaire
+garde: 5 à 15 ans
+service: 10-12 °C
+voir: alsace-grand-cru-goldert, alsace-grand-cru-vorbourg
+
+@ alsace-grand-cru-vorbourg
+nom: Alsace grand cru Vorbourg
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc, rouge, moelleux, liquoreux
+styles: blanc-aromatique, rouge-elegant, liquoreux
+cepages: riesling*, gewurztraminer*, pinot-gris*, pinot-noir, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 72 ha
+def: Le grand coteau de Rouffach et Westhalten, calcaire et gréseux, parmi les plus ensoleillés d'Alsace ; blancs complets et pinot noir réputé.
+texte: À l'entrée de la Vallée Noble, le Vorbourg déploie ses pentes au sud et au sud-est, entre 210 et 300 mètres, à l'abri du Grand Ballon et du Petit Ballon qui arrêtent les pluies. Calcaires, grès et marnes y composent un sol caillouteux, parfois couvert de lœss. Tous les cépages nobles y réussissent, donnant des vins mûrs et de longue garde. Le pinot noir, tradition ancienne du lieu, y a été admis à son tour au rang de grand cru, après le Hengst et le Kirchberg de Barr.
+gout: fruits jaunes, épices, agrumes confits ; cerise et épices en rouge
+garde: 6 à 20 ans
+service: 10-12 °C en blanc, 15-16 °C en rouge
+crus: Clos Saint-Landelin
+voir: alsace-grand-cru-zinnkoepfle, alsace-grand-cru-steinert, alsace-grand-cru-hengst
+
+@ alsace-grand-cru-zinnkoepfle
+nom: Alsace grand cru Zinnkoepfle
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc, moelleux, liquoreux
+styles: blanc-aromatique, blanc-moelleux, liquoreux
+cepages: gewurztraminer*, pinot-gris*, riesling*, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 70 ha
+def: Le plus haut des grands crus, entre Soultzmatt et Westhalten, dont les vignes montent plein sud jusqu'à 420 mètres.
+texte: Le Zinnkoepfle, « tête du soleil », dresse sa pente abrupte au-dessus de la Vallée Noble. Sols de calcaire coquillier et de grès, pluies très rares, chaleur de l'exposition : le sommet porte une flore de steppe, protégée, où poussent des espèces méridionales. La fraîcheur de l'altitude équilibre cet ensoleillement. Le gewurztraminer y est épicé et d'une grande longueur, le pinot gris puissant, le riesling ferme et salin.
+gout: épices, rose, fruits exotiques, fraîcheur et finale saline
+garde: 6 à 20 ans
+service: 10-12 °C
+voir: alsace-grand-cru-vorbourg, alsace-grand-cru-pfingstberg
+
+@ alsace-grand-cru-pfingstberg
+nom: Alsace grand cru Pfingstberg
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique
+cepages: riesling*, gewurztraminer*, pinot-gris*, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 28 ha
+def: Le « mont de la Pentecôte », à Orschwihr, sur calcaires et grès, au pied du Bollenberg.
+texte: Le Pfingstberg regarde le sud-est entre 270 et 370 mètres, au-dessus d'Orschwihr. Le sous-sol associe les calcaires du Muschelkalk et les grès bigarrés, d'où des sols tantôt marno-calcaires, tantôt sablo-gréseux. Les vignes y sont mentionnées dès le XIIIᵉ siècle. Les vins sont fruités et fins dans leur jeunesse, puis gagnent en corps : rieslings floraux, gewurztraminers et pinots gris d'un bel équilibre.
+gout: fleurs, agrumes, fruits jaunes, finale fraîche
+garde: 5 à 15 ans
+service: 10-12 °C
+voir: alsace-grand-cru-zinnkoepfle, alsace-grand-cru-spiegel
+
+@ alsace-grand-cru-spiegel
+nom: Alsace grand cru Spiegel
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique
+cepages: gewurztraminer*, riesling*, pinot-gris*, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 18 ha
+def: Le « miroir », coteau tourné vers le levant entre Bergholtz et Guebwiller, sur marnes et grès.
+texte: Le Spiegel s'allonge à mi-pente, de 260 à 315 mètres, face à l'est. Les marnes de l'Oligocène y sont recouvertes de sables et d'éboulis gréseux descendus du massif : un sol à la fois frais en profondeur et léger en surface. Les vins s'y distinguent par leur délicatesse plus que par leur force : gewurztraminers floraux, rieslings fruités, pinots gris souples, tous de bonne tenue.
+gout: fleurs, fruits blancs, épices douces, bouche souple
+garde: 5 à 12 ans
+service: 10-12 °C
+voir: alsace-grand-cru-saering, alsace-grand-cru-kessler, alsace-grand-cru-pfingstberg
+
+@ alsace-grand-cru-saering
+nom: Alsace grand cru Saering
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique
+cepages: riesling*, gewurztraminer, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 27 ha
+def: Un promontoire avancé vers la plaine, à Guebwiller, dont les sols marno-gréseux et calcaires favorisent le riesling.
+texte: Guebwiller est la seule commune d'Alsace à compter quatre grands crus. Le Saering, le plus bas, se détache du massif comme une presqu'île, entre 260 et 300 mètres, en exposition est et sud-est. Marnes, grès et cailloutis calcaires s'y mêlent. Le riesling y est floral et citronné, élégant, avec une pointe saline ; il s'ouvre plus tôt que celui du Kitterlé mais vieillit sans faiblir.
+gout: citron, fleurs blanches, fruits à chair blanche, finale saline
+garde: 5 à 15 ans
+service: 10-12 °C
+voir: alsace-grand-cru-kessler, alsace-grand-cru-kitterle, alsace-grand-cru-spiegel
+
+@ alsace-grand-cru-kessler
+nom: Alsace grand cru Kessler
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc, moelleux
+styles: blanc-aromatique, blanc-moelleux
+cepages: gewurztraminer*, pinot-gris*, riesling, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 28 ha
+def: Le « chaudron » de Guebwiller, cuvette de grès rose abritée des vents, renommée pour son gewurztraminer.
+texte: Le Kessler doit son nom à sa forme : un vallon en creux, tourné vers le sud-est entre 300 et 390 mètres, où l'air froid ne stagne pas et où la chaleur s'accumule. Ses sols rouges, sablo-argileux, proviennent du grès vosgien, avec une veine plus calcaire à la base. Le gewurztraminer y est d'une rare finesse, floral, ample sans lourdeur ; le pinot gris et le riesling y prennent du gras.
+gout: rose, fruits exotiques, épices fines, bouche onctueuse et fraîche
+garde: 6 à 20 ans
+service: 10-12 °C
+voir: alsace-grand-cru-kitterle, alsace-grand-cru-saering, alsace-grand-cru-spiegel
+
+@ alsace-grand-cru-kitterle
+nom: Alsace grand cru Kitterlé
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique
+cepages: riesling*, gewurztraminer*, pinot-gris*, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 26 ha
+def: Un éperon en terrasses abruptes au-dessus de Guebwiller, sur grès et roches volcaniques, aux vins de longue garde.
+texte: Le Kitterlé s'avance à l'entrée de la vallée de la Lauch et présente trois expositions, du sud-ouest au sud-est, entre 270 et 360 mètres. Des kilomètres de murets en pierre sèche retiennent un sol maigre, sableux, issu de grès et de grauwackes d'origine volcanique. Les rendements y sont naturellement faibles. Riesling, gewurztraminer et pinot gris y donnent des vins concentrés, marqués de notes fumées, qui se bonifient très longtemps.
+gout: agrumes, notes fumées, épices, grande persistance
+garde: 8 à 25 ans
+service: 10-12 °C
+voir: alsace-grand-cru-kessler, alsace-grand-cru-saering, alsace-grand-cru-rangen
+
+@ alsace-grand-cru-ollwiller
+nom: Alsace grand cru Ollwiller
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc
+styles: blanc-aromatique
+cepages: riesling*, gewurztraminer, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 36 ha
+def: Le grand cru de Wuenheim, au pied du Hartmannswillerkopf, sur des sols sablo-argileux propices au riesling.
+texte: Entre Guebwiller et Thann, l'Ollwiller s'incline en pente douce vers le sud-est, de 260 à 330 mètres, autour du château dont il porte le nom. Le Grand Ballon, tout proche, le protège des pluies. Le sol rougeâtre, sablo-argileux, recouvre des conglomérats et des marnes. Le riesling y est sec, fin, discrètement fruité, avec une bonne acidité. Le vignoble, dévasté pendant la Grande Guerre, a été entièrement reconstitué.
+gout: agrumes, fleurs blanches, pomme, finale nette
+garde: 5 à 12 ans
+service: 10-12 °C
+voir: alsace-grand-cru-saering, alsace-grand-cru-rangen
+
+@ alsace-grand-cru-rangen
+nom: Alsace grand cru Rangen
+sous: Grands crus du Haut-Rhin
+niveau: grand cru
+couleurs: blanc, moelleux, liquoreux
+styles: blanc-aromatique, blanc-ample, liquoreux
+cepages: riesling*, pinot-gris*, gewurztraminer*, muscat-blanc-a-petits-grains, muscat-ottonel
+surface: environ 22 ha
+def: Le grand cru le plus méridional d'Alsace, à Thann et Vieux-Thann : une pente volcanique vertigineuse au-dessus de la Thur.
+texte: Le Rangen est un monde à part. Seul grand cru entièrement volcanique, il repose sur des grauwackes et des tufs sombres, durs, qui emmagasinent la chaleur. La pente, plein sud, atteint 45 degrés entre 350 et 450 mètres ; l'altitude, les pluies plus abondantes et la rivière au pied du coteau retardent la maturité et favorisent la pourriture noble. Célèbre depuis le Moyen Âge, presque abandonné puis replanté dans les années 1970, il donne des rieslings et des pinots gris puissants, fumés, d'une garde exceptionnelle.
+gout: pierre à fusil, fumée, agrumes confits, coing, bouche puissante et saline
+garde: 10 à 30 ans
+service: 10-12 °C ; carafer les vins jeunes
+crus: Clos Saint-Urbain, Clos Saint-Théobald
+voir: alsace-grand-cru-kitterle, alsace-grand-cru-kastelberg, alsace-grand-cru-ollwiller
+
+# ---------- Lorraine ----------
+
+@ cotes-de-toul
+nom: Côtes de Toul
+sous: Lorraine
+niveau: communale
+couleurs: rosé, rouge, blanc
+styles: rose-leger, rouge-leger, blanc-vif
+cepages: gamay*, pinot-noir*, auxerrois*, pinot-meunier
+surface: environ 100 ha
+depuis: 1998
+def: Le principal vignoble de Lorraine, à l'ouest de Toul, connu pour son vin gris de gamay et de pinot noir.
+texte: Huit communes de Meurthe-et-Moselle, parmi lesquelles Lucey, Bruley et Charmes-la-Côte, se partagent ce vignoble adossé aux côtes de Meuse. Les vignes regardent l'est et le sud-est, sur des pentes argilo-calcaires du Jurassique couvertes d'éboulis, à l'abri des vents d'ouest. Le climat reste continental et frais. Prospère sous les évêques de Toul et les ducs de Lorraine, le vignoble a failli disparaître au XXᵉ siècle avant d'être relancé par une poignée de familles.
+texte: Le vin gris en est l'emblème : un rosé très pâle obtenu par pressurage direct, à dominante de gamay, complété par le pinot noir, vif, léger, aux notes de petits fruits rouges. Le pinot noir vinifié seul donne des rouges clairs et fruités, parfois élevés en fût. Les blancs proviennent surtout de l'auxerrois, tendre et floral ; l'aubin, vieux cépage lorrain, y entre à titre accessoire.
+gout: groseille, fraise, agrumes, fleurs blanches, acidité vive
+garde: à boire dans les 2 ans ; 3 à 5 ans pour les rouges de pinot noir
+service: 8-10 °C pour le gris et le blanc ; 13-14 °C pour le rouge
+voir: moselle, alsace, rose-des-riceys
+
+@ moselle
+nom: Moselle
+sous: Lorraine
+niveau: régionale
+couleurs: blanc, rouge, rosé
+styles: blanc-vif, blanc-aromatique, rouge-leger
+cepages: auxerrois*, pinot-gris*, pinot-noir*, riesling, pinot-blanc, gewurztraminer, gamay
+surface: environ 70 ha
+depuis: 2011
+def: Un petit vignoble lorrain en trois îlots, autour de Metz, de Sierck-les-Bains et de Vic-sur-Seille, surtout voué aux blancs.
+texte: L'appellation rassemble une vingtaine de communes de Moselle et de Meurthe-et-Moselle : le pays messin, sur les coteaux qui bordent la rivière en amont et en aval de Metz ; le pays de Sierck, aux trois frontières, dans le prolongement du vignoble luxembourgeois ; et la vallée de la Seille, autour de Vic. Les sols sont argilo-calcaires et marneux, le climat frais, à peine adouci par la vallée.
+texte: Les blancs dominent. L'auxerrois, rond et fruité, le pinot gris, plus ample, et le müller-thurgau, léger et muscaté, en forment l'ossature ; riesling, pinot blanc et gewurztraminer les complètent. Le rouge est issu du seul pinot noir, clair et fruité ; le rosé peut y associer le gamay. Ce sont des vins de fraîcheur, peu alcoolisés, proches par l'esprit de leurs voisins du Luxembourg.
+gout: pomme, poire, agrumes, fleurs blanches ; cerise en rouge
+garde: à boire dans les 2 à 3 ans
+service: 8-10 °C pour les blancs ; 13-14 °C pour les rouges
+voir: cotes-de-toul, alsace

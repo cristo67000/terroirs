@@ -1,0 +1,103 @@
+# Savoie et Bugey — 6 fiches
+
+@ vin-de-savoie
+nom: Vin de Savoie
+sous: Savoie
+niveau: régionale
+couleurs: blanc, rouge, rosé, effervescent
+styles: blanc-vif, blanc-ample, rouge-souple, effervescent-brut
+cepages: jacquere*, mondeuse*, gamay*, altesse, roussanne, chasselas, gringet, chardonnay, aligote, molette, pinot-noir, persan
+surface: environ 1 800 ha
+depuis: 1973
+def: L'appellation régionale de la Savoie, du Léman à la vallée de l'Isère, que peuvent compléter seize noms de crus.
+texte: L'appellation s'éparpille sur la Savoie, la Haute-Savoie et quelques communes de l'Isère et de l'Ain, en îlots accrochés aux pentes bien exposées, entre 250 et 500 mètres. Éboulis calcaires, moraines et cônes torrentiels donnent des sols pierreux et filtrants ; lacs et vallées tempèrent un climat de montagne. Sept bouteilles sur dix sont des blancs, et la [[jacquere]] en fournit la plus grande part : un vin clair, léger, aux arômes de fleurs blanches et d'agrumes, parfois perlant.
+texte: Les crus dessinent la carte du vignoble. Près de Chambéry, Apremont et les Abymes, plantés de jacquère sur les éboulis du mont Granier, sont les plus productifs. En combe de Savoie, Chignin livre des jacquères nerveuses et, sous le nom de Chignin-Bergeron, des blancs riches et abricotés de [[roussanne]] ; Arbin, Cruet, Saint-Jean-de-la-Porte, Saint-Jeoire-Prieuré et Montmélian suivent le même versant, Arbin étant le fief de la [[mondeuse]]. Jongieux et la Chautagne, tournée vers le [[gamay]], encadrent le lac du Bourget. En Haute-Savoie, Crépy, Marin, Marignan et Ripaille cultivent le [[chasselas]] au bord du Léman, et Ayze élabore des mousseux de [[gringet]].
+texte: Les rouges ont gagné en ambition. La mondeuse, sombre, poivrée, à l'acidité franche, donne des vins de caractère capables de vieillir ; le [[persan]], cépage ancien revenu en grâce, est plus tannique encore. Gamay et [[pinot-noir]] fournissent des vins souples. L'aire produit aussi des effervescents, dont un crémant de Savoie à base de jacquère et d'[[altesse]].
+gout: fleurs blanches, agrumes, pierre à fusil en blanc ; abricot et miel pour le bergeron ; violette, poivre et fruits noirs pour la mondeuse
+garde: à boire dans les 2 ans pour les jacquères ; 5 à 10 ans pour les Chignin-Bergeron et les mondeuses
+service: 8-10 °C pour les blancs vifs ; 11-12 °C pour le bergeron ; 14-16 °C pour les rouges
+crus: Abymes, Apremont, Arbin, Ayze, Chautagne, Chignin, Chignin-Bergeron, Crépy, Cruet, Jongieux, Marignan, Marin, Montmélian, Ripaille, Saint-Jean-de-la-Porte, Saint-Jeoire-Prieuré
+voir: roussette-de-savoie, seyssel, bugey
+
+@ roussette-de-savoie
+nom: Roussette de Savoie
+sous: Savoie
+niveau: régionale
+couleurs: blanc
+styles: blanc-ample, blanc-aromatique
+cepages: altesse*
+surface: environ 200 ha
+depuis: 1973
+def: L'appellation savoyarde réservée à l'altesse, cépage blanc le plus noble de la région, avec quatre crus reconnus.
+texte: L'[[altesse]], que l'on appelle aussi roussette pour la teinte rousse de ses baies mûres, serait venue d'Orient selon la légende ; elle est plus sûrement un cépage local. Tardive, peu productive, elle aime les coteaux pentus et caillouteux. L'appellation, dispersée sur l'aire du Vin de Savoie, exige aujourd'hui un vin de pure altesse. Quatre crus peuvent être mentionnés : Frangy, dans la vallée des Usses ; Marestel et Monthoux, sur les pentes abruptes qui dominent le Rhône et le lac du Bourget ; Monterminod, aux portes de Chambéry. Le vin, sec ou à peine tendre, est ample, parfumé, et se bonifie avec quelques années.
+gout: poire, coing, amande, noisette, miel, violette avec l'âge
+garde: 3 à 10 ans
+service: 10-12 °C
+crus: Frangy, Marestel, Monterminod, Monthoux
+voir: vin-de-savoie, roussette-du-bugey, seyssel
+
+@ seyssel
+nom: Seyssel
+sous: Savoie
+niveau: communale
+couleurs: blanc, effervescent
+styles: blanc-aromatique, effervescent-brut
+cepages: altesse*, molette*, chasselas
+surface: environ 80 ha
+depuis: 1942
+def: La doyenne des appellations savoyardes, de part et d'autre du Rhône, entre Ain et Haute-Savoie : blancs d'altesse et mousseux de molette.
+texte: Les deux Seyssel, l'une dans l'Ain, l'autre en Haute-Savoie, se font face sur les rives du Rhône ; avec Corbonod, elles forment l'aire de l'appellation. Les vignes occupent des coteaux de moraines et de molasses sablo-calcaires, entre 200 et 400 mètres, dans un couloir adouci par le fleuve. Le blanc tranquille, issu de l'[[altesse]], est fin et floral, réputé pour son parfum de violette. Le mousseux, élaboré par seconde fermentation en bouteille, associe la [[molette]], cépage neutre et vif propre à ce terroir, à l'altesse, qui lui donne son bouquet. Un vin tranquille de molette existe également.
+gout: violette, fleurs blanches, poire, amande, acidité fine
+garde: 2 à 5 ans
+service: 8-10 °C
+voir: roussette-de-savoie, vin-de-savoie, bugey
+
+@ bugey
+nom: Bugey
+sous: Bugey
+niveau: régionale
+couleurs: blanc, rouge, rosé, effervescent
+styles: effervescent-doux, blanc-vif, rouge-leger, effervescent-brut
+cepages: chardonnay*, gamay*, pinot-noir*, mondeuse*, poulsard, altesse, jacquere, aligote, molette
+surface: environ 470 ha
+depuis: 2009
+def: Le vignoble de l'Ain, dans les derniers chaînons du Jura, réputé pour le Cerdon, rosé pétillant et doux de méthode ancestrale.
+texte: Le Bugey s'inscrit dans la grande boucle du Rhône, entre Lyon, Genève et Chambéry. Ses vignes, très morcelées, se répartissent en trois secteurs : Cerdon au nord, sur des pentes raides au-dessus de la vallée de l'Ain ; Montagnieu, le long du Rhône ; et les environs de Belley, au sud-est. Les sols sont des éboulis et des marnes calcaires du Jurassique. Longtemps aux mains des abbayes, le vignoble doit beaucoup de sa renommée à Brillat-Savarin, natif de Belley.
+texte: Le Cerdon est élaboré par méthode ancestrale : la fermentation, arrêtée par le froid, s'achève en bouteille, laissant un rosé de gamay et de poulsard mousseux, peu alcoolisé, au fruité de fraise et de framboise. Montagnieu produit des mousseux blancs de méthode traditionnelle et des rouges de mondeuse ; Manicle, minuscule cru près de Belley, des chardonnays et des pinots noirs corsés. Le reste de l'appellation donne des blancs de chardonnay vifs et des rouges légers de gamay, de pinot noir ou de mondeuse.
+gout: fraise, framboise et douceur pour le Cerdon ; agrumes et fleurs en blanc ; fruits rouges et poivre en rouge
+garde: à boire dans l'année pour le Cerdon ; 2 à 5 ans pour les autres vins
+service: 6-8 °C pour le Cerdon et les mousseux ; 9-11 °C pour les blancs ; 13-15 °C pour les rouges
+crus: Cerdon, Montagnieu, Manicle
+voir: roussette-du-bugey, vin-de-savoie, clairette-de-die
+
+@ roussette-du-bugey
+nom: Roussette du Bugey
+sous: Bugey
+niveau: régionale
+couleurs: blanc
+styles: blanc-ample, blanc-aromatique
+cepages: altesse*
+surface: quelques dizaines d'hectares
+depuis: 2009
+def: L'appellation du Bugey réservée aux blancs de pure altesse, avec deux crus : Montagnieu et Virieu-le-Grand.
+texte: Comme en Savoie, l'[[altesse]] a ici sa propre appellation, reconnue en même temps que celle du Bugey. Le cépage, tardif et de petit rendement, est planté sur les coteaux calcaires les mieux exposés, surtout dans la partie méridionale du vignoble. Deux noms de crus peuvent figurer sur l'étiquette : Montagnieu, sur les pentes qui dominent le Rhône, et Virieu-le-Grand, dans une cluse au nord de Belley. Le vin est sec, plus plein que les autres blancs du Bugey, avec des arômes de fruits blancs et d'amande qui s'enrichissent de miel après quelques années.
+gout: poire, pêche blanche, amande, fleurs, miel avec l'âge
+garde: 3 à 8 ans
+service: 10-12 °C
+crus: Montagnieu, Virieu-le-Grand
+voir: bugey, roussette-de-savoie
+
+@ igp-vin-des-allobroges
+nom: Vin des Allobroges
+sous: Savoie
+niveau: IGP
+couleurs: blanc, rouge, rosé, effervescent
+styles: blanc-vif, rouge-leger, rouge-souple
+cepages: jacquere*, gamay*, mondeuse, pinot-noir, chardonnay, altesse, chasselas, persan, roussanne, molette
+surface: une centaine d'hectares
+def: L'indication géographique de la Savoie et de la Haute-Savoie, refuge des cépages rares et des secteurs restés hors appellation.
+texte: Le nom rappelle le peuple gaulois qui occupait le pays avant la conquête romaine et dont les vins étaient déjà réputés. L'IGP couvre les deux départements savoyards et quelques communes voisines. Elle sert de cadre aux vignerons qui plantent hors des aires classées — en Tarentaise, en Maurienne, dans le Grésivaudan proche — ou qui travaillent des variétés que les appellations n'admettent pas ou guère : mondeuse blanche, verdesse, étraire de la Dhuy, douce noire. On y trouve des vins simples et fruités comme des cuvées d'auteur exigeantes.
+gout: fleurs blanches, agrumes en blanc ; fruits rouges, poivre en rouge
+garde: à boire dans les 2 à 4 ans
+service: 8-10 °C pour les blancs ; 14-15 °C pour les rouges
+voir: vin-de-savoie, bugey

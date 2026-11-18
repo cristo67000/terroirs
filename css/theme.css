@@ -1,0 +1,159 @@
+/*
+ * Terroirs — couleurs et polices.
+ *
+ * Deux ambiances : « craie », le calcaire clair des coteaux, pour le jour ;
+ * « cave », la pénombre d'un chai, pour le soir. L'accent est un rouge de
+ * Bordeaux, l'or celui d'un vieux liquoreux. Le thème sombre suit le
+ * téléphone, ou se force depuis les Réglages par l'attribut `data-theme`.
+ *
+ * Aucune police n'est téléchargée : ce sont celles du système.
+ */
+
+:root {
+  --fond: #f7f2ea;
+  --carte: #fffdf8;
+  --encre: #2b1d22;
+  --encre-douce: #54424a;
+  --encre-legere: #75636a;   /* 4,9 : 1 sur la craie */
+  --trait: #e6dccd;
+  --trait-fort: #cdbfa9;
+  --accent: #7d1f3c;
+  --accent-fort: #5c142a;
+  --accent-clair: #f3e3e6;
+  --sur-accent: #ffffff;
+  --or: #8c6a12;
+  --or-clair: #f4e9c8;
+  --ok: #1d7a55;
+  --ok-fond: #e1f2e9;
+  --warn: #9c5a0d;
+  --warn-fond: #f8ead3;
+  --bad: #b3342c;
+  --ombre: 0 1px 3px rgba(43, 29, 34, .08), 0 6px 20px rgba(43, 29, 34, .07);
+  --ombre-bord: 0 10px 14px -12px rgba(43, 29, 34, .45);
+  --surligne: #f6e19a;
+  --rayon: 12px;
+
+  /* les couleurs du vin */
+  --v-rouge: #8e1b34;
+  --v-rose: #ee8f9d;
+  --v-blanc: #e9d67a;
+  --v-effervescent: #f1e3ae;
+  --v-moelleux: #e0b84f;
+  --v-liquoreux: #c98a16;
+  --v-vdn: #9b4a1c;
+  --v-jaune: #d4a514;
+  --v-paille: #d99a2b;
+  --v-liqueur: #a5642a;
+
+  /* les baies */
+  --b-noir: #4b1d3f;
+  --b-blanc: #b9c45a;
+  --b-gris: #b98a8f;
+  --b-rose: #d9788a;
+
+  /* les millésimes : de 1 (petit) à 5 (exceptionnel) */
+  --n0: #d9d0c2; --n1: #d8c7b8; --n2: #d9a79a; --n3: #c97a78; --n4: #a8425a; --n5: #7d1f3c;
+  --e-garder: #2c5f9e; --e-garder-fond: #e2ecf8;
+  --e-boire: #1d7a55; --e-boire-fond: #e1f2e9;
+  --e-apogee: #8c6a12; --e-apogee-fond: #f4e9c8;
+  --e-passe: #75636a; --e-passe-fond: #ece5da;
+
+  /* la carte */
+  --mer: #d5e4ea;
+  --terre: #faf6ee;
+  --terre-voisine: #ece6da;
+  --frontiere: #cfc3ae;
+  --eau: #7fa9bd;
+  --eau-nom: #3d7089;
+  --bourg: #3f3338;
+  --halo: #fffdf8;
+
+  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", "URW Palladio L", P052, Georgia, "Noto Serif", "DejaVu Serif", serif;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", sans-serif;
+  --texte: var(--serif);
+  color-scheme: light;
+}
+
+:root[data-police="sans"] { --texte: var(--sans); }
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="clair"]) {
+    --fond: #171113;
+    --carte: #21191c;
+    --encre: #f1e8e6;
+    --encre-douce: #cdbfbf;
+    --encre-legere: #a39496;
+    --trait: #33282c;
+    --trait-fort: #4b3c41;
+    --accent: #f08aa3;
+    --accent-fort: #f7b6c5;
+    --accent-clair: #3a1c26;
+    --sur-accent: #1a1012;
+    --or: #e1bd62;
+    --or-clair: #3a2f17;
+    --ok: #63d0a2;
+    --ok-fond: #13291f;
+    --warn: #efb45c;
+    --warn-fond: #33260f;
+    --bad: #ff8d82;
+    --ombre: 0 1px 3px rgba(0, 0, 0, .5), 0 6px 20px rgba(0, 0, 0, .35);
+    --ombre-bord: 0 10px 14px -12px rgba(0, 0, 0, .9);
+    --surligne: #5e4a12;
+    --v-rouge: #c2405c;
+    --b-noir: #9a5b8c;
+    --n0: #3a3033; --n1: #4a3a3c; --n2: #6e4347; --n3: #96505a; --n4: #c4607a; --n5: #f08aa3;
+    --e-garder: #8ab8f0; --e-garder-fond: #16263c;
+    --e-boire: #63d0a2; --e-boire-fond: #13291f;
+    --e-apogee: #e1bd62; --e-apogee-fond: #3a2f17;
+    --e-passe: #a39496; --e-passe-fond: #2b2225;
+    --mer: #16232b;
+    --terre: #241c1f;
+    --terre-voisine: #1c1618;
+    --frontiere: #46383d;
+    --eau: #3f6d84;
+    --eau-nom: #8ec3dd;
+    --bourg: #e3d6d6;
+    --halo: #171113;
+    color-scheme: dark;
+  }
+}
+
+:root[data-theme="sombre"] {
+  --fond: #171113;
+  --carte: #21191c;
+  --encre: #f1e8e6;
+  --encre-douce: #cdbfbf;
+  --encre-legere: #a39496;
+  --trait: #33282c;
+  --trait-fort: #4b3c41;
+  --accent: #f08aa3;
+  --accent-fort: #f7b6c5;
+  --accent-clair: #3a1c26;
+  --sur-accent: #1a1012;
+  --or: #e1bd62;
+  --or-clair: #3a2f17;
+  --ok: #63d0a2;
+  --ok-fond: #13291f;
+  --warn: #efb45c;
+  --warn-fond: #33260f;
+  --bad: #ff8d82;
+  --ombre: 0 1px 3px rgba(0, 0, 0, .5), 0 6px 20px rgba(0, 0, 0, .35);
+  --ombre-bord: 0 10px 14px -12px rgba(0, 0, 0, .9);
+  --surligne: #5e4a12;
+  --v-rouge: #c2405c;
+  --b-noir: #9a5b8c;
+  --n0: #3a3033; --n1: #4a3a3c; --n2: #6e4347; --n3: #96505a; --n4: #c4607a; --n5: #f08aa3;
+  --e-garder: #8ab8f0; --e-garder-fond: #16263c;
+  --e-boire: #63d0a2; --e-boire-fond: #13291f;
+  --e-apogee: #e1bd62; --e-apogee-fond: #3a2f17;
+  --e-passe: #a39496; --e-passe-fond: #2b2225;
+  --mer: #16232b;
+  --terre: #241c1f;
+  --terre-voisine: #1c1618;
+  --frontiere: #46383d;
+  --eau: #3f6d84;
+  --eau-nom: #8ec3dd;
+  --bourg: #e3d6d6;
+  --halo: #171113;
+  color-scheme: dark;
+}

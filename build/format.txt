@@ -1,0 +1,183 @@
+FORMAT DES FICHIERS DE CONTENU — application « Terroirs » (vins et cépages de France)
+====================================================================================
+
+Tous les fichiers sont en UTF-8, fins de ligne LF. Une fiche commence par une ligne
+« @ identifiant » ; viennent ensuite des lignes « champ: valeur » (une valeur = une seule
+ligne, aussi longue qu'il faut). Une ligne vide sépare les fiches. Une ligne commençant
+par « # » est un commentaire. Le champ « texte: » peut se répéter : un paragraphe par ligne.
+
+Dans def / texte / conseil / commentaire :
+  [[identifiant]]            renvoi vers une appellation, un cépage ou une fiche du guide
+  [[identifiant|libellé]]    idem, avec le libellé à afficher
+  [[region:identifiant]]     renvoi vers une région
+  *mot*                      italique (termes étrangers, titres) — pas de gras, pas de Markdown, pas de HTML
+Les identifiants d'appellation sont ceux de build/plan-appellations.txt (2ᵉ colonne) ; les
+identifiants de cépage ceux de build/plan-cepages.txt. NE PAS en inventer : un identifiant
+inconnu fait échouer la construction. S'il manque vraiment un cépage ou une appellation,
+écrire son nom en clair (sans crochets) et le signaler dans le rapport final.
+
+Règles de rédaction
+  - Français soigné, typographie française (guillemets « », espace avant : ; ? !), phrases complètes.
+  - Textes ORIGINAUX : rien de copié d'un guide, d'un site ou de Wikipédia.
+  - Exactitude d'abord : cépages, couleurs et règles suivent les cahiers des charges des
+    appellations (INAO). Dans le doute, rester général plutôt que d'inventer un chiffre.
+    Les surfaces sont des ordres de grandeur (« environ 1 200 ha »).
+  - Ton : celui d'un bon guide, précis et vivant, sans jargon inutile ni superlatifs
+    publicitaires. On peut citer les crus et climats célèbres (faits de classement), jamais
+    de prix, jamais d'incitation à boire.
+  - Aucune adresse web, aucune marque commerciale hors noms de crus/châteaux/climats.
+
+Régions (identifiants) : alsace (avec la Lorraine), beaujolais (avec le Lyonnais), bordeaux,
+bourgogne, champagne, corse, jura, languedoc, loire (avec le Centre et l'Auvergne), provence,
+rhone, roussillon, savoie-bugey, sud-ouest (avec les Charentes).
+
+Styles de vin (identifiants, servent aux accords mets-vins)
+  blanc-vif            blanc sec léger et vif (Muscadet, Sancerre, Chablis, Picpoul)
+  blanc-aromatique     blanc sec très parfumé (riesling, gewurztraminer, muscat sec, viognier)
+  blanc-ample          blanc sec riche, souvent élevé en fût (Meursault, Hermitage blanc, Pessac-Léognan)
+  blanc-moelleux       demi-sec et moelleux tendres (Vouvray demi-sec, Jurançon, Coteaux du Layon simples)
+  liquoreux            grands liquoreux et vins de paille (Sauternes, sélections de grains nobles, Quarts de Chaume)
+  rose-leger           rosé pâle et frais (Côtes de Provence, Rosé de Loire)
+  rose-vineux          rosé de repas, coloré et structuré (Tavel, Bandol, Rosé des Riceys)
+  rouge-leger          rouge fruité, peu tannique, à boire frais (Beaujolais, gamays de Loire, poulsard, pinot d'Alsace)
+  rouge-souple         rouge de corps moyen (Chinon, Côtes du Rhône, bourgognes villages, bordeaux simples)
+  rouge-elegant        grand rouge fin et de garde, plus en finesse qu'en puissance (grands bourgognes, Côte-Rôtie, Margaux)
+  rouge-charpente      rouge tannique et puissant (Pauillac, Madiran, Cahors, Cornas, Bandol)
+  rouge-solaire        rouge généreux et épicé du Midi (Châteauneuf-du-Pape, Gigondas, Languedoc, Roussillon)
+  effervescent-brut    mousseux secs (Champagne, crémants)
+  effervescent-doux    mousseux doux (Clairette de Die, Cerdon)
+  vdn-blanc            vins doux naturels blancs et muscats (Muscat de Rivesaltes, Beaumes-de-Venise)
+  vdn-rouge            vins doux naturels rouges et ambrés (Banyuls, Maury, Rasteau, Rivesaltes)
+  vin-jaune            vins oxydatifs secs (vin jaune, Château-Chalon)
+  vin-de-liqueur       mistelles (Pineau des Charentes, Floc de Gascogne, Macvin du Jura)
+
+
+1. APPELLATIONS — build/appellations/<région>.txt
+-------------------------------------------------
+Une fiche par ligne de build/plan-appellations.txt pour la région (toutes, sans exception,
+avec exactement le même identifiant). Les AOC d'aire identique (ex. Bordeaux supérieur,
+Crémant de Bordeaux) ont chacune leur fiche.
+
+@ pauillac
+nom: Pauillac
+sous: Médoc
+niveau: communale
+couleurs: rouge
+styles: rouge-charpente
+cepages: cabernet-sauvignon*, merlot*, cabernet-franc, petit-verdot
+surface: environ 1 200 ha
+depuis: 1936
+def: Une phrase qui dit l'essentiel : où, quoi, quel rang.
+texte: Premier paragraphe — situation, terroir (sols, exposition, climat).
+texte: Deuxième paragraphe — style des vins, ce qui les distingue des voisins.
+gout: cassis, cèdre, graphite, tanins serrés
+garde: 10 à 30 ans
+service: 16-18 °C ; carafer les vins jeunes
+crus: Château Lafite Rothschild, Château Latour, Château Mouton Rothschild (premiers crus classés en 1855)
+voir: saint-julien, saint-estephe
+
+Champs
+  nom       obligatoire — le nom d'usage (colonne « nom » du plan, accents corrigés au besoin : « L'Étoile »)
+  sous      obligatoire — la sous-région ; doit reprendre mot pour mot un nom déclaré par un champ
+            « sous: » de la fiche de région (voir 2)
+  niveau    obligatoire — un seul de : régionale | sous-régionale | communale | cru | grand cru | IGP
+  couleurs  obligatoire — parmi : rouge, rosé, blanc, effervescent, moelleux, liquoreux,
+            vin doux naturel, vin jaune, vin de paille, vin de liqueur
+  styles    obligatoire — 1 à 4 identifiants de style ci-dessus, le plus représentatif d'abord
+  cepages   obligatoire — identifiants du plan des cépages ; « * » après les cépages principaux
+  surface   facultatif — ordre de grandeur
+  depuis    facultatif — année de reconnaissance en AOC (seulement si vous en êtes sûr)
+  def       obligatoire — une phrase (25 mots au plus)
+  texte     obligatoire — 1 paragraphe (40-80 mots) pour un petit cru ; 2 à 3 paragraphes
+            (120-220 mots au total) pour une appellation importante
+  gout      obligatoire — arômes et structure, en quelques mots séparés par des virgules
+  garde     obligatoire — « à boire dans les 2 ans », « 5 à 15 ans »…
+  service   facultatif — température, carafage
+  crus      facultatif — crus, climats ou lieux-dits célèbres, classements
+  voir      facultatif — identifiants d'appellations voisines ou comparables
+
+
+2. RÉGIONS — build/regions/<région>.txt (une fiche par fichier)
+----------------------------------------------------------------
+@ bordeaux
+nom: Bordeaux
+def: Une phrase.
+chiffres: environ 110 000 ha ; 85 % de rouges ; une cinquantaine d'AOC
+climat: Une ou deux phrases.
+sols: Une ou deux phrases.
+cepages: merlot, cabernet-sauvignon, cabernet-franc, semillon, sauvignon-blanc
+sous: Médoc = Une phrase de présentation de la sous-région.
+sous: Graves = …
+texte: Trois à six paragraphes : géographie, histoire en bref, styles, hiérarchie et classements.
+
+L'ordre des « sous: » est l'ordre d'affichage (du nord au sud ou selon l'usage).
+
+
+3. CÉPAGES — build/cepages/<fichier>.txt
+-----------------------------------------
+@ merlot
+nom: Merlot
+couleur: noir
+alias: merlot noir
+def: Une phrase.
+origine: Berceau, parenté connue (analyses génétiques), première mention.
+surface: environ 110 000 ha en France
+texte: Le cépage à la vigne — précocité, sols, sensibilités.
+texte: Les vins — couleur, structure, évolution, assemblages.
+texte: Où le rencontrer.
+aromes: prune, cerise noire, violette, truffe avec l'âge
+regions: bordeaux, sud-ouest, languedoc
+appellations: pomerol, saint-emilion, bergerac
+voir: cabernet-franc, cabernet-sauvignon
+
+Une fiche par ligne de build/plan-cepages.txt, même identifiant. couleur : noir | blanc | gris | rose.
+
+
+4. ACCORDS — build/accords/<fichier>.txt
+-----------------------------------------
+@ boeuf-bourguignon
+nom: Bœuf bourguignon
+famille: viandes-rouges
+styles: rouge-souple, rouge-charpente
+vins: mercurey, gevrey-chambertin, givry, morgon
+audace: madiran
+conseil: Deux ou trois phrases : pourquoi l'accord fonctionne, ce qu'il faut éviter.
+
+  famille  un de : aperitif, entrees, charcuterie, coquillages-crustaces, poissons, volailles,
+           viandes-blanches, viandes-rouges, gibier, abats, legumes, pates-riz-oeufs,
+           cuisines-du-monde, fromages, desserts
+  styles   1 à 3 identifiants de style, le meilleur d'abord
+  vins     3 à 8 identifiants d'appellation (accords classiques, variés en régions et en prix)
+  audace   facultatif — 1 à 3 identifiants d'appellation (accord inattendu mais éprouvé)
+
+
+5. MILLÉSIMES — build/millesimes.txt
+-------------------------------------
+@ bordeaux-rive-gauche
+nom: Bordeaux rouge — rive gauche
+region: bordeaux
+porte: Médoc, Graves : assemblages à dominante de cabernet-sauvignon.
+2022: 5 | garder | Une phrase : le temps qu'il a fait, le style, la tenue.
+…
+1990: 5 | apogee | …
+legende: 1982 | Une phrase.
+legende: 1961 | …
+
+  Une ligne par année de 1990 à 2025 (2025 : écrire « 2025: ? | garder | … » si le recul manque).
+  Note : 1 (petit) à 5 (exceptionnel). État aujourd'hui (fin 2026), pour les bons vins de la zone :
+  garder (trop jeune) | boire (prêt, peut attendre) | apogee (à son meilleur) | passe (à boire sans attendre, ou déclinant).
+  legende : grands millésimes d'avant 1990.
+
+
+6. GUIDE — build/guide/<fichier>.txt
+-------------------------------------
+@ carafer
+nom: Carafer ou décanter ?
+rubrique: service
+def: Une phrase.
+texte: …
+liste: Premiers crus = Château Lafite Rothschild (Pauillac) ; Château Latour (Pauillac) ; …
+
+  rubrique  un de : etiquette, classements, service, conservation, degustation, vinification, lexique
+  liste     facultatif, répétable — « titre = élément ; élément ; … »
+  Les fiches de la rubrique « lexique » n'ont qu'un nom et une def (et un texte si utile).

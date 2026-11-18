@@ -1,0 +1,180 @@
+# Provence — 11 fiches
+
+@ cotes-de-provence
+nom: Côtes de Provence
+sous: Côtes de Provence et Var
+niveau: régionale
+couleurs: rosé, rouge, blanc
+styles: rose-leger, rouge-solaire, blanc-vif
+cepages: grenache-noir*, cinsault*, syrah*, mourvedre*, tibouren*, carignan, cabernet-sauvignon, vermentino*, clairette, semillon, ugni-blanc
+surface: environ 20 000 ha
+depuis: 1977
+def: La grande appellation provençale, du pays d'Aix à l'Estérel, qui produit à elle seule l'essentiel des rosés pâles de la région.
+texte: L'aire d'appellation, très vaste et discontinue, couvre surtout le Var, avec des enclaves dans les Bouches-du-Rhône et une commune des Alpes-Maritimes. Elle rassemble des terroirs sans grand rapport entre eux : la dépression argilo-gréseuse qui ceinture le massif des Maures, les schistes de la bordure maritime, le haut pays calcaire au nord, le bassin du Beausset, le piémont de la Sainte-Victoire. Le climat est partout ensoleillé et sec, mais l'altitude et la distance à la mer créent de forts écarts.
+texte: Cette diversité a conduit à reconnaître cinq dénominations de terroir, qui peuvent compléter le nom de l'appellation : Sainte-Victoire, à l'est d'Aix, sur des sols calcaires balayés par le mistral ; Fréjus, sur les roches volcaniques rouges de l'Estérel ; La Londe, face aux îles d'Hyères, sur les schistes ; Pierrefeu, dans l'arrière-pays de Toulon ; Notre-Dame des Anges, au cœur de la plaine des Maures. Leurs règles de production sont plus strictes que celles de l'appellation générale.
+texte: Le rosé représente environ neuf bouteilles sur dix. Issu surtout de grenache et de cinsault, relevé de syrah, de mourvèdre ou de tibouren, il est pâle, sec, aux arômes d'agrumes et de petits fruits. Les rouges vont du vin de fruit au vin de garde élevé en fût ; les blancs, où domine le vermentino, sont rares et délicats. Un classement de 1955 distingue par ailleurs dix-huit domaines autorisés à porter la mention « cru classé ».
+gout: pamplemousse, pêche, fraise des bois, fenouil, bouche fraîche et sèche ; rouges de fruits noirs et de garrigue
+garde: rosés et blancs à boire dans les 2 ans ; rouges 3 à 10 ans
+service: 8-10 °C pour les rosés et les blancs ; 16-17 °C pour les rouges
+crus: dix-huit crus classés (classement de 1955), parmi lesquels Château Sainte-Roseline, Château Minuty, Domaine du Clos Mireille, Château de Selle, Château Sainte-Marguerite ; dénominations Sainte-Victoire, Fréjus, La Londe, Pierrefeu, Notre-Dame des Anges
+voir: coteaux-varois-en-provence, coteaux-d-aix-en-provence, bandol
+
+@ coteaux-varois-en-provence
+nom: Coteaux varois en Provence
+sous: Côtes de Provence et Var
+niveau: sous-régionale
+couleurs: rosé, rouge, blanc
+styles: rose-leger, rouge-solaire, blanc-vif
+cepages: grenache-noir*, cinsault*, syrah*, mourvedre*, carignan, cabernet-sauvignon, tibouren, vermentino*, clairette, grenache-blanc, semillon, ugni-blanc
+surface: environ 2 800 ha
+depuis: 1993
+def: Au centre du Var, autour de Brignoles, la Provence calcaire d'altitude, plus fraîche et plus tardive que le littoral.
+texte: Enclavée dans l'aire des Côtes de Provence, l'appellation occupe une trentaine de communes entre la Sainte-Baume et les Bessillons. Les vignes y montent souvent à 350 ou 400 mètres, sur des sols argilo-calcaires caillouteux, et le climat prend un caractère continental : hivers froids, nuits fraîches en été, vendanges plus tardives. Les rosés, très majoritaires, en tirent une vivacité bien nette ; les rouges, où la syrah mûrit lentement, sont fermes et épicés.
+gout: agrumes, groseille, fleurs blanches, finale vive ; rouges de cassis, de poivre et de garrigue
+garde: rosés et blancs à boire dans les 2 ans ; rouges 3 à 8 ans
+service: 8-10 °C pour les rosés ; 16 °C pour les rouges
+voir: cotes-de-provence, coteaux-d-aix-en-provence
+
+@ bandol
+nom: Bandol
+sous: Crus du littoral
+niveau: communale
+couleurs: rouge, rosé, blanc
+styles: rouge-charpente, rose-vineux, blanc-vif
+cepages: mourvedre*, grenache-noir*, cinsault*, syrah, carignan, clairette*, ugni-blanc, bourboulenc, vermentino, sauvignon-blanc, marsanne, semillon
+surface: environ 1 600 ha
+depuis: 1941
+def: Entre Toulon et La Ciotat, le cru du mourvèdre : des rouges de longue garde et des rosés de gastronomie, face à la mer.
+texte: Le vignoble forme un vaste amphithéâtre ouvert vers la Méditerranée, adossé au massif de la Sainte-Baume et réparti sur huit communes, dont Bandol, La Cadière-d'Azur, Le Castellet et Le Beausset. Les vignes s'étagent sur des restanques aux sols calcaires, marneux et gréseux, pauvres et caillouteux. L'ensoleillement est exceptionnel, la sécheresse d'été tempérée par les entrées maritimes, et le relief protège du mistral : les conditions qu'exige le mourvèdre, cépage tardif qui, dit-on, doit « voir la mer ».
+texte: Le rouge doit compter au moins la moitié de mourvèdre, complété de grenache et de cinsault, et séjourner dix-huit mois au moins sous bois, traditionnellement en foudre. Jeune, il est sombre et austère, avec des tanins fermes ; il lui faut une dizaine d'années pour livrer ses arômes de fruits noirs, de réglisse, de cuir, de truffe et de sous-bois. Les rendements sont parmi les plus bas de France.
+texte: Le rosé, aujourd'hui majoritaire, doit lui aussi au mourvèdre sa couleur saumonée, sa chair et son aptitude, rare pour un rosé, à se bonifier quelques années. Le blanc, confidentiel, repose sur la clairette, l'ugni blanc et le bourboulenc.
+gout: mûre, réglisse, poivre, cuir, truffe avec l'âge, tanins puissants ; rosés de pêche, d'épices et d'agrumes
+garde: rouges 8 à 25 ans ; rosés 2 à 5 ans ; blancs dans les 3 ans
+service: 16-18 °C pour les rouges, à carafer jeunes ; 10-12 °C pour les rosés
+voir: cassis, cotes-de-provence, palette
+
+@ cassis
+nom: Cassis
+sous: Crus du littoral
+niveau: communale
+couleurs: blanc, rosé, rouge
+styles: blanc-vif, rose-leger, rouge-solaire
+cepages: marsanne*, clairette*, ugni-blanc, sauvignon-blanc, bourboulenc, terret-blanc, grenache-noir, cinsault, mourvedre, carignan
+surface: environ 200 ha
+depuis: 1936
+def: Aux portes de Marseille, entre calanques et cap Canaille, l'une des toutes premières AOC de France, vouée d'abord au vin blanc.
+texte: L'appellation tient tout entière dans la commune de Cassis, petit port enserré entre le massif des Calanques et les falaises ocre du cap Canaille. Les vignes occupent un cirque naturel tourné vers la mer, en terrasses sur des éboulis calcaires blancs. Les collines arrêtent une partie du mistral, la Méditerranée adoucit les nuits : le raisin mûrit lentement malgré un ensoleillement considérable.
+texte: Fait exceptionnel en Provence, le blanc l'emporte ici sur les autres couleurs. Marsanne et clairette, complétées d'ugni blanc, de sauvignon et de bourboulenc, donnent un vin sec, à la fois rond et frais, dont la légère amertume et la pointe saline appellent les poissons de roche. Les rosés sont fins et discrets ; les rouges, rares, n'ont pas l'ambition de ceux de [[bandol|Bandol]], dont le vignoble commence à quelques kilomètres à l'est. La pression immobilière fait de chaque hectare de vigne un bien précieux.
+gout: fleurs blanches, amande, agrumes, miel léger, résine de pin, finale saline
+garde: à boire dans les 3 ans ; les meilleurs blancs 5 à 6 ans
+service: 10-12 °C
+voir: bandol, palette, coteaux-d-aix-en-provence
+
+@ bellet
+nom: Bellet
+sous: Crus du littoral
+niveau: communale
+couleurs: rouge, rosé, blanc
+styles: blanc-ample, rouge-souple, rose-vineux
+cepages: braquet*, folle-noire*, grenache-noir, cinsault, vermentino*, chardonnay, clairette, bourboulenc
+surface: une cinquantaine d'hectares
+depuis: 1941
+def: Sur les collines de Nice, un minuscule vignoble urbain aux cépages introuvables ailleurs en France.
+texte: Bellet est entièrement situé sur la commune de Nice, sur des croupes étroites qui dominent la vallée du Var, entre 200 et 300 mètres d'altitude. Les sols de galets roulés mêlés de sable clair, le *poudingue*, et l'alternance des brises de mer et de l'air descendu des Alpes entretiennent une fraîcheur inattendue. Le blanc de vermentino, ample et parfumé, vieillit bien ; la folle noire donne des rouges originaux, le braquet des rosés délicats.
+gout: tilleul, agrumes, poire et amande en blanc ; cerise, rose fanée et épices en rouge
+garde: blancs 3 à 8 ans ; rouges 5 à 10 ans ; rosés dans les 2 ans
+service: 11-12 °C pour les blancs ; 16 °C pour les rouges
+voir: cotes-de-provence, cassis
+
+@ coteaux-d-aix-en-provence
+nom: Coteaux d'Aix-en-Provence
+sous: Pays d'Aix et Alpilles
+niveau: régionale
+couleurs: rosé, rouge, blanc
+styles: rose-leger, rouge-solaire, blanc-vif
+cepages: grenache-noir*, cinsault*, syrah*, mourvedre*, counoise*, cabernet-sauvignon, carignan, vermentino*, clairette, grenache-blanc, ugni-blanc, sauvignon-blanc, bourboulenc, semillon
+surface: environ 4 000 ha
+depuis: 1985
+def: La Provence de l'ouest, de la Durance à la Méditerranée : des rosés surtout, et des rouges où le cabernet-sauvignon côtoie les cépages du Midi.
+texte: La deuxième appellation de Provence par la taille s'étend sur une cinquantaine de communes, presque toutes dans les Bouches-du-Rhône, entre la Durance au nord, la vallée du Rhône à l'ouest, la montagne Sainte-Victoire à l'est et le littoral de l'étang de Berre au sud. Le paysage alterne chaînons calcaires boisés et bassins cultivés ; les sols sont argilo-calcaires, caillouteux, parfois sableux ou graveleux. Le mistral y souffle sans obstacle : il limite les maladies et rafraîchit un climat très lumineux.
+texte: Les rosés forment la grande majorité des volumes. Légers, pâles et fruités, ils se distinguent de ceux des [[cotes-de-provence|Côtes de Provence]] par une part plus forte de syrah et, parfois, de counoise. Les rouges sont la vraie singularité de l'appellation : le cabernet-sauvignon, introduit dans les années 1960, peut entrer dans l'assemblage aux côtés du grenache et de la syrah, et leur donne une structure plus droite, apte au vieillissement. Les blancs, minoritaires, associent le vermentino à la clairette, au grenache blanc et au sauvignon. Le secteur des Baux, autrefois rattaché à l'appellation, s'en est séparé pour former [[les-baux-de-provence|Les Baux de Provence]].
+gout: fruits rouges frais, agrumes, pêche ; rouges de cassis, de laurier et de thym, tanins nets
+garde: rosés et blancs à boire dans les 2 ans ; rouges 3 à 10 ans
+service: 8-10 °C pour les rosés et les blancs ; 16-17 °C pour les rouges
+voir: les-baux-de-provence, palette, cotes-de-provence, luberon
+
+@ palette
+nom: Palette
+sous: Pays d'Aix et Alpilles
+niveau: communale
+couleurs: blanc, rouge, rosé
+styles: blanc-ample, rouge-elegant, rose-vineux
+cepages: clairette*, grenache-blanc, ugni-blanc, bourboulenc, muscat-blanc-a-petits-grains, grenache-noir*, mourvedre*, cinsault*, carignan, syrah
+surface: une cinquantaine d'hectares
+depuis: 1948
+def: Aux portes d'Aix-en-Provence, une appellation de poche célèbre pour ses blancs de garde et son encépagement d'une rare diversité.
+texte: Palette occupe un cirque boisé de la vallée de l'Arc, sur les communes de Meyreuil, du Tholonet et d'Aix. Les vignes, souvent exposées au nord, reposent sur un calcaire lacustre particulier, dit de Langesse, à l'abri du mistral. Le cahier des charges admet plusieurs dizaines de cépages, dont beaucoup de variétés provençales oubliées. Les blancs, à dominante de clairette, et les rouges sont élevés longuement sous bois et vieillissent remarquablement.
+gout: tilleul, miel, cire, fruits secs en blanc ; fruits rouges, sous-bois, résine et épices en rouge
+garde: blancs 5 à 15 ans ; rouges 8 à 20 ans
+service: 12 °C pour les blancs ; 16-17 °C pour les rouges
+crus: Château Simone
+voir: coteaux-d-aix-en-provence, cassis, bandol
+
+@ les-baux-de-provence
+nom: Les Baux de Provence
+sous: Pays d'Aix et Alpilles
+niveau: communale
+couleurs: rouge, rosé, blanc
+styles: rouge-solaire, rose-leger, blanc-ample
+cepages: grenache-noir*, syrah*, mourvedre*, cinsault, counoise, carignan, cabernet-sauvignon, clairette*, grenache-blanc*, vermentino*, roussanne, marsanne, bourboulenc, ugni-blanc
+surface: environ 300 ha
+depuis: 1995
+def: Au pied du village des Baux, sur les deux versants des Alpilles, une petite appellation de rouges solaires, presque entièrement cultivée en bio.
+texte: Le vignoble entoure le chaînon calcaire des Alpilles, entre Saint-Rémy-de-Provence et la plaine de la Crau, parmi les oliviers. Les sols d'éboulis calcaires sont filtrants, le mistral très présent, la pluie rare : des conditions qui ont permis à la quasi-totalité des domaines d'adopter l'agriculture biologique ou la biodynamie. Les rouges, majoritaires, assemblent grenache, syrah et mourvèdre ; ils sont denses et parfumés. Les blancs n'ont rejoint l'appellation qu'en 2011.
+gout: fruits noirs, olive noire, thym, réglisse, tanins mûrs
+garde: rouges 5 à 12 ans ; rosés et blancs dans les 2 à 3 ans
+service: 16-17 °C pour les rouges
+voir: coteaux-d-aix-en-provence, igp-alpilles, costieres-de-nimes
+
+@ igp-alpilles
+nom: Alpilles
+sous: Pays d'Aix et Alpilles
+niveau: IGP
+couleurs: rouge, rosé, blanc
+styles: rouge-solaire, rose-leger, blanc-aromatique
+cepages: grenache-noir, syrah, cabernet-sauvignon, merlot, cinsault, caladoc, marselan, vermentino, chardonnay, sauvignon-blanc, viognier, roussanne
+def: L'indication géographique du nord des Bouches-du-Rhône, autour de Saint-Rémy-de-Provence et du massif des Alpilles.
+texte: Cette petite IGP, qui portait autrefois le nom de Petite Crau, couvre les communes du nord du massif des Alpilles, jusqu'à la Durance. Elle offre aux vignerons une liberté que l'appellation voisine des [[les-baux-de-provence|Baux de Provence]] ne permet pas : vins d'un seul cépage, variétés extérieures à la tradition provençale, assemblages originaux. Plusieurs domaines réputés du secteur y logent ainsi des cuvées ambitieuses, en rouge comme en blanc.
+gout: fruits mûrs, garrigue, épices ; blancs floraux et ronds
+garde: à boire dans les 3 ans ; quelques cuvées de rouge 5 à 10 ans
+voir: les-baux-de-provence, igp-mediterranee, coteaux-d-aix-en-provence
+
+@ pierrevert
+nom: Pierrevert
+sous: Haute Provence
+niveau: sous-régionale
+couleurs: rouge, rosé, blanc
+styles: rose-leger, rouge-souple, blanc-vif
+cepages: grenache-noir*, syrah*, cinsault, carignan, mourvedre, grenache-blanc*, vermentino*, clairette, roussanne, marsanne, ugni-blanc, viognier
+surface: environ 400 ha
+depuis: 1998
+def: Autour de Manosque, dans les Alpes-de-Haute-Provence, le vignoble le plus élevé et le plus frais de Provence.
+texte: Pierrevert borde la vallée de la Durance, sur une dizaine de communes du pays de Giono, entre le Luberon et le plateau de Valensole. Les vignes sont plantées entre 300 et 600 mètres d'altitude, sur des terrasses de galets et des coteaux argilo-calcaires. Le climat, méditerranéen par la lumière, devient montagnard par ses nuits froides et ses gelées. Les vins, rosés pour la plupart, sont légers en alcool et vifs ; les rouges de grenache et de syrah restent souples.
+gout: petits fruits rouges, agrumes, fleurs blanches, bouche fraîche et légère
+garde: à boire dans les 2 à 4 ans
+service: 8-10 °C pour les rosés et les blancs ; 15-16 °C pour les rouges
+voir: luberon, coteaux-varois-en-provence, ventoux
+
+@ igp-mediterranee
+nom: Méditerranée
+sous: Indication régionale
+niveau: IGP
+couleurs: rosé, rouge, blanc, effervescent
+styles: rose-leger, rouge-solaire, blanc-aromatique
+cepages: grenache-noir, syrah, cinsault, merlot, cabernet-sauvignon, carignan, caladoc, marselan, vermentino, chardonnay, viognier, sauvignon-blanc, muscat-blanc-a-petits-grains
+def: La grande indication géographique du Sud-Est, qui couvre la Provence et s'étend jusqu'aux vignobles de la moyenne vallée du Rhône.
+texte: Créée sous le nom de Portes de Méditerranée, cette IGP régionale réunit les départements de Provence-Alpes-Côte d'Azur et se prolonge au nord vers la Drôme et l'Ardèche. Elle accueille les vins produits hors des aires d'appellation, ou avec des cépages et des rendements que celles-ci n'admettent pas. Le rosé y est largement majoritaire, léger et fruité ; s'y ajoutent des vins de cépage, merlot, syrah, chardonnay ou viognier, et quelques cuvées d'auteur.
+gout: fruits rouges, agrumes, bouche souple et simple
+garde: à boire dans les 2 ans
+service: 8-10 °C pour les rosés et les blancs
+voir: cotes-de-provence, igp-vaucluse, igp-alpilles

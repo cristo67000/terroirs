@@ -1,0 +1,961 @@
+# GUIDE — Lexique de la vigne, de la cave et de la dégustation (identifiants « lex- »)
+
+@ lex-acescence
+nom: Acescence
+rubrique: lexique
+def: Altération du vin par des bactéries acétiques, qui lui donne une odeur et un goût de vinaigre ; on dit aussi piqûre acétique.
+
+@ lex-acidite
+nom: Acidité
+rubrique: lexique
+def: Ensemble des acides du vin (tartrique, malique, lactique…), qui lui donnent sa fraîcheur et sa tenue. Trop faible, le vin est mou ; trop forte, il est vert.
+
+@ lex-acidite-volatile
+nom: Acidité volatile
+rubrique: lexique
+def: Part des acides du vin qui s'évapore facilement, surtout l'acide acétique. Élevée, elle donne des odeurs de vinaigre ou de vernis et signale un vin piqué.
+
+@ lex-ambre
+nom: Ambré
+rubrique: lexique
+def: Teinte d'or roux que prennent les blancs très vieux, les liquoreux âgés et certains vins doux naturels élevés au contact de l'air.
+
+@ lex-ampelographie
+nom: Ampélographie
+rubrique: lexique
+def: Science qui décrit et identifie les cépages d'après la forme de leurs feuilles, de leurs grappes et de leurs rameaux, complétée aujourd'hui par l'analyse génétique.
+
+@ lex-ample
+nom: Ample
+rubrique: lexique
+def: Se dit d'un vin qui occupe pleinement la bouche, avec du volume et de la rondeur, sans lourdeur.
+
+@ lex-aoutement
+nom: Aoûtement
+rubrique: lexique
+def: Transformation des rameaux verts de la vigne en bois brun et dur, à la fin de l'été ; ils deviennent alors des sarments capables de passer l'hiver.
+
+@ lex-aromes
+nom: Arômes
+rubrique: lexique
+def: Odeurs du vin, perçues par le nez puis par l'arrière de la bouche. On distingue les arômes primaires (du raisin), secondaires (des fermentations) et tertiaires (de l'élevage et du vieillissement).
+
+@ lex-assemblage
+nom: Assemblage
+rubrique: lexique
+def: Mélange de vins issus de cépages, de parcelles ou de fûts différents pour composer une cuvée plus complète et plus régulière que chacun de ses éléments.
+
+@ lex-astringence
+nom: Astringence
+rubrique: lexique
+def: Sensation de sécheresse et de rugosité laissée en bouche par les tanins, qui resserrent les muqueuses. Elle s'atténue avec l'âge du vin.
+
+@ lex-attaque
+nom: Attaque
+rubrique: lexique
+def: Première impression que donne le vin lorsqu'il entre en bouche : franche, souple, vive ou molle.
+
+@ lex-austere
+nom: Austère
+rubrique: lexique
+def: Se dit d'un vin fermé et sévère, aux tanins ou à l'acidité marqués, peu expressif dans sa jeunesse ; beaucoup de vins de garde le sont avant de s'ouvrir.
+
+@ lex-ban-des-vendanges
+nom: Ban des vendanges
+rubrique: lexique
+def: Date officielle à partir de laquelle la récolte est autorisée dans une appellation ; héritage d'un droit seigneurial, elle donne encore lieu à des fêtes.
+
+@ lex-barrique
+nom: Barrique
+rubrique: lexique
+def: Fût de chêne servant à l'élevage du vin ; la barrique bordelaise contient 225 litres, soit trois cents bouteilles.
+
+@ lex-batonnage
+nom: Bâtonnage
+rubrique: lexique
+def: Opération qui consiste à remuer le vin en fût ou en cuve pour remettre les lies en suspension, afin de lui donner du gras et de la complexité.
+
+@ lex-biodynamie
+nom: Biodynamie
+rubrique: lexique
+def: Méthode de culture issue des idées de Rudolf Steiner, qui prolonge l'agriculture biologique par des préparations à base de plantes et de minéraux et par le respect d'un calendrier des travaux.
+
+@ lex-blanc-de-blancs
+nom: Blanc de blancs
+rubrique: lexique
+def: Vin blanc issu uniquement de raisins blancs ; en Champagne, la mention désigne presque toujours un vin de pur chardonnay.
+
+@ lex-blanc-de-noirs
+nom: Blanc de noirs
+rubrique: lexique
+def: Vin blanc obtenu par pressurage rapide de raisins noirs à pulpe incolore ; en Champagne, un vin de pinot noir, de meunier ou des deux.
+
+@ lex-boise
+nom: Boisé
+rubrique: lexique
+def: Ensemble des arômes apportés par l'élevage en fût de chêne : vanille, pain grillé, café, noix de coco, fumé. Le boisé doit se fondre dans le vin, non le dominer.
+
+@ lex-botrytis
+nom: Botrytis
+rubrique: lexique
+def: *Botrytis cinerea*, champignon de la vigne. Il provoque la pourriture grise, qui détruit la vendange, ou, dans des conditions particulières d'humidité et de soleil, la pourriture noble des grands liquoreux.
+
+@ lex-bouche
+nom: Bouche
+rubrique: lexique
+def: Ensemble des sensations perçues lorsque le vin est en bouche : saveurs, texture, température, arômes de rétro-olfaction.
+
+@ lex-bouchonne
+nom: Bouchonné
+rubrique: lexique
+def: Se dit d'un vin gâté par le goût de bouchon : une odeur de moisi et de carton mouillé due à une molécule, le trichloroanisole, souvent apportée par le liège.
+
+@ lex-bouquet
+nom: Bouquet
+rubrique: lexique
+def: Ensemble des arômes complexes qu'un vin acquiert en vieillissant ; on réserve en principe le mot aux vins évolués, les vins jeunes ayant des arômes.
+
+@ lex-bourbes
+nom: Bourbes
+rubrique: lexique
+def: Particules solides — débris de peaux, de pulpe, de terre — en suspension dans le moût après le pressurage, que l'on élimine par le débourbage.
+
+@ lex-brett
+nom: Brett
+rubrique: lexique
+def: Abréviation de *Brettanomyces*, levure d'altération qui donne au vin des odeurs d'écurie, de sueur de cheval ou de cuir mouillé.
+
+@ lex-brut
+nom: Brut
+rubrique: lexique
+def: Mention de dosage d'un vin effervescent contenant moins de 12 grammes de sucre par litre ; c'est le style le plus répandu.
+
+@ lex-capiteux
+nom: Capiteux
+rubrique: lexique
+def: Se dit d'un vin riche en alcool, qui « monte à la tête » ; le terme signale une puissance à la limite de l'excès.
+
+@ lex-carafer
+nom: Carafer
+rubrique: lexique
+def: Verser un vin jeune dans une carafe pour l'aérer, assouplir ses tanins et libérer ses arômes ; à distinguer de décanter.
+
+@ lex-caudalie
+nom: Caudalie
+rubrique: lexique
+def: Unité de mesure de la persistance aromatique d'un vin après la gorgée : une caudalie vaut une seconde.
+
+@ lex-cave-cooperative
+nom: Cave coopérative
+rubrique: lexique
+def: Cave appartenant à des vignerons associés, qui y apportent leurs raisins pour qu'ils soient vinifiés et vendus en commun.
+
+@ lex-cep
+nom: Cep
+rubrique: lexique
+def: Pied de vigne ; plus précisément son tronc et ses bras, la partie ligneuse et durable de la plante.
+
+@ lex-cepage
+nom: Cépage
+rubrique: lexique
+def: Variété de vigne cultivée, comme le merlot ou le chardonnay. Chaque cépage a ses caractères propres, que le sol, le climat et le vigneron modulent.
+
+@ lex-chai
+nom: Chai
+rubrique: lexique
+def: Bâtiment, en général de plain-pied, où l'on vinifie et où l'on élève le vin ; le mot est surtout employé dans le Bordelais et le Sud-Ouest.
+
+@ lex-chair
+nom: Chair, charnu
+rubrique: lexique
+def: Un vin charnu donne en bouche une impression de matière dense et moelleuse, comme la pulpe d'un fruit mûr.
+
+@ lex-chapeau
+nom: Chapeau
+rubrique: lexique
+def: Masse des peaux, pépins et rafles que le gaz carbonique fait remonter à la surface de la cuve pendant la fermentation des rouges ; on dit aussi chapeau de marc.
+
+@ lex-chaptalisation
+nom: Chaptalisation
+rubrique: lexique
+def: Ajout de sucre au moût avant ou pendant la fermentation pour augmenter le degré d'alcool final, sans sucrer le vin. Strictement réglementée, elle doit son nom au chimiste Chaptal.
+
+@ lex-charpente
+nom: Charpenté
+rubrique: lexique
+def: Se dit d'un vin solidement construit, riche en tanins et en matière, apte à la garde.
+
+@ lex-chateau
+nom: Château
+rubrique: lexique
+def: Dans le Bordelais, nom donné à un domaine viticole, qu'il possède ou non une demeure ; la mention est réservée aux vins d'appellation issus de l'exploitation.
+
+@ lex-clairet
+nom: Clairet
+rubrique: lexique
+def: Vin de Bordeaux de couleur intermédiaire entre le rosé et le rouge, obtenu par une macération courte ; il rappelle les vins que les Anglais nommaient *claret*.
+
+@ lex-climat
+nom: Climat
+rubrique: lexique
+def: En Bourgogne, parcelle de vigne précisément délimitée et nommée, dotée de conditions de sol et d'exposition qui lui sont propres ; les climats bourguignons sont inscrits au patrimoine mondial.
+
+@ lex-clone
+nom: Clone
+rubrique: lexique
+def: Ensemble de pieds de vigne génétiquement identiques, multipliés à partir d'une seule souche choisie pour ses qualités ; la sélection clonale s'oppose à la sélection massale.
+
+@ lex-clos
+nom: Clos
+rubrique: lexique
+def: Vigne entourée de murs, souvent d'origine monastique ; le mot ne peut figurer sur l'étiquette que si le vin provient réellement de la parcelle ainsi nommée.
+
+@ lex-collage
+nom: Collage
+rubrique: lexique
+def: Clarification du vin par l'ajout d'une substance — blanc d'œuf, argile, protéine végétale — qui s'agglomère aux particules en suspension et les entraîne au fond.
+
+@ lex-complantation
+nom: Complantation
+rubrique: lexique
+def: Culture de plusieurs cépages mêlés dans une même parcelle, vendangés et vinifiés ensemble ; pratique ancienne remise à l'honneur par certains vignerons.
+
+@ lex-complexe
+nom: Complexe
+rubrique: lexique
+def: Se dit d'un vin dont les arômes sont nombreux, nuancés et changeants dans le verre ; la complexité est une marque des grands vins.
+
+@ lex-corps
+nom: Corps
+rubrique: lexique
+def: Impression de poids et de consistance du vin en bouche, liée à l'alcool, à l'extrait et aux tanins ; un vin a du corps ou, à l'inverse, est léger.
+
+@ lex-coulure
+nom: Coulure
+rubrique: lexique
+def: Accident de floraison : par temps froid ou pluvieux, les fleurs ne sont pas fécondées et tombent, ce qui réduit la récolte.
+
+@ lex-court
+nom: Court
+rubrique: lexique
+def: Se dit d'un vin dont les arômes disparaissent aussitôt la gorgée avalée ; c'est le contraire de long.
+
+@ lex-cremant
+nom: Crémant
+rubrique: lexique
+def: Vin effervescent d'appellation élaboré par la méthode traditionnelle hors de Champagne : Alsace, Bourgogne, Loire, Jura, Limoux, Bordeaux, Die, Savoie.
+
+@ lex-cru
+nom: Cru
+rubrique: lexique
+def: Terroir délimité et, par extension, vin qui en provient. Selon les régions, le mot désigne une parcelle (Bourgogne, Alsace), une commune (Champagne, Beaujolais) ou un domaine (Bordeaux).
+
+@ lex-cuvaison
+nom: Cuvaison
+rubrique: lexique
+def: Période pendant laquelle le jus des raisins noirs reste en cuve au contact des peaux et des pépins ; sa durée détermine la couleur et la structure du vin rouge.
+
+@ lex-cuve
+nom: Cuve
+rubrique: lexique
+def: Récipient de grande capacité, en inox, en béton ou en bois, où le vin fermente ou est élevé.
+
+@ lex-cuvee
+nom: Cuvée
+rubrique: lexique
+def: Lot de vin homogène, issu d'un assemblage ou d'une sélection particulière ; en Champagne, le mot désigne aussi les premiers jus du pressurage, les plus fins.
+
+@ lex-debourbage
+nom: Débourbage
+rubrique: lexique
+def: Clarification du moût blanc ou rosé avant fermentation : on le laisse reposer au froid pour que les bourbes se déposent, puis on soutire le jus clair.
+
+@ lex-debourrement
+nom: Débourrement
+rubrique: lexique
+def: Éclosion des bourgeons de la vigne au printemps ; c'est le moment où elle devient vulnérable aux gelées.
+
+@ lex-decanter
+nom: Décanter
+rubrique: lexique
+def: Transvaser doucement un vin vieux dans une carafe pour le séparer du dépôt formé au fond de la bouteille.
+
+@ lex-degorgement
+nom: Dégorgement
+rubrique: lexique
+def: Dans la méthode traditionnelle, expulsion du dépôt de levures rassemblé dans le goulot de la bouteille, avant le dosage et le bouchage définitif.
+
+@ lex-delestage
+nom: Délestage
+rubrique: lexique
+def: Opération qui consiste à vider entièrement une cuve de son jus en fermentation, puis à le reverser sur le chapeau pour l'émietter et favoriser l'extraction.
+
+@ lex-demi-muid
+nom: Demi-muid
+rubrique: lexique
+def: Fût de grande contenance, de 500 à 600 litres, qui marque moins le vin de son bois qu'une barrique.
+
+@ lex-depot
+nom: Dépôt
+rubrique: lexique
+def: Particules solides — matières colorantes, tanins, cristaux de tartre — qui se déposent naturellement dans la bouteille avec le temps ; il n'altère pas la qualité du vin.
+
+@ lex-dosage
+nom: Dosage
+rubrique: lexique
+def: Ajout, après le dégorgement d'un vin effervescent, d'une liqueur plus ou moins sucrée qui détermine son type : brut nature, extra-brut, brut, sec, demi-sec, doux.
+
+@ lex-douelle
+nom: Douelle
+rubrique: lexique
+def: Chacune des pièces de bois cintrées qui forment le corps d'un fût ; on dit aussi douve.
+
+@ lex-ecoulage
+nom: Écoulage
+rubrique: lexique
+def: Soutirage du vin rouge hors de la cuve à la fin de la cuvaison, qui le sépare du marc ; le vin ainsi recueilli est le vin de goutte.
+
+@ lex-effervescent
+nom: Effervescent
+rubrique: lexique
+def: Vin contenant du gaz carbonique dissous qui forme des bulles à l'ouverture ; selon la pression, il est perlant, pétillant ou mousseux.
+
+@ lex-effeuillage
+nom: Effeuillage
+rubrique: lexique
+def: Suppression de feuilles autour des grappes pour les aérer, limiter la pourriture et favoriser leur maturation.
+
+@ lex-egrappage
+nom: Égrappage
+rubrique: lexique
+def: Séparation des baies de la rafle avant la mise en cuve, pour éviter les goûts herbacés et l'excès de tanins rudes ; on dit aussi éraflage.
+
+@ lex-elevage
+nom: Élevage
+rubrique: lexique
+def: Ensemble des soins donnés au vin entre la fin des fermentations et la mise en bouteille, en cuve ou en fût, pour le clarifier, le stabiliser et l'affiner.
+
+@ lex-empyreumatique
+nom: Empyreumatique
+rubrique: lexique
+def: Famille d'arômes évoquant le brûlé, le grillé et le fumé : pain grillé, café, cacao, caramel, goudron, tabac.
+
+@ lex-encepagement
+nom: Encépagement
+rubrique: lexique
+def: Composition d'un vignoble en cépages, à l'échelle d'un domaine ou d'une appellation ; à ne pas confondre avec l'assemblage, qui concerne le vin fini.
+
+@ lex-enherbement
+nom: Enherbement
+rubrique: lexique
+def: Maintien d'un couvert d'herbe entre les rangs de vigne, pour limiter l'érosion, concurrencer la vigne et modérer sa vigueur, favoriser la vie du sol.
+
+@ lex-equilibre
+nom: Équilibre
+rubrique: lexique
+def: Harmonie entre les composantes du vin — acidité, alcool, sucre, tanins — lorsqu'aucune ne domine les autres.
+
+@ lex-evolue
+nom: Évolué
+rubrique: lexique
+def: Se dit d'un vin qui montre les signes de l'âge : robe tuilée ou dorée, arômes de fruits cuits, de sous-bois, de cuir ; le terme devient péjoratif si l'évolution est prématurée.
+
+@ lex-ferme
+nom: Fermé
+rubrique: lexique
+def: Se dit d'un vin qui, momentanément, exprime peu d'arômes ; beaucoup de vins de garde traversent une phase de fermeture quelques années après la mise en bouteille.
+
+@ lex-fermentation-alcoolique
+nom: Fermentation alcoolique
+rubrique: lexique
+def: Transformation du sucre du raisin en alcool et en gaz carbonique par les levures ; c'est elle qui fait du moût un vin.
+
+@ lex-fermentation-malolactique
+nom: Fermentation malolactique
+rubrique: lexique
+def: Transformation, par des bactéries, de l'acide malique en acide lactique, plus doux ; elle assouplit le vin et le stabilise. Familièrement, la « malo ».
+
+@ lex-filtration
+nom: Filtration
+rubrique: lexique
+def: Passage du vin à travers un filtre pour le rendre limpide et retenir levures et bactéries avant la mise en bouteille ; certains vignerons s'en dispensent.
+
+@ lex-finale
+nom: Finale
+rubrique: lexique
+def: Dernière phase de la dégustation : les sensations qui se prolongent en bouche après que le vin a été avalé ou recraché.
+
+@ lex-floraison
+nom: Floraison
+rubrique: lexique
+def: Épanouissement des fleurs de la vigne, à la fin du printemps ; la vendange a lieu environ cent jours plus tard.
+
+@ lex-foudre
+nom: Foudre
+rubrique: lexique
+def: Très grand tonneau de bois, de plusieurs milliers de litres, utilisé pour l'élevage en Alsace, dans la vallée du Rhône ou le Languedoc ; il apporte peu de goût boisé.
+
+@ lex-foulage
+nom: Foulage
+rubrique: lexique
+def: Opération qui consiste à faire éclater la peau des raisins pour libérer le jus sans écraser les pépins ; elle se faisait autrefois aux pieds.
+
+@ lex-fraicheur
+nom: Fraîcheur
+rubrique: lexique
+def: Qualité d'un vin dont l'acidité, bien présente sans être agressive, donne de l'élan et de la netteté.
+
+@ lex-franc-de-pied
+nom: Franc de pied
+rubrique: lexique
+def: Se dit d'une vigne plantée sur ses propres racines, sans porte-greffe ; devenue très rare depuis le phylloxéra, elle subsiste surtout dans les sols sableux.
+
+@ lex-fruite
+nom: Fruité
+rubrique: lexique
+def: Se dit d'un vin dont les arômes de fruits frais dominent ; c'est la qualité première des vins jeunes.
+
+@ lex-fut
+nom: Fût
+rubrique: lexique
+def: Récipient de bois, le plus souvent de chêne, formé de douelles cerclées, destiné à l'élevage du vin ; barrique, pièce, demi-muid et foudre en sont des formes.
+
+@ lex-garde
+nom: Garde
+rubrique: lexique
+def: Aptitude d'un vin à se conserver et à se bonifier en bouteille ; un vin de garde a besoin de plusieurs années pour atteindre son meilleur niveau.
+
+@ lex-gobelet
+nom: Gobelet
+rubrique: lexique
+def: Mode de conduite de la vigne en petit buisson bas, sans fil de fer, traditionnel dans les vignobles chauds et ventés du Midi et dans le Beaujolais.
+
+@ lex-gouleyant
+nom: Gouleyant
+rubrique: lexique
+def: Se dit d'un vin léger, souple et fruité, qui se boit avec facilité.
+
+@ lex-gout-de-lumiere
+nom: Goût de lumière
+rubrique: lexique
+def: Défaut des vins blancs et effervescents exposés à la lumière, qui prennent des odeurs de chou ou de laine mouillée ; les bouteilles teintées en protègent.
+
+@ lex-grand-vin
+nom: Grand vin
+rubrique: lexique
+def: Dans le Bordelais, premier vin d'un château, issu de ses meilleures cuves, par opposition au second vin.
+
+@ lex-gras
+nom: Gras
+rubrique: lexique
+def: Sensation d'onctuosité et de rondeur en bouche, due à l'alcool, au glycérol et à l'élevage sur lies.
+
+@ lex-greffage
+nom: Greffage
+rubrique: lexique
+def: Assemblage d'un greffon — le cépage qui portera les fruits — et d'un porte-greffe résistant au phylloxéra, qui fournit les racines.
+
+@ lex-guyot
+nom: Guyot
+rubrique: lexique
+def: Mode de taille de la vigne qui conserve chaque hiver une longue branche à fruits, la baguette, et un courson de remplacement ; il porte le nom du docteur Jules Guyot.
+
+@ lex-herbace
+nom: Herbacé
+rubrique: lexique
+def: Se dit d'arômes de végétal vert — herbe, feuille, poivron — qui signalent souvent des raisins insuffisamment mûrs ou une extraction de rafles vertes.
+
+@ lex-hybride
+nom: Hybride
+rubrique: lexique
+def: Vigne issue du croisement d'espèces différentes, européenne et américaine notamment ; les cépages résistants aux maladies créés aujourd'hui en sont les héritiers.
+
+@ lex-larmes
+nom: Larmes
+rubrique: lexique
+def: Traînées que le vin laisse sur la paroi du verre après avoir été agité, appelées aussi jambes ; elles traduisent sa richesse en alcool et en sucre, non sa qualité.
+
+@ lex-levures
+nom: Levures
+rubrique: lexique
+def: Champignons microscopiques qui transforment le sucre en alcool. Elles sont dites indigènes lorsqu'elles viennent du raisin et du chai, sélectionnées lorsqu'elles sont ajoutées.
+
+@ lex-lies
+nom: Lies
+rubrique: lexique
+def: Dépôt de levures mortes et de particules qui se forme au fond de la cuve ou du fût après la fermentation. L'élevage sur lies fines donne au vin du gras et de la complexité.
+
+@ lex-lieu-dit
+nom: Lieu-dit
+rubrique: lexique
+def: Portion de territoire portant un nom traditionnel inscrit au cadastre ; son nom peut figurer sur l'étiquette si tout le vin en provient.
+
+@ lex-limpidite
+nom: Limpidité
+rubrique: lexique
+def: Transparence du vin, absence de trouble ; elle va de cristallin et brillant à voilé et trouble.
+
+@ lex-liqueur-d-expedition
+nom: Liqueur d'expédition
+rubrique: lexique
+def: Mélange de vin et de sucre ajouté à un vin effervescent après le dégorgement ; sa teneur en sucre fixe le dosage.
+
+@ lex-liqueur-de-tirage
+nom: Liqueur de tirage
+rubrique: lexique
+def: Mélange de vin, de sucre et de levures ajouté au vin de base au moment de la mise en bouteille, pour provoquer la prise de mousse.
+
+@ lex-liquoreux
+nom: Liquoreux
+rubrique: lexique
+def: Vin blanc très riche en sucre, issu de raisins concentrés par la pourriture noble, le passerillage ou le séchage ; il est plus sucré et plus dense qu'un moelleux.
+
+@ lex-longueur
+nom: Longueur
+rubrique: lexique
+def: Durée pendant laquelle les arômes du vin persistent en bouche après la gorgée ; c'est un critère majeur de qualité.
+
+@ lex-maceration
+nom: Macération
+rubrique: lexique
+def: Contact prolongé entre le jus et les parties solides du raisin — peaux, pépins, parfois rafles — qui permet d'en extraire couleur, tanins et arômes.
+
+@ lex-maceration-carbonique
+nom: Macération carbonique
+rubrique: lexique
+def: Vinification de grappes entières dans une cuve saturée de gaz carbonique, où une fermentation se déroule à l'intérieur des baies ; elle donne des rouges souples et très fruités.
+
+@ lex-maceration-pelliculaire
+nom: Macération pelliculaire
+rubrique: lexique
+def: Contact de quelques heures, au frais, entre le jus et les peaux de raisins blancs avant le pressurage, pour en extraire davantage d'arômes.
+
+@ lex-mache
+nom: Mâche
+rubrique: lexique
+def: Un vin qui a de la mâche est si dense et si tannique qu'il donne l'impression de pouvoir être mâché.
+
+@ lex-maderise
+nom: Madérisé
+rubrique: lexique
+def: Se dit d'un vin blanc oxydé, à la robe ambrée et au goût rappelant le madère ; c'est un défaut, sauf dans les vins élevés ainsi à dessein.
+
+@ lex-marc
+nom: Marc
+rubrique: lexique
+def: Résidu solide du pressurage — peaux, pépins, rafles — et eau-de-vie obtenue en le distillant. En Champagne, le mot désigne aussi une unité de pressurage de 4 000 kilos de raisin.
+
+@ lex-methode-traditionnelle
+nom: Méthode traditionnelle
+rubrique: lexique
+def: Procédé d'élaboration des vins effervescents par seconde fermentation en bouteille, suivie d'un vieillissement sur lies, d'un remuage et d'un dégorgement ; c'est la méthode du champagne.
+
+@ lex-mildiou
+nom: Mildiou
+rubrique: lexique
+def: Maladie de la vigne causée par un micro-organisme venu d'Amérique au XIXᵉ siècle, favorisée par la chaleur humide ; elle attaque feuilles et grappes et se combat surtout par le cuivre.
+
+@ lex-millerandage
+nom: Millerandage
+rubrique: lexique
+def: Fécondation imparfaite qui donne des grappes aux baies de tailles inégales, certaines restant minuscules ; il réduit le rendement mais concentre souvent le vin.
+
+@ lex-millesime
+nom: Millésime
+rubrique: lexique
+def: Année de la vendange dont un vin est issu. Par extension, le caractère que les conditions climatiques de l'année ont donné aux vins.
+
+@ lex-mineralite
+nom: Minéralité
+rubrique: lexique
+def: Terme de dégustation, discuté, désignant des sensations évoquant la pierre : silex, craie, pierre mouillée, salinité. Il décrit une impression de tension et de pureté plutôt qu'un goût de roche.
+
+@ lex-mistelle
+nom: Mistelle
+rubrique: lexique
+def: Boisson obtenue en ajoutant de l'eau-de-vie à du moût de raisin non fermenté ; le pineau des Charentes, le floc de Gascogne et le macvin du Jura en sont.
+
+@ lex-moelleux
+nom: Moelleux
+rubrique: lexique
+def: Vin blanc doux, moins riche en sucre qu'un liquoreux ; le mot désigne aussi, en dégustation, la part de rondeur et de douceur qui équilibre l'acidité.
+
+@ lex-monopole
+nom: Monopole
+rubrique: lexique
+def: Cru ou climat appartenant en totalité à un seul propriétaire, comme la Romanée-Conti ou le Clos de Tart.
+
+@ lex-mousseux
+nom: Mousseux
+rubrique: lexique
+def: Vin effervescent dont la pression dépasse trois bars ; le terme réglementaire couvre le champagne et les crémants, même si l'usage le réserve aux vins plus simples.
+
+@ lex-mout
+nom: Moût
+rubrique: lexique
+def: Jus de raisin non encore fermenté, obtenu par foulage ou pressurage.
+
+@ lex-mutage
+nom: Mutage
+rubrique: lexique
+def: Arrêt de la fermentation par l'ajout d'alcool, qui conserve une partie du sucre naturel du raisin ; c'est le principe des vins doux naturels.
+
+@ lex-negociant
+nom: Négociant
+rubrique: lexique
+def: Professionnel qui achète des raisins, des moûts ou des vins pour les vinifier, les élever, les assembler et les vendre sous son nom ; le négociant-éleveur assure lui-même l'élevage.
+
+@ lex-nerveux
+nom: Nerveux
+rubrique: lexique
+def: Se dit d'un vin à l'acidité bien marquée, qui lui donne du tonus et de la vivacité.
+
+@ lex-nez
+nom: Nez
+rubrique: lexique
+def: Ensemble des odeurs d'un vin perçues en le sentant ; on distingue le premier nez, verre immobile, du second, après agitation.
+
+@ lex-nouaison
+nom: Nouaison
+rubrique: lexique
+def: Stade qui suit la floraison, où les fleurs fécondées se transforment en petites baies vertes.
+
+@ lex-oenologie
+nom: Œnologie
+rubrique: lexique
+def: Science de l'élaboration et de la conservation du vin ; l'œnologue, titulaire d'un diplôme national, conseille le vigneron ou dirige les vinifications.
+
+@ lex-oidium
+nom: Oïdium
+rubrique: lexique
+def: Maladie de la vigne due à un champignon venu d'Amérique vers 1845, qui couvre feuilles et grappes d'un feutrage gris et fait éclater les baies ; on la combat par le soufre.
+
+@ lex-onctueux
+nom: Onctueux
+rubrique: lexique
+def: Se dit d'un vin à la texture riche et veloutée, presque huileuse, comme celle des grands liquoreux.
+
+@ lex-ouillage
+nom: Ouillage
+rubrique: lexique
+def: Remplissage régulier des fûts pour compenser l'évaporation et éviter que le vin ne reste au contact de l'air.
+
+@ lex-oxydation
+nom: Oxydation
+rubrique: lexique
+def: Altération du vin par l'oxygène : la couleur brunit, les arômes évoquent la pomme blette et la noix. Maîtrisée, elle fait le style des vins dits oxydatifs.
+
+@ lex-palissage
+nom: Palissage
+rubrique: lexique
+def: Conduite de la vigne sur des fils de fer tendus entre des piquets, qui soutiennent les rameaux et exposent le feuillage au soleil.
+
+@ lex-passerillage
+nom: Passerillage
+rubrique: lexique
+def: Dessèchement des raisins, sur pied ou après cueillette, qui concentre leur sucre sans intervention de la pourriture noble.
+
+@ lex-perlant
+nom: Perlant
+rubrique: lexique
+def: Se dit d'un vin qui contient un très léger gaz carbonique, à peine perceptible sur la langue, comme certains muscadets ou gaillacs.
+
+@ lex-petillant
+nom: Pétillant
+rubrique: lexique
+def: Vin effervescent de faible pression, entre un et deux bars et demi, dont la mousse est plus légère que celle d'un mousseux.
+
+@ lex-phylloxera
+nom: Phylloxéra
+rubrique: lexique
+def: Puceron venu d'Amérique qui, à partir des années 1860, a détruit le vignoble européen en s'attaquant aux racines. La parade a été le greffage sur des porte-greffes américains résistants.
+
+@ lex-piece
+nom: Pièce
+rubrique: lexique
+def: Fût traditionnel de Bourgogne, d'une contenance de 228 litres.
+
+@ lex-pigeage
+nom: Pigeage
+rubrique: lexique
+def: Opération qui consiste à enfoncer le chapeau de marc dans le jus en fermentation pour favoriser l'extraction de la couleur et des tanins.
+
+@ lex-plat
+nom: Plat
+rubrique: lexique
+def: Se dit d'un vin qui manque d'acidité et de relief.
+
+@ lex-porte-greffe
+nom: Porte-greffe
+rubrique: lexique
+def: Plant de vigne d'origine américaine, résistant au phylloxéra, sur lequel on greffe le cépage ; il est choisi selon le sol et la vigueur recherchée.
+
+@ lex-pourriture-noble
+nom: Pourriture noble
+rubrique: lexique
+def: Forme bénéfique du botrytis, qui concentre le sucre et les arômes des raisins blancs mûrs dans certaines conditions d'automne ; elle est à l'origine des grands liquoreux.
+
+@ lex-pressurage
+nom: Pressurage
+rubrique: lexique
+def: Extraction du jus par pression : du raisin frais pour les blancs et les rosés, du marc fermenté pour les rouges.
+
+@ lex-primeur
+nom: Primeur
+rubrique: lexique
+def: Un vin primeur, ou nouveau, est commercialisé quelques semaines après la vendange. La vente « en primeur » désigne tout autre chose : l'achat d'un vin de garde encore en cours d'élevage.
+
+@ lex-prise-de-mousse
+nom: Prise de mousse
+rubrique: lexique
+def: Seconde fermentation, en bouteille fermée, au cours de laquelle un vin tranquille devient effervescent.
+
+@ lex-puissant
+nom: Puissant
+rubrique: lexique
+def: Se dit d'un vin à la fois riche en alcool, concentré et intense en arômes.
+
+@ lex-rafle
+nom: Rafle
+rubrique: lexique
+def: Charpente végétale de la grappe, qui porte les baies ; riche en tanins et en eau, elle est le plus souvent écartée par l'égrappage.
+
+@ lex-rancio
+nom: Rancio
+rubrique: lexique
+def: Caractère que prennent certains vins longuement élevés au contact de l'air et de la chaleur : arômes de noix, de fruits secs, de cacao. Il est recherché dans les vieux vins doux naturels.
+
+@ lex-reduction
+nom: Réduction
+rubrique: lexique
+def: État d'un vin privé d'oxygène, qui peut développer des odeurs soufrées de chou, d'allumette ou d'œuf ; une aération suffit en général à les dissiper.
+
+@ lex-remontage
+nom: Remontage
+rubrique: lexique
+def: Opération qui consiste à pomper le jus au bas de la cuve pour en arroser le chapeau de marc, afin d'extraire couleur et tanins et d'aérer les levures.
+
+@ lex-remuage
+nom: Remuage
+rubrique: lexique
+def: Dans la méthode traditionnelle, rotation progressive des bouteilles inclinées, goulot vers le bas, pour faire glisser le dépôt de levures contre la capsule avant le dégorgement.
+
+@ lex-rendement
+nom: Rendement
+rubrique: lexique
+def: Quantité de vin produite par hectare de vigne, exprimée en hectolitres ; chaque appellation fixe un maximum.
+
+@ lex-retro-olfaction
+nom: Rétro-olfaction
+rubrique: lexique
+def: Perception des arômes par l'arrière de la bouche, lorsque le vin réchauffé libère des odeurs qui remontent vers le nez.
+
+@ lex-robe
+nom: Robe
+rubrique: lexique
+def: Aspect visuel du vin : sa couleur, son intensité, sa nuance et sa limpidité.
+
+@ lex-rognage
+nom: Rognage
+rubrique: lexique
+def: Coupe de l'extrémité des rameaux en été, pour limiter la croissance de la vigne et favoriser la maturation des raisins.
+
+@ lex-rond
+nom: Rond
+rubrique: lexique
+def: Se dit d'un vin souple et charnu, sans aspérité, dont les tanins et l'acidité sont enrobés.
+
+@ lex-saignee
+nom: Saignée
+rubrique: lexique
+def: Soutirage d'une partie du jus d'une cuve de raisins noirs après quelques heures de macération ; ce jus donne un rosé, et le rouge restant gagne en concentration.
+
+@ lex-sarment
+nom: Sarment
+rubrique: lexique
+def: Rameau de vigne de l'année devenu bois après l'aoûtement ; la plupart sont supprimés à la taille d'hiver.
+
+@ lex-sec
+nom: Sec
+rubrique: lexique
+def: Se dit d'un vin tranquille sans sucre perceptible, contenant en principe moins de 4 grammes de sucre par litre. Pour un effervescent, la mention désigne au contraire un vin assez doux.
+
+@ lex-second-vin
+nom: Second vin
+rubrique: lexique
+def: Vin produit par un domaine à partir des jeunes vignes ou des cuves écartées du grand vin ; plus souple, il est prêt plus tôt.
+
+@ lex-selection-massale
+nom: Sélection massale
+rubrique: lexique
+def: Multiplication de la vigne à partir de sarments prélevés sur de nombreux ceps choisis dans une vieille parcelle, ce qui préserve la diversité génétique.
+
+@ lex-sommelier
+nom: Sommelier
+rubrique: lexique
+def: Professionnel de la restauration chargé de la cave, du conseil et du service des vins.
+
+@ lex-souple
+nom: Souple
+rubrique: lexique
+def: Se dit d'un vin peu tannique et peu acide, agréable et facile en bouche.
+
+@ lex-soutirage
+nom: Soutirage
+rubrique: lexique
+def: Transvasement du vin d'un contenant dans un autre pour le séparer de ses lies et l'aérer.
+
+@ lex-soyeux
+nom: Soyeux
+rubrique: lexique
+def: Se dit d'un vin dont les tanins, très fins, donnent une texture lisse et délicate.
+
+@ lex-sucres-residuels
+nom: Sucres résiduels
+rubrique: lexique
+def: Sucres du raisin que la fermentation n'a pas transformés en alcool et qui restent dans le vin ; ils déterminent s'il est sec, demi-sec, moelleux ou doux.
+
+@ lex-sulfitage
+nom: Sulfitage
+rubrique: lexique
+def: Ajout de dioxyde de soufre au moût ou au vin pour le protéger de l'oxydation et des micro-organismes indésirables.
+
+@ lex-sur-lattes
+nom: Sur lattes
+rubrique: lexique
+def: Se dit des bouteilles d'effervescent couchées en cave, empilées sur des lattes de bois, pendant la prise de mousse et le vieillissement sur lies.
+
+@ lex-surmaturite
+nom: Surmaturité
+rubrique: lexique
+def: État de raisins laissés sur pied au-delà de la maturité normale, plus riches en sucre et moins acides ; elle est recherchée pour les vendanges tardives.
+
+@ lex-taille
+nom: Taille
+rubrique: lexique
+def: Coupe des sarments en hiver, qui règle la forme du cep et le nombre de bourgeons, donc la récolte à venir. En Champagne, le mot désigne aussi les jus de fin de pressurage.
+
+@ lex-tanin
+nom: Tanin
+rubrique: lexique
+def: Composé issu des peaux, des pépins, des rafles du raisin et du bois des fûts. Les tanins donnent aux vins rouges leur structure, leur astringence et leur capacité de garde.
+
+@ lex-tartre
+nom: Tartre
+rubrique: lexique
+def: Cristaux d'acide tartrique qui se déposent sous l'effet du froid, sur les parois des cuves ou au fond des bouteilles ; ils sont sans goût et sans danger.
+
+@ lex-tastevin
+nom: Tastevin
+rubrique: lexique
+def: Petite coupelle d'argent à reliefs, utilisée traditionnellement en Bourgogne pour examiner la robe et goûter le vin dans la pénombre des caves.
+
+@ lex-terroir
+nom: Terroir
+rubrique: lexique
+def: Ensemble des facteurs naturels — sol, sous-sol, relief, exposition, climat — et des usages humains qui donnent à un vin son caractère propre et non reproductible ailleurs.
+
+@ lex-tirage
+nom: Tirage
+rubrique: lexique
+def: Mise en bouteille du vin de base additionné de la liqueur de tirage, première étape de la prise de mousse dans la méthode traditionnelle.
+
+@ lex-tranquille
+nom: Tranquille
+rubrique: lexique
+def: Se dit d'un vin sans bulles, par opposition aux vins effervescents.
+
+@ lex-tries
+nom: Tries
+rubrique: lexique
+def: Passages successifs des vendangeurs dans la vigne pour ne cueillir, à chaque fois, que les grappes ou les grains arrivés au degré voulu de concentration.
+
+@ lex-tuile
+nom: Tuilé
+rubrique: lexique
+def: Teinte rouge orangé, couleur de tuile, que prennent les vins rouges en vieillissant ; c'est aussi le nom d'un style de vin doux naturel rouge élevé au contact de l'air.
+
+@ lex-typicite
+nom: Typicité
+rubrique: lexique
+def: Caractère d'un vin conforme à ce que l'on attend de son cépage, de son appellation et de son terroir.
+
+@ lex-veloute
+nom: Velouté
+rubrique: lexique
+def: Se dit d'un vin à la texture douce et caressante, aux tanins mûrs et enrobés.
+
+@ lex-vendange
+nom: Vendange
+rubrique: lexique
+def: Récolte du raisin, manuelle ou mécanique, et par extension le raisin récolté.
+
+@ lex-vendange-en-vert
+nom: Vendange en vert
+rubrique: lexique
+def: Suppression d'une partie des grappes encore vertes, en été, pour réduire le rendement et favoriser la maturité de celles qui restent.
+
+@ lex-vendanges-tardives
+nom: Vendanges tardives
+rubrique: lexique
+def: Mention réservée à des vins issus de raisins récoltés en surmaturité, sans enrichissement, notamment en Alsace et à Jurançon ; ils sont le plus souvent moelleux.
+
+@ lex-veraison
+nom: Véraison
+rubrique: lexique
+def: Moment de l'été où les baies changent de couleur — les noires rougissent, les blanches deviennent translucides — et commencent à mûrir.
+
+@ lex-vieilles-vignes
+nom: Vieilles vignes
+rubrique: lexique
+def: Mention sans définition légale, en usage pour des vignes âgées d'au moins trente à quarante ans, aux rendements faibles et aux racines profondes.
+
+@ lex-vif
+nom: Vif
+rubrique: lexique
+def: Se dit d'un vin frais et léger, à l'acidité bien présente mais agréable.
+
+@ lex-vigneron
+nom: Vigneron
+rubrique: lexique
+def: Personne qui cultive la vigne et fait son vin ; le viticulteur, au sens strict, cultive la vigne et peut livrer ses raisins à une coopérative ou au négoce.
+
+@ lex-vin-de-garde
+nom: Vin de garde
+rubrique: lexique
+def: Vin dont la structure — tanins, acidité, concentration — lui permet de s'améliorer pendant plusieurs années en bouteille.
+
+@ lex-vin-de-goutte
+nom: Vin de goutte
+rubrique: lexique
+def: Vin rouge qui s'écoule librement de la cuve à la fin de la cuvaison, sans pression ; il est plus fin que le vin de presse.
+
+@ lex-vin-de-presse
+nom: Vin de presse
+rubrique: lexique
+def: Vin rouge obtenu en pressant le marc après l'écoulage ; plus coloré et plus tannique que le vin de goutte, il lui est réassemblé en proportion variable.
+
+@ lex-vin-de-reserve
+nom: Vin de réserve
+rubrique: lexique
+def: En Champagne, vin d'années antérieures conservé pour entrer dans l'assemblage des cuvées sans année, auxquelles il apporte régularité et complexité.
+
+@ lex-vin-gris
+nom: Vin gris
+rubrique: lexique
+def: Rosé très pâle obtenu par pressurage direct de raisins noirs, sans macération, comme le gris de Toul.
+
+@ lex-vinification
+nom: Vinification
+rubrique: lexique
+def: Ensemble des opérations qui transforment le raisin en vin, de la réception de la vendange à la fin des fermentations.
+
+@ lex-viticulture
+nom: Viticulture
+rubrique: lexique
+def: Culture de la vigne ; elle précède et conditionne la vinification.
+
+@ lex-voile
+nom: Voile
+rubrique: lexique
+def: Pellicule de levures qui se forme à la surface d'un vin élevé en fût non ouillé ; elle le protège de l'oxydation brutale et lui donne le goût particulier du vin jaune.

@@ -1,0 +1,50 @@
+# GUIDE — Les grands principes des accords mets-vins (rubrique « service », identifiants « accord- »)
+
+@ accord-intensite
+nom: Accords : à intensité égale
+rubrique: service
+def: Premier principe des accords : le vin et le plat doivent avoir la même force, pour qu'aucun n'écrase l'autre.
+texte: Un plat délicat demande un vin délicat, un plat puissant un vin puissant. Une sole meunière disparaît sous un rouge charpenté ; un civet de sanglier anéantit un blanc léger. Avant de penser aux arômes, on évalue donc le poids du plat : sa richesse, l'intensité de ses saveurs, et surtout son mode de cuisson et sa sauce, qui comptent souvent plus que l'ingrédient principal. Un poulet poché à la crème n'appelle pas le même vin qu'un poulet rôti, ni qu'un coq au vin.
+texte: La vieille règle « blanc sur le poisson, rouge sur la viande » n'est qu'un cas particulier de ce principe. Un thon grillé ou une lotte au vin rouge s'entendent très bien avec un rouge léger et frais ; une volaille à la crème ou un ris de veau préfèrent un blanc ample. De même, la couleur de la sauce donne souvent celle du vin.
+texte: Une fois l'équilibre des forces trouvé, on peut jouer l'accord de deux manières. Par ressemblance : un vin aux notes beurrées sur une sauce au beurre, un vin épicé sur un plat épicé, un vin évolué aux arômes de sous-bois sur des champignons. Ou par contraste : la vivacité d'un blanc sec pour réveiller un plat riche, la douceur d'un liquoreux contre le sel d'un fromage bleu. Les deux voies sont bonnes ; l'important est que le plat et le vin sortent chacun grandi de la rencontre.
+
+@ accord-region
+nom: Accords : ce qui pousse ensemble va ensemble
+rubrique: service
+def: Les vins et les cuisines d'une même région se sont façonnés côte à côte : l'accord de terroir est rarement une erreur.
+texte: Pendant des siècles, on a bu à table le vin du lieu avec les produits du lieu, et les uns se sont ajustés aux autres. De là des mariages éprouvés : le [[muscadet]] et les huîtres de l'Atlantique, le riesling d'[[alsace]] et la choucroute, le [[sancerre]] et le crottin de Chavignol, le vin jaune et le comté, le [[madiran]] et le confit de canard, le [[cahors]] et le cassoulet, le [[beaujolais]] et la charcuterie lyonnaise, le rosé de [[bandol]] et la cuisine à l'ail et à l'huile d'olive, le [[jurancon]] et le fromage de brebis des Pyrénées.
+texte: Ces accords ont une logique : les vins vifs des régions fraîches répondent aux cuisines au beurre et à la crème, les vins tanniques du Sud-Ouest aux viandes grasses et confites, les vins solaires de la Méditerranée aux herbes, à l'ail et à l'olive. Quand on hésite devant un plat de terroir, chercher le vin de la même région est un réflexe sûr.
+texte: Le principe a ses limites. Certaines régions de grande cuisine n'ont pas de vignoble, et bien des plats d'aujourd'hui — cuisines d'Asie, plats végétariens, cuisine d'assemblage — n'ont pas de vin « natif ». Il faut alors revenir aux principes de structure : intensité, acidité, tanins, sucre.
+
+@ accord-acidite-gras
+nom: Accords : l'acidité et le gras
+rubrique: service
+def: L'acidité d'un vin tranche le gras d'un plat et rafraîchit le palais, comme un filet de citron sur une friture.
+texte: Un plat riche en matière grasse — beurre, crème, friture, charcuterie, fromage — tapisse la bouche. Un vin vif la nettoie et relance l'appétit : c'est pourquoi les blancs nerveux vont si bien aux rillettes, aux poissons frits, aux fromages de chèvre, et les effervescents bruts aux feuilletés et aux fritures. À l'inverse, un vin mou sur un plat gras donne une impression de lourdeur.
+texte: La règle vaut aussi entre acidités : le vin doit être au moins aussi acide que le plat, faute de quoi il paraît plat et fade. Sur une salade bien citronnée, une sauce tomate, une escabèche, il faut un vin très vif. La vinaigrette reste un écueil : on l'adoucit, ou l'on remplace le vinaigre par un jus d'agrume ou un peu du vin servi.
+texte: Le gras appelle aussi le gras : une sauce à la crème, une volaille aux morilles, un homard au beurre trouvent un écho dans l'ampleur d'un grand blanc élevé sur lies, pourvu qu'il garde assez de fraîcheur pour ne pas alourdir l'ensemble. Ressemblance pour la texture, contraste pour l'acidité : les meilleurs accords jouent souvent sur les deux tableaux.
+
+@ accord-tanins-proteines
+nom: Accords : les tanins et les protéines
+rubrique: service
+def: Les tanins d'un vin rouge se lient aux protéines de la viande : le plat adoucit le vin, et le vin donne du relief au plat.
+texte: L'astringence vient de ce que les tanins s'accrochent aux protéines de la salive et assèchent la bouche. Devant une viande rouge, saignante et juteuse, ils trouvent d'autres protéines et du gras auxquels se fixer : le vin paraît aussitôt plus souple, plus fruité. C'est toute la raison de l'accord entre une côte de bœuf et un jeune [[pauillac]], un magret et un [[madiran]], un agneau et un [[bandol]].
+texte: Sans ces protéines, les tanins se retournent contre le plat. Avec le poisson et les fruits de mer, ils donnent souvent un goût métallique ; sur les œufs, les légumes amers, les plats très épicés ou très salés, ils durcissent. Si l'on veut un rouge dans ces cas, on le choisit léger, peu tannique et servi frais : [[gamay]], [[pinot-noir]], [[poulsard]].
+texte: Le fromage est un faux ami des rouges tanniques. Le gras et le sel des pâtes molles et des croûtes fleuries font ressortir l'amertume des tanins ; les pâtes pressées affinées s'en accommodent mieux. Dans bien des cas, un blanc sec ou moelleux fait un meilleur compagnon. Quant aux vieux rouges, dont les tanins sont fondus, ils demandent des plats simples et peu relevés qui ne couvrent pas leurs nuances : une volaille rôtie, un gibier à plume, des champignons.
+
+@ accord-sucre-sel
+nom: Accords : le sucre et le sel
+rubrique: service
+def: Le sucre d'un vin équilibre le sel, le piquant et l'amertume d'un plat ; avec un dessert, le vin doit être au moins aussi sucré que lui.
+texte: Le contraste sucré-salé est l'un des plus heureux qui soient. Le sel d'un fromage persillé met en valeur la douceur d'un liquoreux, qui en retour arrondit la force du fromage : c'est l'accord du roquefort avec un [[sauternes]], ou d'un bleu avec un [[banyuls]] ou un [[maury]]. Le même jeu explique l'entente d'un moelleux avec un jambon cru, ou d'un vin doux naturel avec une cuisine sucrée-salée.
+texte: Le sucre apaise aussi le feu des épices. Les cuisines relevées — currys, plats au piment, cuisine du Sichuan ou de Thaïlande — durcissent les vins tanniques et font ressortir l'alcool ; un blanc aromatique légèrement doux et peu alcoolisé, gewurztraminer, pinot gris ou chenin demi-sec, les accompagne bien mieux.
+texte: Au dessert, la règle est stricte : le vin doit être au moins aussi sucré que le plat, sinon il paraît acide et maigre. Voilà pourquoi un champagne brut, parfait à l'apéritif, grince sur un gâteau, où un demi-sec ou un muscat fait merveille. Les desserts aux fruits appellent des moelleux vifs ou des effervescents doux ; le chocolat noir, amer et puissant, trouve ses rares partenaires chez les vins doux naturels rouges. Et un grand liquoreux se suffit à lui-même : il peut tenir lieu de dessert.
+
+@ accord-ennemis
+nom: Accords : les ennemis du vin
+rubrique: service
+def: Quelques aliments faussent le goût de presque tous les vins : mieux vaut les connaître pour les contourner.
+texte: Le vinaigre vient en tête : son acidité acétique donne au vin un goût aigre. On allège la vinaigrette, ou l'on sert la salade sans vin. L'artichaut contient de la cynarine, qui rend sucré tout ce que l'on boit ensuite ; l'asperge, des composés soufrés qui donnent aux rouges un goût métallique — un muscat sec ou un sauvignon s'en sortent. L'œuf, surtout le jaune coulant, tapisse le palais et ternit les vins. L'épinard et l'oseille, riches en acide oxalique, font grincer les tanins.
+texte: L'ail et l'oignon crus, le piment fort, la moutarde forte et le raifort anesthésient le goût ; cuits ou dosés avec mesure, ils ne posent plus de difficulté. Les poissons fumés ou très iodés, l'oursin, le hareng, donnent aux rouges une saveur métallique et réclament des blancs très secs. Le chocolat, amer, gras et sucré à la fois, domine la plupart des vins secs, comme les agrumes et les glaces, dont le froid engourdit les papilles.
+texte: Aucun de ces obstacles n'est insurmontable : il existe presque toujours un vin de repli — blanc vif et simple, effervescent brut, vin doux naturel, vin jaune pour les mets les plus rebelles. Mais il n'y a aucune obligation à servir du vin sur chaque plat. Quand l'accord est impossible, un verre d'eau reste le meilleur choix, et le vin attend le plat suivant.
+liste: Les aliments difficiles = vinaigre et vinaigrette ; artichaut ; asperge ; œuf ; épinard et oseille ; ail et oignon crus ; piment fort, moutarde, raifort ; poissons fumés ou très iodés ; chocolat noir ; agrumes ; glaces et sorbets
