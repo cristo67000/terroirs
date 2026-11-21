@@ -5,11 +5,11 @@ nom: Manseng noir
 couleur: noir
 def: Vieux cépage gascon presque disparu, remis en culture pour ses rouges colorés et modérés en alcool.
 origine: Piémont pyrénéen, Béarn et Gascogne.
-texte: Oublié après le phylloxéra, le manseng noir a été retrouvé dans de vieilles parcelles du Gers et replanté à partir des années 2000. Il donne des vins très colorés, frais, aux tanins fermes, et mûrit sans monter haut en degré, qualité recherchée sous un climat qui se réchauffe.
-texte: Il se rencontre surtout en [[igp-cotes-de-gascogne|Côtes de Gascogne]], seul ou assemblé, et figure parmi les cépages d'appoint du piémont pyrénéen.
+texte: Oublié après le phylloxéra, le manseng noir a été retrouvé et conservé dans un conservatoire de cépages du piémont pyrénéen créé en 2002, puis inscrit au catalogue en 2016 et replanté. Il donne des vins très colorés, vifs, moins tanniques que le [[tannat]], et mûrit sans monter haut en degré, qualité recherchée sous un climat qui se réchauffe.
+texte: Il se rencontre surtout en [[igp-cotes-de-gascogne|Côtes de Gascogne]], seul ou assemblé au [[merlot]] ; il n'est pas encore admis dans les appellations du piémont pyrénéen comme [[saint-mont|Saint-Mont]].
 aromes: fruits noirs, poivre, note végétale fraîche
 regions: sud-ouest
-appellations: igp-cotes-de-gascogne, saint-mont, bearn
+appellations: igp-cotes-de-gascogne
 voir: tannat, fer-servadou
 
 @ marselan
@@ -18,11 +18,11 @@ couleur: noir
 def: Croisement moderne du cabernet-sauvignon et du grenache, aux vins colorés et souples, en forte progression dans le Midi.
 origine: Obtenu en 1961 par Paul Truel, de l'INRA, au domaine de Vassal à Marseillan (Hérault), à partir du cabernet-sauvignon et du grenache noir.
 surface: plusieurs milliers d'hectares en France
-texte: Le marselan porte de longues grappes de très petites baies. Longtemps délaissé pour son faible rendement en jus, il a été inscrit au catalogue en 1990 et s'est imposé grâce à sa bonne résistance aux maladies et à la qualité de ses vins : couleur profonde, tanins mûrs et soyeux, fruit noir et épices.
+texte: Le marselan porte de longues grappes de très petites baies. Longtemps délaissé pour son faible rendement en jus, il a été inscrit au catalogue au début des années 1990 et s'est imposé grâce à sa bonne résistance aux maladies et à la qualité de ses vins : couleur profonde, tanins mûrs et soyeux, fruit noir et épices.
 texte: Il est surtout vinifié en vins de pays du Languedoc et de la Méditerranée. Plusieurs appellations l'admettent désormais à titre accessoire, dont les [[cotes-du-rhone|Côtes du Rhône]], et le Bordelais l'a retenu parmi ses cépages d'adaptation au changement climatique.
 aromes: cassis, mûre, épices, cacao
 regions: languedoc, rhone, provence
-appellations: igp-pays-d-oc, igp-mediterranee, igp-cotes-de-thongue, cotes-du-rhone
+appellations: igp-pays-d-oc, igp-mediterranee, cotes-du-rhone
 voir: cabernet-sauvignon, grenache-noir, caladoc
 
 @ merlot
@@ -31,7 +31,7 @@ couleur: noir
 alias: merlot noir
 def: Cépage le plus planté de France, précoce et charnu, maître de Pomerol et de Saint-Émilion.
 origine: Gironde. Croisement spontané du cabernet franc et de la magdeleine noire des Charentes, selon l'analyse génétique ; il est mentionné dans le Libournais à la fin du XVIIIᵉ siècle.
-surface: environ 110 000 ha en France
+surface: environ 117 000 ha en France
 texte: Le merlot débourre tôt, ce qui l'expose aux gelées de printemps, et mûrit deux semaines environ avant le [[cabernet-sauvignon]]. Il se plaît dans les sols frais, argileux ou argilo-calcaires, où les cabernets peinent à mûrir. Il est sensible à la coulure, au mildiou et, cueilli tard, à la pourriture ; les étés brûlants lui font vite prendre trop de degré.
 texte: Ses vins sont colorés, ronds, moins acides et moins tanniques que ceux des cabernets, avec un fruit de prune et de cerise noire. Souples dès la jeunesse, ils savent pourtant vieillir sur les grands terroirs, où ils prennent des notes de truffe et de sous-bois. Le merlot s'assemble avec le [[cabernet-franc]] sur la rive droite et avec le cabernet-sauvignon dans le Médoc.
 texte: Il domine largement à [[pomerol|Pomerol]], où l'argile lui donne une profondeur unique, à [[saint-emilion|Saint-Émilion]], à [[fronsac|Fronsac]] et dans les côtes. Majoritaire dans tout le Bordelais, il est aussi très présent à [[bergerac|Bergerac]], dans le reste du Sud-Ouest et dans les vins de pays du Languedoc.
@@ -88,7 +88,7 @@ def: Cépage du Frontonnais, au nord de Toulouse, parfumé de violette et de ré
 origine: Vallée du Tarn et de la Garonne. La tradition qui la fait venir de Chypre avec les Hospitaliers relève de la légende.
 surface: environ 1 000 ha en France
 texte: La négrette aime les terrasses de graves et de boulbènes du Frontonnais, sous un climat chaud et sec, car ses grappes serrées craignent la pourriture et l'oïdium. Elle donne des vins très colorés, souples, peu acides, d'un parfum singulier de violette, de fruits noirs et de réglisse, à boire plutôt jeunes.
-texte: Elle forme au moins la moitié des rouges et des rosés de [[fronton|Fronton]], complétée par la [[syrah]] et les cabernets. On la retrouve, très minoritaire, dans les [[fiefs-vendeens|Fiefs Vendéens]].
+texte: Elle forme la base des rouges et des rosés de [[fronton|Fronton]] (au moins 40 % de l'assemblage), complétée par la [[syrah]], le [[malbec|côt]], les cabernets et d'autres cépages. On la retrouve, très minoritaire, dans les [[fiefs-vendeens|Fiefs Vendéens]].
 aromes: violette, mûre, réglisse, poivre
 regions: sud-ouest, loire
 appellations: fronton, fiefs-vendeens, igp-comte-tolosan
@@ -113,7 +113,7 @@ nom: Persan
 couleur: noir
 alias: princens
 def: Cépage rare de la vallée de la Maurienne, tannique et de garde.
-origine: Savoie, vallée de la Maurienne ; le nom viendrait d'un lieu-dit de Saint-Jean-de-Maurienne.
+origine: Savoie, vallée de la Maurienne.
 texte: Presque disparu au XXᵉ siècle, le persan a été replanté par une poignée de vignerons savoyards et isérois. Il donne des vins sombres, acides et tanniques dans leur jeunesse, qui s'affinent avec quelques années de garde. On le trouve en [[vin-de-savoie|Vin de Savoie]] et en vin de pays, souvent vinifié seul.
 aromes: fruits noirs, violette, épices
 regions: savoie-bugey
@@ -125,7 +125,7 @@ nom: Petit verdot
 couleur: noir
 def: Cépage très tardif du Médoc, employé à petite dose pour la couleur, les épices et la tenue.
 origine: Sud-Ouest atlantique ; son nom rappelle qu'il restait souvent vert à la vendange.
-surface: environ 1 000 ha en France
+surface: environ 1 400 ha en France
 texte: Le petit verdot mûrit après le [[cabernet-sauvignon]] : autrefois, il n'arrivait à maturité que quelques années par décennie. Le réchauffement lui est favorable et les plantations reprennent. Il aime les graves chaudes proches de l'estuaire.
 texte: Très coloré, tannique, acide, puissamment épicé, il sert de condiment : quelques pour cent suffisent à raffermir un assemblage. On le rencontre surtout à [[margaux|Margaux]] et dans le sud du [[haut-medoc|Haut-Médoc]], plus rarement à [[pauillac|Pauillac]] et [[saint-julien|Saint-Julien]].
 aromes: violette, fruits noirs, poivre, réglisse
@@ -141,7 +141,7 @@ def: Vieux cépage de la vallée du Loir, pâle et très poivré.
 origine: Val de Loire. Malgré son surnom, il n'est pas la forme noire du chenin.
 surface: quelques centaines d'hectares en France
 texte: Le pineau d'Aunis donne des vins clairs, légers, vifs, immédiatement reconnaissables à leur parfum de poivre blanc et de fruits rouges. Sensible à la pourriture et de rendement capricieux, il a beaucoup reculé avant de retrouver des amateurs.
-texte: Il est le cépage des rouges et des rosés des [[coteaux-du-loir|Coteaux du Loir]] et des [[coteaux-du-vendomois|Coteaux du Vendômois]], dont il produit seul le vin gris. Il participe aussi aux rosés et aux effervescents de Touraine et d'Anjou.
+texte: Il est le cépage des rouges et des rosés des [[coteaux-du-loir|Coteaux du Loir]] et des [[coteaux-du-vendomois|Coteaux du Vendômois]], dont il est le cépage emblématique, notamment pour le vin gris. Il participe aussi aux rosés et aux effervescents de Touraine et d'Anjou.
 aromes: poivre blanc, fraise, groseille, épices
 regions: loire
 appellations: coteaux-du-loir, coteaux-du-vendomois, touraine, rose-de-loire, cremant-de-loire
@@ -154,10 +154,10 @@ alias: pinot meunier, gris meunier
 def: Variante duveteuse du pinot, troisième cépage de la Champagne, fruité et souple.
 origine: Mutation du pinot ; il doit son nom au duvet blanc, comme de la farine, qui couvre ses jeunes feuilles.
 surface: environ 11 000 ha en France
-texte: Le meunier débourre plus tard que le [[pinot-noir]] et mûrit plus tôt : il convient aux secteurs gélifs et aux sols argileux, d'où sa prédominance dans la vallée de la Marne. Il occupe près d'un tiers du vignoble champenois.
+texte: Le meunier débourre plus tard que le [[pinot-noir]] et mûrit à peu près en même temps : il convient aux secteurs gélifs et aux sols argileux, d'où sa prédominance dans la vallée de la Marne. Il occupe près d'un tiers du vignoble champenois.
 texte: Dans les assemblages de [[champagne|Champagne]], il apporte un fruité rond et immédiat ; on le disait de courte garde, réputation que démentent les cuvées de vignerons qui le vinifient seul. Hors de Champagne, il domine les rouges d'[[orleans|Orléans]] et entre dans le vin gris de [[touraine-noble-joue|Touraine Noble Joué]].
 aromes: pomme, poire, fruits rouges, mie de pain
-regions: champagne, loire, alsace
+regions: champagne, loire
 appellations: champagne, coteaux-champenois, orleans, touraine-noble-joue
 voir: pinot-noir, chardonnay, pinot-gris
 
@@ -167,10 +167,10 @@ couleur: noir
 alias: noirien, pinot fin
 def: Cépage des grands rouges de Bourgogne, précoce et délicat, d'une finesse aromatique sans égale et fidèle interprète des terroirs.
 origine: Nord-est de la France, sans doute la Bourgogne, où il est mentionné au XIVᵉ siècle. Très ancien, il a engendré avec le gouais blanc le chardonnay, le gamay, l'aligoté et le melon.
-surface: environ 32 000 ha en France
+surface: environ 25 000 ha en France
 texte: Le pinot noir débourre tôt et mûrit tôt : c'est un cépage de climat frais, que la chaleur prive de sa finesse. Ses petites grappes compactes, en forme de pomme de pin, craignent la pourriture, le mildiou et l'oïdium, et sa peau fine supporte mal les excès de rendement. Il exprime le mieux sa race sur les sols argilo-calcaires.
 texte: Les vins sont d'une couleur modérée, d'une texture soyeuse, portés par l'acidité plus que par les tanins. Jeunes, ils sentent la cerise, la framboise, la pivoine ; avec l'âge viennent le sous-bois, le cuir, la truffe. Presque toujours vinifié seul en rouge, il traduit avec une précision rare les différences d'un climat à l'autre. Pressé sans macération, il donne un jus blanc, base de nombreux champagnes.
-texte: En Côte de Nuits et en Côte de Beaune, il produit tous les grands crus rouges, du [[chambertin|Chambertin]] à la [[romanee-conti|Romanée-Conti]]. Il est le cépage le plus planté de [[champagne|Champagne]], le seul rouge d'[[alsace|Alsace]], où deux grands crus lui sont désormais ouverts, et celui des rouges de [[sancerre|Sancerre]], du Jura et de plusieurs vignobles du Centre.
+texte: En Côte de Nuits et en Côte de Beaune, il produit tous les grands crus rouges, du [[chambertin|Chambertin]] à la [[romanee-conti|Romanée-Conti]]. Il est le cépage le plus planté de [[champagne|Champagne]], le seul rouge d'[[alsace|Alsace]], où quelques grands crus lui sont désormais ouverts, dont le Hengst et le Kirchberg de Barr, et celui des rouges de [[sancerre|Sancerre]], du Jura et de plusieurs vignobles du Centre.
 aromes: cerise, framboise, pivoine, sous-bois, cuir et truffe avec l'âge
 regions: bourgogne, champagne, alsace, loire, jura, savoie-bugey
 appellations: romanee-conti, chambertin, musigny, gevrey-chambertin, volnay, champagne, sancerre, alsace
@@ -205,12 +205,12 @@ voir: trousseau, pinot-noir, savagnin
 @ prunelard
 nom: Prunelard
 couleur: noir
-def: Vieux cépage gaillacois sauvé de l'oubli, père du malbec.
-origine: Vallée du Tarn ; l'analyse génétique a montré qu'il est l'un des deux parents du malbec.
+def: Vieux cépage gaillacois sauvé de l'oubli, l'un des deux parents du malbec.
+origine: Vallée du Tarn ; l'analyse génétique a montré qu'il est l'un des deux parents du malbec, avec la magdeleine noire des Charentes.
 texte: Presque disparu au XXᵉ siècle, le prunelard a été replanté à [[gaillac|Gaillac]] à partir de quelques vieilles souches. Tardif et peu productif, il donne des vins très colorés, charnus, aux tanins denses, marqués par la prune qui lui vaut son nom et par les épices. Il s'assemble au [[fer-servadou|braucol]] et au [[duras]] ou se vinifie seul.
 aromes: prune, fruits noirs, épices, réglisse
 regions: sud-ouest
-appellations: gaillac, igp-comte-tolosan
+appellations: gaillac
 voir: malbec, duras, fer-servadou
 
 @ sciaccarellu
@@ -233,7 +233,7 @@ couleur: noir
 alias: sérine (Côte-Rôtie), shiraz
 def: Grand cépage du Rhône septentrional, sombre, poivré et de garde, devenu l'un des piliers de tout le Midi.
 origine: Nord de la vallée du Rhône. Croisement spontané de la dureza, cépage noir d'Ardèche, et de la mondeuse blanche, de Savoie, établi par l'analyse génétique en 1998 ; les origines persanes ou siciliennes sont des légendes.
-surface: environ 62 000 ha en France
+surface: environ 71 000 ha en France
 texte: La syrah débourre assez tard et mûrit en milieu de saison ; passé la maturité, elle perd vite arômes et acidité. Ses longs rameaux cassants demandent un palissage soigné, sur échalas dans les coteaux abrupts du nord. Elle redoute la sécheresse sévère et un dépérissement encore mal expliqué. Les granites et les schistes lui conviennent particulièrement.
 texte: Les vins sont d'un violet profond, structurés par des tanins fins et une bonne fraîcheur. Violette, mûre, olive noire, poivre, parfois lard fumé : le registre est reconnaissable entre tous. Au nord, elle est vinifiée presque seule, avec un peu de [[viognier]] à [[cote-rotie|Côte-Rôtie]] ; au sud, elle apporte couleur et tenue au [[grenache-noir]].
 texte: Ses sommets sont l'[[hermitage|Hermitage]], la Côte-Rôtie et [[cornas|Cornas]], suivis de [[saint-joseph|Saint-Joseph]] et de [[crozes-hermitage|Crozes-Hermitage]]. Depuis les années 1970, elle s'est répandue dans le Rhône méridional, en Provence et surtout en Languedoc et en Roussillon, où elle domine des crus comme [[pic-saint-loup|Pic Saint-Loup]] ou [[faugeres|Faugères]].
@@ -247,7 +247,7 @@ nom: Tannat
 couleur: noir
 def: Cépage du piémont pyrénéen, parmi les plus tanniques qui soient, fondement de Madiran.
 origine: Béarn et Gascogne ; son nom dit sa richesse en tanins.
-surface: environ 2 500 ha en France
+surface: environ 2 800 ha en France
 texte: Vigoureux, tardif, le tannat mûrit à la faveur des automnes secs et ensoleillés du piémont pyrénéen. Il aime les sols argileux et les croupes de galets, et résiste assez bien à la pourriture grâce à ses baies à peau épaisse. Ses grappes sont grosses et compactes.
 texte: Ses vins sont presque noirs, puissants, d'une acidité marquée et d'une charge tannique considérable, longtemps rude dans la jeunesse. Les vignerons l'ont apprivoisée par des vendanges plus mûres, des extractions mesurées, l'élevage sous bois et la micro-oxygénation, technique mise au point à Madiran au début des années 1990. On l'assemble avec le [[cabernet-franc]], le [[cabernet-sauvignon]] et le [[fer-servadou]]. Les bonnes cuvées se gardent vingt ans.
 texte: Il domine à [[madiran|Madiran]] et dans les rouges de [[saint-mont|Saint-Mont]], donne leur charpente aux vins d'[[irouleguy|Irouléguy]], du [[bearn|Béarn]] et de [[tursan|Tursan]], et sert d'appoint à [[cahors|Cahors]]. L'Uruguay en a fait son cépage emblématique.
@@ -274,7 +274,7 @@ alias: tiboulen
 def: Cépage varois des rosés de caractère, aux parfums de garrigue.
 origine: Provence, où il est surtout cultivé dans le Var, près du littoral.
 surface: quelques centaines d'hectares en France
-texte: Précoce, sensible à la coulure, le tibouren produit irrégulièrement, ce qui a freiné sa diffusion. Il donne des vins peu colorés, d'une teinte vite saumonée, amples et très aromatiques : fruits rouges, herbes sèches, une touche épicée.
+texte: Sensible à la coulure, le tibouren produit irrégulièrement, ce qui a freiné sa diffusion. Il donne des vins peu colorés, d'une teinte vite saumonée, amples et très aromatiques : fruits rouges, herbes sèches, une touche épicée.
 texte: C'est avant tout un cépage de rosé, vinifié seul par quelques domaines des [[cotes-de-provence|Côtes de Provence]] ou assemblé au [[cinsault]] et au [[grenache-noir]].
 aromes: fruits rouges, garrigue, épices, écorce d'orange
 regions: provence

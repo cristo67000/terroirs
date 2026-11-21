@@ -75,14 +75,14 @@ conseil: Blancs en neige, crème anglaise et caramel : un dessert léger qui app
 nom: Crêpes sucrées
 famille: desserts
 styles: effervescent-doux, blanc-moelleux, vin-de-liqueur
-vins: clairette-de-die, bugey, vouvray, saumur, coteaux-du-layon, pineau-des-charentes, gaillac
+vins: clairette-de-die, bugey, vouvray, montlouis-sur-loire, coteaux-du-layon, pineau-des-charentes, gaillac
 conseil: Au sucre, au beurre, à la confiture ou flambées : le cidre doux est l'accord de la Chandeleur. Côté vin, un mousseux doux ou demi-sec, ou un moelleux léger, accompagnent sans alourdir ; avec des crêpes Suzette, un muscat ou un pineau répondent à l'orange. Un brut sec paraît dur.
 
 @ galette-des-rois
 nom: Galette des rois à la frangipane
 famille: desserts
 styles: blanc-moelleux, effervescent-doux, liquoreux
-vins: coteaux-du-layon, jurancon, vouvray, montlouis-sur-loire, clairette-de-die, cremant-de-loire, loupiac
+vins: coteaux-du-layon, jurancon, vouvray, montlouis-sur-loire, clairette-de-die, coteaux-de-l-aubance, loupiac
 audace: arbois, macvin-du-jura
 conseil: Feuilletage au beurre et crème d'amande : un moelleux de chenin ou de petit manseng, frais et peu lourd, ou un pétillant demi-sec. Le champagne brut que l'on sert par habitude paraît acide sur la frangipane ; préférer un effervescent demi-sec. L'amande s'entend très bien avec un vin de paille du Jura.
 
@@ -98,13 +98,13 @@ nom: Paris-brest et desserts pralinés
 famille: desserts
 styles: vdn-rouge, vin-de-liqueur, liquoreux
 vins: rivesaltes, maury, banyuls, macvin-du-jura, pineau-des-charentes, arbois, rasteau
-conseil: Noisette et amande caramélisées, crème riche : les vins doux naturels ambrés et tuilés, élevés longuement, ont précisément ces arômes de fruits secs grillés. Le macvin et le vin de paille du Jura sont dans le même registre. Les vins vifs et fruités passent à côté.
+conseil: Praliné à la noisette, crème riche : les vins doux naturels ambrés et tuilés, élevés longuement, ont précisément ces arômes de fruits secs grillés. Le macvin et le vin de paille du Jura sont dans le même registre. Les vins vifs et fruités passent à côté.
 
 @ clafoutis-aux-cerises
 nom: Clafoutis aux cerises
 famille: desserts
 styles: vdn-rouge, effervescent-doux, blanc-moelleux
-vins: maury, banyuls, rasteau, bugey, correze, cabernet-d-anjou, clairette-de-die
+vins: maury, banyuls, rasteau, bugey, coteaux-du-layon, vouvray, clairette-de-die
 conseil: Dessert limousin de cerises noires prises dans un flan : un vin doux naturel rouge jeune, au goût de cerise, lui fait écho, de même qu'un rosé pétillant et doux. Servir frais. Un rouge sec, même fruité, devient acide face au sucre de la pâte.
 
 @ glaces-et-sorbets
@@ -133,7 +133,7 @@ conseil: La noix appelle la noix : vin de paille et macvin du Jura, vin paillé 
 nom: Kouglof, brioche et pain d'épices
 famille: desserts
 styles: blanc-moelleux, liquoreux, effervescent-brut
-vins: alsace, alsace-grand-cru-altenberg-de-bergheim, alsace-grand-cru-kitterle, cremant-d-alsace, coteaux-du-layon, jurancon
+vins: alsace, alsace-grand-cru-altenberg-de-bergheim, alsace-grand-cru-brand, cremant-d-alsace, coteaux-du-layon, jurancon
 conseil: Pâte levée peu sucrée, raisins secs et amandes : le kouglof se sert en Alsace avec un gewurztraminer ou un pinot gris de vendanges tardives, ou un muscat. Comme il est à peine doux, un crémant convient aussi à l'heure du café. Avec le pain d'épices, plus sucré, un gewurztraminer moelleux s'impose.
 
 @ peches-et-abricots

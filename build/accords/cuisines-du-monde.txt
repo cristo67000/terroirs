@@ -20,13 +20,13 @@ nom: Ramen et soupes de nouilles
 famille: cuisines-du-monde
 styles: blanc-aromatique, rouge-leger, blanc-vif
 vins: alsace, vin-de-savoie, arbois, beaujolais, touraine, cotes-du-jura
-conseil: Bouillon riche et salé, porc fondant, soja ou miso : l'accord est délicat, comme pour toute soupe. Un blanc sec et parfumé d'Alsace ou un rouge très léger servi frais accompagnent le gras du porc et la saveur umami ; les blancs du Jura s'entendent bien avec le miso. Éviter les tanins et l'alcool, que le bouillon chaud exacerbe.
+conseil: Bouillon riche et salé, porc fondant, soja ou miso : l'accord est délicat, comme pour toute soupe. Un blanc sec et parfumé d'Alsace ou un rouge très léger servi frais accompagnent le gras du porc et la saveur umami ; les blancs du Jura, aux notes de noix, peuvent bien s'entendre avec le miso. Éviter les tanins et l'alcool, que le bouillon chaud exacerbe.
 
 @ nems-et-rouleaux-de-printemps
 nom: Nems et rouleaux de printemps
 famille: cuisines-du-monde
 styles: blanc-aromatique, blanc-vif, rose-leger
-vins: alsace, igp-cotes-de-gascogne, touraine, cotes-de-provence, vouvray, cremant-d-alsace
+vins: alsace, igp-cotes-de-gascogne, touraine, cotes-de-provence, vouvray, saint-bris
 conseil: Friture ou galette de riz, menthe, coriandre et sauce au *nuoc-mâm* sucrée-salée : un blanc sec et aromatique, riesling, muscat ou sauvignon, s'accorde aux herbes fraîches. Une pointe de douceur dans le vin répond à la sauce. Les rouges sont déconseillés.
 
 @ raviolis-vapeur
@@ -40,7 +40,7 @@ conseil: Bouchées délicates aux crevettes, au porc ou aux légumes, trempées 
 nom: Canard laqué
 famille: cuisines-du-monde
 styles: blanc-aromatique, rouge-solaire, blanc-moelleux
-vins: alsace, alsace-grand-cru-zinnkoepfle, alsace-grand-cru-furstentum, chateauneuf-du-pape, gigondas, saint-amour, vouvray
+vins: alsace, alsace-grand-cru-zinnkoepfle, alsace-grand-cru-furstentum, chateauneuf-du-pape, gigondas, vacqueyras, vouvray
 audace: maury, rivesaltes
 conseil: Peau caramélisée au miel et aux cinq épices, chair grasse et parfumée : le gewurztraminer ou le pinot gris, riches et épicés, parfois légèrement moelleux, sont des accords classiques. Côté rouge, il faut un vin très mûr, au fruit confit et aux tanins ronds. Les vins austères sont durcis par le sucre de la laque.
 
@@ -69,15 +69,15 @@ conseil: Nouilles de riz, tamarin, citron vert, cacahuètes et sauce de poisson 
 nom: Curry indien doux (korma, tikka masala)
 famille: cuisines-du-monde
 styles: blanc-aromatique, blanc-ample, rose-vineux
-vins: alsace, condrieu, igp-collines-rhodaniennes, saint-joseph, vouvray, tavel, igp-pays-d-oc
+vins: alsace, condrieu, igp-collines-rhodaniennes, saint-joseph, saint-peray, tavel, igp-pays-d-oc
 conseil: Sauces crémeuses à la tomate, aux amandes ou au yaourt, riches en épices douces plutôt qu'en piment : un blanc parfumé et rond, pinot gris, viognier ou marsanne, en épouse l'onctuosité. Un rosé corsé est une bonne option. Les tanins se heurtent aux épices et le bois neuf fait double emploi.
 
 @ curry-tres-pimente
 nom: Plats très pimentés (vindaloo, sichuanais)
 famille: cuisines-du-monde
 styles: blanc-moelleux, effervescent-doux, rose-leger
-vins: vouvray, montlouis-sur-loire, coteaux-du-layon, alsace, clairette-de-die, bugey, rose-d-anjou
-conseil: Le piment amplifie l'alcool, les tanins et l'amertume du bois : face à un plat brûlant, tout vin puissant devient pénible. Seuls conviennent des vins légers en alcool, servis très frais, avec un peu de sucre pour apaiser le feu, chenin demi-sec, riesling tendre ou mousseux doux. Aucun grand rouge, qui serait à la fois gâché et agressif.
+vins: vouvray, montlouis-sur-loire, coteaux-du-layon, gaillac, clairette-de-die, bugey, rose-d-anjou
+conseil: Le piment amplifie l'alcool, les tanins et l'amertume du bois : face à un plat brûlant, tout vin puissant devient pénible. Seuls conviennent des vins légers en alcool, servis très frais, avec un peu de sucre pour apaiser le feu, chenin demi-sec, moelleux de Gaillac ou mousseux doux. Aucun grand rouge, qui serait à la fois gâché et agressif.
 
 @ poulet-tandoori
 nom: Poulet tandoori
@@ -126,7 +126,7 @@ conseil: Riz safrané, fruits de mer, poulet et chorizo : un plat composite où 
 nom: Tapas et jambon ibérique
 famille: cuisines-du-monde
 styles: blanc-vif, rose-vineux, vin-jaune
-vins: collioure, igp-cotes-catalanes, irouleguy, picpoul-de-pinet, cotes-du-roussillon, arbois, champagne
+vins: collioure, igp-cotes-catalanes, irouleguy, picpoul-de-pinet, cotes-du-roussillon, arbois, cotes-du-jura
 audace: chateau-chalon
 conseil: Jambon, anchois, olives, croquetas, poivrons : du sel, du gras et de la friture. L'Espagne sert ici ses vins secs élevés sous voile, dont les blancs du Jura sont les cousins français, remarquables avec le jambon. Plus simplement, un blanc vif ou un rosé catalan ; les rouges tanniques sont durcis par le sel.
 
@@ -148,12 +148,12 @@ conseil: Citron vert, coriandre, avocat, tomate crue et piment : la fraîcheur p
 nom: Moussaka
 famille: cuisines-du-monde
 styles: rouge-solaire, rouge-souple
-vins: cotes-du-rhone-villages, vinsobres, ventoux, pic-saint-loup, minervois, patrimonio, coteaux-varois-en-provence
+vins: cotes-du-rhone-villages, vinsobres, ventoux, pic-saint-loup, minervois, vin-de-corse, coteaux-varois-en-provence
 conseil: Aubergines, agneau haché à la tomate et à la cannelle, béchamel gratinée : un plat méditerranéen riche et doucement épicé. Un rouge du Midi rond, aux tanins mûrs, lui répond naturellement. Garder un peu de fraîcheur dans le vin pour alléger l'ensemble.
 
 @ colombo-antillais
 nom: Colombo et cuisine créole
 famille: cuisines-du-monde
 styles: blanc-aromatique, rose-vineux, blanc-moelleux
-vins: alsace, igp-cotes-de-gascogne, tavel, cotes-de-provence, jurancon, vouvray
+vins: alsace, igp-cotes-de-gascogne, tavel, bandol, jurancon, vouvray
 conseil: Mélange d'épices proche du curry, lait de coco ou citron vert, piment antillais plus ou moins présent : un blanc aromatique et frais, ou un rosé de repas, accompagne les épices. Si le plat est très relevé, un vin tendre et peu alcoolisé apaise le feu. Pas de rouge tannique.

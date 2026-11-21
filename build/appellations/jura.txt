@@ -7,11 +7,11 @@ niveau: communale
 couleurs: rouge, rosé, blanc, vin jaune, vin de paille
 styles: rouge-leger, blanc-ample, vin-jaune, liquoreux
 cepages: poulsard*, trousseau*, pinot-noir*, chardonnay*, savagnin*
-surface: environ 800 ha
+surface: environ 770 ha
 depuis: 1936
 def: La plus vaste et la plus ancienne appellation du Jura, autour de la ville d'Arbois, et la première pour les rouges.
-texte: Arbois fut l'une des toutes premières appellations d'origine contrôlée reconnues en France, en mai 1936. Elle couvre une douzaine de communes du nord du vignoble, dont Montigny-lès-Arsures, Mesnay, Les Arsures et Pupillin ; cette dernière peut accoler son nom à l'appellation. Les vignes s'étagent entre 250 et 400 mètres sur les marnes irisées du Trias et les marnes du Lias, recouvertes par endroits d'éboulis calcaires. C'est ici que Louis Pasteur, enfant du pays, mena ses travaux sur la fermentation.
-texte: Arbois produit à peu près autant de rouges que de blancs, ce qui est unique dans le Jura. Le [[poulsard]], appelé ploussard à Pupillin, sa « capitale », donne des vins très pâles, tout en fruits rouges et en délicatesse. Le [[trousseau]], dont Montigny-lès-Arsures est le fief, est plus coloré, poivré, apte à la garde. Le [[pinot-noir]] entre dans les assemblages ou se vinifie seul.
+texte: Arbois fut l'une des toutes premières appellations d'origine contrôlée reconnues en France, en mai 1936. Elle couvre une douzaine de communes du nord du vignoble, dont Montigny-lès-Arsures, Mesnay, Les Arsures et Pupillin ; cette dernière peut accoler son nom à l'appellation. Les vignes s'étagent entre 250 et 400 mètres sur les marnes irisées du Trias et les marnes du Lias, recouvertes par endroits d'éboulis calcaires. C'est ici que Louis Pasteur, qui grandit à Arbois, mena ses travaux sur la fermentation.
+texte: Arbois est l'appellation du Jura où les rouges tiennent le plus de place, même si les blancs y couvrent aujourd'hui des surfaces plus grandes. Le [[poulsard]], appelé ploussard à Pupillin, sa « capitale », donne des vins très pâles, tout en fruits rouges et en délicatesse. Le [[trousseau]], dont Montigny-lès-Arsures est le fief, est plus coloré, poivré, apte à la garde. Le [[pinot-noir]] entre dans les assemblages ou se vinifie seul.
 texte: Les blancs sont issus du [[chardonnay]] et du [[savagnin]], seuls ou associés, élevés fûts pleins ou sous voile selon le style recherché. L'appellation produit aussi du vin jaune, pur savagnin vieilli plus de six ans sous son voile de levures, et du vin de paille, liquoreux de raisins séchés.
 gout: griotte, groseille, épices et sous-bois en rouge ; pomme, noix, amande et curry en blanc
 garde: 3 à 8 ans pour les rouges et les blancs ouillés ; plusieurs décennies pour le vin jaune
@@ -26,10 +26,10 @@ niveau: cru
 couleurs: vin jaune
 styles: vin-jaune
 cepages: savagnin*
-surface: environ 60 ha
+surface: environ 55 ha
 depuis: 1936
 def: Le grand cru de fait du vin jaune : un village perché du Jura dont l'appellation ne produit que ce vin de voile, issu du seul savagnin.
-texte: Château-Chalon occupe un éperon rocheux au-dessus de la vallée de la Seille, au nord de Lons-le-Saunier. Les vignes, réparties sur quatre communes — Château-Chalon, Menétru-le-Vignoble, Nevy-sur-Seille et Domblans —, tapissent des pentes raides exposées au sud et à l'ouest, sous la falaise calcaire qui leur renvoie la chaleur. Le sol de marnes grises et bleues du Lias, couvert d'éboulis, convient idéalement au [[savagnin]]. Une abbaye de moniales nobles a longtemps veillé sur ce vignoble.
+texte: Château-Chalon occupe un éperon rocheux au-dessus de la vallée de la Seille, au nord de Lons-le-Saunier. Les vignes, réparties sur quatre communes — Château-Chalon, Menétru-le-Vignoble, Nevy-sur-Seille et Domblans —, tapissent des pentes raides exposées au sud et au sud-ouest, sous la falaise calcaire qui leur renvoie la chaleur. Le sol de marnes grises et bleues du Lias, couvert d'éboulis, convient idéalement au [[savagnin]]. Une abbaye de moniales nobles a longtemps veillé sur ce vignoble.
 texte: L'appellation est réservée au vin jaune. Le savagnin, vendangé tard, est élevé en fût de chêne plus de six ans, sans ouillage ni soutirage, sous un voile de levures qui le préserve et lui donne ses arômes. Près de quatre litres sur dix s'évaporent ; le reste est mis en clavelin, bouteille de 62 centilitres. Les vignerons sont exigeants : une commission visite les vignes avant la vendange, et l'appellation a été refusée à toute la récolte certaines années médiocres.
 texte: Plus fin et plus minéral que les autres vins jaunes, le château-chalon mêle la noix, la morille, le curry et les épices dans une bouche sèche, puissante, d'une longueur exceptionnelle. Il peut traverser un siècle. Les autres vins des mêmes vignes sont vendus en [[cotes-du-jura|Côtes du Jura]].
 gout: noix fraîche, curry, morille, pomme mûre, épices, bouche sèche et interminable
@@ -44,7 +44,7 @@ niveau: communale
 couleurs: blanc, vin jaune, vin de paille
 styles: blanc-ample, vin-jaune, liquoreux
 cepages: chardonnay*, savagnin*, poulsard
-surface: environ 70 ha
+surface: environ 85 ha
 depuis: 1937
 def: Une petite appellation de blancs au nord de Lons-le-Saunier, connue pour la finesse de ses chardonnays.
 texte: Quatre communes — L'Étoile, Plainoiseau, Saint-Didier et Quintigny — composent cette appellation entourée de cinq collines. Son nom viendrait de cette disposition, ou plus sûrement des pentacrines, petits fossiles en forme d'étoile à cinq branches que l'on ramasse dans les vignes. Les sols de marnes et de calcaires du Lias sont riches en débris coquilliers. On n'y produit que des blancs, des vins jaunes et des vins de paille ; le [[poulsard]] n'y est admis qu'en appoint. Le [[chardonnay]], très majoritaire, y donne des vins élégants, floraux, à la note de noisette et de pierre à fusil, élevés ouillés ou sous voile.
@@ -60,10 +60,10 @@ niveau: régionale
 couleurs: blanc, rouge, rosé, vin jaune, vin de paille
 styles: blanc-ample, rouge-leger, vin-jaune, liquoreux
 cepages: chardonnay*, savagnin*, poulsard*, trousseau*, pinot-noir*
-surface: environ 550 ha
+surface: environ 700 ha
 depuis: 1937
 def: L'appellation régionale du Jura, du nord au sud du Revermont, qui décline tous les types de vins de la région.
-texte: Une centaine de communes ont droit à l'appellation, de la vallée de la Loue au nord jusqu'aux environs de Saint-Amour au sud, mais le cœur se situe autour de Lons-le-Saunier, Voiteur, Le Vernois, Lavigny et dans le Sud-Revermont. Les sols alternent marnes et éboulis calcaires. Les blancs dominent largement : chardonnays floraux ou typés, savagnins ouillés aux arômes d'agrumes ou élevés sous voile, assemblages « tradition » des deux cépages. Les rouges de poulsard, de trousseau et de pinot noir sont légers et fruités. Vin jaune et vin de paille complètent la gamme.
+texte: Cent cinq communes ont droit à l'appellation, de Salins-les-Bains au nord jusqu'aux environs de Saint-Amour au sud, mais le cœur se situe autour de Lons-le-Saunier, Voiteur, Le Vernois, Lavigny et dans le Sud-Revermont. Les sols alternent marnes et éboulis calcaires. Les blancs dominent largement : chardonnays floraux ou typés, savagnins ouillés aux arômes d'agrumes ou élevés sous voile, assemblages « tradition » des deux cépages. Les rouges de poulsard, de trousseau et de pinot noir sont légers et fruités. Vin jaune et vin de paille complètent la gamme.
 gout: pomme, amande, noix et épices en blanc ; petits fruits rouges en rouge
 garde: 3 à 8 ans ; plusieurs décennies pour le vin jaune
 service: 11-13 °C pour les blancs ; 13-15 °C pour les rouges
@@ -76,7 +76,7 @@ niveau: régionale
 couleurs: effervescent
 styles: effervescent-brut
 cepages: chardonnay*, pinot-noir*, poulsard, trousseau, savagnin, pinot-gris
-surface: environ un quart de la production jurassienne
+surface: environ 400 ha, près de 30 % des ventes de vins jurassiens
 depuis: 1995
 def: L'effervescent du Jura, blanc ou rosé, élaboré par seconde fermentation en bouteille sur toute l'aire des appellations jurassiennes.
 texte: La tradition des mousseux est ancienne dans le Jura, notamment à L'Étoile et dans la région d'Arbois ; l'appellation Crémant l'a consacrée en 1995. Les raisins sont vendangés à la main et pressés en grappes entières, puis le vin séjourne au moins neuf mois sur lattes. Le chardonnay forme la base de la plupart des blancs, auxquels il donne fraîcheur et notes de pomme et de fleurs ; le pinot noir et le poulsard dominent dans les rosés. Vif, fin, peu dosé, le crémant du Jura est devenu l'un des piliers économiques du vignoble.
@@ -92,10 +92,10 @@ niveau: régionale
 couleurs: vin de liqueur
 styles: vin-de-liqueur
 cepages: chardonnay*, savagnin*, poulsard, trousseau, pinot-noir
-surface: production confidentielle, sur l'aire des Côtes du Jura
+surface: environ 90 ha, sur l'aire des Côtes du Jura
 depuis: 1991
 def: Le vin de liqueur du Jura : du moût de raisin dont la fermentation est empêchée par l'ajout d'eau-de-vie de marc de la région.
-texte: Le macvin est une mistelle, attestée dans le Jura depuis le XIVᵉ siècle. Le jus des cinq cépages jurassiens, à peine pressé, reçoit environ un tiers d'eau-de-vie de marc du Jura vieillie en fût, issue de la même exploitation : l'alcool bloque la fermentation et conserve tout le sucre du raisin. Le mélange repose ensuite environ un an sous bois. Il titre entre 16 et 22 % d'alcool. Presque toujours blanc, ambré, parfois rouge ou rosé, il marie la douceur du moût et le caractère du marc : fruits confits, raisin sec, coing, épices.
+texte: Le macvin est une mistelle, tradition ancienne du Jura, connue sous le nom de « maquevin » dès le Moyen Âge. Le jus des cinq cépages jurassiens, à peine pressé, reçoit environ un tiers d'eau-de-vie de marc du Jura vieillie en fût, issue de la même exploitation : l'alcool bloque la fermentation et conserve tout le sucre du raisin. Le mélange repose ensuite environ un an sous bois. Il titre entre 16 et 22 % d'alcool. Presque toujours blanc, ambré, parfois rouge ou rosé, il marie la douceur du moût et le caractère du marc : fruits confits, raisin sec, coing, épices.
 gout: raisin sec, coing, fruits confits, écorce d'orange, notes de marc et de noix
 garde: se conserve de longues années ; à boire dans les mois qui suivent l'ouverture
 service: 6-8 °C, à l'apéritif ou au dessert
@@ -108,7 +108,7 @@ niveau: IGP
 couleurs: blanc, rouge, rosé, effervescent
 styles: blanc-vif, rouge-leger
 cepages: chardonnay*, pinot-noir*, auxerrois, gamay, pinot-gris, savagnin, poulsard, trousseau
-surface: quelques centaines d'hectares dispersés
+surface: environ une centaine d'hectares dispersés
 def: L'indication géographique des vignobles francs-comtois situés hors des appellations du Jura, en Haute-Saône, dans le Doubs et le Jura.
 texte: La Franche-Comté portait avant le phylloxéra un vignoble bien plus étendu que le seul Revermont. Cette IGP regroupe ce qu'il en reste ou ce qui a été replanté : coteaux de Champlitte et de Gy en Haute-Saône, vallée de la Loue autour de Vuillafans dans le Doubs, environs de Dole et d'Offlanges dans le nord du Jura. Plusieurs de ces noms peuvent compléter l'indication. Le chardonnay et le pinot noir dominent, à côté de l'auxerrois et du gamay, sur des sols calcaires et marneux. Les vins, de fraîcheur et de fruit, sont d'inspiration plus bourguignonne que jurassienne.
 gout: pomme, agrumes, fleurs blanches ; cerise et fruits rouges en rouge

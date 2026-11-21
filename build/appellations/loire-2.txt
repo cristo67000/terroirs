@@ -9,10 +9,10 @@ niveau: régionale
 couleurs: blanc, rouge, rosé, effervescent
 styles: blanc-vif, rouge-leger, rouge-souple, rose-leger
 cepages: sauvignon-blanc*, sauvignon-gris, chenin, malbec*, cabernet-franc*, gamay*, pinot-noir, grolleau, pineau-d-aunis, chardonnay, orbois
-surface: environ 4 500 ha
+surface: environ 4 000 ha
 depuis: 1939
 def: L'appellation régionale de la Touraine, de la Sologne aux portes de l'Anjou : sauvignons vifs et rouges fruités de la vallée du Cher surtout.
-texte: L'aire s'étend sur l'Indre-et-Loire et le Loir-et-Cher, avec une pointe dans l'Indre, le long de la Loire et de ses affluents, l'Indre et surtout le Cher. C'est entre Chenonceaux, Montrichard et Saint-Aignan, sur les coteaux et les plateaux de la vallée du Cher, que se concentre le vignoble. Les sols sont variés : « perruches » d'argiles à silex, « aubuis » argilo-calcaires sur le tuffeau, sables et graviers en bordure de Sologne. Le climat marque la transition entre influences océanique et continentale.
+texte: L'aire s'étend sur l'Indre-et-Loire et le Loir-et-Cher, le long de la Loire et de ses affluents, l'Indre et surtout le Cher. C'est entre Chenonceaux, Montrichard et Saint-Aignan, sur les coteaux et les plateaux de la vallée du Cher, que se concentre le vignoble. Les sols sont variés : « perruches » d'argiles à silex, « aubuis » argilo-calcaires sur le tuffeau, sables et graviers en bordure de Sologne. Le climat marque la transition entre influences océanique et continentale.
 texte: Le blanc, issu du sauvignon, est le produit phare : aromatique, net, d'une vivacité franche, à boire jeune. En rouge, le côt (nom local du malbec) et le cabernet franc forment la base des assemblages, tandis que le gamay donne seul un vin léger, vendu aussi en primeur. Des rosés et des mousseux complètent la gamme.
 texte: Cinq dénominations géographiques précisent l'origine. Touraine Chenonceaux, dans la vallée du Cher, propose des sauvignons plus mûrs et des rouges de côt et de cabernet franc élevés plus longuement ; Touraine Oisly ne concerne que le sauvignon. Touraine Amboise et Touraine Mesland, au bord de la Loire, font une place au chenin en blanc ; Touraine Azay-le-Rideau, dans la vallée de l'Indre, produit des blancs de chenin et des rosés de grolleau.
 gout: buis, pamplemousse, bourgeon de cassis en blanc ; cerise, mûre et épices en rouge
@@ -31,7 +31,7 @@ cepages: cabernet-franc*, cabernet-sauvignon, chenin*
 surface: environ 2 400 ha
 depuis: 1937
 def: Dans la basse vallée de la Vienne, le grand rouge de cabernet franc de la Touraine, le vin du pays de Rabelais.
-texte: Le vignoble entoure la ville de Chinon, sur les deux rives de la Vienne jusqu'à son confluent avec la Loire, dans une vingtaine de communes. Protégé des vents d'ouest par les coteaux, il bénéficie d'un climat doux. Trois types de terroirs s'y distinguent. Les terrasses de graviers et de sables, près de la rivière, donnent des vins souples et fruités, à boire tôt. Les coteaux et les buttes de tuffeau jaune, argilo-calcaires, bien exposés au sud, portent les vins de garde. Les plateaux d'argiles à silex produisent des vins intermédiaires, fermes et droits.
+texte: Le vignoble entoure la ville de Chinon, sur les deux rives de la Vienne jusqu'à son confluent avec la Loire, dans vingt-six communes d'Indre-et-Loire. Protégé des vents d'ouest par les coteaux, il bénéficie d'un climat doux. Trois types de terroirs s'y distinguent. Les terrasses de graviers et de sables, près de la rivière, donnent des vins souples et fruités, à boire tôt. Les coteaux et les buttes de tuffeau jaune, argilo-calcaires, bien exposés au sud, portent les vins de garde. Les plateaux d'argiles à silex produisent des vins intermédiaires, fermes et droits.
 texte: Le cabernet franc, que l'on appelle ici « breton », compose presque seul les rouges ; le cabernet-sauvignon n'est admis qu'en appoint. Jeune, le chinon sent la framboise, la violette et le poivron mûr, avec des tanins fins et une fraîcheur caractéristique. Les cuvées de coteau, élevées en fût ou en foudre dans les caves creusées dans le tuffeau, prennent avec l'âge des notes de sous-bois, de fourrure et de truffe, et se gardent vingt ans dans les grandes années.
 texte: Le rosé est sec et vif. Le blanc de chenin, longtemps confidentiel, connaît un renouveau : sec, tendu, marqué par la craie.
 gout: framboise, cassis, violette, graphite, poivron mûr, tanins fins ; sous-bois et truffe avec l'âge
@@ -47,7 +47,7 @@ niveau: communale
 couleurs: rouge, rosé
 styles: rouge-souple, rouge-charpente, rose-leger
 cepages: cabernet-franc*, cabernet-sauvignon
-surface: environ 1 400 ha
+surface: environ 1 200 ha
 depuis: 1937
 def: Sur la rive droite de la Loire, face à Chinon, des rouges de cabernet franc fermes et de bonne garde.
 texte: Bourgueil s'étend sur sept communes d'Indre-et-Loire, entre la Loire et la forêt qui couronne le coteau et l'abrite des vents du nord. L'abbaye fondée à la fin du Xᵉ siècle en fut le berceau. Le vignoble s'organise en gradins. En bas, une ancienne terrasse du fleuve, faite de sables et de graviers, donne des vins fruités et tendres. Plus haut, le coteau de tuffeau, argilo-calcaire et exposé plein sud, fournit des vins plus sombres et plus tanniques, élevés dans les caves creusées dans la roche.
@@ -99,10 +99,10 @@ niveau: communale
 couleurs: blanc, moelleux, liquoreux, effervescent
 styles: blanc-vif, blanc-moelleux, effervescent-brut, liquoreux
 cepages: chenin*
-surface: environ 450 ha
+surface: environ 400 ha
 depuis: 1938
 def: Face à Vouvray, entre Loire et Cher, une appellation de chenin en plein essor, des secs tendus aux moelleux et aux fines bulles.
-texte: Montlouis occupe trois communes, Montlouis, Lussault et Saint-Martin-le-Beau, sur la langue de plateau qui sépare la Loire du Cher. Ses vins furent vendus sous le nom de [[vouvray|Vouvray]] jusqu'à ce que la justice et l'appellation les en séparent. Le socle est le même tuffeau, mais la couverture diffère : davantage de sables et d'argiles à silex, des sols plus légers, des expositions tournées vers les deux rivières.
+texte: Montlouis occupe trois communes, Montlouis, Lussault et Saint-Martin-le-Beau, sur la langue de plateau qui sépare la Loire du Cher. Ses vins furent longtemps vendus sous le nom de [[vouvray|Vouvray]], avant que l'appellation, reconnue en 1938, ne les en distingue. Le socle est le même tuffeau, mais la couverture diffère : davantage de sables et d'argiles à silex, des sols plus légers, des expositions tournées vers les deux rivières.
 texte: Le chenin y donne des vins un peu plus déliés que sur l'autre rive, d'une tension très pure. Selon le millésime, il est vinifié en sec, en demi-sec, en moelleux ou en liquoreux. Une génération de vignerons exigeants, travaillant souvent en bio et élevant en fût, a fait des secs de Montlouis des références du chenin de Loire.
 texte: Les effervescents comptent pour une part importante : mousseux et pétillants de méthode traditionnelle, et « pétillant originel », mention propre à l'appellation, qui désigne un vin dont la mousse vient d'une seule fermentation achevée en bouteille, sans ajout de sucre ni de levures.
 gout: poire, coing, agrumes, fleurs blanches, silex, bouche tendue
@@ -120,7 +120,7 @@ cepages: pinot-meunier*, pinot-gris*, pinot-noir*
 surface: une trentaine d'hectares
 depuis: 2001
 def: Aux portes de Tours, un vin gris ressuscité, assemblage de trois pinots : meunier, gris et noir.
-texte: Le Noble Joué, apprécié dit-on à la cour de Louis XI, avait presque disparu sous l'avancée de l'agglomération tourangelle avant que quelques vignerons ne le relancent dans les années 1970. Il est produit dans cinq communes au sud de Tours, entre Cher et Indre. Les trois pinots, pressés sans macération, donnent un rosé très pâle, sec, délicat, plus vineux que sa teinte ne le laisse attendre.
+texte: Le Noble Joué, apprécié dit-on à la cour de Louis XI, avait presque disparu sous l'avancée de l'agglomération tourangelle avant que quelques vignerons ne le relancent à la fin du XXᵉ siècle. Il est produit dans cinq communes au sud de Tours, entre Cher et Indre. Les trois pinots, pressés sans macération, donnent un rosé très pâle, sec, délicat, plus vineux que sa teinte ne le laisse attendre.
 gout: cerise, fraise des bois, pêche, note épicée, bouche fine et sèche
 garde: à boire dans les 2 ans
 service: 8-10 °C
@@ -133,7 +133,7 @@ niveau: communale
 couleurs: blanc, rouge, rosé
 styles: blanc-vif, rouge-leger, rose-leger
 cepages: sauvignon-blanc*, sauvignon-gris, chardonnay, chenin, orbois, pinot-noir*, gamay*, malbec
-surface: environ 600 ha
+surface: environ 700 ha
 depuis: 1993
 def: En lisière de Sologne, au sud de Blois, des vins d'assemblage : sauvignon et chardonnay en blanc, pinot noir et gamay en rouge.
 texte: Le vignoble s'étend sur la rive gauche de la Loire, autour des châteaux de Cheverny et de Chambord, sur des sols sableux et argilo-siliceux de Sologne et des terrasses calcaires proches du fleuve. L'assemblage y est la règle. Le blanc marie le sauvignon, dominant, à un peu de chardonnay, qui l'arrondit. Le rouge unit le pinot noir au gamay : léger, fruité, épicé, il évoque un passe-tout-grains ligérien.
@@ -149,7 +149,7 @@ niveau: communale
 couleurs: blanc
 styles: blanc-vif, blanc-moelleux
 cepages: romorantin*
-surface: une soixantaine d'hectares
+surface: environ 70 ha
 depuis: 1993
 def: Le conservatoire du romorantin, cépage blanc que l'on ne cultive nulle part ailleurs, dans quelques communes de Sologne.
 texte: Enclavée dans l'aire de [[cheverny|Cheverny]], l'appellation est réservée à un seul cépage, le romorantin, apparenté au chardonnay et dont la tradition attribue l'introduction à François Iᵉʳ. Sur des sols de sables et d'argiles à silex, il donne un blanc sec d'une acidité vive, austère jeune, qui développe en vieillissant des notes de miel, de cire et d'acacia. Les belles années permettent quelques vins demi-secs ou moelleux.
@@ -165,10 +165,10 @@ niveau: communale
 couleurs: blanc, rouge, rosé
 styles: blanc-vif, rouge-leger, rose-leger
 cepages: sauvignon-blanc*, chardonnay, orbois, sauvignon-gris, gamay*, malbec*, pinot-noir*, cabernet-franc, pineau-d-aunis
-surface: environ 150 ha
+surface: environ 200 ha
 depuis: 2004
 def: Aux confins de la Touraine et du Berry, un petit vignoble d'assemblage dont le nom est aussi celui d'un fromage de chèvre.
-texte: Valençay occupe les coteaux de la rive gauche du Cher, dans l'Indre surtout, autour du château qui fut celui de Talleyrand. Les sols d'argiles à silex et de sables donnent aux vins une note minérale. Le blanc repose sur le sauvignon, assoupli de chardonnay ; le rouge assemble gamay, côt et pinot noir en un vin fruité et épicé. C'est l'un des rares terroirs à porter une appellation pour son vin et pour son fromage.
+texte: Valençay occupe des coteaux et des plateaux du sud de la Touraine, dans l'Indre surtout, autour du château qui fut celui de Talleyrand. Les sols d'argiles à silex et de sables donnent aux vins une note minérale. Le blanc repose sur le sauvignon, assoupli de chardonnay ; le rouge assemble gamay, côt et pinot noir en un vin fruité et épicé. C'est l'un des rares terroirs à porter une appellation pour son vin et pour son fromage.
 gout: agrumes, fleurs blanches, silex en blanc ; fruits rouges et épices en rouge
 garde: à boire dans les 2 à 4 ans
 service: 8-10 °C pour les blancs ; 14 °C pour les rouges
@@ -213,7 +213,7 @@ niveau: sous-régionale
 couleurs: rouge, rosé, blanc
 styles: rose-leger, rouge-leger, blanc-vif
 cepages: pineau-d-aunis*, cabernet-franc, pinot-noir, gamay, chenin*, chardonnay
-surface: environ 120 ha
+surface: environ 100 ha
 depuis: 2001
 def: En amont de la vallée du Loir, autour de Vendôme, un vignoble connu pour son vin gris de pineau d'Aunis.
 texte: Entre Vendôme et Montoire, dans le Loir-et-Cher, les vignes occupent des coteaux de tuffeau recouverts d'argiles à silex, où abondent les caves troglodytiques. La spécialité est le « gris », rosé très pâle issu du seul pineau d'Aunis, sec, vif et poivré. Le même cépage domine les rouges, assemblé au cabernet franc, au pinot noir ou au gamay. Les blancs, à base de chenin, sont secs et nerveux.
@@ -234,7 +234,7 @@ cepages: sauvignon-blanc*, pinot-noir*
 surface: environ 3 000 ha
 depuis: 1936
 def: Sur les collines du Cher, rive gauche de la Loire, le plus célèbre des blancs de sauvignon, et des rouges de pinot noir.
-texte: Le vignoble entoure la butte de Sancerre et s'étend sur quatorze communes, parmi lesquelles Bué, Verdigny, Sury-en-Vaux, Crézancy et le hameau de Chavignol. Le relief est vigoureux pour la Loire : des collines aux pentes raides, entre 200 et 400 mètres, sous un climat semi-continental. Trois familles de sols se partagent le terrain. Les « terres blanches », marnes kimméridgiennes des collines de l'ouest, donnent des vins charpentés, lents à s'ouvrir. Les « caillottes », calcaires secs et pierreux, produisent des vins parfumés et précoces. Les argiles à silex, à l'est, près de la ville, apportent une note fumée et une grande tenue.
+texte: Le vignoble entoure la butte de Sancerre et s'étend sur quatorze communes, parmi lesquelles Bué, Verdigny, Sury-en-Vaux, Crézancy et le hameau de Chavignol. Le relief est vigoureux pour la Loire : des collines aux pentes raides, entre 180 et 350 mètres, sous un climat semi-continental. Trois familles de sols se partagent le terrain. Les « terres blanches », marnes kimméridgiennes des collines de l'ouest, donnent des vins charpentés, lents à s'ouvrir. Les « caillottes », calcaires secs et pierreux, produisent des vins parfumés et précoces. Les argiles à silex, à l'est, près de la ville, apportent une note fumée et une grande tenue.
 texte: Le blanc, issu du seul sauvignon, représente environ les quatre cinquièmes de la production. Son style a fixé l'image du cépage : arômes d'agrumes, de buis, de fleurs blanches et de pierre à fusil, bouche droite et fraîche. La plupart des vins se boivent dans leurs premières années, mais les cuvées de lieux-dits, parfois élevées en fût, gagnent à attendre.
 texte: Le pinot noir, qui dominait le vignoble avant le phylloxéra, donne des rouges légers et fruités, de plus en plus ambitieux sur les meilleurs coteaux, et des rosés secs et délicats. Les rouges et rosés n'ont rejoint l'appellation qu'en 1959.
 gout: pamplemousse, citron, buis, fleur d'acacia, pierre à fusil, bouche vive ; cerise et griotte en rouge
@@ -268,7 +268,7 @@ niveau: communale
 couleurs: blanc
 styles: blanc-vif
 cepages: chasselas*
-surface: une trentaine d'hectares
+surface: une vingtaine d'hectares
 depuis: 1937
 def: Le blanc de chasselas de Pouilly, souvenir du temps où ce vignoble fournissait Paris en raisin de table.
 texte: Cette appellation partage exactement l'aire du [[pouilly-fume|Pouilly-Fumé]], mais repose sur le chasselas, cépage qui couvrait l'essentiel du vignoble au XIXᵉ siècle, quand ses grappes partaient par le fleuve puis par le train vers les marchés de la capitale. Réduit à quelques dizaines d'hectares, souvent sur les sols siliceux, il donne un vin sec, léger, peu acide, aux arômes discrets de fruits blancs et de noisette.
@@ -287,7 +287,7 @@ cepages: sauvignon-blanc*, pinot-noir*
 surface: environ 600 ha
 depuis: 1959
 def: Entre Bourges et Sancerre, sur les mêmes marnes kimméridgiennes, des sauvignons et des pinots noirs proches de leurs illustres voisins.
-texte: L'appellation prolonge le Sancerrois vers le sud-ouest, sur dix communes dont Menetou-Salon et Morogues. Les collines y sont plus douces, et les sols presque uniformément faits de calcaires et de marnes du Kimméridgien. Le sauvignon donne un blanc floral et fruité, un peu plus rond que le [[sancerre|Sancerre]]. Le pinot noir, qui occupe environ un tiers des surfaces, produit des rouges souples aux arômes de cerise, parfois élevés en fût.
+texte: L'appellation prolonge le Sancerrois vers le sud-ouest, sur dix communes dont Menetou-Salon et Morogues. Les collines y sont plus douces, et les sols presque uniformément faits de calcaires et de marnes du Kimméridgien. Le sauvignon donne un blanc floral et fruité, un peu plus rond que le [[sancerre|Sancerre]]. Le pinot noir, qui occupe environ un quart des surfaces, produit des rouges souples aux arômes de cerise, parfois élevés en fût.
 gout: agrumes, fleurs blanches, menthe, pointe épicée en blanc ; cerise et griotte en rouge
 garde: blancs 2 à 4 ans ; rouges 3 à 6 ans
 service: 9-11 °C pour les blancs ; 14-15 °C pour les rouges
@@ -300,9 +300,9 @@ niveau: communale
 couleurs: blanc
 styles: blanc-vif
 cepages: sauvignon-blanc*, sauvignon-gris
-surface: environ 300 ha
+surface: environ 350 ha
 depuis: 1936
-def: À l'ouest de Bourges, sur les terrasses sableuses du Cher, un sauvignon précoce et parfumé, première AOC du Val de Loire.
+def: À l'ouest de Bourges, sur les terrasses sableuses du Cher, un sauvignon précoce et parfumé, première AOC du Centre-Loire.
 texte: Quincy s'étend sur deux communes, Quincy et Brinay, sur un plateau de la rive gauche du Cher. Les sols de sables et de graviers anciens, posés sur des argiles, se réchauffent vite, sous l'un des climats les plus secs de la région, exposé toutefois aux gelées de printemps. Le sauvignon y mûrit tôt et donne un blanc très expressif, vif et léger, à boire sur son fruit.
 gout: pamplemousse, fleurs blanches, bourgeon de cassis, bouche vive et légère
 garde: à boire dans les 2 à 3 ans
@@ -316,10 +316,10 @@ niveau: communale
 couleurs: blanc, rouge, rosé
 styles: blanc-vif, rose-leger, rouge-leger
 cepages: sauvignon-blanc*, pinot-noir*, pinot-gris*
-surface: environ 280 ha
+surface: environ 300 ha
 depuis: 1937
 def: Dans le Berry, entre Indre et Cher, un petit vignoble de sauvignon, de pinot noir et d'un rare rosé de pinot gris.
-texte: Reuilly occupe les coteaux de l'Arnon et du Cher, à l'ouest de Bourges, sur sept communes de l'Indre et du Cher. Les pentes portent des marnes calcaires, les hautes terrasses des sables et des graviers. Le sauvignon donne un blanc sec, frais et fruité ; le pinot noir, un rouge léger. La spécialité locale est le rosé de pinot gris, vin « gris » très pâle, tendre et délicat, que l'on ne rencontre guère ailleurs dans la région.
+texte: Reuilly occupe les coteaux de l'Arnon et du Cher, à l'ouest de Bourges, sur quelques communes de l'Indre et du Cher. Les pentes portent des marnes calcaires, les hautes terrasses des sables et des graviers. Le sauvignon donne un blanc sec, frais et fruité ; le pinot noir, un rouge léger. La spécialité locale est le rosé de pinot gris, vin « gris » très pâle, tendre et délicat, que l'on ne rencontre guère ailleurs dans la région.
 gout: agrumes et fleurs blanches en blanc ; pêche et fruits rouges pour le gris ; cerise en rouge
 garde: à boire dans les 2 à 4 ans
 service: 9-10 °C pour les blancs et gris ; 14 °C pour les rouges
@@ -364,7 +364,7 @@ niveau: communale
 couleurs: rouge, rosé, blanc
 styles: rouge-leger, rose-leger, blanc-vif
 cepages: pinot-meunier*, pinot-noir, chardonnay*, pinot-gris
-surface: environ 70 ha
+surface: environ 40 ha
 depuis: 2006
 def: Autour d'Orléans, le reste d'un vignoble jadis immense, où le pinot meunier donne des rouges légers.
 texte: Au Moyen Âge et jusqu'au XIXᵉ siècle, l'Orléanais fut l'un des grands vignobles du royaume, fournisseur de Paris et berceau d'un vinaigre réputé. Il n'en subsiste que quelques dizaines d'hectares, sur les terrasses sablo-graveleuses des deux rives de la Loire. Fait rare hors de Champagne, le rouge et le rosé reposent sur le pinot meunier, complété de pinot noir : vins clairs, souples, au fruit délicat. Le blanc est issu du chardonnay.
@@ -380,7 +380,7 @@ niveau: communale
 couleurs: rouge
 styles: rouge-leger
 cepages: cabernet-franc*
-surface: une trentaine d'hectares
+surface: une dizaine d'hectares
 depuis: 2006
 def: Sur la rive gauche de la Loire, en aval d'Orléans, un rouge de pur cabernet franc à la limite nord du cépage.
 texte: Autour de Cléry-Saint-André et de sa basilique, quelques communes de la rive gauche cultivent le cabernet franc sur des terrasses de sables et de graviers, sols chauds qui compensent un climat frais. Le vin, rouge uniquement, est plus léger que ceux de Touraine : couleur vive, arômes de fruits rouges et de poivron, tanins fins, à boire dans sa jeunesse.
@@ -398,7 +398,7 @@ niveau: communale
 couleurs: blanc, rouge, rosé
 styles: blanc-vif, rouge-leger, rose-leger
 cepages: chardonnay*, sacy*, sauvignon-blanc, gamay*, pinot-noir*
-surface: environ 600 ha
+surface: environ 550 ha
 depuis: 2009
 def: Dans l'Allier, l'un des plus anciens vignobles de France, dont le blanc associe le chardonnay au tressallier local.
 texte: Le vignoble du Bourbonnais s'étire sur dix-neuf communes, le long de la Sioule, de la Bouble et de l'Allier, sur des coteaux argilo-calcaires, granitiques ou graveleux. Très prisés à la cour des rois et des papes au Moyen Âge, ses vins voyageaient par la rivière. Le blanc doit son caractère au tressallier, nom local du sacy, qui apporte au chardonnay vivacité et notes d'agrumes. Les rouges assemblent gamay et pinot noir ; les rosés sont de pur gamay.
@@ -414,7 +414,7 @@ niveau: sous-régionale
 couleurs: rouge, rosé, blanc
 styles: rouge-leger, rose-leger, blanc-vif
 cepages: gamay*, pinot-noir*, chardonnay*
-surface: environ 300 ha
+surface: environ 250 ha
 depuis: 2011
 def: Dans le Puy-de-Dôme, de Riom à Issoire, un vignoble de gamay et de pinot noir sur sols volcaniques.
 texte: Les vignes s'accrochent aux buttes et aux coteaux qui bordent la plaine de la Limagne, au pied de la chaîne des Puys, entre 350 et 500 mètres. Coulées de basalte, pépérites, marnes et calcaires se mêlent dans les sols ; les volcans font écran aux pluies d'ouest. Cinq dénominations locales peuvent figurer sur l'étiquette : Madargue, Châteaugay, Chanturgue et Boudes pour les rouges, Corent pour les rosés. Le gamay donne des vins fruités et poivrés, le chardonnay des blancs droits.
@@ -431,10 +431,10 @@ niveau: sous-régionale
 couleurs: rouge, rosé
 styles: rouge-leger, rose-leger
 cepages: gamay*
-surface: environ 200 ha
+surface: environ 170 ha
 depuis: 1994
 def: À l'ouest de Roanne, sur les pentes granitiques des monts de la Madeleine, un gamay de la haute Loire.
-texte: Le vignoble occupe une quinzaine de communes de la rive gauche de la Loire, sur des coteaux exposés à l'est et au sud, entre 350 et 500 mètres. Les arènes granitiques, sableuses et acides, rappellent celles du [[region:beaujolais|Beaujolais]], situé de l'autre côté des monts. On y cultive une forme locale du gamay, dite Saint-Romain. Les rouges sont fruités, souples, parfois plus structurés lorsqu'ils proviennent de vieilles vignes ; les rosés sont vifs.
+texte: Le vignoble occupe quatorze communes de la rive gauche de la Loire, sur des coteaux situés entre 350 et 550 mètres d'altitude. Les arènes granitiques, sableuses et acides, rappellent celles du [[region:beaujolais|Beaujolais]], situé de l'autre côté des monts. On y cultive une forme locale du gamay, dite Saint-Romain. Les rouges sont fruités, souples, parfois plus structurés lorsqu'ils proviennent de vieilles vignes ; les rosés sont vifs.
 gout: cerise, framboise, pivoine, poivre, tanins légers
 garde: à boire dans les 2 à 4 ans
 service: 13-14 °C
@@ -447,7 +447,7 @@ niveau: sous-régionale
 couleurs: rouge, rosé
 styles: rouge-leger, rose-leger
 cepages: gamay*
-surface: environ 150 ha
+surface: environ 100 ha
 depuis: 2000
 def: Sur le piémont des monts du Forez, autour de Montbrison et de Boën, des gamays d'altitude sur granite et basalte.
 texte: Entre la plaine du Forez et la montagne, dix-sept communes de la Loire portent ce vignoble haut perché, souvent entre 400 et 600 mètres. Deux types de sols se côtoient : des arènes granitiques, qui donnent des vins légers et fruités, et des buttes d'origine volcanique, basaltiques, d'où viennent des cuvées plus corsées et épicées. Le gamay est seul autorisé, en rouge comme en rosé.

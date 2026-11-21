@@ -27,7 +27,7 @@ nom: Moules-frites
 famille: coquillages-crustaces
 styles: blanc-vif, effervescent-brut
 vins: muscadet-sevre-et-maine, petit-chablis, alsace, haut-poitou, igp-val-de-loire, cremant-de-loire
-conseil: Aux moules s'ajoutent le gras et le sel des frites : l'acidité d'un blanc sec et désaltérant, ou les bulles d'un crémant, remettent le palais à neuf entre deux bouchées. Dans le Nord, on sert volontiers un pinot blanc d'Alsace. Les vins tendres ou parfumés n'apportent rien.
+conseil: Aux moules s'ajoutent le gras et le sel des frites : l'acidité d'un blanc sec et désaltérant, ou les bulles d'un crémant, remettent le palais à neuf entre deux bouchées. Dans le Nord, la bière reste la compagne habituelle du plat ; au vin, un pinot blanc d'Alsace sec et vif convient bien. Les vins tendres ou parfumés n'apportent rien.
 
 @ saint-jacques-poelees
 nom: Noix de Saint-Jacques poêlées
@@ -41,7 +41,7 @@ conseil: La noix de Saint-Jacques est douce, presque sucrée, et le beurre de cu
 nom: Carpaccio de Saint-Jacques
 famille: coquillages-crustaces
 styles: blanc-vif, effervescent-brut
-vins: chablis, sancerre, pouilly-fume, champagne, muscadet-sevre-et-maine, cassis, alsace-grand-cru-schlossberg
+vins: chablis, sancerre, pouilly-fume, champagne, muscadet-sevre-et-maine, cassis, alsace
 conseil: Crue, à peine assaisonnée d'huile d'olive et de citron, la noix demande un blanc pur et précis, sans bois, dont la minéralité souligne sa douceur. Chablis, riesling sec ou champagne peu dosé sont des valeurs sûres. Tout vin puissant ou parfumé prendrait le dessus.
 
 @ homard-grille
@@ -90,7 +90,7 @@ conseil: Huîtres, bulots, crevettes, crabe et mayonnaise : un seul vin doit sui
 @ crabe-et-araignee
 nom: Tourteau et araignée de mer
 famille: coquillages-crustaces
-styles: blanc-vif, blanc-aromatique
+styles: blanc-vif, blanc-aromatique, blanc-ample
 vins: muscadet-sevre-et-maine, sancerre, chablis, savennieres, alsace, graves, jasnieres
 conseil: La chair du crabe est fine, douce et un peu sucrée, celle de l'araignée plus délicate encore. Un blanc sec à l'acidité mûre, sauvignon, chenin ou riesling, la fait ressortir sans l'agresser. Avec la mayonnaise, garder un vin franchement vif.
 

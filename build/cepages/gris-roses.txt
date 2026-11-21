@@ -5,8 +5,7 @@ nom: Gewurztraminer
 couleur: rose
 alias: traminer aromatique, savagnin rose aromatique
 def: Cépage alsacien à baies roses, au parfum exubérant de rose et de litchi, qui donne des blancs amples et souvent moelleux.
-origine: Forme aromatique du savagnin rose, lui-même variante de couleur du savagnin ; *Gewürz* signifie « épice » en allemand. Il s'est imposé en Alsace à la fin du XIXᵉ siècle.
-surface: environ 3 000 ha en France, presque tous en Alsace
+origine: Forme aromatique du savagnin rose, lui-même variante de couleur du savagnin ; *Gewürz* signifie « épice » en allemand.surface: environ 3 000 ha en France, presque tous en Alsace
 texte: Le gewurztraminer débourre tôt, ce qui l'expose aux gelées, et produit peu. Ses petites grappes aux baies rose cuivré accumulent beaucoup de sucre tout en perdant vite leur acidité. Il réussit sur les sols profonds, marneux ou argilo-calcaires, qui lui donnent de la tenue.
 texte: Le vin, d'un or soutenu, est l'un des plus reconnaissables : rose, litchi, fruits exotiques, épices, gingembre. La bouche est grasse, riche en alcool, peu acide, avec une fine amertume en finale. Les versions sèches existent, mais beaucoup gardent un peu de sucre. Très sensible à la pourriture noble et au passerillage, le cépage donne de grandes vendanges tardives et sélections de grains nobles.
 texte: Il est l'un des quatre cépages nobles admis dans presque tous les grands crus d'[[alsace|Alsace]], et brille sur les marnes calcaires de terroirs comme le Hengst, le Furstentum, le Mambourg ou le Zinnkoepfle. On en trouve quelques vignes en Moselle.
@@ -31,7 +30,7 @@ nom: Savagnin rose (klevener de Heiligenstein)
 couleur: rose
 alias: klevener de Heiligenstein, traminer rose
 def: Forme rose et peu aromatique du savagnin, spécialité de cinq communes alsaciennes autour de Heiligenstein.
-origine: Variante de couleur du savagnin ; introduite à Heiligenstein en 1742 par le bourgmestre Ehret Wantz. Le gewurztraminer en est la forme aromatique.
+origine: Variante de couleur du savagnin ; selon la tradition, introduite à Heiligenstein en 1742 par le bourgmestre du village. Le gewurztraminer en est la forme aromatique.
 texte: Le savagnin rose ne se cultive en France que sur quelques dizaines d'hectares, à Heiligenstein et dans quatre communes voisines du Bas-Rhin, où il porte la dénomination « klevener de Heiligenstein » au sein de l'appellation [[alsace|Alsace]]. À ne pas confondre avec le klevner, nom alsacien du pinot blanc.
 texte: Le vin rappelle un [[gewurztraminer]] en demi-teinte : moins exubérant, plus discret au nez, souple, avec des notes de fruits jaunes, d'épices douces et une légère amertume.
 aromes: fruits jaunes, épices douces, amande
@@ -58,7 +57,7 @@ couleur: gris
 alias: malvoisie (Loire, Savoie), fromenteau (Champagne) ; anciennement tokay d'Alsace
 def: Mutation grise du pinot noir, qui donne en Alsace des blancs puissants, fumés, parfois moelleux.
 origine: Mutation de couleur du pinot noir, connue en Bourgogne dès le Moyen Âge. Le nom « tokay », longtemps employé en Alsace, a été abandonné en 2007.
-surface: environ 2 500 ha en France, surtout en Alsace
+surface: environ 2 800 ha en France, surtout en Alsace
 texte: Précoce comme tous les pinots, le pinot gris porte de petites grappes serrées, aux baies gris-rose à bleutées, sensibles à la pourriture. Il atteint aisément de hauts degrés et produit peu. Il réussit sur les sols argilo-calcaires et volcaniques.
 texte: Le vin est doré, opulent, moins acide que le [[riesling]] mais plus structuré que le [[gewurztraminer]], avec des arômes de fruits jaunes, de sous-bois, de miel et une note fumée caractéristique. Sec, il a du corps ; la pourriture noble en fait de superbes vendanges tardives et sélections de grains nobles.
 texte: Cépage noble d'[[alsace|Alsace]], il est admis dans les grands crus, où le Rangen de Thann lui donne une expression puissante et fumée. En Loire, sous le nom de malvoisie, il produit des vins tendres dans les [[coteaux-d-ancenis|Coteaux d'Ancenis]], des rosés très pâles à [[reuilly|Reuilly]] et participe au [[touraine-noble-joue|Touraine Noble Joué]].

@@ -19,7 +19,7 @@ couleur: blanc
 alias: roussette
 def: Cépage noble de Savoie, tardif, aux blancs fins, parfumés et aptes à la garde.
 origine: Savoie. Le récit qui la fait venir de Chypre au XVᵉ siècle tient de la légende.
-surface: environ 350 ha en France
+surface: plus de 300 ha en France
 texte: L'altesse mûrit tard et produit peu ; ses baies se teintent de roux à maturité, d'où le nom de roussette. Elle donne des vins plus riches et plus complexes que la [[jacquere]] : noisette, amande, bergamote, miel, soutenus par une belle acidité qui leur permet de vieillir plusieurs années.
 texte: Elle est le cépage unique de la [[roussette-de-savoie|Roussette de Savoie]], dont les crus sont Frangy, Marestel, Monterminod et Monthoux, et de la [[roussette-du-bugey|Roussette du Bugey]]. À [[seyssel|Seyssel]], elle produit des vins tranquilles et participe aux mousseux.
 aromes: noisette, amande, bergamote, miel, violette
@@ -45,7 +45,7 @@ couleur: blanc
 alias: arrufiat, ruffiac
 def: Cépage blanc gascon d'appoint, fin et légèrement amer, propre au Vic-Bilh.
 origine: Piémont pyrénéen, vallée de l'Adour.
-texte: Presque abandonné, l'arrufiac a été relancé dans les années 1980 par les vignerons du Gers. Il donne un vin modéré en alcool, délicatement parfumé, avec une pointe d'amertume qui structure les assemblages. On le trouve dans le [[pacherenc-du-vic-bilh|Pacherenc du Vic-Bilh]] et les blancs de [[saint-mont|Saint-Mont]], auprès du [[gros-manseng]], du [[petit-manseng]] et du [[courbu]].
+texte: Presque abandonné, l'arrufiac a été remis en valeur à la fin du XXᵉ siècle par les vignerons de Saint-Mont et du Vic-Bilh. Il donne un vin modéré en alcool, délicatement parfumé, avec une pointe d'amertume qui structure les assemblages. On le trouve dans le [[pacherenc-du-vic-bilh|Pacherenc du Vic-Bilh]] et les blancs de [[saint-mont|Saint-Mont]], auprès du [[gros-manseng]], du [[petit-manseng]] et du [[courbu]].
 aromes: fleurs blanches, amande, pierre à fusil
 regions: sud-ouest
 appellations: pacherenc-du-vic-bilh, saint-mont
@@ -70,7 +70,7 @@ couleur: blanc
 alias: barroque
 def: Cépage blanc landais, charnu et parfumé, propre à l'appellation Tursan.
 origine: Landes, vallée de l'Adour.
-texte: Le baroque n'est cultivé que dans le vignoble de [[tursan|Tursan]], dont il est le cépage blanc principal. Sa résistance à l'oïdium lui a valu d'être largement planté à la fin du XIXᵉ siècle. Il donne des vins assez riches en alcool, ronds, aux arômes de poire et de fruits mûrs, que le [[gros-manseng]] et le [[sauvignon-blanc]] viennent rafraîchir.
+texte: Le baroque n'est cultivé que dans le vignoble de [[tursan|Tursan]], dont il est le cépage blanc principal. Il donne des vins assez riches en alcool, ronds, aux arômes de poire et de fruits mûrs, que le [[gros-manseng]] et le [[sauvignon-blanc]] viennent rafraîchir.
 aromes: poire, pêche, noisette
 regions: sud-ouest
 appellations: tursan
@@ -81,7 +81,7 @@ nom: Biancu gentile
 couleur: blanc
 def: Ancien cépage blanc corse, remis en culture à la fin du XXᵉ siècle, aux vins riches et exotiques.
 origine: Corse.
-texte: Disparu des vignobles, le biancu gentile a été retrouvé en collection et replanté par quelques domaines de l'île. Précoce, riche en sucre, peu acide, il doit être vendangé au bon moment. Il donne des blancs amples, aux arômes de fruits exotiques, d'agrumes confits et de fleurs, vendus en [[igp-ile-de-beaute|Île de Beauté]] ou assemblés à petite dose au [[vermentino]].
+texte: Presque disparu des vignobles, le biancu gentile a été retrouvé et replanté par quelques domaines de l'île. Précoce, riche en sucre, peu acide, il doit être vendangé au bon moment. Il donne des blancs amples, aux arômes de fruits exotiques, d'agrumes confits et de fleurs, vendus en [[igp-ile-de-beaute|Île de Beauté]] ou assemblés à petite dose au [[vermentino]].
 aromes: mangue, pamplemousse, fleurs blanches, miel
 regions: corse
 appellations: igp-ile-de-beaute, vin-de-corse
@@ -132,7 +132,7 @@ nom: Chasselas
 couleur: blanc
 alias: fendant (Valais), gutedel (Alsace, Allemagne)
 def: Cépage blanc précoce et délicat, raisin de table autant que de cuve, qui donne des vins légers et discrets.
-origine: Bassin du Léman, selon les travaux les plus récents.
+origine: Sans doute le bassin du Léman, selon les travaux les plus récents.
 texte: Le chasselas mûrit tôt et produit généreusement. Ses vins sont légers, peu acides, d'un parfum discret de fleurs et de fruits blancs ; neutres en plaine, ils prennent sur les bons coteaux une finesse qui laisse parler le sol. Il est beaucoup plus cultivé comme raisin de table, à Moissac notamment.
 texte: En France, on le vinifie sur la rive savoyarde du Léman, dans les crus Crépy, Marin, Marignan et Ripaille du [[vin-de-savoie|Vin de Savoie]], et à [[pouilly-sur-loire|Pouilly-sur-Loire]], où il précéda le sauvignon. En [[alsace|Alsace]], il recule et finit surtout dans les assemblages.
 aromes: fleurs blanches, poire, amande fraîche, tilleul
@@ -173,13 +173,13 @@ voir: clairette-rose, bourboulenc, grenache-blanc
 nom: Colombard
 couleur: blanc
 def: Cépage blanc des Charentes et de Gascogne, vif et très aromatique, passé de l'alambic à la bouteille.
-origine: Charentes ; croisement spontané du chenin et du gouais blanc.
-surface: environ 10 000 ha en France
+origine: Sud-Ouest (Charentes et Gascogne) ; croisement spontané du chenin et du gouais blanc.
+surface: environ 9 000 ha en France
 texte: Vigoureux et productif, le colombard garde une forte acidité même sous un climat chaud, ce qui l'a d'abord destiné à la distillation du cognac et de l'armagnac. Vinifié à basse température, il révèle des arômes intenses d'agrumes et de fruits exotiques.
-texte: Il a fait le succès des blancs secs des [[igp-cotes-de-gascogne|Côtes de Gascogne]], souvent assemblé à l'[[ugni-blanc]] et au [[gros-manseng]]. On le trouve aussi dans les vins de pays charentais, le [[pineau-des-charentes|Pineau des Charentes]], le [[floc-de-gascogne|Floc de Gascogne]] et, en appoint, dans les blancs de Blaye et de Bourg.
+texte: Il a fait le succès des blancs secs des [[igp-cotes-de-gascogne|Côtes de Gascogne]], souvent assemblé à l'[[ugni-blanc]] et au [[gros-manseng]]. On le trouve aussi dans les vins de pays charentais, le [[pineau-des-charentes|Pineau des Charentes]], le [[floc-de-gascogne|Floc de Gascogne]] et, en appoint, dans les blancs des [[cotes-de-bordeaux|Côtes de Bordeaux]] et de [[cotes-de-bourg|Côtes de Bourg]].
 aromes: pamplemousse, citron vert, fruit de la passion, buis
 regions: sud-ouest, bordeaux
-appellations: igp-cotes-de-gascogne, igp-charentais, pineau-des-charentes, floc-de-gascogne, blaye, cotes-de-bourg
+appellations: igp-cotes-de-gascogne, igp-charentais, pineau-des-charentes, floc-de-gascogne, cotes-de-bordeaux, cotes-de-bourg
 voir: ugni-blanc, gros-manseng, chenin, folle-blanche
 
 @ courbu

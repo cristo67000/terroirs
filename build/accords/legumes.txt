@@ -4,7 +4,7 @@
 nom: Asperges blanches
 famille: legumes
 styles: blanc-aromatique, blanc-vif
-vins: alsace, alsace-grand-cru-goldert, cremant-d-alsace, saint-bris, touraine, sable-de-camargue, igp-cotes-de-gascogne
+vins: alsace, alsace-grand-cru-goldert, sancerre, saint-bris, touraine, bergerac, igp-cotes-de-gascogne
 conseil: L'asperge a une amertume et un goût soufré qui dénaturent beaucoup de vins. Le muscat sec d'Alsace, croquant et sans sucre, est l'accord consacré ; un pinot blanc ou un sauvignon mûr conviennent aussi, surtout avec une sauce mousseline. Bannir les rouges tanniques et les blancs boisés, qui tournent à l'amer.
 
 @ asperges-vertes
@@ -67,14 +67,14 @@ conseil: Purée filante à la tome fraîche de l'Aubrac, ou pommes de terre au c
 nom: Poêlée de cèpes
 famille: legumes
 styles: rouge-elegant, rouge-souple, blanc-ample
-vins: pomerol, saint-emilion, lalande-de-pomerol, pessac-leognan, bergerac, pecharmant, mercurey, meursault
+vins: pomerol, saint-emilion, lalande-de-pomerol, pessac-leognan, bergerac, fronsac, mercurey, meursault
 conseil: Le cèpe à la bordelaise, à l'ail et au persil, s'accorde aux rouges à dominante de merlot, dont les arômes de sous-bois se développent avec l'âge. Un vin de quelques années est préférable à un vin jeune. Un blanc ample et évolué fait un accord tout aussi beau avec des champignons à la crème.
 
 @ truffe-noire
 nom: Truffe noire
 famille: legumes
 styles: rouge-elegant, blanc-ample, rouge-solaire
-vins: pomerol, saint-emilion-grand-cru, chateauneuf-du-pape, hermitage, cote-rotie, cahors, grignan-les-adhemar, champagne
+vins: pomerol, saint-emilion-grand-cru, chateauneuf-du-pape, hermitage, cote-rotie, pessac-leognan, chassagne-montrachet, saint-peray
 audace: meursault
 conseil: Le parfum de la truffe se retrouve dans les grands vins évolués : vieux pomerols, vieux châteauneufs, rouges ou blancs, hermitages blancs de garde. On choisit donc une bouteille d'âge, aux tanins effacés, et un plat simple, œufs, pommes de terre ou pâtes. Un vin jeune, boisé ou très fruité écrase l'arôme.
 
@@ -89,7 +89,7 @@ conseil: La morille et le vin jaune partagent des arômes de noix et de sous-boi
 nom: Tomates farcies
 famille: legumes
 styles: rouge-leger, rouge-souple, rose-vineux
-vins: cotes-du-rhone, ventoux, luberon, beaujolais, coteaux-d-aix-en-provence, igp-vaucluse, costieres-de-nimes
+vins: cotes-du-rhone, ventoux, luberon, beaujolais, tavel, igp-vaucluse, vinsobres
 conseil: Farce de viande, tomate confite au four et riz imbibé de jus : un plat familial qui demande un rouge fruité et souple, ou un rosé de repas. La tomate cuite est moins acide que crue et supporte bien les grenaches ronds. Les tanins fermes restent à éviter.
 
 @ endives-au-jambon

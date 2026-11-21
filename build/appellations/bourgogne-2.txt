@@ -7,11 +7,11 @@ niveau: communale
 couleurs: rouge, rosé, blanc
 styles: rouge-souple, rose-vineux, blanc-vif
 cepages: pinot-noir*, chardonnay*, pinot-blanc, pinot-gris
-surface: environ 240 ha
+surface: environ 280 ha
 depuis: 1987
 def: La porte nord de la Côte de Nuits, seule appellation communale de Bourgogne à produire les trois couleurs.
-texte: Aux portes de Dijon, l'appellation réunit Marsannay-la-Côte, Couchey et Chenôve, vestiges de l'ancienne « Côte dijonnaise » que la ville a en grande partie recouverte. Les vignes s'étalent entre 260 et 320 mètres sur des calcaires, des marnes et, vers le bas, des cailloutis descendus des combes. Longtemps vouée au gamay pour le marché dijonnais, la commune s'est fait un nom au XXᵉ siècle avec son rosé de [[pinot-noir]], vineux et fruité, qui reste une singularité.
-texte: Le rouge domine aujourd'hui : coloré, ferme, sur la cerise noire et le cassis, il offre un bon aperçu du style de la Côte de Nuits. Le blanc, minoritaire, est franc et floral. L'appellation ne compte pas encore de premiers crus : le classement d'une quinzaine de climats, demandé de longue date, est en cours d'instruction.
+texte: Aux portes de Dijon, l'appellation réunit Marsannay-la-Côte, Couchey et Chenôve, vestiges de l'ancienne « Côte dijonnaise » que la ville a en grande partie recouverte. Les vignes s'étalent à flanc de coteau sur des calcaires, des marnes et, vers le bas, des cailloutis descendus des combes. Longtemps vouée au gamay pour le marché dijonnais, la commune s'est fait un nom au XXᵉ siècle avec son rosé de [[pinot-noir]], vineux et fruité, qui reste une singularité.
+texte: Le rouge domine aujourd'hui : coloré, ferme, sur la cerise noire et le cassis, il offre un bon aperçu du style de la Côte de Nuits. Le blanc, minoritaire, est franc et floral. L'appellation ne compte pas encore de premiers crus : le classement de quatorze climats, demandé de longue date, est en cours d'instruction : la délimitation parcellaire a été soumise à consultation publique à l'été 2026.
 gout: cerise noire, cassis, mûre, réglisse pour les rouges ; groseille et pêche pour les rosés
 garde: 3 à 8 ans ; rosé à boire dans les 2 ans
 service: 14-16 °C pour les rouges, 10-12 °C pour les rosés et les blancs
@@ -28,7 +28,7 @@ cepages: pinot-noir*, chardonnay
 surface: environ 100 ha
 depuis: 1936
 def: Petit village du nord de la Côte de Nuits, aux rouges robustes proches de ceux de Gevrey.
-texte: Entre Marsannay et Gevrey, Fixin et son hameau de Fixey alignent leurs vignes sur un coteau tourné vers l'est, où les calcaires bruns du haut cèdent la place à des marnes plus lourdes. Presque tout est rouge : un vin sombre, tannique, un peu austère dans sa jeunesse, qui prend avec les années des notes de fourrure et de sous-bois. Six premiers crus dominent le village, dont plusieurs clos d'origine monastique ; le Clos de la Perrière, ancienne propriété de l'abbaye de Cîteaux, était jadis comparé au [[chambertin]].
+texte: Entre Marsannay et Gevrey, Fixin et son hameau de Fixey alignent leurs vignes sur un coteau tourné vers l'est, où les calcaires bruns du haut cèdent la place à des marnes plus lourdes. Presque tout est rouge : un vin sombre, tannique, un peu austère dans sa jeunesse, qui prend avec les années des notes de fourrure et de sous-bois. Six premiers crus dominent le village, dont plusieurs clos ; le Clos de la Perrière, rangé en « tête de cuvée » dès le XIXᵉ siècle, en est le fleuron.
 gout: cassis, griotte, violette, pivoine, puis musc et poivre, tanins fermes
 garde: 5 à 12 ans
 service: 15-16 °C
@@ -47,11 +47,11 @@ depuis: 1936
 def: Le plus vaste village de la Côte de Nuits, exclusivement rouge, qui compte neuf grands crus autour du Chambertin.
 texte: Gevrey, qui a accolé à son nom celui de son cru le plus fameux en 1847, s'ouvre au débouché de la combe de Lavaux. Le vignoble, qui déborde sur Brochon au nord, se divise en deux ensembles. Au sud du village, le coteau des grands crus, régulier, tourné vers le levant, sur des calcaires à entroques et des marnes ; au nord-ouest, la Côte Saint-Jacques, plus pentue, exposée au sud-est, où se trouvent les premiers crus les plus recherchés. En bas, les cailloutis calcaires déposés par la combe permettent à l'appellation de s'étendre exceptionnellement à l'est de la route.
 texte: Le Gevrey-Chambertin est le type même du bourgogne rouge charpenté : robe profonde, fruits noirs, réglisse, une structure tannique ferme qui demande du temps, puis un bouquet de cuir, de gibier et de sous-bois. Selon les parcelles, le simple village va du vin souple et fruité des terres basses au cru solide des hauts de coteau.
-texte: Vingt-six climats sont classés premiers crus. Le Clos Saint-Jacques, que beaucoup tiennent pour l'égal d'un grand cru, mène une série prestigieuse : Lavaux Saint-Jacques, Les Cazetiers, Estournelles-Saint-Jacques, Combe aux Moines. Au-dessus, neuf grands crus, de [[chambertin]] et [[chambertin-clos-de-beze]] à [[ruchottes-chambertin]] : aucune commune de Bourgogne n'en possède autant.
+texte: Vingt-six climats sont classés premiers crus. Le Clos Saint-Jacques, que beaucoup tiennent pour l'égal d'un grand cru, mène une série prestigieuse : Lavaut Saint-Jacques, Les Cazetiers, Estournelles-Saint-Jacques, Combe au Moine. Au-dessus, neuf grands crus, de [[chambertin]] et [[chambertin-clos-de-beze]] à [[ruchottes-chambertin]] : aucune commune de Bourgogne n'en possède autant.
 gout: cassis, cerise noire, réglisse, violette, puis cuir, fourrure et sous-bois, tanins fermes
 garde: 6 à 15 ans ; 10 à 20 ans pour les premiers crus
 service: 15-17 °C
-crus: premiers crus Clos Saint-Jacques, Lavaux Saint-Jacques, Les Cazetiers, Estournelles-Saint-Jacques, Combe aux Moines, Aux Combottes, Champeaux, Les Goulots, La Perrière, Petite Chapelle
+crus: premiers crus Clos Saint-Jacques, Lavaut Saint-Jacques, Les Cazetiers, Estournelles-Saint-Jacques, Combe au Moine, Aux Combottes, Champeaux, Les Goulots, La Perrière, Petite Chapelle
 voir: chambertin, chambertin-clos-de-beze, charmes-chambertin, morey-saint-denis, fixin, nuits-saint-georges
 
 @ chambertin
@@ -63,8 +63,8 @@ styles: rouge-elegant, rouge-charpente
 cepages: pinot-noir*
 surface: environ 13 ha
 depuis: 1937
-def: Le grand cru emblématique de Gevrey, rouge de puissance et de longue garde, que Napoléon tenait pour son vin favori.
-texte: Le Chambertin occupe le milieu du coteau, au sud de Gevrey, entre 275 et 300 mètres, sous le bois qui couronne la Côte : pente douce, exposition au levant, sol brun calcaire peu épais sur des calcaires à entroques et des marnes. La tradition attribue son nom au « champ de Bertin », un paysan qui aurait planté sa vigne à côté de celle des moines de Bèze. Une vingtaine de propriétaires se partagent ses treize hectares. C'est le plus viril des grands bourgognes : couleur sombre, fruits noirs, réglisse, épices, une charpente tannique serrée qui exige dix ans de patience, puis une complexité de cuir, de truffe et de sous-bois qui se prolonge des décennies.
+def: Le grand cru emblématique de Gevrey, rouge de puissance et de longue garde, que la tradition dit avoir été le vin favori de Napoléon.
+texte: Le Chambertin occupe le milieu du coteau, au sud de Gevrey, sous le bois qui couronne la Côte : pente douce, exposition au levant, sol brun calcaire peu épais sur des calcaires à entroques et des marnes. La tradition attribue son nom au « champ de Bertin », un paysan qui aurait planté sa vigne à côté de celle des moines de Bèze. Une vingtaine de propriétaires se partagent ses treize hectares. C'est le plus viril des grands bourgognes : couleur sombre, fruits noirs, réglisse, épices, une charpente tannique serrée qui exige dix ans de patience, puis une complexité de cuir, de truffe et de sous-bois qui se prolonge des décennies.
 gout: cerise noire, cassis, réglisse, épices, puis cuir, truffe et sous-bois, structure puissante et grande longueur
 garde: 10 à 30 ans
 service: 16-17 °C
@@ -80,7 +80,7 @@ cepages: pinot-noir*
 surface: environ 15 ha
 depuis: 1937
 def: Grand cru de Gevrey, contigu au Chambertin et son égal, issu d'un clos monastique du VIIᵉ siècle.
-texte: Le Clos de Bèze prolonge le [[chambertin]] vers le nord, sur le même coteau et à la même altitude. C'est l'un des plus anciens vignobles identifiés de Bourgogne : la terre fut donnée vers 630 aux moines de l'abbaye de Bèze, qui la plantèrent et l'enclosent. Ses vins peuvent légalement s'appeler Chambertin, l'inverse n'étant pas permis. Le sol, un peu plus caillouteux et moins profond, donne un vin aussi structuré que son voisin, mais que l'on dit souvent plus fin et plus accessible dans sa jeunesse, d'une grande complexité aromatique.
+texte: Le Clos de Bèze prolonge le [[chambertin]] vers le nord, sur le même coteau et à la même altitude. C'est l'un des plus anciens vignobles identifiés de Bourgogne : la terre fut donnée vers 630 aux moines de l'abbaye de Bèze, qui la plantèrent et l'enclosèrent. Ses vins peuvent légalement s'appeler Chambertin, l'inverse n'étant pas permis. Le sol, un peu plus caillouteux et moins profond, donne un vin aussi structuré que son voisin, mais que l'on dit souvent plus fin et plus accessible dans sa jeunesse, d'une grande complexité aromatique.
 gout: cerise noire, framboise, violette, épices douces, puis cuir et sous-bois, tanins denses et soyeux
 garde: 10 à 30 ans
 service: 16-17 °C
@@ -141,7 +141,7 @@ styles: rouge-elegant
 cepages: pinot-noir*
 surface: environ 2,7 ha
 def: Le plus petit des grands crus de Gevrey, logé dans un creux du coteau, au fruit très pur.
-texte: La Griotte occupe une légère cuvette en contrebas du [[chambertin-clos-de-beze|Clos de Bèze]], entre la Chapelle et les Charmes. Son nom évoquerait moins la cerise que les « criots », terrains crayeux et caillouteux ; le sol, très mince, repose sur une dalle calcaire parcourue de petites sources. Cette parcelle minuscule, partagée entre une poignée de propriétaires, donne un vin rare, plus séduisant que puissant : une texture veloutée et, par un heureux hasard, un parfum de griotte très net.
+texte: La Griotte occupe une légère cuvette en contrebas du [[chambertin-clos-de-beze|Clos de Bèze]], entre la Chapelle et les Charmes. Son nom évoquerait moins la cerise que les « criots », terrains pierreux ; le sol, très mince, repose sur une dalle calcaire parcourue de petites sources. Cette parcelle minuscule, partagée entre une poignée de propriétaires, donne un vin rare, plus séduisant que puissant : une texture veloutée et, par un heureux hasard, un parfum de griotte très net.
 gout: griotte, framboise, kirsch, épices, texture veloutée
 garde: 8 à 20 ans
 service: 16-17 °C
@@ -154,9 +154,9 @@ niveau: grand cru
 couleurs: rouge
 styles: rouge-elegant
 cepages: pinot-noir*
-surface: environ 29 ha avec Mazoyères
+surface: environ 31 ha avec Mazoyères
 def: Le plus étendu des grands crus de Gevrey, au style rond et séduisant, le plus accessible de la famille.
-texte: Les Charmes s'étendent sous le [[chambertin]], de l'autre côté de la route des Grands Crus, sur une pente faible et un sol de cailloutis calcaires. Le nom désigne d'anciennes « chaumes », des friches remises en culture. Comme les vins de [[mazoyeres-chambertin]], qui le prolonge au sud, peuvent prendre son nom, l'ensemble forme le plus vaste grand cru de la commune, réparti entre de nombreux producteurs. Le vin est le plus aimable des grands crus de Gevrey : fruité, charnu, aux tanins arrondis, agréable assez tôt, d'un niveau cependant inégal selon la situation des parcelles.
+texte: Les Charmes s'étendent sous le [[chambertin]], de l'autre côté de la route des Grands Crus, sur une pente faible et un sol de cailloutis calcaires. Le nom viendrait d'anciennes « chaumes », des friches remises en culture. Comme les vins de [[mazoyeres-chambertin]], qui le prolonge au sud, peuvent prendre son nom, l'ensemble forme le plus vaste grand cru de la commune, réparti entre de nombreux producteurs. Le vin est le plus aimable des grands crus de Gevrey : fruité, charnu, aux tanins arrondis, agréable assez tôt, d'un niveau cependant inégal selon la situation des parcelles.
 gout: fraise, cerise, framboise, réglisse, épices douces, tanins ronds
 garde: 8 à 20 ans
 service: 16-17 °C
@@ -169,9 +169,9 @@ niveau: grand cru
 couleurs: rouge
 styles: rouge-elegant
 cepages: pinot-noir*
-surface: environ 18 ha, le plus souvent revendiqués en Charmes-Chambertin
+surface: environ 18,6 ha, le plus souvent revendiqués en Charmes-Chambertin
 def: Grand cru du sud de Gevrey, rarement vu sur l'étiquette car il peut se vendre sous le nom de Charmes-Chambertin.
-texte: Les Mazoyères prolongent les Charmes vers le sud, jusqu'à la limite de Morey-Saint-Denis, sous les [[latricieres-chambertin|Latricières]]. Le sol, nourri par les apports caillouteux de la combe Grisard, est un peu plus profond et descend jusqu'à la route départementale. Les producteurs ont le droit d'appeler leur vin [[charmes-chambertin]], nom plus vendeur que la plupart ont adopté ; quelques-uns tiennent à l'appellation d'origine. Le vin est de même famille, souvent un peu plus ferme et plus terrien, avec des tanins plus marqués.
+texte: Les Mazoyères prolongent les Charmes vers le sud, jusqu'à la limite de Morey-Saint-Denis, sous les [[latricieres-chambertin|Latricières]]. Le sol, caillouteux, est un peu plus profond et descend jusqu'à la route départementale. Les producteurs ont le droit d'appeler leur vin [[charmes-chambertin]], nom plus vendeur que la plupart ont adopté ; quelques-uns tiennent à l'appellation d'origine. Le vin est de même famille, souvent un peu plus ferme et plus terrien, avec des tanins plus marqués.
 gout: fruits noirs, cerise, réglisse, notes terriennes, tanins fermes
 garde: 8 à 20 ans
 service: 16-17 °C
@@ -186,7 +186,7 @@ styles: rouge-elegant
 cepages: pinot-noir*
 surface: environ 7 ha
 def: Grand cru de Gevrey prolongeant le Chambertin au sud, plus frais et plus fin de trame.
-texte: Les Latricières continuent le [[chambertin]] vers Morey-Saint-Denis, à la même altitude, au pied du bois. Le terrain, presque plat, a un sol mince et siliceux sur une roche dure ; surtout, il se trouve dans l'axe de la combe Grisard, qui y fait descendre de l'air froid. Le raisin mûrit plus lentement et le vin s'en ressent : moins large que le Chambertin, plus droit, plus vif, avec des arômes de fruits rouges, de fleurs et d'épices et une élégance un peu sévère, qui s'épanouit après une dizaine d'années.
+texte: Les Latricières continuent le [[chambertin]] vers Morey-Saint-Denis, à la même altitude, au pied du bois. Le terrain, presque plat, a un sol argilo-calcaire mince et pierreux sur une roche dure. Le raisin mûrit un peu plus lentement et le vin s'en ressent : moins large que le Chambertin, plus droit, plus vif, avec des arômes de fruits rouges, de fleurs et d'épices et une élégance un peu sévère, qui s'épanouit après une dizaine d'années.
 gout: cerise, groseille, violette, épices, notes terriennes, bouche droite et fine
 garde: 10 à 25 ans
 service: 16-17 °C
@@ -234,7 +234,7 @@ styles: rouge-elegant
 cepages: pinot-noir*
 surface: environ 6,6 ha
 def: Grand cru qui a donné son nom à Morey, tout en finesse et en soyeux.
-texte: Le Clos Saint-Denis fut fondé au XIᵉ siècle par les chanoines de la collégiale Saint-Denis de Vergy. Au clos primitif, d'un peu plus de deux hectares, se sont ajoutés des lieux-dits voisins — Maison Brûlée, Calouère, une partie des Chaffots. Il s'étend au milieu du coteau, juste au sud du [[clos-de-la-roche]], sur des sols bruns calcaires un peu plus argileux en bas. On l'a surnommé le « Mozart de la Côte de Nuits » : moins de masse que son voisin, mais un fruit délicat, une texture soyeuse et un bouquet très pur.
+texte: Le Clos Saint-Denis appartenait aux chanoines de la collégiale Saint-Denis de Vergy, fondée au XIᵉ siècle. Au clos primitif, d'un peu plus de deux hectares, se sont ajoutés des lieux-dits voisins — Maison Brûlée, Calouère, une partie des Chaffots. Il s'étend au milieu du coteau, juste au sud du [[clos-de-la-roche]], sur des sols bruns calcaires un peu plus argileux en bas. Il a moins de masse que son voisin, mais un fruit délicat, une texture soyeuse et un bouquet très pur.
 gout: framboise, cassis, violette, épices douces, texture soyeuse
 garde: 10 à 25 ans
 service: 16-17 °C
@@ -250,8 +250,8 @@ cepages: pinot-noir*
 surface: environ 8,8 ha
 depuis: 1981
 def: Grand cru de Morey-Saint-Denis, clos de murs et presque monopole, promu en 1981.
-texte: Cité dès 1365 dans les archives de l'abbaye de Cîteaux, morcelé à la Révolution puis patiemment reconstitué au XIXᵉ siècle, le Clos des Lambrays n'a été classé grand cru qu'en 1981, après un long passage à vide. Il occupe le haut du coteau au-dessus du village, entre le [[clos-saint-denis]] et le [[clos-de-tart]], avec une pente plus forte et une exposition qui tourne légèrement vers le nord-est. À l'exception d'une parcelle minuscule, il appartient en entier au domaine des Lambrays. Les raisins, souvent vinifiés en grappes entières, donnent un vin floral, épicé, élégant et de grande fraîcheur.
-gout: cerise, framboise, rose, pivoine, épices, notes de rafle, bouche fine et fraîche
+texte: Cité dès 1365 dans les archives de l'abbaye de Cîteaux, morcelé à la Révolution puis patiemment reconstitué au XIXᵉ siècle, le Clos des Lambrays n'a été classé grand cru qu'en 1981, après un long passage à vide. Il occupe le coteau au-dessus du village, entre le [[clos-saint-denis]] et le [[clos-de-tart]], exposé à l'est. À l'exception d'une parcelle minuscule, il appartient en entier au domaine des Lambrays. Le vin est floral, épicé, élégant et d'une grande fraîcheur.
+gout: cerise, framboise, rose, pivoine, épices, bouche fine et fraîche
 garde: 10 à 25 ans
 service: 16-17 °C
 voir: clos-de-tart, clos-saint-denis, morey-saint-denis
@@ -265,7 +265,7 @@ styles: rouge-elegant
 cepages: pinot-noir*
 surface: environ 7,5 ha
 depuis: 1939
-def: Grand cru monopole de Morey-Saint-Denis, clos de murs et jamais divisé depuis sa fondation en 1141.
+def: Grand cru monopole de Morey-Saint-Denis, clos de murs et jamais divisé depuis 1141.
 texte: Acquis en 1141 par les bernardines de l'abbaye de Tart, branche féminine de Cîteaux, le Clos de Tart n'a connu depuis que quatre propriétaires et n'a jamais été partagé : c'est le plus vaste grand cru en monopole de Bourgogne. Ceint de murs au sud du village, contre les [[bonnes-mares]], il présente une particularité : les rangs y sont plantés perpendiculairement à la pente, du nord au sud, pour freiner l'érosion. Les sols, calcaires et marneux, varient du haut en bas et sont vinifiés séparément. Le vin associe la fermeté de Morey à un grain très fin : fruits rouges et noirs, épices, grande longueur.
 gout: fraise des bois, cerise noire, violette, épices, réglisse, tanins serrés et fins
 garde: 10 à 30 ans
@@ -282,7 +282,7 @@ styles: rouge-elegant, rouge-charpente
 cepages: pinot-noir*
 surface: environ 15 ha
 def: Grand cru partagé entre Chambolle-Musigny, pour l'essentiel, et Morey-Saint-Denis, puissant et structuré.
-texte: Les Bonnes-Mares s'étendent pour neuf dixièmes sur Chambolle-Musigny, le reste débordant sur Morey jusqu'au mur du [[clos-de-tart]]. Une diagonale partage le cru : en haut et au sud, des « terres blanches », marnes claires riches en fossiles d'huîtres, donnent des vins fins et tendus ; en bas et au nord, des « terres rouges », plus argileuses et ferrugineuses, des vins plus larges. Rien, ici, de la dentelle de Chambolle : le Bonnes-Mares est un vin charnu, tannique, presque sauvage dans sa jeunesse, qui demande dix ans pour montrer sa profondeur.
+texte: Les Bonnes-Mares s'étendent pour neuf dixièmes sur Chambolle-Musigny, le reste débordant sur Morey jusqu'au mur du [[clos-de-tart]]. Une diagonale partage le cru : en haut du coteau, des « terres blanches », marnes claires riches en fossiles d'huîtres, donnent des vins fins et tendus ; en bas, des « terres rouges », plus argileuses et ferrugineuses, des vins plus larges. Rien, ici, de la dentelle de Chambolle : le Bonnes-Mares est un vin charnu, tannique, presque sauvage dans sa jeunesse, qui demande dix ans pour montrer sa profondeur.
 gout: cerise noire, mûre, violette, épices, humus, tanins puissants
 garde: 10 à 30 ans
 service: 16-17 °C
@@ -298,9 +298,9 @@ cepages: pinot-noir*
 surface: environ 150 ha
 depuis: 1936
 def: Le village le plus délicat de la Côte de Nuits : des rouges de dentelle, entre Morey et le Clos de Vougeot.
-texte: Chambolle se blottit au pied d'une falaise, à l'entrée d'une combe d'où descend la petite rivière de la Vouge. Le coteau est ici plus calcaire qu'ailleurs en Côte de Nuits : un sol mince, caillouteux, pauvre en argile, sur des calcaires durs fissurés où les racines plongent. Ce terrain filtrant explique la finesse de texture qui a fait la réputation du village.
+texte: Chambolle se blottit au pied d'une falaise, à l'entrée d'une combe d'où descend le Grône, petit ruisseau tributaire de la Vouge. Le coteau est ici plus calcaire qu'ailleurs en Côte de Nuits : un sol mince, caillouteux, pauvre en argile, sur des calcaires durs fissurés où les racines plongent. Ce terrain filtrant explique la finesse de texture qui a fait la réputation du village.
 texte: Un Chambolle se reconnaît à son parfum — violette, framboise, fraise des bois — et à son toucher : des tanins soyeux, une impression de légèreté qui n'exclut ni la longueur ni la garde. On l'oppose volontiers à la carrure de [[gevrey-chambertin]].
-texte: Vingt-quatre climats sont classés premiers crus. Les Amoureuses, au-dessus du Clos de Vougeot, jouissent d'une réputation de grand cru ; Les Charmes, Les Cras, Les Fuées et Les Baudes suivent. Deux grands crus encadrent la commune : au sud, le [[musigny]] ; au nord, les [[bonnes-mares]].
+texte: Vingt-quatre climats sont classés premiers crus. Les Amoureuses, contre le Musigny, jouissent d'une réputation de grand cru ; Les Charmes, Les Cras, Les Fuées et Les Baudes suivent. Deux grands crus encadrent la commune : au sud, le [[musigny]] ; au nord, les [[bonnes-mares]].
 gout: violette, framboise, fraise des bois, cerise, épices fines, tanins soyeux
 garde: 6 à 15 ans ; davantage pour les premiers crus
 service: 15-17 °C
@@ -314,10 +314,10 @@ niveau: grand cru
 couleurs: rouge, blanc
 styles: rouge-elegant, blanc-ample
 cepages: pinot-noir*, chardonnay
-surface: environ 10,7 ha
+surface: environ 10,8 ha
 depuis: 1936
 def: Grand cru de Chambolle, au-dessus du Clos de Vougeot, sommet de finesse du pinot noir.
-texte: Le Musigny forme une terrasse étroite et pentue, entre 260 et 300 mètres, qui domine le [[clos-de-vougeot]] ; trois lieux-dits le composent : Les Musigny, Les Petits Musigny et une partie de La Combe d'Orveau. Le sol mêle calcaires durs, argiles rouges et cailloutis. Le cru incarne l'idéal bourguignon d'un vin à la fois intense et sans poids : parfum de violette, de rose et de fruits rouges, texture de soie, longueur considérable — « une main de fer dans un gant de velours », dit la formule consacrée. Fait unique en Côte de Nuits, le Musigny peut aussi être blanc : une parcelle de chardonnay en produit quelques fûts.
+texte: Le Musigny forme une terrasse étroite et pentue, qui domine le [[clos-de-vougeot]] ; trois lieux-dits le composent : Les Musigny, Les Petits Musigny et une partie de La Combe d'Orveau. Le sol mêle calcaires durs, argiles rouges et cailloutis. Le cru incarne l'idéal bourguignon d'un vin à la fois intense et sans poids : parfum de violette, de rose et de fruits rouges, texture de soie, longueur considérable. Fait unique en Côte de Nuits, le Musigny peut aussi être blanc : une parcelle de chardonnay en produit quelques fûts.
 gout: violette, rose, framboise, cerise, épices, sous-bois avec l'âge, texture soyeuse et grande longueur
 garde: 10 à 30 ans
 service: 16-17 °C
@@ -333,7 +333,7 @@ cepages: pinot-noir*, chardonnay*
 surface: environ 16 ha
 depuis: 1936
 def: La plus petite appellation communale de la Côte de Nuits, à l'ombre de son célèbre clos.
-texte: Le village de Vougeot, qui doit son nom à la Vouge, ne dispose que d'une poignée d'hectares en dehors du [[clos-de-vougeot]], lequel occupe les quatre cinquièmes de son vignoble. Ils se situent au nord du clos, vers Chambolle, pour l'essentiel en premiers crus. Les rouges sont proches de ceux de [[chambolle-musigny|Chambolle]], avec un peu plus de fermeté. Le blanc tient ici une place inhabituelle : le Clos Blanc de Vougeot, monopole planté en chardonnay par les moines de Cîteaux, était leur vigne à vin de messe.
+texte: Le village de Vougeot, qui doit son nom à la Vouge, ne dispose que d'une poignée d'hectares en dehors du [[clos-de-vougeot]], lequel occupe environ les trois quarts de son vignoble. Ils se situent au nord du clos, vers Chambolle, pour l'essentiel en premiers crus. Les rouges sont proches de ceux de [[chambolle-musigny|Chambolle]], avec un peu plus de fermeté. Le blanc tient ici une place inhabituelle : le Clos Blanc de Vougeot, monopole planté en chardonnay par les moines de Cîteaux, était leur vigne à vin de messe.
 gout: violette, cerise, cassis, réglisse pour les rouges ; aubépine, amande et épices pour les blancs
 garde: 5 à 12 ans
 service: 15-16 °C pour les rouges, 12 °C pour les blancs
@@ -365,7 +365,7 @@ styles: rouge-elegant
 cepages: pinot-noir*
 surface: environ 36 ha
 def: Vaste grand cru de Flagey-Échezeaux, sur les hauteurs entre le Clos de Vougeot et Vosne-Romanée.
-texte: Le village de Flagey se trouve dans la plaine, mais ses meilleures vignes forment une enclave sur le coteau, rattachée pour le reste à l'appellation [[vosne-romanee]]. Les Échezeaux en occupent la plus grande part, au-dessus et au sud des [[grands-echezeaux]] : onze lieux-dits — Les Échezeaux du Dessus, Les Poulaillères, Les Rouges du Bas, Les Cruots, Les Treux… — aux pentes, aux altitudes et aux sols très divers, répartis entre plus de quatre-vingts producteurs. Le style varie donc beaucoup. En moyenne, c'est un grand cru de charme, plus léger de corps que ses voisins de Vosne, parfumé, épicé, prêt plus tôt.
+texte: Le village de Flagey se trouve dans la plaine, mais ses meilleures vignes forment une enclave sur le coteau, rattachée pour le reste à l'appellation [[vosne-romanee]]. Les Échezeaux en occupent la plus grande part, au-dessus et au sud des [[grands-echezeaux]] : onze lieux-dits — Les Échezeaux du Dessus, Les Poulaillères, Les Rouges du Bas, Les Cruots, Les Treux… — aux pentes, aux altitudes et aux sols très divers, répartis entre de nombreux producteurs. Le style varie donc beaucoup. En moyenne, c'est un grand cru de charme, plus léger de corps que ses voisins de Vosne, parfumé, épicé, prêt plus tôt.
 gout: cerise, framboise, violette, épices, notes de sous-bois, tanins fins
 garde: 8 à 20 ans
 service: 16-17 °C
@@ -380,7 +380,7 @@ styles: rouge-elegant, rouge-charpente
 cepages: pinot-noir*
 surface: environ 9 ha
 def: Grand cru de Flagey-Échezeaux adossé au mur du Clos de Vougeot, plus dense et plus régulier que les Échezeaux.
-texte: D'un seul tenant, presque plat, le cru longe le haut du [[clos-de-vougeot]], dont seul un mur le sépare ; il appartenait lui aussi à l'abbaye de Cîteaux. Le sol, argilo-calcaire, assez profond, repose sur un calcaire dur. « Grands » ne renvoie pas à l'étendue — il est quatre fois plus petit que les [[echezeaux|Échezeaux]] — mais à la longueur de ses rangs. Plus homogène, il donne un vin plus concentré et plus structuré que son voisin : fruits noirs, épices, cuir, une mâche ferme qui réclame dix ans de cave.
+texte: D'un seul tenant, presque plat, le cru longe le haut du [[clos-de-vougeot]], dont seul un mur le sépare ; son nom, comme celui des Échezeaux, rappelle les bâtiments en ruine d'une ferme de l'abbaye de Saint-Vivant de Vergy. Le sol, argilo-calcaire, assez profond, repose sur un calcaire dur. « Grands » ne renvoie pas à l'étendue : il est quatre fois plus petit que les [[echezeaux|Échezeaux]]. Plus homogène, il donne un vin plus concentré et plus structuré que son voisin : fruits noirs, épices, cuir, une mâche ferme qui réclame dix ans de cave.
 gout: cerise noire, cassis, épices, cuir, sous-bois, structure ferme
 garde: 10 à 25 ans
 service: 16-17 °C
@@ -476,9 +476,9 @@ niveau: grand cru
 couleurs: rouge
 styles: rouge-elegant
 cepages: pinot-noir*
-surface: environ 9,4 ha
+surface: environ 9 ha
 def: Le plus étendu des grands crus de Vosne, au bas du coteau, tout en parfum et en délicatesse.
-texte: Le cru garde le nom des moines du prieuré de Saint-Vivant de Vergy, qui le possédèrent du XIIᵉ siècle à la Révolution. Il touche les maisons de Vosne et s'étend au pied du [[richebourg]] et de la [[romanee-conti]], sur une pente faible et un sol plus profond, plus argileux que celui de ses voisins du dessus. Une dizaine de domaines y ont des vignes. Le vin est le plus aérien des grands crus du village : moins de carrure que le Richebourg, mais un bouquet floral et épicé très expressif, une bouche fine, soyeuse, d'une grande persistance.
+texte: Le cru garde le nom des moines du prieuré de Saint-Vivant de Vergy, qui le possédèrent jusqu'à la Révolution. Il touche les maisons de Vosne et s'étend au pied du [[richebourg]] et de la [[romanee-conti]], sur une pente faible et un sol plus profond, plus argileux que celui de ses voisins du dessus. Une dizaine de domaines y ont des vignes. Le vin est le plus aérien des grands crus du village : moins de carrure que le Richebourg, mais un bouquet floral et épicé très expressif, une bouche fine, soyeuse, d'une grande persistance.
 gout: rose, violette, framboise, cerise, épices fines, texture soyeuse
 garde: 10 à 30 ans
 service: 16-17 °C
@@ -493,11 +493,11 @@ styles: rouge-elegant
 cepages: pinot-noir*
 surface: environ 1,65 ha
 def: Grand cru monopole de Vosne-Romanée, mince lanière entre La Tâche et la Romanée-Conti, promu en 1992.
-texte: La Grande Rue est un ruban de vigne qui monte droit dans le coteau, le long d'un chemin, avec [[la-tache]] au sud et, au nord, la [[romanee-conti]] puis [[la-romanee]]. Malgré un tel voisinage, elle resta premier cru lors des classements des années 1930, ses propriétaires n'ayant pas sollicité davantage ; elle n'a été reconnue grand cru qu'en 1992. Elle est le monopole du domaine François Lamarche. Le vin, élégant plus que puissant, offre un fruit de cerise et de framboise, des notes florales et épicées, et une trame fine qui se patine avec l'âge.
+texte: La Grande Rue est un ruban de vigne qui monte droit dans le coteau, le long d'un chemin, avec [[la-tache]] au sud et, au nord, la [[romanee-conti]] puis [[la-romanee]]. Malgré un tel voisinage, elle resta longtemps un premier cru de Vosne-Romanée et ne fut reconnue grand cru qu'en 1992. Elle est le monopole du domaine Lamarche. Le vin, élégant plus que puissant, offre un fruit de cerise et de framboise, des notes florales et épicées, et une trame fine qui se patine avec l'âge.
 gout: cerise, framboise, pivoine, épices, tanins fins
 garde: 10 à 25 ans
 service: 16-17 °C
-crus: monopole (domaine François Lamarche)
+crus: monopole (domaine Lamarche)
 voir: la-tache, romanee-conti, la-romanee, vosne-romanee
 
 @ nuits-saint-georges
@@ -511,8 +511,8 @@ surface: environ 300 ha
 depuis: 1936
 def: La ville qui a donné son nom à la Côte de Nuits : rouges solides et de garde, aucun grand cru mais 41 premiers crus.
 texte: Ville de négoce autant que de vignerons, Nuits s'étend de part et d'autre de la vallée du Meuzin, et son appellation englobe au sud la commune de Premeaux-Prissey. On y distingue trois secteurs. Au nord, vers Vosne, des sols de cailloutis et de limons donnent des vins plus parfumés et plus souples (Aux Boudots, Aux Murgers). Au sud de la ville, le coteau argilo-calcaire, plus profond, porte les crus les plus puissants : Les Saint-Georges, Les Vaucrains, Les Cailles. Enfin, à Premeaux, où la Côte se resserre, plusieurs grands clos en monopole.
-texte: Le Nuits-Saint-Georges est un vin de mâche : robe sombre, fruits noirs, tanins fermes, un fond terrien qui lui donne parfois un abord sévère avant cinq ou six ans. Il évolue vers le cuir, la truffe et le gibier. Les Saint-Georges, déjà cité en l'an mil et accolé au nom de la ville en 1892, est considéré de longue date comme le premier de ses crus ; son classement en grand cru est à l'étude.
-texte: De rares blancs complètent la gamme, dont une curiosité issue d'une mutation blanche du pinot noir apparue dans le premier cru Les Perrières. La ville abrite aussi ses propres hospices, dont la vente a lieu chaque année en mars.
+texte: Le Nuits-Saint-Georges est un vin de mâche : robe sombre, fruits noirs, tanins fermes, un fond terrien qui lui donne parfois un abord sévère avant cinq ou six ans. Il évolue vers le cuir, la truffe et le gibier. Les Saint-Georges, dont la tradition fait remonter la vigne à l'an mil, ont été accolés au nom de la ville en 1892 et sont considérés de longue date comme le premier de ses crus ; leur classement en grand cru est à l'étude.
+texte: De rares blancs complètent la gamme, dont une curiosité issue d'une mutation blanche du pinot noir apparue dans le premier cru Les Perrières. La ville abrite aussi ses propres hospices, dont la vente a lieu chaque printemps.
 gout: cassis, mûre, cerise noire, réglisse, puis cuir, truffe et gibier, tanins fermes
 garde: 6 à 18 ans
 service: 16-17 °C
@@ -526,10 +526,10 @@ niveau: sous-régionale
 couleurs: rouge, blanc
 styles: rouge-souple, rouge-elegant
 cepages: pinot-noir*, chardonnay
-surface: environ 170 ha
-depuis: 1964
-def: Appellation réunissant cinq communes des deux extrémités de la Côte de Nuits, presque toute en rouge.
-texte: Cinq villages y ont droit : Fixin et Brochon au nord, Premeaux-Prissey, Comblanchien et Corgoloin au sud, là où la Côte se réduit à une étroite bande de vignes au pied des carrières de pierre. Fixin possède aussi sa propre appellation ; les quatre autres n'ont que celle-ci pour leurs vignes de coteau. Les vins sont des pinots noirs francs et assez fermes, au fruit de cerise et de cassis, qui se font en trois à cinq ans ; certains lieux-dits, comme le Clos du Chapeau ou Aux Montagnes, à Corgoloin et Comblanchien, se distinguent. Le blanc reste rare.
+surface: environ 160 ha
+depuis: 1937
+def: Appellation de villages de la Côte de Nuits, essentiellement au sud, dans la zone des carrières de pierre, presque toute en rouge.
+texte: Créée en 1937 sous le nom de « Vins fins de la Côte de Nuits » et rebaptisée en 1964, elle réunit cinq communes, Brochon et Fixin au nord, Prémeaux-Prissey, Comblanchien et Corgoloin au sud, là où la Côte se réduit à une étroite bande de vignes au pied des carrières de pierre. Une révision en cours de son aire, soumise à consultation en 2025, la limiterait aux trois communes du sud ; Fixin a de toute façon sa propre appellation. Les vins sont des pinots noirs francs et assez fermes, au fruit de cerise et de cassis, qui se font en trois à cinq ans ; certains lieux-dits, comme Aux Montagnes ou Le Clos des Langres, à Corgoloin, se distinguent. Le blanc reste rare.
 gout: cerise, cassis, groseille, réglisse, tanins fermes
 garde: 3 à 8 ans
 service: 15-16 °C

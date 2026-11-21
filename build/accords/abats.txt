@@ -4,7 +4,7 @@
 nom: Ris de veau
 famille: abats
 styles: blanc-ample, rouge-elegant, vin-jaune
-vins: meursault, puligny-montrachet, chassagne-montrachet, pouilly-fuisse, condrieu, volnay, margaux, champagne
+vins: meursault, puligny-montrachet, chassagne-montrachet, pouilly-fuisse, condrieu, volnay, margaux, pessac-leognan
 audace: chateau-chalon, arbois
 conseil: Le plus délicat des abats, moelleux à cœur et doré au beurre : il met en valeur les grands blancs amples de Bourgogne, ou un rouge très fin et évolué s'il est servi avec un jus brun. À la crème et aux morilles, le vin jaune est un accord de référence. Les vins vifs et maigres, comme les rouges tanniques, le desservent.
 
@@ -47,7 +47,7 @@ conseil: À la mode de Caen, la Normandie leur sert du cidre ; à table, un blan
 nom: Pieds paquets
 famille: abats
 styles: rose-vineux, rouge-solaire, blanc-ample
-vins: bandol, cassis, cotes-de-provence, coteaux-d-aix-en-provence, palette, pierrevert, tavel
+vins: bandol, cassis, cotes-de-provence, coteaux-d-aix-en-provence, palette, les-baux-de-provence, tavel
 conseil: Spécialité marseillaise de tripes et pieds d'agneau mijotés dans une sauce au vin blanc et à la tomate : un rosé de Provence corsé ou un blanc ample tient tête au plat tout en le rafraîchissant. Un rouge local souple convient aussi. Pas de tanins durs sur cette texture gélatineuse.
 
 @ joue-de-boeuf
@@ -62,7 +62,7 @@ nom: Os à moelle
 famille: abats
 styles: rouge-souple, rouge-charpente
 vins: saint-joseph, crozes-hermitage, morgon, haut-medoc, graves, bourgueil
-conseil: La moelle est un pur gras, relevé de fleur de sel sur du pain grillé : il faut un rouge frais, doté de tanins pour dégraisser, mais sans lourdeur alcoolique. Syrah du Rhône nord ou bordeaux de structure moyenne conviennent. Un blanc ne tient pas face à cette richesse.
+conseil: La moelle est un pur gras, relevé de fleur de sel sur du pain grillé : il faut un rouge frais, doté de tanins pour dégraisser, mais sans lourdeur alcoolique. Syrah du Rhône nord ou bordeaux de structure moyenne conviennent. Un blanc maigre ou très vif ne tient pas face à cette richesse.
 
 @ salade-de-gesiers
 nom: Salade de gésiers confits

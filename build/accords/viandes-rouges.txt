@@ -25,7 +25,7 @@ conseil: Viande épaisse, grillée, saignante et persillée : c'est le terrain d
 @ entrecote-bordelaise
 nom: Entrecôte à la bordelaise
 famille: viandes-rouges
-styles: rouge-charpente, rouge-souple
+styles: rouge-charpente, rouge-souple, rouge-elegant
 vins: saint-emilion, pessac-leognan, graves, medoc, listrac-medoc, fronsac, cotes-de-bourg, bordeaux-superieur
 conseil: Grillée sur les sarments, nappée d'échalotes et de moelle, parfois d'une sauce au vin rouge : l'accord de terroir est sans surprise, du petit château au cru classé. Les tanins du cabernet et du merlot aiment la viande saignante. Un vin jeune sera carafé.
 
@@ -33,13 +33,13 @@ conseil: Grillée sur les sarments, nappée d'échalotes et de moelle, parfois d
 nom: Steak-frites
 famille: viandes-rouges
 styles: rouge-souple, rouge-leger
-vins: cotes-du-rhone, bordeaux, chinon, brouilly, crozes-hermitage, corbieres, bergerac, cotes-de-bordeaux
+vins: cotes-du-rhone, bordeaux, chinon, brouilly, crozes-hermitage, minervois, bergerac, cotes-de-bordeaux
 conseil: Le plat de bistrot par excellence s'accommode de presque tous les rouges francs, de corps moyen, bus sur leur fruit. On cherche le plaisir immédiat, pas la complexité. Garder les grandes bouteilles pour une pièce de bœuf plus noble.
 
 @ steak-au-poivre
 nom: Steak au poivre
 famille: viandes-rouges
-styles: rouge-solaire, rouge-charpente
+styles: rouge-solaire, rouge-charpente, rouge-souple
 vins: crozes-hermitage, saint-joseph, cornas, vacqueyras, lirac, faugeres, terrasses-du-larzac, cotes-du-roussillon-villages
 conseil: Le poivre et la sauce crémée flambée demandent un rouge épicé et rond : la syrah, naturellement poivrée, est le cépage tout désigné, au nord comme au sud. Préférer un vin au fruit mûr, car le piquant du poivre accentue les tanins verts et l'alcool. Les vins très boisés ajoutent de l'amertume.
 
@@ -97,7 +97,7 @@ conseil: Viande grillée, fromage fondu, pain brioché, sauces sucrées et corni
 nom: Grillades au barbecue
 famille: viandes-rouges
 styles: rouge-solaire, rose-vineux, rouge-souple
-vins: minervois, corbieres, saint-chinian, cotes-du-roussillon, cotes-du-rhone-villages, tavel, bandol, cahors
+vins: minervois, corbieres, saint-chinian, cotes-du-roussillon, cotes-du-rhone-villages, tavel, bandol, faugeres
 conseil: Brochettes, côtes et saucisses saisies sur la braise ont un goût fumé et caramélisé qui appelle des vins généreux, au fruit mûr et aux épices : les rouges du Languedoc, du Roussillon et du Rhône sont nés pour cela. Par forte chaleur, les servir un peu frais, ou passer à un rosé de repas. Éviter les marinades très sucrées avec les vins tanniques.
 
 @ gigot-d-agneau
@@ -132,7 +132,7 @@ conseil: Ragoût printanier aux petits légumes nouveaux, plus tendre que corsé
 nom: Côtelettes d'agneau grillées
 famille: viandes-rouges
 styles: rouge-souple, rouge-solaire, rose-vineux
-vins: cotes-de-provence, coteaux-d-aix-en-provence, luberon, ventoux, ajaccio, patrimonio, haut-medoc, irouleguy
+vins: cotes-de-provence, coteaux-d-aix-en-provence, luberon, ventoux, ajaccio, patrimonio, medoc, irouleguy
 conseil: Vite grillées aux herbes, les côtelettes ont un goût franc et un gras qui croustille. Un rouge méditerranéen de corps moyen, aux notes de garrigue, ou un rosé structuré, les accompagne simplement. Un médoc souple reste un choix sûr.
 
 @ gardiane-de-taureau

@@ -7,12 +7,12 @@ niveau: régionale
 couleurs: effervescent
 styles: effervescent-brut, effervescent-doux
 cepages: pinot-noir*, pinot-meunier*, chardonnay*, pinot-blanc, pinot-gris, arbane, petit-meslier
-surface: environ 34 000 ha
+surface: environ 34 000 ha d'aire délimitée, près de 32 000 ha plantés
 depuis: 1936
 def: L'appellation unique des vins effervescents de la Champagne, élaborés par seconde fermentation en bouteille dans 319 communes de cinq départements.
 texte: L'aire d'appellation, fixée par la loi de 1927, s'étend principalement sur la Marne et l'Aube, avec des prolongements dans l'Aisne, la Haute-Marne et la Seine-et-Marne. La vigne y est cultivée à sa limite septentrionale, sur des coteaux de craie, de marnes et de calcaires qui régulent l'alimentation en eau. La vendange est obligatoirement manuelle, par grappes entières ; le pressurage, lent et fractionné, sépare la cuvée, premier jus le plus fin, de la taille.
-texte: Les vins clairs de l'année sont assemblés, le plus souvent entre cépages, crus et millésimes, avec l'appoint de vins de réserve. Mis en bouteille avec une liqueur de tirage, ils fermentent une seconde fois : c'est la prise de mousse. Suivent un vieillissement sur lies d'au moins quinze mois (trois ans pour les millésimés, bien davantage en pratique pour les grandes cuvées), le remuage, le dégorgement et le dosage, qui fixe le type du vin, du brut nature au doux.
-texte: La palette est large. Les blancs de blancs de la Côte des Blancs, tout en finesse crayeuse, s'opposent aux blancs de noirs vineux de la Montagne de Reims et de la Côte des Bar ; le meunier de la Vallée de la Marne apporte fruit et rondeur aux assemblages. Les rosés sont obtenus par ajout de vin rouge champenois ou par macération. Dix-sept communes ont droit à la mention « grand cru », quarante-deux à la mention « premier cru ». Champagne est la seule grande appellation française dispensée de porter les mots « appellation d'origine contrôlée » sur l'étiquette.
+texte: Les vins clairs de l'année sont assemblés, le plus souvent entre cépages, crus et millésimes, avec l'appoint de vins de réserve. Mis en bouteille avec une liqueur de tirage, ils fermentent une seconde fois : c'est la prise de mousse. Suivent un vieillissement d'au moins quinze mois, dont douze sur lies (trois ans pour les millésimés, bien davantage en pratique pour les grandes cuvées), le remuage, le dégorgement et le dosage, qui fixe le type du vin, du brut nature au doux.
+texte: La palette est large. Les blancs de blancs de la Côte des Blancs, tout en finesse crayeuse, s'opposent aux blancs de noirs vineux de la Montagne de Reims et de la Côte des Bar ; le meunier de la Vallée de la Marne apporte fruit et rondeur aux assemblages. Les rosés sont obtenus par ajout de vin rouge champenois ou par macération. Dix-sept communes ont droit à la mention « grand cru », une quarantaine à la mention « premier cru ». Champagne fait partie des rares appellations françaises dispensées de porter les mots « appellation d'origine contrôlée » sur l'étiquette.
 gout: agrumes, pomme, fleurs blanches, brioche, noisette avec l'âge, bulle fine et acidité vive
 garde: 2 à 4 ans après l'achat pour un brut sans année ; 10 à 20 ans et plus pour les millésimés et les cuvées de prestige
 service: 8-10 °C ; 10-12 °C pour les vieux millésimes, dans un verre assez large
@@ -46,7 +46,7 @@ cepages: pinot-noir*
 surface: quelques dizaines d'hectares revendiqués selon les années, sur les pentes les mieux exposées
 depuis: 1947
 def: Un rosé de pinot noir tranquille, rare et de garde, propre à la commune des Riceys, dans l'Aube.
-texte: Les Riceys, plus vaste commune viticole de Champagne, réunit trois villages au sud de la Côte des Bar, à la limite de la Bourgogne. Le rosé naît des coteaux les plus pentus et les mieux ensoleillés, sur marnes kimméridgiennes, et seulement les années où le pinot noir atteint une maturité suffisante. Les grappes, entières, macèrent quelques jours ; le vigneron écoule la cuve à l'instant précis où apparaît le « goût des Riceys », avant que les tanins ne prennent le dessus. Le vin, d'un rosé soutenu, souvent élevé en fût, est vineux et singulier ; il peut vieillir plusieurs années.
+texte: Les Riceys, plus vaste commune viticole de Champagne, réunit trois villages au sud de la Côte des Bar, à la limite de la Bourgogne. Le rosé naît des coteaux les plus pentus et les mieux ensoleillés, sur marnes kimméridgiennes, et seulement les années où le pinot noir atteint une maturité suffisante. Les raisins macèrent quelques jours ; le vigneron écoule la cuve à l'instant précis où apparaît le « goût des Riceys », avant que les tanins ne prennent le dessus. Le vin, d'un rosé soutenu, souvent élevé en fût, est vineux et singulier ; il peut vieillir plusieurs années.
 gout: fruits rouges, amande, noisette, violette, bouche vineuse
 garde: 3 à 10 ans
 service: 10-12 °C

@@ -9,7 +9,7 @@ niveau: régionale
 couleurs: rouge, rosé, blanc
 styles: rouge-souple, blanc-vif, rose-leger
 cepages: merlot*, cabernet-sauvignon*, cabernet-franc*, malbec, petit-verdot, carmenere, semillon*, sauvignon-blanc*, sauvignon-gris, muscadelle, colombard, ugni-blanc
-surface: environ 40 000 ha
+surface: plus de 40 000 ha
 depuis: 1936
 def: L'appellation régionale de la Gironde viticole, socle de tout le Bordelais : rouges, rosés, clairets et blancs d'assemblage.
 texte: L'appellation peut être revendiquée sur toutes les terres à vigne délimitées de Gironde, mais l'essentiel des volumes vient de l'Entre-deux-Mers et des coteaux de la rive droite, sur des sols argilo-calcaires, limoneux ou graveleux. C'est de loin la première appellation de France par la surface, même si les arrachages récents l'ont sensiblement réduite.
@@ -41,7 +41,7 @@ sous: Appellations régionales
 niveau: régionale
 couleurs: effervescent
 styles: effervescent-brut
-cepages: semillon*, sauvignon-blanc*, muscadelle, merlot*, cabernet-franc*, cabernet-sauvignon, malbec, petit-verdot, carmenere
+cepages: semillon*, sauvignon-blanc*, muscadelle*, merlot, cabernet-franc, cabernet-sauvignon, malbec, petit-verdot, carmenere, sauvignon-gris
 depuis: 1990
 def: L'effervescent de méthode traditionnelle du Bordelais, blanc ou rosé, élaboré avec les cépages de la région.
 texte: Vendangés à la main et pressés en grappes entières, les raisins donnent un vin de base qui prend mousse en bouteille, où il repose sur lattes au moins neuf mois. Les blancs associent souvent [[semillon]] et [[sauvignon-blanc]], parfois des raisins noirs pressés en blanc ; les rosés viennent surtout du [[merlot]] et du [[cabernet-franc]]. Longtemps confidentielle, l'appellation connaît un essor rapide, beaucoup de producteurs y voyant un débouché nouveau pour leurs vignes.
@@ -70,13 +70,13 @@ voir: bordeaux, igp-charentais, igp-perigord
 nom: Médoc
 sous: Médoc
 niveau: sous-régionale
-couleurs: rouge
+couleurs: rouge, blanc
 styles: rouge-charpente, rouge-souple
-cepages: cabernet-sauvignon*, merlot*, cabernet-franc, petit-verdot, malbec, carmenere
-surface: environ 5 500 ha
+cepages: cabernet-sauvignon*, merlot*, cabernet-franc, petit-verdot, malbec, carmenere, semillon, sauvignon-blanc, sauvignon-gris, muscadelle
+surface: environ 5 300 ha
 depuis: 1936
 def: La partie nord de la presqu'île médocaine, en aval de Saint-Seurin-de-Cadourne : des rouges solides et francs.
-texte: L'appellation peut en droit couvrir toute la presqu'île, mais elle est produite en pratique dans sa moitié nord, l'ancien « Bas-Médoc », autour de Lesparre. Le relief s'y aplanit, les croupes de graves se font plus rares et alternent avec des argilo-calcaires et des terres plus lourdes ; le [[merlot]] y tient donc une place plus grande que dans les communales. Les vins sont colorés, droits, moins raffinés que ceux du [[haut-medoc]] mais souvent d'un bon rapport entre caractère et accessibilité. Nombre de crus bourgeois en proviennent.
+texte: L'appellation peut en droit couvrir toute la presqu'île, mais elle est produite en pratique dans sa moitié nord, l'ancien « Bas-Médoc », autour de Lesparre. Le relief s'y aplanit, les croupes de graves se font plus rares et alternent avec des argilo-calcaires et des terres plus lourdes ; le [[merlot]] y tient donc une place plus grande que dans les communales. Les vins sont colorés, droits, moins raffinés que ceux du [[haut-medoc]] mais souvent d'un bon rapport entre caractère et accessibilité. Nombre de crus bourgeois en proviennent. Le cahier des charges admet aussi, depuis 2025, des blancs, naguère vendus en simple bordeaux.
 gout: cassis, mûre, réglisse, notes de sous-bois, tanins fermes
 garde: 4 à 12 ans
 service: 16-18 °C
@@ -89,10 +89,10 @@ niveau: sous-régionale
 couleurs: rouge
 styles: rouge-charpente
 cepages: cabernet-sauvignon*, merlot*, cabernet-franc, petit-verdot, malbec, carmenere
-surface: environ 4 600 ha
+surface: environ 4 500 ha
 depuis: 1936
 def: La moitié sud du Médoc, de Blanquefort à Saint-Seurin-de-Cadourne, qui entoure les six appellations communales.
-texte: Le Haut-Médoc s'étire sur une soixantaine de kilomètres le long de l'estuaire. Il réunit les terroirs qui n'entrent pas dans les communales : croupes de graves comparables aux leurs près du fleuve, sols plus sableux ou argilo-calcaires vers la forêt. La qualité est donc inégale, mais les meilleurs crus rivalisent avec leurs voisins de [[margaux]] ou de [[saint-julien]]. Cinq crus classés en 1855 portent l'appellation, aux côtés de nombreux crus bourgeois.
+texte: Le Haut-Médoc s'étire sur plusieurs dizaines de kilomètres le long de l'estuaire. Il réunit les terroirs qui n'entrent pas dans les communales : croupes de graves comparables aux leurs près du fleuve, sols plus sableux ou argilo-calcaires vers la forêt. La qualité est donc inégale, mais les meilleurs crus rivalisent avec leurs voisins de [[margaux]] ou de [[saint-julien]]. Cinq crus classés en 1855 portent l'appellation, aux côtés de nombreux crus bourgeois.
 gout: cassis, cèdre, épices, tanins structurés, finale fraîche
 garde: 5 à 15 ans
 service: 16-18 °C ; carafer les vins jeunes
@@ -106,7 +106,7 @@ niveau: communale
 couleurs: rouge
 styles: rouge-charpente
 cepages: cabernet-sauvignon*, merlot*, cabernet-franc, petit-verdot, malbec, carmenere
-surface: environ 1 250 ha
+surface: environ 1 200 ha
 depuis: 1936
 def: La plus septentrionale des grandes communales du Médoc, aux vins fermes et de longue garde.
 texte: Séparée de [[pauillac]] par un simple ruisseau, la commune de Saint-Estèphe aligne ses croupes de graves face à l'estuaire. Mais le sous-sol contient ici davantage d'argile et de calcaire que plus au sud : ces terres retiennent l'eau, ce qui sert le vignoble les années sèches et retarde un peu la maturité les années fraîches.
@@ -197,8 +197,8 @@ styles: rouge-charpente, rouge-elegant
 cepages: cabernet-sauvignon*, merlot*, cabernet-franc, petit-verdot, malbec, carmenere
 surface: environ 600 ha
 depuis: 1938
-def: La plus petite communale du Médoc, en retrait de l'estuaire, connue pour sa croupe de Grand Poujeaux.
-texte: Moulis-en-Médoc forme un ruban étroit d'une dizaine de kilomètres entre [[margaux]] et [[listrac-medoc]]. Les sols y changent vite : belles graves garonnaises à l'est, autour du hameau de Grand Poujeaux, argilo-calcaires au centre, graves plus anciennes à l'ouest. Les meilleurs vins, issus de la croupe de Poujeaux, allient la chair à une vraie finesse et tiennent tête à bien des crus classés, que l'appellation ne possède pas.
+def: L'une des deux plus petites communales du Médoc, en retrait de l'estuaire, connue pour sa croupe de Grand Poujeaux.
+texte: Moulis-en-Médoc forme un ruban étroit entre [[margaux]] et [[listrac-medoc]]. Les sols y changent vite : belles graves garonnaises à l'est, autour du hameau de Grand Poujeaux, argilo-calcaires au centre, graves plus anciennes à l'ouest. Les meilleurs vins, issus de la croupe de Poujeaux, allient la chair à une vraie finesse et tiennent tête à bien des crus classés, que l'appellation ne possède pas.
 gout: cassis, mûre, épices, notes fumées, tanins mûrs
 garde: 6 à 20 ans
 service: 16-18 °C
@@ -214,11 +214,11 @@ niveau: sous-régionale
 couleurs: rouge, blanc
 styles: rouge-souple, blanc-vif, blanc-ample
 cepages: merlot*, cabernet-sauvignon*, cabernet-franc, petit-verdot, malbec, carmenere, semillon*, sauvignon-blanc*, sauvignon-gris, muscadelle
-surface: environ 3 500 ha
+surface: environ 3 100 ha
 depuis: 1937
-def: Le vignoble de la rive gauche de la Garonne, de Bordeaux à Langon, seule appellation française à porter le nom de son sol.
+def: Le vignoble de la rive gauche de la Garonne, de Bordeaux à Langon, l'une des rares appellations françaises à porter le nom de son sol.
 texte: Les Graves s'allongent sur une cinquantaine de kilomètres au sud de Bordeaux, entre le fleuve et la forêt de pins. Les terrasses de galets et de graviers déposés par la Garonne y alternent avec des sables et, par endroits, des affleurements calcaires. Depuis la création de [[pessac-leognan]] au nord, l'appellation désigne surtout la partie centrale et méridionale, autour de Podensac, Portets et Langon.
-texte: Les rouges, où [[merlot]] et [[cabernet-sauvignon]] s'équilibrent, sont plus souples et plus précoces que ceux du Médoc, avec une note fumée qui leur est propre. Les blancs secs, à base de [[semillon]] et de [[sauvignon-blanc]], vont du vin vif et fruité à la cuvée élevée en barrique, ample et apte à vieillir.
+texte: Les rouges, où [[merlot]] et [[cabernet-sauvignon]] s'équilibrent, sont plus souples et plus précoces que ceux du Médoc, avec une note fumée qui leur est propre. Les blancs secs, à base de [[semillon]] et de [[sauvignon-blanc]], vont du vin vif et fruité à la cuvée élevée en barrique, ample et apte à vieillir. Depuis 2025, les blancs à sucres résiduels, naguère vendus en graves supérieures, relèvent eux aussi de l'appellation.
 gout: fruits rouges, notes fumées et épicées en rouge ; agrumes, pêche, fleurs blanches en blanc
 garde: 4 à 10 ans pour les rouges ; 2 à 6 ans pour les blancs
 service: 16-17 °C pour les rouges ; 10-12 °C pour les blancs
@@ -232,8 +232,8 @@ couleurs: moelleux
 styles: blanc-moelleux
 cepages: semillon*, sauvignon-blanc, sauvignon-gris, muscadelle
 depuis: 1937
-def: Le blanc moelleux des Graves, produit sur la même aire que l'appellation Graves.
-texte: Sous ce nom un peu trompeur se cache non pas un graves « meilleur », mais un vin blanc doux. Le [[semillon]], récolté en surmaturité, parfois touché par la pourriture noble près du Sauternais, donne des vins tendres et fruités, moins concentrés que les liquoreux voisins. La production est devenue modeste, la plupart des domaines privilégiant aujourd'hui les blancs secs.
+def: Le blanc moelleux des Graves, produit sur la même aire que l'appellation Graves, aujourd'hui en voie d'absorption par celle-ci.
+texte: Sous ce nom un peu trompeur se cachait non pas un graves « meilleur », mais un vin blanc doux. Le [[semillon]], récolté en surmaturité, parfois touché par la pourriture noble près du Sauternais, donne des vins tendres et fruités, moins concentrés que les liquoreux voisins. La production était devenue modeste, la plupart des domaines privilégiant les blancs secs. À la demande des producteurs, l'appellation a été retirée du cahier des charges en 2025 : ces vins, à conditions de production inchangées, sont désormais revendiqués en [[graves]] comme blancs à sucres résiduels.
 gout: abricot, miel, fruits confits, douceur légère
 garde: 3 à 10 ans
 service: 8-10 °C
@@ -266,7 +266,7 @@ niveau: communale
 couleurs: liquoreux
 styles: liquoreux
 cepages: semillon*, sauvignon-blanc, sauvignon-gris, muscadelle
-surface: environ 2 000 ha
+surface: environ 1 500 ha
 depuis: 1936
 def: Le plus célèbre liquoreux du monde, né de la pourriture noble sur cinq communes du sud des Graves.
 texte: L'appellation s'étend sur Sauternes, Bommes, Fargues, Preignac et Barsac, à une quarantaine de kilomètres en amont de Bordeaux. Son secret est un petit affluent, le Ciron, dont les eaux fraîches rejoignent celles, plus tièdes, de la Garonne. En automne, cette rencontre fait lever des brouillards matinaux que le soleil dissipe l'après-midi : l'alternance idéale pour que le champignon *Botrytis cinerea* se développe en pourriture noble, concentrant le sucre, l'acidité et les arômes des baies au lieu de les gâter.
@@ -285,7 +285,7 @@ niveau: communale
 couleurs: liquoreux
 styles: liquoreux
 cepages: semillon*, sauvignon-blanc, sauvignon-gris, muscadelle
-surface: environ 450 ha
+surface: environ 350 ha
 depuis: 1936
 def: Liquoreux de la rive gauche du Ciron, frère du Sauternes, dont il peut aussi porter le nom.
 texte: Barsac est la seule des cinq communes du Sauternais à disposer de sa propre appellation ; ses producteurs choisissent librement entre les deux étiquettes. Le terroir diffère de celui du reste de l'aire : un plateau bas, presque plat, où une mince couche de sables rouges repose sur un socle calcaire. Les vins, nés de la même pourriture noble et des mêmes tries, sont souvent un peu moins opulents que les [[sauternes]], avec plus de tension et de vivacité. Deux premiers crus classés en 1855 s'y trouvent.
@@ -319,7 +319,7 @@ niveau: communale
 couleurs: rouge
 styles: rouge-souple, rouge-elegant
 cepages: merlot*, cabernet-franc*, cabernet-sauvignon, malbec, carmenere, petit-verdot
-surface: environ 5 400 ha avec Saint-Émilion grand cru
+surface: environ 5 300 ha avec Saint-Émilion grand cru
 depuis: 1936
 def: Le grand vignoble de la rive droite, autour d'une cité médiévale : des rouges de merlot et de cabernet franc.
 texte: À l'est de Libourne, l'aire de Saint-Émilion reprend les limites de l'ancienne juridiction médiévale : la commune elle-même et ses voisines, plus une frange de Libourne. Le paysage, inscrit au patrimoine mondial par l'UNESCO en 1999, rassemble plusieurs terroirs très différents : le plateau de calcaire à astéries, creusé de carrières qui servent de chais ; les côtes argilo-calcaires qui le bordent ; les pieds de côte sableux ; une avancée de graves vers [[pomerol]] ; enfin la plaine de sables et de graviers qui descend vers la Dordogne.
@@ -385,7 +385,7 @@ niveau: communale
 couleurs: rouge
 styles: rouge-souple, rouge-charpente
 cepages: merlot*, cabernet-franc*, cabernet-sauvignon, malbec, carmenere, petit-verdot
-surface: environ 750 ha
+surface: environ 700 ha
 depuis: 1936
 def: Le plus oriental des satellites de Saint-Émilion, sur un plateau calcaire élevé.
 texte: Puisseguin touche à l'est le vignoble de Castillon. Son plateau argilo-calcaire, parmi les points hauts du Libournais, repose sur une roche qui régule bien l'alimentation en eau de la vigne. Un peu plus tardif que ses voisins, le terroir donne des vins fermes, colorés, qui gagnent à attendre trois ou quatre ans et gardent une bonne fraîcheur.
@@ -416,7 +416,7 @@ sous: Libournais
 niveau: communale
 couleurs: rouge
 styles: rouge-elegant, rouge-charpente
-cepages: merlot*, cabernet-franc*, cabernet-sauvignon, malbec
+cepages: merlot*, cabernet-franc*, cabernet-sauvignon, malbec, petit-verdot
 surface: environ 800 ha
 depuis: 1936
 def: Petit plateau aux portes de Libourne, sans classement ni château d'apparat, où le merlot donne des vins d'un velouté unique.
@@ -436,7 +436,7 @@ niveau: communale
 couleurs: rouge
 styles: rouge-souple, rouge-elegant
 cepages: merlot*, cabernet-franc*, cabernet-sauvignon, malbec
-surface: environ 1 150 ha
+surface: environ 1 100 ha
 depuis: 1936
 def: Le voisin nord de Pomerol, au-delà de la Barbanne, sur les communes de Lalande-de-Pomerol et de Néac.
 texte: Un simple ruisseau sépare l'appellation de son illustre voisine. À Néac, à l'est, un plateau de graves et d'argiles prolonge celui de [[pomerol]] et donne les vins les plus profonds ; à Lalande, à l'ouest, les sols sableux et graveleux produisent des vins plus souples. Le [[merlot]] règne. Sans atteindre la densité des pomerols, les meilleurs en ont le fruit charnu et le toucher velouté, à des conditions bien plus accessibles.
@@ -452,7 +452,7 @@ niveau: communale
 couleurs: rouge
 styles: rouge-charpente, rouge-souple
 cepages: merlot*, cabernet-franc*, cabernet-sauvignon, malbec
-surface: environ 800 ha
+surface: environ 750 ha
 depuis: 1937
 def: Vignoble de coteaux à l'ouest de Libourne, au confluent de l'Isle et de la Dordogne.
 texte: Le Fronsadais est le secteur le plus accidenté du Libournais : des collines abruptes, coiffées de calcaire à astéries, dont les pentes sont faites d'une roche tendre argilo-gréseuse, la molasse du Fronsadais. Très recherchés au XVIIIᵉ siècle, ces vins ont ensuite été éclipsés par Saint-Émilion et Pomerol. Le [[merlot]], complété par le [[cabernet-franc]], y donne des rouges colorés, fermes dans leur jeunesse, avec une fraîcheur et des notes épicées bien à eux.
@@ -468,7 +468,7 @@ niveau: communale
 couleurs: rouge
 styles: rouge-charpente, rouge-elegant
 cepages: merlot*, cabernet-franc*, cabernet-sauvignon, malbec
-surface: environ 250 ha
+surface: environ 200 ha
 depuis: 1939
 def: Le cœur historique du Fronsadais, sur les meilleurs coteaux de Fronsac et de Saint-Michel-de-Fronsac.
 texte: Enclavée dans l'appellation [[fronsac]], Canon Fronsac regroupe les pentes les plus raides et les mieux exposées, celles qui dominent directement la Dordogne. Le calcaire y est plus présent, les sols plus minces. Les vins passent pour les plus fins et les plus aptes à la garde du secteur : structurés, un peu sévères jeunes, ils développent avec l'âge des arômes de truffe et d'épices. Dans les faits, la différence avec les meilleurs fronsacs tient souvent davantage au vigneron qu'à la limite d'appellation.
@@ -488,7 +488,7 @@ styles: rouge-charpente, rouge-souple
 cepages: merlot*, cabernet-sauvignon*, cabernet-franc*, malbec
 depuis: 1936
 def: Appellation de rouges du Blayais, sur la rive droite de l'estuaire, aux règles plus sévères que celles des Côtes de Bordeaux.
-texte: Autour de la citadelle de Vauban, le Blayais est un vaste vignoble de coteaux argilo-calcaires qui fait face au Médoc. La plupart de ses vins portent aujourd'hui la dénomination Blaye des [[cotes-de-bordeaux]]. L'appellation Blaye proprement dite, réservée aux rouges, a été conservée pour des cuvées plus ambitieuses : densités de plantation élevées, petits rendements, élevage prolongé. Elle reste confidentielle, et donne des vins concentrés, à dominante de [[merlot]], qui demandent quelques années de cave.
+texte: Autour de la citadelle de Vauban, le Blayais est un vaste vignoble de coteaux argilo-calcaires qui fait face au Médoc. La plupart de ses vins portent aujourd'hui la dénomination Blaye des [[cotes-de-bordeaux]]. L'appellation Blaye proprement dite, réservée aux rouges, a été conservée pour des cuvées plus ambitieuses : densités de plantation élevées, rendements réduits, enrichissement interdit. Elle reste très confidentielle, sur quelques hectares seulement, et son nom a été officialisé en Blavia, ancien nom latin de Blaye, en décembre 2024. Les vins sont concentrés, à dominante de [[merlot]], et demandent quelques années de cave.
 gout: fruits noirs, épices, notes boisées, tanins denses
 garde: 5 à 12 ans
 service: 16-17 °C
@@ -501,7 +501,7 @@ niveau: sous-régionale
 couleurs: rouge, blanc
 styles: rouge-souple, rouge-charpente, blanc-vif
 cepages: merlot*, cabernet-sauvignon*, cabernet-franc, malbec*, sauvignon-blanc*, semillon, sauvignon-gris, muscadelle, colombard
-surface: environ 3 800 ha
+surface: environ 3 000 ha
 depuis: 1936
 def: Vignoble de collines sur la rive droite, face au confluent de la Garonne et de la Dordogne, où le malbec garde une place de choix.
 texte: Autour de la petite ville de Bourg, perchée sur sa falaise, trois lignes de coteaux parallèles au fleuve composent un paysage vallonné qu'on a surnommé la « petite Suisse girondine ». Les sols sont argilo-calcaires, avec des placages de graves et de sables rouges. L'estuaire protège du gel. Les rouges, à base de [[merlot]], doivent une part de leur personnalité au [[malbec]], plus présent ici que partout ailleurs en Gironde : couleur soutenue, fruit épicé, tanins francs. Une petite production de blancs secs complète la gamme.
@@ -518,12 +518,12 @@ sous: Entre-deux-Mers et Côtes
 niveau: sous-régionale
 couleurs: rouge, blanc, moelleux
 styles: rouge-souple, blanc-vif, blanc-moelleux
-cepages: merlot*, cabernet-sauvignon*, cabernet-franc*, malbec, semillon, sauvignon-blanc, sauvignon-gris, muscadelle
+cepages: merlot*, cabernet-sauvignon*, cabernet-franc*, malbec*, carmenere, petit-verdot, semillon, sauvignon-blanc, sauvignon-gris, muscadelle, colombard, ugni-blanc
 surface: environ 10 000 ha
 depuis: 2009
 def: Appellation qui fédère depuis 2009 plusieurs vignobles de coteaux de la rive droite, chacun identifié par une dénomination.
-texte: Les vins portent le plus souvent le nom de leur terroir avant celui de l'appellation : Blaye, face au Médoc ; Cadillac, sur les coteaux qui dominent la rive droite de la Garonne ; Castillon et Francs, dans le prolongement oriental de Saint-Émilion ; Sainte-Foy, aux confins de la Dordogne, qui a rejoint l'ensemble plus tard. Ces vignobles ont en commun des pentes bien exposées, des sols argilo-calcaires et la domination du [[merlot]].
-texte: Les rouges forment l'essentiel : des vins fruités, charnus, d'un bon rapport entre plaisir et tenue, avec des cuvées plus ambitieuses à Castillon et à Francs, dont les meilleurs terroirs valent ceux des satellites de Saint-Émilion. Les blancs secs sont produits surtout à Blaye, et quelques blancs doux à Francs et à Sainte-Foy.
+texte: Les vins portent le plus souvent le nom de leur terroir avant celui de l'appellation : Blaye, face au Médoc ; Cadillac, sur les coteaux qui dominent la rive droite de la Garonne ; Castillon et Francs, dans le prolongement oriental de Saint-Émilion ; Sainte-Foy, aux confins de la Dordogne, qui a rejoint l'ensemble en 2016. Ces vignobles ont en commun des pentes bien exposées, des sols argilo-calcaires et la domination du [[merlot]].
+texte: Les rouges forment l'essentiel : des vins fruités, charnus, d'un bon rapport entre plaisir et tenue, avec des cuvées plus ambitieuses à Castillon et à Francs, dont les meilleurs terroirs valent ceux des satellites de Saint-Émilion. Les blancs sont produits surtout à Blaye, en secs, et en petite quantité à Francs et à Sainte-Foy, où existent aussi des blancs doux.
 gout: fruits rouges et noirs mûrs, épices, tanins ronds ; agrumes en blanc
 garde: 3 à 10 ans
 service: 16-17 °C pour les rouges ; 9-11 °C pour les blancs
@@ -566,7 +566,7 @@ niveau: communale
 couleurs: liquoreux
 styles: liquoreux
 cepages: semillon*, sauvignon-blanc, sauvignon-gris, muscadelle
-surface: environ 350 ha
+surface: environ 250 ha
 depuis: 1936
 def: Liquoreux d'une seule commune de la rive droite de la Garonne, juste en face de Barsac.
 texte: Le vignoble de Loupiac occupe des coteaux exposés au sud et au sud-ouest, qui plongent vers le fleuve. Les sols argilo-calcaires et argilo-graveleux, joints aux brouillards matinaux de la Garonne, permettent un développement régulier de la pourriture noble. Vendangés par tries, les raisins donnent des liquoreux fins et parfumés, plus légers que les [[sauternes]], marqués par les fruits jaunes et le miel, avec une fraîcheur agréable.

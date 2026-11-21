@@ -20,7 +20,7 @@ nom: Bar grillé au fenouil
 famille: poissons
 styles: blanc-vif, blanc-ample, rose-leger
 vins: cassis, bellet, palette, patrimonio, cotes-de-provence, la-clape, sancerre, chablis
-conseil: Le loup des Méditerranéens, grillé avec du fenouil et un filet d'huile d'olive, s'accorde aux blancs de son littoral : rolle, clairette et marsanne y trouvent des notes anisées qui font écho au fenouil. Un blanc septentrional vif convient s'il est sans bois. Un rosé pâle est possible, un rouge non.
+conseil: Le loup des Méditerranéens, grillé avec du fenouil et un filet d'huile d'olive, s'accorde aux blancs de son littoral : rolle, clairette et marsanne y apportent des notes d'herbes et d'agrumes qui répondent au fenouil. Un blanc septentrional vif convient s'il est sans bois. Un rosé pâle est possible, un rouge non.
 
 @ saumon-grille
 nom: Saumon grillé ou poêlé
@@ -34,7 +34,7 @@ conseil: Poisson gras à la chair dense, le saumon supporte un blanc de bonne am
 nom: Saumon à l'oseille
 famille: poissons
 styles: blanc-vif, blanc-ample
-vins: sancerre, pouilly-fume, menetou-salon, savennieres, cote-roannaise, saint-pourcain, vire-clesse
+vins: sancerre, pouilly-fume, menetou-salon, savennieres, quincy, saint-pourcain, vire-clesse
 conseil: L'oseille apporte une acidité vive que la crème arrondit : le vin doit avoir les deux, de la nervosité et un peu de chair. Sauvignon du Centre-Loire ou chenin sec remplissent le contrat. Un blanc tendre paraîtrait plat face à l'oseille.
 
 @ truite-aux-amandes
@@ -105,7 +105,7 @@ conseil: Le thon rouge se traite presque comme une viande : sa chair dense et sa
 nom: Sardines grillées
 famille: poissons
 styles: blanc-vif, rose-leger
-vins: muscadet, gros-plant-du-pays-nantais, picpoul-de-pinet, fiefs-vendeens, cotes-de-provence, cotes-du-roussillon, igp-cotes-de-gascogne
+vins: muscadet, gros-plant-du-pays-nantais, picpoul-de-pinet, fiefs-vendeens, cotes-de-provence, coteaux-d-aix-en-provence, igp-cotes-de-gascogne
 conseil: Poisson gras, très parfumé, grillé sur la braise : il lui faut un vin simple, sec et très frais, dont l'acidité dégraisse la bouche. Petits blancs de l'Atlantique ou rosés du Midi, bus sans cérémonie. Les rouges prennent un goût de fer avec les poissons bleus.
 
 @ maquereaux-au-vin-blanc
@@ -132,7 +132,7 @@ conseil: La friture appelle l'acidité et les bulles : un blanc sec très frais 
 @ hareng-pommes-a-l-huile
 nom: Hareng pommes à l'huile et poissons fumés
 famille: poissons
-styles: blanc-vif, blanc-aromatique
+styles: blanc-vif, blanc-aromatique, effervescent-brut
 vins: alsace, muscadet-sevre-et-maine, sancerre, petit-chablis, cremant-d-alsace, moselle
 conseil: Hareng, haddock ou maquereau fumés sont gras, salés et puissants : un blanc sec, très vif et minéral leur tient tête, sylvaner ou riesling d'Alsace en premier lieu. Les bulles conviennent aussi. Le fumé et le sel rendent les rouges métalliques.
 

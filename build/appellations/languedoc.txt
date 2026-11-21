@@ -8,8 +8,8 @@ sous: Ensemble du Languedoc
 niveau: régionale
 couleurs: rouge, rosé, blanc
 styles: rouge-solaire, rose-leger, blanc-ample
-cepages: grenache-noir*, syrah*, mourvedre*, carignan, cinsault, lledoner-pelut, grenache-blanc*, clairette*, bourboulenc*, piquepoul-blanc*, roussanne*, marsanne*, vermentino*, tourbat, viognier, macabeu
-surface: environ 10 000 ha
+cepages: grenache-noir*, syrah*, mourvedre*, carignan, cinsault, lledoner-pelut, grenache-blanc*, clairette*, bourboulenc*, piquepoul-blanc*, roussanne*, marsanne*, vermentino*, tourbat, viognier, macabeu, terret-noir, piquepoul-noir, counoise, carignan-blanc, terret-blanc
+surface: environ 6 000 ha
 depuis: 2007
 def: L'appellation régionale du Midi, de Nîmes à la frontière espagnole, socle commun des terroirs du Languedoc et du Roussillon.
 texte: Héritière des Coteaux du Languedoc, reconnus en 1985, l'appellation a pris son nom actuel en 2007 et s'est alors étendue à l'ensemble des aires d'AOC de la région, Roussillon compris. Elle traverse quatre départements, le Gard, l'Hérault, l'Aude et les Pyrénées-Orientales. Elle sert à la fois de premier échelon aux vignerons des terroirs plus précis et de vin d'assemblage aux maisons de négoce. Les sols y sont de toute nature, schistes, calcaires, galets, grès ; le climat méditerranéen fait l'unité.
@@ -27,10 +27,10 @@ sous: Ensemble du Languedoc
 niveau: IGP
 couleurs: rouge, rosé, blanc
 styles: rouge-souple, blanc-vif, rose-leger, blanc-aromatique
-cepages: merlot*, cabernet-sauvignon*, syrah*, grenache-noir*, cinsault, pinot-noir, marselan, chardonnay*, sauvignon-blanc*, viognier, vermentino, muscat-blanc-a-petits-grains, colombard
+cepages: merlot*, cabernet-sauvignon*, syrah*, grenache-noir*, cinsault, pinot-noir, marselan, chardonnay*, sauvignon-blanc*, viognier, vermentino, muscat-blanc-a-petits-grains, colombard, piquepoul-blanc, terret-blanc, alicante-bouschet, caladoc
 surface: environ 120 000 ha
 def: La plus grande indication géographique de France, sur tout le Languedoc-Roussillon : le pays des vins de cépage.
-texte: Née en 1987 comme vin de pays, l'IGP Pays d'Oc couvre l'Aude, le Gard, l'Hérault, les Pyrénées-Orientales et quelques communes de Lozère. Elle a introduit en France l'habitude, venue du Nouveau Monde, d'inscrire le cépage sur l'étiquette. Près de soixante variétés sont admises, méridionales ou non : merlot, cabernet-sauvignon, chardonnay, sauvignon, pinot noir, viognier… La plupart des vins sont simples, fruités et nets ; mais certains domaines y logent, par goût de la liberté, des cuvées très ambitieuses.
+texte: Née en 1987 comme vin de pays, l'IGP Pays d'Oc couvre l'Aude, le Gard, l'Hérault, et les Pyrénées-Orientales. Elle a popularisé en France l'habitude, venue du Nouveau Monde, d'inscrire le cépage sur l'étiquette. Près de soixante variétés sont admises, méridionales ou non : merlot, cabernet-sauvignon, chardonnay, sauvignon, pinot noir, viognier… La plupart des vins sont simples, fruités et nets ; mais certains domaines y logent, par goût de la liberté, des cuvées très ambitieuses.
 gout: selon le cépage : fruits noirs et épices en rouge, fruits blancs ou agrumes en blanc
 garde: à boire dans les 2 à 3 ans
 service: 14-16 °C pour les rouges ; 8-10 °C pour les blancs et les rosés
@@ -45,7 +45,7 @@ niveau: sous-régionale
 couleurs: rouge, rosé
 styles: rouge-solaire, rouge-elegant, rose-leger
 cepages: syrah*, grenache-noir*, mourvedre*, carignan, cinsault, counoise
-surface: environ 1 200 ha
+surface: environ 1 400 ha
 depuis: 2017
 def: Au nord de Montpellier, face à la falaise de l'Hortus : des rouges de syrah parmi les plus frais du Languedoc.
 texte: L'aire réunit dix-sept communes, dans l'Hérault et, pour une petite part, dans le Gard, autour de deux reliefs calcaires qui se font face : le pic Saint-Loup, haut de 658 mètres, et la montagne de l'Hortus. Entre garrigue et premiers contreforts cévenols, le secteur est l'un des plus arrosés du Languedoc et connaît de forts écarts de température entre le jour et la nuit. Les sols sont des calcaires durs, des éboulis, des marnes et des conglomérats.
@@ -160,11 +160,11 @@ niveau: sous-régionale
 couleurs: rouge, blanc
 styles: rouge-solaire, rouge-elegant
 cepages: grenache-noir*, syrah*, mourvedre*, carignan*, cinsault, counoise, lledoner-pelut, chenin, vermentino, carignan-blanc, grenache-blanc, roussanne
-surface: environ 700 ha
+surface: environ 800 ha
 depuis: 2014
 def: Au pied du causse du Larzac, au nord-ouest de Montpellier : des rouges d'assemblage profonds et frais, fleurons du nouveau Languedoc.
-texte: L'appellation couvre trente-deux communes de l'Hérault, d'Octon et du lac du Salagou jusqu'aux abords d'Aniane, sous la falaise du Larzac et le mont Baudile. Les vignes, entre 80 et 400 mètres d'altitude, occupent des terrains très divers : éboulis calcaires, terrasses de galets, grès, schistes et « ruffes », ces argiles rouge sombre du Salagou. Le trait commun est climatique : l'air froid qui descend du plateau à la tombée du jour fait chuter la température de vingt degrés certaines nuits d'été, ce qui ralentit la maturation et préserve les arômes.
-texte: Les rouges sont toujours des assemblages, puisés parmi le grenache, la syrah, le mourvèdre et le carignan, avec le cinsault en complément ; un élevage d'au moins un an est exigé. Ils associent la maturité du Midi à une fraîcheur inhabituelle : fruits noirs, garrigue, poivre, tanins fins, finale longue et droite. Portée par de nombreux jeunes domaines, l'appellation, reconnue en 2014, s'est imposée en quelques années. À l'automne 2026, elle a été étendue aux blancs, à base de chenin, de vermentino, de carignan blanc, de grenache blanc et de roussanne. Le terroir de [[montpeyroux]], au cœur du secteur, a son appellation propre.
+texte: L'appellation couvre trente-deux communes de l'Hérault, d'Octon et du lac du Salagou jusqu'aux abords d'Aniane, sous la falaise du Larzac et le mont Baudile. Les vignes, à moyenne altitude, occupent des terrains très divers : éboulis calcaires, terrasses de galets, grès, schistes et « ruffes », ces argiles rouge sombre du Salagou. Le trait commun est climatique : l'air froid qui descend du plateau à la tombée du jour fait fortement chuter la température certaines nuits d'été, ce qui ralentit la maturation et préserve les arômes.
+texte: Les rouges sont toujours des assemblages, puisés parmi le grenache, la syrah, le mourvèdre et le carignan, avec le cinsault en complément ; un élevage prolongé est exigé avant la mise en marché. Ils associent la maturité du Midi à une fraîcheur inhabituelle : fruits noirs, garrigue, poivre, tanins fins, finale longue et droite. Portée par de nombreux jeunes domaines, l'appellation, reconnue en 2014, s'est imposée en quelques années. À l'automne 2026, elle a été étendue aux blancs, à base de chenin, de vermentino, de carignan blanc, de grenache blanc et de roussanne. Le terroir de [[montpeyroux]], au cœur du secteur, a son appellation propre.
 gout: mûre, cerise noire, garrigue, poivre, olive, réglisse, tanins fins, fraîcheur
 garde: 4 à 12 ans
 service: 16-17 °C ; carafer les vins jeunes
@@ -177,7 +177,7 @@ niveau: communale
 couleurs: rouge
 styles: rouge-solaire, rouge-charpente
 cepages: carignan*, grenache-noir*, mourvedre*, syrah*, cinsault, counoise
-surface: environ 500 ha délimités
+surface: environ 600 ha délimités
 depuis: 2026
 def: Un village vigneron au pied du Larzac, reconnu appellation à part entière en 2026 : des rouges solides et de longue garde.
 texte: Ancienne dénomination du [[languedoc]], Montpeyroux a obtenu sa propre AOC en 2026, après trente ans de démarches. L'aire réunit Montpeyroux, Arboras, Lagamas et Saint-Jean-de-Fos, sur des coteaux d'éboulis calcaires, de marnes et de galets, entre 120 et 350 mètres, rafraîchis la nuit par l'air du causse. Les rouges assemblent au moins trois cépages parmi le carignan, le grenache, le mourvèdre et la syrah. Ils sont denses, structurés, plus fermes dans leur jeunesse que la plupart de leurs voisins.
@@ -224,7 +224,7 @@ niveau: sous-régionale
 couleurs: rouge, rosé, blanc
 styles: rouge-solaire, rouge-elegant, blanc-ample
 cepages: syrah*, grenache-noir*, mourvedre*, carignan*, cinsault, lledoner-pelut, roussanne*, marsanne*, grenache-blanc*, vermentino*, clairette, viognier
-surface: environ 1 900 ha
+surface: environ 1 600 ha
 depuis: 1982
 def: Au nord de Béziers, sur les premiers contreforts des Cévennes : l'appellation des schistes, aux rouges fins et épicés.
 texte: Faugères réunit sept communes de l'Hérault : Faugères, Autignac, Cabrerolles, Caussiniojouls, Fos, Laurens et Roquessels. Le vignoble, entre 150 et 400 mètres d'altitude, grimpe sur des collines abruptes couvertes de garrigue et de chênes verts. Sa particularité est l'unité de son sol : presque partout des schistes, feuilletés et friables, pauvres, où les racines plongent profondément. Ils emmagasinent la chaleur du jour, drainent parfaitement l'eau et limitent d'eux-mêmes les rendements.
@@ -241,7 +241,7 @@ niveau: sous-régionale
 couleurs: rouge, rosé, blanc
 styles: rouge-solaire, rose-leger, blanc-ample
 cepages: grenache-noir*, syrah*, mourvedre*, carignan, cinsault, lledoner-pelut, grenache-blanc*, marsanne, roussanne, vermentino, carignan-blanc, clairette, viognier
-surface: environ 3 000 ha
+surface: environ 2 500 ha
 depuis: 1982
 def: Au nord-ouest de Béziers, entre l'Orb et le Vernazobre : une appellation à deux visages, schistes au nord, argiles et calcaires au sud.
 texte: Saint-Chinian couvre vingt communes de l'Hérault, adossées aux monts du Caroux et de l'Espinouse, entre [[faugeres]] et le [[minervois]]. La rivière Vernazobre sépare deux mondes. Au nord, vers Roquebrun, Berlou et Vieussan, des collines de schiste, raides et boisées, donnent des vins souples, aux tanins fins et aux arômes de fruits noirs et de grillé. Au sud, autour de Saint-Chinian même, de Cruzy et de Cébazan, des sols argilo-calcaires rouges, parsemés de cailloux, produisent des rouges plus charpentés, plus lents à s'ouvrir.
@@ -260,7 +260,7 @@ couleurs: rouge, rosé, blanc
 styles: rouge-souple, blanc-aromatique, rose-leger
 cepages: syrah, grenache-noir, merlot, cabernet-sauvignon, carignan, cinsault, chardonnay, sauvignon-blanc, viognier, vermentino, muscat-blanc-a-petits-grains
 def: Entre Béziers et Pézenas, dans la vallée de la Thongue, une indication géographique réputée pour l'inventivité de ses domaines.
-texte: Une vingtaine de communes de l'Hérault, autour de Pouzolles, de Servian et d'Abeilhan, composent ce vignoble de collines douces, sur des terrasses caillouteuses et des sols argilo-calcaires, au pied de [[faugeres]]. Sans appellation communale, les vignerons y ont très tôt joué la carte de l'IGP, mariant cépages du Midi et cépages venus d'ailleurs. Les vins, rouges fruités, blancs aromatiques, rosés, sont réguliers et bien faits.
+texte: Une vingtaine de communes de l'Hérault, autour de Pouzolles, de Servian et d'Abeilhan, composent ce vignoble de collines douces, sur des terrasses caillouteuses et des sols argilo-calcaires, au sud de [[faugeres]]. Sans appellation communale, les vignerons y ont très tôt joué la carte de l'IGP, mariant cépages du Midi et cépages venus d'ailleurs. Les vins, rouges fruités, blancs aromatiques, rosés, sont réguliers et bien faits.
 gout: fruits rouges et noirs, épices ; blancs fruités et floraux
 garde: à boire dans les 2 à 4 ans
 service: 14-16 °C pour les rouges ; 8-10 °C pour les blancs et les rosés
@@ -325,7 +325,7 @@ niveau: sous-régionale
 couleurs: rouge, rosé, blanc
 styles: rouge-solaire, rouge-charpente, rose-vineux
 cepages: carignan*, grenache-noir*, syrah*, mourvedre*, lledoner-pelut*, cinsault, piquepoul-noir, terret-noir, grenache-blanc*, bourboulenc*, macabeu*, marsanne*, roussanne*, vermentino*, clairette, piquepoul-blanc
-surface: environ 10 000 ha
+surface: plus de 7 000 ha
 depuis: 1985
 def: La plus vaste appellation du Languedoc, dans le massif qui sépare l'Aude du Roussillon : des rouges de caractère, épicés et structurés.
 texte: Les Corbières forment un quadrilatère montagneux entre Carcassonne, Narbonne, la mer et les châteaux cathares de Quéribus et de Peyrepertuse. Près de quatre-vingt-dix communes de l'Aude y cultivent la vigne, dans un relief compartimenté de vallées, de plateaux et de barres rocheuses. Les sols changent sans cesse : calcaires, schistes, grès, marnes, galets. Le climat aussi : maritime et doux près des étangs de Sigean, très sec au centre, plus frais et plus tardif en altitude, sur les Hautes-Corbières et la montagne d'Alaric, à l'ouest. Le cers, vent de nord-ouest, souffle presque un jour sur deux.
@@ -358,7 +358,7 @@ niveau: sous-régionale
 couleurs: rouge
 styles: rouge-solaire, rouge-charpente
 cepages: carignan*, grenache-noir*, syrah, mourvedre, lledoner-pelut
-surface: environ 2 200 ha
+surface: environ 1 900 ha
 depuis: 1948
 def: La plus ancienne appellation de rouge du Languedoc, en deux îlots des Corbières : l'un au bord de la mer, l'autre dans la montagne.
 texte: Fitou réunit neuf communes de l'Aude, séparées en deux zones par une vingtaine de kilomètres. Le Fitou maritime, autour de Fitou, de Leucate et de La Palme, borde les étangs sur des sols calcaires ; le mourvèdre y trouve la chaleur humide qu'il aime. Le Fitou de montagne, vers Tuchan, Paziols et Villeneuve-les-Corbières, repose surtout sur des schistes, au pied du mont Tauch ; la syrah y réussit mieux. Dans les deux, le carignan et le grenache forment la base de rouges solides, chaleureux, épicés.
@@ -374,7 +374,7 @@ niveau: sous-régionale
 couleurs: rouge, blanc
 styles: rouge-solaire, blanc-ample
 cepages: grenache-noir*, mourvedre*, syrah*, carignan, cinsault, bourboulenc*, grenache-blanc*, clairette, marsanne, roussanne, vermentino, piquepoul-blanc, macabeu
-surface: environ 800 ha
+surface: environ 900 ha
 depuis: 2015
 def: Entre Narbonne et la mer, un massif calcaire qui fut une île : des rouges de garrigue et un blanc salin à base de bourboulenc.
 texte: La Clape était une île jusqu'au Moyen Âge, avant que les alluvions de l'Aude ne la rattachent au continent. Ce petit massif de calcaire blanc, couvert de pins, est l'un des lieux les plus ensoleillés et les plus ventés de France ; l'air marin y tempère la sécheresse. Les rouges, de grenache, de mourvèdre et de syrah, sont pleins et parfumés. Les blancs font l'originalité du cru : le bourboulenc, cépage tardif, leur donne une fraîcheur iodée et une aptitude à vieillir.
@@ -394,7 +394,7 @@ styles: effervescent-brut, effervescent-doux, blanc-ample, rouge-souple
 cepages: mauzac*, chardonnay*, chenin*, merlot*, malbec, syrah, grenache-noir, cabernet-franc, cabernet-sauvignon
 depuis: 1938
 def: Dans la haute vallée de l'Aude, au sud de Carcassonne : le berceau de la blanquette, l'un des plus anciens vins effervescents du monde.
-texte: Autour de Limoux, une quarantaine de communes de l'Aude cultivent la vigne sur des coteaux argilo-calcaires, entre 200 et 500 mètres d'altitude. Protégé de la Méditerranée par les Corbières, ouvert vers l'ouest aux influences atlantiques, proche des Pyrénées, le secteur est le plus frais du Languedoc. La tradition fait remonter à 1531, à l'abbaye de Saint-Hilaire, la première mention d'un vin de Limoux qui « prend mousse ».
+texte: Autour de Limoux, une quarantaine de communes de l'Aude cultivent la vigne sur des coteaux argilo-calcaires, à plusieurs centaines de mètres d'altitude. Protégé de la Méditerranée par les Corbières, ouvert vers l'ouest aux influences atlantiques, proche des Pyrénées, le secteur est le plus frais du Languedoc. La tradition fait remonter à 1531, à l'abbaye de Saint-Hilaire, la première mention d'un vin de Limoux qui « prend mousse ».
 texte: L'appellation recouvre plusieurs vins. La Blanquette de Limoux, mousseux de méthode traditionnelle, est faite presque entièrement de mauzac, cépage local dont le feuillage duveteux et blanc lui a donné son nom ; elle sent la pomme et les fleurs. La Blanquette méthode ancestrale, de pur mauzac, ne fermente qu'une fois : elle est douce, légère en alcool, parfois un peu trouble. Le [[cremant-de-limoux]] constitue une appellation distincte.
 texte: S'y ajoutent des vins tranquilles. Le Limoux blanc, de chardonnay, de chenin ou de mauzac, est obligatoirement vendangé à la main et fermenté en fût de chêne : c'est un blanc ample, grillé, tenu par une belle acidité. Le Limoux rouge, plus récent, marie le merlot, majoritaire, au côt, à la syrah et au grenache.
 gout: pomme verte, fleurs blanches, miel pour la blanquette ; agrumes, noisette, beurre pour le blanc tranquille

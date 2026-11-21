@@ -11,7 +11,7 @@ texte: L'abouriou débourre et mûrit tôt, ce qui le met à l'abri des pluies d
 texte: Ses vins sont sombres, peu acides, aux tanins fermes et au fruit noir un peu sauvage. Il entre comme cépage d'appoint dans les [[cotes-du-marmandais|Côtes du Marmandais]], à côté des cabernets et du [[merlot]], et se vinifie parfois seul en vin de pays.
 aromes: mûre, cassis, épices, note de sous-bois
 regions: sud-ouest
-appellations: cotes-du-marmandais, igp-comte-tolosan
+appellations: cotes-du-marmandais
 voir: fer-servadou, malbec
 
 @ aleatico
@@ -19,12 +19,13 @@ nom: Aleatico
 couleur: noir
 alias: aleaticu
 def: Cépage noir au parfum muscaté, d'origine italienne, cultivé en Corse pour des rouges et des rosés aromatiques.
-origine: Italie centrale ; les analyses génétiques le rattachent par un lien de parenté directe au muscat blanc à petits grains.
+origine: Italie centrale ; les analyses génétiques suggèrent une parenté directe avec le muscat blanc à petits grains.
+surface: quelques dizaines d'hectares en Corse
 texte: Rare en France, l'aleatico ne se rencontre guère qu'en Corse, surtout sur la côte orientale. Il mûrit en milieu de saison et donne des baies sucrées, à la saveur nettement musquée.
-texte: On en tire des rosés et des rouges souples, très parfumés, parfois des vins doux. Exclu des appellations de l'île, il est vendu sous l'indication [[igp-ile-de-beaute|Île de Beauté]].
+texte: On en tire des rosés et des rouges souples, très parfumés, parfois des vins doux. Il n'est admis qu'à titre accessoire dans les rouges du [[vin-de-corse|Vin de Corse]] ; on le trouve aussi sous l'indication [[igp-ile-de-beaute|Île de Beauté]].
 aromes: rose, litchi, fruits rouges, muscat
 regions: corse
-appellations: igp-ile-de-beaute
+appellations: vin-de-corse, igp-ile-de-beaute
 voir: muscat-blanc-a-petits-grains, niellucciu, sciaccarellu
 
 @ alicante-bouschet
@@ -38,7 +39,7 @@ texte: L'alicante Bouschet est l'un des rares cépages dont le jus lui-même est
 texte: Tenu à l'écart des appellations, il subsiste dans les vins de pays du Midi. De vieilles vignes à petit rendement donnent des rouges denses, d'un violet profond, plus sérieux que sa réputation ne le laisse attendre.
 aromes: fruits noirs, encre, cacao
 regions: languedoc, roussillon, provence
-appellations: igp-pays-d-oc, igp-cotes-de-thongue, igp-mediterranee
+appellations: igp-pays-d-oc
 voir: grenache-noir, carignan
 
 @ braquet
@@ -59,7 +60,7 @@ couleur: noir
 alias: breton (Val de Loire), bouchet (Libournais)
 def: Cépage noir fin et parfumé, roi des rouges de Touraine et d'Anjou, partenaire du merlot sur la rive droite de la Gironde.
 origine: Probablement le Pays basque espagnol. Les analyses génétiques en font le parent du cabernet-sauvignon, du merlot et de la carménère.
-surface: environ 32 000 ha en France
+surface: environ 33 000 ha en France
 texte: Le cabernet franc débourre et mûrit plus tôt que le [[cabernet-sauvignon]], ce qui lui permet de réussir sous des climats plus frais. Il se plaît sur les sols calcaires, le tuffeau, les argiles sableuses et les graves. Récolté trop tôt ou trop chargé, il garde une note végétale de poivron ; bien mûr, il offre un fruit d'une grande netteté.
 texte: Ses vins sont moins colorés et moins tanniques que ceux du cabernet-sauvignon, mais très aromatiques : framboise, violette, graphite, une fraîcheur qui allonge la bouche. Sur les sables et graviers de Loire, ils se boivent jeunes ; sur les coteaux de tuffeau, ils vieillissent quinze ans et davantage.
 texte: En Loire, il règne presque seul à [[chinon|Chinon]], [[bourgueil|Bourgueil]], [[saint-nicolas-de-bourgueil|Saint-Nicolas-de-Bourgueil]] et [[saumur-champigny|Saumur-Champigny]], et fournit les rosés tendres du [[cabernet-d-anjou|Cabernet d'Anjou]]. À Bordeaux, il complète le [[merlot]] à [[saint-emilion|Saint-Émilion]] et [[pomerol|Pomerol]], où quelques grands crus lui donnent la première place, et reste un appoint dans le Médoc.
@@ -74,7 +75,7 @@ couleur: noir
 alias: petit cabernet, petite vidure
 def: Grand cépage tardif du Médoc et des Graves, source de vins tanniques, droits et de très longue garde.
 origine: Gironde. Croisement spontané du cabernet franc et du sauvignon blanc, établi par l'analyse génétique en 1997 ; il est attesté en Bordelais au XVIIIᵉ siècle.
-surface: environ 46 000 ha en France
+surface: environ 49 000 ha en France
 texte: Le cabernet-sauvignon débourre tard, ce qui le protège des gelées, et mûrit tard : il lui faut des sols chauds et bien drainés, comme les croupes de graves du Médoc, qui restituent la nuit la chaleur du jour. Ses petites baies à peau épaisse résistent bien à la pourriture. Les maladies du bois sont sa principale faiblesse.
 texte: Beaucoup de peau et de pépins pour peu de jus : les vins sont très colorés, riches en tanins, soutenus par une bonne acidité. Jeunes, ils sentent le cassis et parfois le poivron ; l'élevage en barrique et les années leur donnent le cèdre, le tabac, le graphite. On l'assemble presque toujours, d'abord avec le [[merlot]], qui l'arrondit, puis avec le [[cabernet-franc]] et le [[petit-verdot]].
 texte: Son domaine d'élection est la rive gauche de la Garonne : [[pauillac|Pauillac]], [[saint-julien|Saint-Julien]], [[saint-estephe|Saint-Estèphe]], [[margaux|Margaux]], [[pessac-leognan|Pessac-Léognan]]. On le retrouve dans tout le Sud-Ouest, en appoint en Provence et en Languedoc, et dans les rosés d'Anjou. Ailleurs dans le monde, c'est l'un des cépages les plus plantés.
@@ -88,7 +89,7 @@ nom: Caladoc
 couleur: noir
 def: Cépage moderne du Midi, issu du grenache et du malbec, apprécié pour ses rosés et ses rouges colorés.
 origine: Croisement du grenache noir et du malbec obtenu en 1958 par Paul Truel, de l'INRA, pour créer un grenache résistant à la coulure.
-surface: quelques milliers d'hectares en France
+surface: environ 1 500 ha en France au milieu des années 2000, en progression
 texte: Régulier là où le grenache coule, résistant à la sécheresse, le caladoc s'est répandu en Languedoc, en Provence et dans la basse vallée du Rhône. Ses vins sont très colorés, charnus, aux tanins présents mais mûrs ; en rosé, il apporte fruit et rondeur.
 texte: Il se rencontre surtout dans les vins de pays, tel le [[igp-pays-d-oc|Pays d'Oc]], et n'est admis qu'à titre accessoire dans quelques appellations méridionales.
 aromes: fruits noirs, cerise, épices
@@ -143,7 +144,7 @@ couleur: noir
 alias: cinsaut
 def: Cépage méridional à gros grains, souple et parfumé, pilier des rosés de Provence et du Languedoc.
 origine: Midi méditerranéen français, où il est cultivé depuis des siècles.
-surface: environ 16 000 ha en France
+surface: environ 18 000 ha en France
 texte: Le cinsault résiste remarquablement à la chaleur et à la sécheresse. Ses grosses baies juteuses, à peau fine, en ont longtemps fait aussi un raisin de table. Généreux, il doit être tenu : sur les sols pauvres et à rendement modéré, il gagne en parfum ce qu'il perd en volume.
 texte: Peu coloré, peu tannique, modéré en alcool, il donne des vins tendres et fruités. C'est le cépage idéal des rosés pâles ; dans les rouges, il allège et parfume le [[grenache-noir]] et le [[carignan]]. De vieilles vignes donnent, seules, des rouges délicats et floraux.
 texte: On le trouve dans presque toutes les appellations de Provence, à [[tavel|Tavel]], dans le sud de la vallée du Rhône et dans tout le Languedoc. Croisé avec le pinot noir en Afrique du Sud, il a donné le pinotage.
@@ -174,7 +175,7 @@ texte: Le duras débourre tôt et craint les gelées de printemps. Il donne des 
 texte: Avec le [[fer-servadou|braucol]] et la [[syrah]], il compose l'essentiel des rouges de [[gaillac|Gaillac]] ; on le rencontre en appoint dans quelques vignobles voisins de l'Aveyron.
 aromes: poivre, fruits rouges, épices
 regions: sud-ouest
-appellations: gaillac, cotes-de-millau, igp-comte-tolosan
+appellations: gaillac, cotes-de-millau, estaing
 voir: fer-servadou, prunelard, syrah
 
 @ fer-servadou
@@ -182,7 +183,7 @@ nom: Fer servadou
 couleur: noir
 alias: fer, braucol (Gaillac), mansois (Marcillac), pinenc (Madiran)
 def: Cépage des contreforts du Massif central et de la Gascogne, aux vins colorés, vifs et épicés.
-origine: Sud-Ouest. Son nom viendrait de la dureté de son bois ; il appartient à la famille des cabernets.
+origine: Sud-Ouest. Son nom viendrait de la dureté de son bois ; les analyses génétiques l'apparentent au cabernet franc et à la carménère.
 texte: Rustique et tardif, le fer servadou change de nom d'un vignoble à l'autre. Ses vins sont sombres, frais, aux tanins un peu sauvages, avec des arômes de cassis, de framboise et de poivron qui rappellent sa parenté avec les cabernets.
 texte: Il règne presque seul à [[marcillac|Marcillac]], sur les argiles rouges de l'Aveyron, et domine à [[entraygues-le-fel|Entraygues - Le Fel]] et [[estaing|Estaing]]. À [[gaillac|Gaillac]], il s'associe au [[duras]] ; à [[madiran|Madiran]] et [[saint-mont|Saint-Mont]], il tempère le [[tannat]].
 aromes: cassis, framboise, poivron, poivre
@@ -208,7 +209,7 @@ couleur: noir
 alias: gamay noir à jus blanc
 def: Cépage du Beaujolais, précoce et fertile, qui donne des rouges fruités, souples et gouleyants.
 origine: Bourgogne ; croisement spontané du pinot et du gouais blanc. Philippe le Hardi ordonna en 1395 de l'arracher de la Côte-d'Or.
-surface: environ 23 000 ha en France
+surface: environ 24 000 ha en France
 texte: Le gamay débourre tôt, ce qui l'expose aux gelées, et mûrit tôt. Très fertile, il doit être taillé court ; la conduite en gobelet est traditionnelle en Beaujolais. Il donne le meilleur de lui-même sur les sols acides et pauvres, granites et schistes, alors que les calcaires lui réussissent moins.
 texte: Ses vins sont d'un rouge vif, peu tanniques, d'une acidité franche, dominés par les fruits rouges. La vinification en grappes entières, dite macération semi-carbonique, accentue ce fruité. Les crus les plus fermes, [[morgon|Morgon]] ou [[moulin-a-vent|Moulin-à-Vent]], vieillissent dix ans et prennent alors des accents proches du [[pinot-noir]].
 texte: Hors du [[region:beaujolais|Beaujolais]], où il règne sans partage, le gamay tient une belle place en Touraine, dans la [[cote-roannaise|Côte roannaise]], les [[cotes-du-forez|Côtes du Forez]], les [[cotes-d-auvergne|Côtes d'Auvergne]] et en Savoie. En Bourgogne, il s'associe au pinot noir dans le [[bourgogne-passe-tout-grains|Passe-tout-grains]] et domine les rouges du [[macon|Mâconnais]].
@@ -223,7 +224,7 @@ couleur: noir
 alias: garnacha, cannonau
 def: Grand cépage méditerranéen, généreux en alcool et en fruit, base des rouges du Rhône méridional et des vins doux du Roussillon.
 origine: Aragon selon l'hypothèse la plus répandue ; diffusé autour de la Méditerranée occidentale au Moyen Âge.
-surface: environ 80 000 ha en France
+surface: environ 88 000 ha en France
 texte: Le grenache aime la chaleur, le vent et les sols secs et caillouteux, qu'il supporte grâce à son port dressé et à son bois solide ; on le conduit volontiers en gobelet. Il mûrit tard et accumule beaucoup de sucre. Son défaut est la coulure, qui rend la récolte irrégulière ; il craint aussi le mildiou et la pourriture.
 texte: Les vins sont riches en alcool, ronds, peu acides, d'une couleur moyenne, aux tanins doux. Ils s'oxydent facilement, d'où les assemblages avec la [[syrah]] et le [[mourvedre]], qui apportent couleur et tenue. Cette aptitude à l'oxydation devient une qualité dans les vins doux naturels, que l'on fait vieillir au contact de l'air.
 texte: Il domine à [[chateauneuf-du-pape|Châteauneuf-du-Pape]], [[gigondas|Gigondas]], [[vacqueyras|Vacqueyras]] et dans les [[cotes-du-rhone|Côtes du Rhône]], donne les rosés de [[tavel|Tavel]] et une part de ceux de Provence, et se retrouve dans tout le Languedoc. En Roussillon, il est l'âme de [[banyuls|Banyuls]], de [[maury|Maury]] et des rouges de [[collioure|Collioure]].
@@ -237,7 +238,7 @@ nom: Grolleau
 couleur: noir
 alias: groslot
 def: Cépage ligérien léger et productif, spécialiste des rosés d'Anjou et de Touraine.
-origine: Touraine, où il est signalé au début du XIXᵉ siècle. Son nom vient de « grolle », le corbeau, pour la couleur de ses baies.
+origine: Val de Loire, où il est signalé au XIXᵉ siècle. Son nom vient de « grolle », le corbeau, pour la couleur de ses baies.
 surface: environ 2 000 ha en France
 texte: Précoce et fertile, le grolleau donne des vins peu colorés, peu alcoolisés, d'une acidité vive. Ces caractères le destinent aux rosés, secs ou tendres, et aux vins effervescents.
 texte: Il est la base du [[rose-d-anjou|Rosé d'Anjou]], participe au [[rose-de-loire|Rosé de Loire]] et au [[cremant-de-loire|Crémant de Loire]], et donne les rosés d'Azay-le-Rideau en [[touraine|Touraine]]. Quelques vignerons tirent de vieilles vignes des rouges légers et poivrés.
@@ -265,7 +266,7 @@ couleur: noir
 alias: côt, auxerrois (Cahors), pressac (Libournais)
 def: Cépage du Sud-Ouest aux vins presque noirs, maître de Cahors, appelé côt en Val de Loire.
 origine: Sud-Ouest, probablement le Quercy ; croisement spontané du prunelard et de la magdeleine noire des Charentes, ce qui en fait un demi-frère du merlot.
-surface: environ 6 000 ha en France
+surface: environ 7 000 ha en France
 texte: Le malbec est délicat à cultiver : il débourre tôt, craint le gel et coule facilement à la floraison, ce qui rend sa récolte irrégulière. Le grand gel de 1956 l'a presque chassé du Bordelais, où il comptait parmi les cépages majeurs. Il donne le meilleur sur les terrasses de graves et les calcaires du causse.
 texte: Les vins sont d'une couleur très sombre, le « vin noir » de la tradition, charnus et tanniques, avec des arômes de mûre, de prune et de violette. Jeunes, ils peuvent être austères ; les bonnes cuvées vieillissent dix à vingt ans et prennent des notes de truffe et de réglisse. Le [[merlot]] et le [[tannat]] l'accompagnent souvent.
 texte: [[cahors|Cahors]] est son fief : il y compose au moins 70 % de l'assemblage. En Touraine, sous le nom de côt, il donne des rouges plus légers et épicés. Il subsiste en appoint dans les [[cotes-de-bourg|Côtes de Bourg]], à Blaye et dans le Bergeracois. L'Argentine en a fait son cépage national.

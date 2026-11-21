@@ -1,7 +1,7 @@
 @ languedoc
 nom: Languedoc
 def: Du Rhône aux Corbières, le plus vaste vignoble de France, passé en deux générations du vin de masse à une mosaïque de terroirs ambitieux.
-chiffres: environ 200 000 ha de vignes, dont une quarantaine de milliers en AOC ; rouges majoritaires ; première région française pour les vins de pays (IGP)
+chiffres: environ 200 000 ha de vignes, dont un quart environ en AOC ; rouges majoritaires ; première région française pour les vins de pays (IGP)
 climat: Méditerranéen : étés chauds et secs, hivers doux, pluies rares et brutales à l'automne. La tramontane et le cers, vents de terre, dessèchent et assainissent ; l'ouest audois reçoit une influence atlantique.
 sols: Une diversité extrême : schistes des piémonts (Faugères, Saint-Chinian, Cabardès), calcaires durs des garrigues et des causses, terrasses de galets roulés, grès, marnes et sables littoraux.
 cepages: grenache-noir, syrah, carignan, mourvedre, cinsault, grenache-blanc, piquepoul-blanc, clairette, bourboulenc, vermentino, mauzac, chardonnay, muscat-blanc-a-petits-grains

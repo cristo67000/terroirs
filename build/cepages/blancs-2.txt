@@ -34,7 +34,7 @@ couleur: blanc
 alias: melon, muscadet
 def: Cépage du Muscadet, d'origine bourguignonne, qui donne des blancs secs, légers et iodés.
 origine: Bourgogne ; croisement spontané du pinot et du gouais blanc. Il s'est imposé dans le Pays nantais après le terrible hiver de 1709.
-surface: environ 8 000 ha en France
+surface: environ 9 000 ha en France
 texte: Le melon résiste bien au froid de l'hiver mais débourre tôt, ce qui l'expose aux gelées de printemps. Précoce, il mûrit régulièrement sous le climat océanique. Il a disparu de sa Bourgogne natale et se concentre au sud de Nantes, sur des sols de gneiss, de granite, de schiste et de gabbro.
 texte: Le cépage est peu aromatique : pomme, citron, fleurs blanches, une touche saline. Son intérêt tient à l'élevage sur lie, sans soutirage jusqu'à la mise en bouteille, qui donne du gras, un léger perlant et protège le vin de l'oxydation. Les vins courants se boivent dans l'année ; les meilleurs terroirs, élevés longuement, vieillissent dix ans et plus.
 texte: Il est l'unique cépage du [[muscadet|Muscadet]] et de ses appellations sous-régionales, dont le [[muscadet-sevre-et-maine|Muscadet Sèvre et Maine]] est de loin la plus vaste. Les crus communaux, tels Clisson, Gorges ou Le Pallet, montrent sa capacité à exprimer la roche.
@@ -100,7 +100,7 @@ voir: muscat-blanc-a-petits-grains, muscat-ottonel, macabeu
 nom: Muscat ottonel
 couleur: blanc
 def: Muscat précoce créé au XIXᵉ siècle, délicat, cultivé en Alsace pour des blancs secs au goût de raisin frais.
-origine: Obtenu en 1852 à Angers par le pépiniériste Moreau-Robert, à partir du chasselas et d'un muscat.
+origine: Obtenu à Angers au XIXᵉ siècle (vers 1839 par Vibert, diffusé à partir de 1852 par Moreau-Robert), à partir du chasselas et d'un muscat.
 texte: Plus précoce que le [[muscat-blanc-a-petits-grains]], le muscat ottonel mûrit régulièrement sous le climat alsacien, mais il coule facilement et sa récolte est capricieuse. Son parfum est plus discret, sa bouche plus tendre et moins acide.
 texte: En [[alsace|Alsace]], on l'assemble souvent au muscat à petits grains, plus nerveux, pour produire le « muscat d'Alsace », blanc sec et croquant ; les deux sont admis dans les grands crus, où le Goldert s'est fait une réputation pour ce cépage.
 aromes: raisin frais, fleurs blanches, menthe
@@ -164,7 +164,7 @@ origine: Midi de la France.
 texte: Le picardan n'occupe plus que quelques hectares. Tardif, il donne un vin pâle, peu aromatique, d'une bonne acidité, qui sert à rafraîchir les assemblages de blancs à [[chateauneuf-du-pape|Châteauneuf-du-Pape]]. Il est presque toujours noyé dans des cuvées où dominent le [[grenache-blanc]], la [[clairette]] et la [[roussanne]].
 aromes: fleurs blanches, agrumes
 regions: rhone
-appellations: chateauneuf-du-pape, cotes-du-rhone
+appellations: chateauneuf-du-pape
 voir: clairette, bourboulenc, piquepoul-blanc
 
 @ pinot-blanc
@@ -219,7 +219,7 @@ texte: Tardif et d'une acidité élevée, le romorantin n'est plus cultivé que 
 texte: [[cour-cheverny|Cour-Cheverny]] lui est entièrement consacrée : c'est l'une des rares appellations françaises fondées sur un seul cépage local.
 aromes: pomme, coing, acacia, miel, cire
 regions: loire
-appellations: cour-cheverny, igp-val-de-loire
+appellations: cour-cheverny
 voir: chenin, orbois, chardonnay
 
 @ roussanne
@@ -246,7 +246,7 @@ origine: Croisement spontané du pinot et du gouais blanc ; il porte le nom d'un
 texte: Productif et très acide, le sacy a presque disparu de l'Yonne, où il servait surtout aux vins mousseux ; il y reste admis dans le [[cremant-de-bourgogne|Crémant de Bourgogne]]. Dans l'Allier, le tressallier entre obligatoirement, avec le [[chardonnay]], dans les blancs de [[saint-pourcain|Saint-Pourçain]], auxquels il donne leur nervosité et leurs notes d'agrumes et de fleurs.
 aromes: citron, pomme verte, fleurs blanches
 regions: loire, bourgogne
-appellations: saint-pourcain, cremant-de-bourgogne, coteaux-bourguignons
+appellations: saint-pourcain, cremant-de-bourgogne
 voir: chardonnay, aligote, melon-de-bourgogne
 
 @ sauvignon-blanc
@@ -299,7 +299,7 @@ couleur: blanc
 alias: silvaner
 def: Cépage blanc alsacien frais et léger, capable de finesse sur les meilleurs terroirs du Bas-Rhin.
 origine: Europe centrale, probablement l'Autriche ; croisement spontané du savagnin (traminer) et de l'*österreichisch weiss*.
-surface: moins de 1 000 ha en France
+surface: environ 1 000 ha en France
 texte: Productif et assez précoce, le sylvaner a longtemps été le cépage le plus planté d'Alsace avant de reculer fortement. Il donne des vins légers, vifs, discrètement fruités et herbacés, à boire jeunes. Sur les sols marno-calcaires et à rendement modéré, il gagne en densité et en longueur.
 texte: Il est surtout cultivé dans le Bas-Rhin, sous l'appellation [[alsace|Alsace]]. Fait unique, il est admis dans le grand cru [[alsace-grand-cru-zotzenberg|Zotzenberg]], à Mittelbergheim, où il réussit de longue date.
 aromes: pomme, citron, herbe fraîche, fleurs blanches
@@ -310,13 +310,13 @@ voir: riesling, pinot-blanc, auxerrois, savagnin
 @ terret-blanc
 nom: Terret blanc
 couleur: blanc
-alias: terret bourret
+alias: bourret blanc, terret bourret
 def: Vieux cépage blanc de l'Hérault, tardif et vif, autrefois très répandu.
 origine: Languedoc ; forme blanche de la famille des terrets.
 texte: Productif, tardif, le terret blanc garde une bonne acidité sous la chaleur. Il couvrait jadis de vastes surfaces dans la plaine de l'Hérault, où il alimentait la distillation et la fabrication des vermouths. Aujourd'hui rare, il donne des blancs légers, citronnés, un peu salins, en vins de pays ou en appoint dans les blancs du [[languedoc|Languedoc]].
 aromes: citron, pomme verte, fenouil
 regions: languedoc
-appellations: languedoc, igp-pays-d-oc, igp-cotes-de-thongue
+appellations: languedoc, igp-pays-d-oc
 voir: terret-noir, piquepoul-blanc, clairette
 
 @ tourbat
@@ -325,10 +325,10 @@ couleur: blanc
 alias: malvoisie du Roussillon, torbato (Sardaigne)
 def: Cépage blanc rare du Roussillon, tardif, aux vins fins et légèrement fumés.
 origine: Méditerranée occidentale ; identique au *torbato* de Sardaigne.
-texte: Presque disparu du Roussillon à cause de plants dégénérés, le tourbat y a été réintroduit à la fin du XXᵉ siècle à partir de sélections saines. Tardif, il garde une bonne acidité et donne des vins aux notes de fleurs, de fruits blancs et de fumée. Il entre, en proportion modeste, dans les blancs des [[cotes-du-roussillon|Côtes du Roussillon]] et dans les vins doux naturels.
+texte: Presque disparu du Roussillon au début du XXᵉ siècle, le tourbat y a été réintroduit à partir de 1973 avec des plants venus de Sardaigne. Tardif, il garde une bonne acidité et donne des vins aux notes de fleurs, de fruits blancs et de fumée. Il entre, en proportion modeste, dans les blancs des [[cotes-du-roussillon|Côtes du Roussillon]] et dans les vins doux naturels.
 aromes: fleurs blanches, poire, fumé, amande
 regions: roussillon
-appellations: cotes-du-roussillon, rivesaltes, maury, banyuls, igp-cotes-catalanes
+appellations: cotes-du-roussillon, rivesaltes, maury, banyuls
 voir: macabeu, grenache-blanc, grenache-gris
 
 @ ugni-blanc
@@ -336,7 +336,7 @@ nom: Ugni blanc
 couleur: blanc
 alias: trebbiano toscano, saint-émilion (Charentes)
 def: Cépage blanc le plus planté de France, très productif et acide, destiné avant tout à la distillation du cognac et de l'armagnac.
-origine: Italie centrale, où il se nomme *trebbiano toscano* ; il serait arrivé en Provence à la fin du Moyen Âge.
+origine: Italie centrale, où il se nomme *trebbiano toscano* ; selon la tradition, il serait arrivé en Provence à la fin du Moyen Âge.
 surface: plus de 80 000 ha en France
 texte: L'ugni blanc débourre tard, ce qui limite le risque de gel, et mûrit très tard : dans les Charentes, à la limite nord de sa culture, il n'atteint jamais une pleine maturité. Vigoureux, très fertile, assez résistant à la pourriture, il a remplacé la [[folle-blanche]] après le phylloxéra.
 texte: Récolté peu mûr, il donne un vin faible en alcool, très acide et peu aromatique : exactement ce qu'il faut à l'alambic, car la distillation concentre les arômes et l'acidité protège le vin sans soufre. Vinifié pour la table, il produit des blancs légers, neutres, citronnés, que l'on assemble à des cépages plus parfumés.
@@ -365,7 +365,7 @@ voir: biancu-gentile, clairette, grenache-blanc, niellucciu
 nom: Viognier
 couleur: blanc
 def: Cépage blanc de Condrieu, capiteux et parfumé d'abricot et de violette, sauvé de la disparition dans les années 1960.
-origine: Nord de la vallée du Rhône, autour de Condrieu et d'Ampuis ; l'analyse génétique le rattache à la mondeuse blanche, ce qui en fait un proche parent de la syrah.
+origine: Nord de la vallée du Rhône, autour de Condrieu et d'Ampuis ; l'analyse génétique établit un lien de parenté direct avec la mondeuse blanche, elle-même parente de la syrah.
 surface: environ 6 000 ha en France
 texte: Le viognier débourre tôt et produit peu et irrégulièrement, car il coule facilement. Il ne livre ses arômes qu'à pleine maturité, au prix d'un degré élevé et d'une acidité basse : la date de vendange est décisive. Son terroir d'origine est fait de terrasses abruptes de granite décomposé, au-dessus du Rhône. Vers 1965, il n'en restait qu'une dizaine d'hectares.
 texte: Le vin est doré, opulent, d'un parfum intense d'abricot, de pêche, de violette et de chèvrefeuille, avec une bouche grasse et une fine amertume. On le boit en général dans ses premières années, pour l'éclat du fruit. Quelques pour cent de viognier, cofermentés avec la [[syrah]], donnent à certains rouges un surcroît de parfum.

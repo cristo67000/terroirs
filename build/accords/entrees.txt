@@ -28,7 +28,7 @@ conseil: Gras, sel et fumée : il faut un blanc sec, tendu et minéral, sauvigno
 nom: Melon et jambon cru
 famille: entrees
 styles: vdn-blanc, rose-leger, vin-de-liqueur
-vins: muscat-de-beaumes-de-venise, muscat-de-rivesaltes, muscat-de-frontignan, pineau-des-charentes, cotes-de-provence, tavel
+vins: muscat-de-beaumes-de-venise, muscat-de-rivesaltes, muscat-de-frontignan, pineau-des-charentes, cotes-de-provence, coteaux-d-aix-en-provence
 audace: banyuls
 conseil: Le melon mûr est très sucré : un vin sec paraît maigre et acide à côté de lui. La tradition lui associe un muscat doux ou un pineau servi très frais, dont le fruit prolonge celui du melon tandis que le jambon apporte le sel. Si l'on préfère un vin sec, choisir un rosé rond et fruité.
 
@@ -87,7 +87,7 @@ conseil: C'est le beurre d'ail et de persil que l'on accorde, plus que l'escargo
 nom: Cuisses de grenouilles
 famille: entrees
 styles: blanc-vif, blanc-aromatique
-vins: alsace, macon, roussette-du-bugey, bugey, cotes-de-toul, vin-de-savoie, pouilly-fuisse
+vins: alsace, macon, roussette-du-bugey, bugey, cotes-de-toul, vin-de-savoie, saint-veran
 conseil: Chair délicate, proche de la volaille, relevée de beurre, d'ail et de persil : un blanc sec, net et de moyenne ampleur lui convient. Le riesling en Alsace, le chardonnay dans la Dombes et le Mâconnais sont les accords de pays. Les vins très aromatiques ou boisés couvrent la finesse de la chair.
 
 @ carpaccio-de-boeuf
@@ -107,16 +107,16 @@ conseil: La tomate crue est acide et sucrée à la fois, la mozzarella douce et 
 @ quiche-lorraine
 nom: Quiche lorraine
 famille: entrees
-styles: blanc-vif, rouge-leger
+styles: blanc-vif, rouge-leger, effervescent-brut
 vins: alsace, cotes-de-toul, moselle, macon, cremant-d-alsace, beaujolais
-conseil: Œufs, crème et lard fumé : un blanc sec et franc, pinot blanc ou auxerrois, allège l'appareil et s'accorde au fumé. L'accord local se fait avec le gris de Toul ou un pinot noir léger de l'Est. Trop de bois ou de tanins, et la crème tourne à la lourdeur.
+conseil: Œufs, crème et lard fumé : un blanc sec et franc, pinot blanc ou auxerrois, allège l'appareil et s'accorde au fumé. L'accord local se fait avec le gris de Toul ou un pinot noir léger de l'Est ; un crémant brut, dont les bulles tranchent la crème, convient aussi. Trop de bois ou de tanins, et la crème tourne à la lourdeur.
 
 @ tarte-a-l-oignon
 nom: Tarte à l'oignon
 famille: entrees
-styles: blanc-aromatique, blanc-vif
+styles: blanc-aromatique, blanc-vif, effervescent-brut
 vins: alsace, cremant-d-alsace, moselle, macon, saint-pourcain, roussette-de-savoie
-conseil: L'oignon fondu donne de la douceur, la crème du gras : le blanc doit être sec mais avoir un peu de rondeur et de parfum, comme un pinot gris, un sylvaner de belle origine ou un riesling tendre. Un vin trop acide paraît dur face à la douceur de l'oignon. Les rouges corsés sont hors de propos.
+conseil: L'oignon fondu donne de la douceur, la crème du gras : le blanc doit être sec mais avoir un peu de rondeur et de parfum, comme un pinot gris, un sylvaner de belle origine ou un riesling tendre. Un vin trop acide paraît dur face à la douceur de l'oignon ; un crémant brut y fait un compagnon plus léger. Les rouges corsés sont hors de propos.
 
 @ souffle-au-fromage
 nom: Soufflé au fromage

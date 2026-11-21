@@ -18,7 +18,7 @@ conseil: Viande mijotée et tomate : il faut un rouge fruité, de corps moyen, d
 nom: Lasagnes
 famille: pates-riz-oeufs
 styles: rouge-souple, rouge-solaire
-vins: cotes-du-rhone-villages, cairanne, lirac, minervois, saint-chinian, bordeaux-superieur, morgon, ajaccio
+vins: cotes-du-rhone-villages, cairanne, lirac, minervois, saint-chinian, bordeaux-superieur, morgon, vin-de-corse
 conseil: À la sauce bolognaise s'ajoutent la béchamel et le fromage gratiné : le plat est plus riche, le vin peut avoir un peu plus de chair. Un rouge rond et épicé du Rhône ou du Languedoc convient très bien. Garder de la fraîcheur pour équilibrer le gras.
 
 @ pates-au-pesto
@@ -53,14 +53,14 @@ conseil: Petites pâtes farcies au fromage frais, au comté et au persil, poché
 nom: Gnocchis
 famille: pates-riz-oeufs
 styles: blanc-vif, rouge-leger, rose-leger
-vins: bellet, cotes-de-provence, macon, vin-de-savoie, beaujolais, coteaux-varois-en-provence
+vins: luberon, cotes-de-provence, macon, vin-de-savoie, beaujolais, coteaux-varois-en-provence
 conseil: La pâte de pomme de terre est neutre et moelleuse : la sauce décide. Au beurre et à la sauge ou à la crème, un blanc sec et rond ; à la tomate, un rosé ou un rouge léger ; au gorgonzola, un blanc plus ample. Rester sur des vins souples.
 
 @ risotto-aux-champignons
 nom: Risotto aux champignons
 famille: pates-riz-oeufs
 styles: blanc-ample, rouge-elegant, effervescent-brut
-vins: saint-veran, pouilly-fuisse, saint-aubin, cotes-du-jura, savigny-les-beaune, mercurey, champagne
+vins: saint-veran, pouilly-fuisse, saint-aubin, cotes-du-jura, savigny-les-beaune, volnay, champagne
 audace: arbois
 conseil: Crémeux, lié au beurre et au parmesan, parfumé par les champignons : un blanc ample, chardonnay élevé avec mesure, épouse la texture. Un pinot noir souple fait écho au sous-bois, surtout avec des cèpes. Les blancs très vifs paraissent maigres face au crémeux.
 
@@ -96,7 +96,7 @@ conseil: Le jaune d'œuf cuit empâte la bouche et la mayonnaise ajoute du gras 
 nom: Piperade
 famille: pates-riz-oeufs
 styles: rose-vineux, rouge-leger, blanc-vif
-vins: irouleguy, bearn, tursan, saint-mont, igp-cotes-de-gascogne, fronton
+vins: irouleguy, bearn, tursan, saint-mont, igp-cotes-de-gascogne, gaillac
 conseil: Poivrons, tomates, piment d'Espelette et œufs brouillés, avec une tranche de jambon de Bayonne : le rosé d'Irouléguy ou un rouge basque jeune sont l'accord local. Le poivron amer et l'œuf interdisent les tanins marqués. Un blanc sec de Gascogne, très frais, fonctionne aussi.
 
 @ pizza
@@ -117,5 +117,5 @@ conseil: Pain grillé, jambon, béchamel et fromage gratiné : un blanc sec et r
 nom: Galette de sarrasin
 famille: pates-riz-oeufs
 styles: blanc-vif, rouge-leger
-vins: muscadet-sevre-et-maine, gros-plant-du-pays-nantais, coteaux-d-ancenis, anjou, saumur-champigny, igp-val-de-loire
+vins: muscadet-sevre-et-maine, gros-plant-du-pays-nantais, coteaux-d-ancenis, anjou, coteaux-du-loir, igp-val-de-loire
 conseil: Le cidre est le compagnon breton de la galette, et il n'y a pas lieu de le détrôner. Si l'on préfère le vin, un muscadet vif s'accorde au goût de noisette grillée du blé noir, et un rouge léger de Loire à la complète jambon-œuf-fromage. Éviter les vins puissants.

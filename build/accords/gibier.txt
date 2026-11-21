@@ -26,7 +26,7 @@ conseil: Le chevreuil a une chair fine et maigre, servie rosée ; la sauce poivr
 nom: Pavé de biche ou de cerf
 famille: gibier
 styles: rouge-elegant, rouge-charpente, rouge-solaire
-vins: gevrey-chambertin, chambolle-musigny, saint-joseph, cornas, margaux, saint-emilion-grand-cru, pic-saint-loup, terrasses-du-larzac
+vins: gevrey-chambertin, chambolle-musigny, cote-rotie, cornas, margaux, saint-emilion-grand-cru, pic-saint-loup, terrasses-du-larzac
 conseil: Viande rouge sombre, tendre, au goût de gibier modéré quand elle est simplement poêlée : un rouge fin et profond la met en valeur, pinot noir de la Côte de Nuits ou syrah. Avec une sauce aux fruits rouges, préférer un vin au fruit mûr. La biche étant très maigre, les tanins rugueux sont à écarter.
 
 @ civet-de-sanglier
@@ -40,21 +40,21 @@ conseil: Viande ferme et sauvage, longuement marinée et mijotée : il lui faut 
 nom: Faisan rôti
 famille: gibier
 styles: rouge-elegant, rouge-souple, blanc-ample
-vins: volnay, beaune, chambolle-musigny, mercurey, saint-emilion, moulis, cheverny, alsace
+vins: volnay, beaune, chambolle-musigny, mercurey, saint-emilion, moulis, meursault, alsace
 conseil: Gibier à plume à la chair délicate et un peu sèche, souvent servi avec du chou ou des pommes : un rouge fin, soyeux, d'intensité moyenne lui suffit, bourgogne de la Côte de Beaune en tête. En Alsace, le faisan à la choucroute se boit avec un riesling ou un pinot gris. Trop de puissance couvre sa saveur.
 
 @ perdreau-roti
 nom: Perdreau rôti
 famille: gibier
 styles: rouge-elegant, rouge-souple
-vins: chambolle-musigny, volnay, vosne-romanee, margaux, saint-julien, fleurie, menetou-salon, sancerre
+vins: chambolle-musigny, volnay, vosne-romanee, margaux, saint-julien, fleurie, savigny-les-beaune, chinon
 conseil: Le plus fin des gibiers à plume, rôti rosé et servi sur canapé : il demande un rouge de dentelle, pinot noir ou médoc élégant, à maturité. L'accord repose sur la délicatesse aromatique. Les vins tanniques et solaires ne lui conviennent pas.
 
 @ canard-sauvage
 nom: Canard sauvage (colvert)
 famille: gibier
 styles: rouge-elegant, rouge-charpente
-vins: saint-estephe, pauillac, pomerol, nuits-saint-georges, pommard, cote-rotie, saint-joseph, madiran
+vins: saint-estephe, pauillac, pomerol, nuits-saint-georges, pommard, cote-rotie, cornas, madiran
 conseil: Plus maigre et plus corsé que le canard d'élevage, le colvert se sert saignant, avec un jus court. Il appelle un rouge structuré et racé, médoc, bourgogne de la Côte de Nuits ou syrah. Un vin de quelques années, aux tanins fondus, respecte mieux la finesse de la chair.
 
 @ salmis-de-palombe

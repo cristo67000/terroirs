@@ -26,7 +26,7 @@ conseil: Spécialité bourguignonne prise dans une gelée au vin blanc, à l'ail
 @ rillettes
 nom: Rillettes
 famille: charcuterie
-styles: blanc-vif, rouge-leger, blanc-moelleux
+styles: blanc-vif, rouge-leger, rose-leger
 vins: vouvray, montlouis-sur-loire, jasnieres, coteaux-du-loir, touraine, bourgueil, touraine-noble-joue
 conseil: Les rillettes du Mans et de Tours sont très grasses : il leur faut de l'acidité avant tout. Le chenin de Touraine et de la Sarthe, sec ou tendre, les dégraisse avec élégance ; le gris de Noble Joué ou un rouge léger de cabernet franc font un accord de pays tout aussi juste. Éviter les vins lourds et alcooleux.
 
@@ -41,7 +41,7 @@ conseil: Une terrine rustique, poivrée, parfois au foie : un rouge franc et fru
 nom: Pâté en croûte
 famille: charcuterie
 styles: rouge-souple, rouge-elegant, blanc-ample
-vins: morgon, fleurie, mercurey, savigny-les-beaune, saint-joseph, chinon, coteaux-champenois
+vins: morgon, fleurie, mercurey, savigny-les-beaune, saint-joseph, chinon, givry
 audace: alsace, champagne
 conseil: Pièce de charcutier-traiteur, souvent enrichie de volaille, de foie gras ou de pistaches : elle mérite un rouge de finesse, cru du Beaujolais un peu évolué ou bourgogne de village. Un pinot gris d'Alsace ou un champagne vineux accompagne très bien les versions à la volaille. Trop de tanins et la gelée devient amère.
 
@@ -57,7 +57,7 @@ conseil: Le boudin est moelleux, épicé, d'un goût ferreux, et les pommes y aj
 nom: Boudin blanc
 famille: charcuterie
 styles: blanc-ample, effervescent-brut
-vins: champagne, meursault, saint-aubin, vouvray, alsace, pouilly-fuisse, montagny
+vins: champagne, meursault, saint-aubin, vouvray, vire-clesse, pouilly-fuisse, montagny
 audace: condrieu
 conseil: Chair fine de volaille ou de veau, lait et parfois truffe : le boudin blanc est un mets délicat qui veut un blanc rond, sans dureté, chardonnay élevé avec soin ou chenin tendre. Le champagne, surtout s'il a quelques années, est l'accord de fête. Aucun rouge puissant.
 
@@ -67,13 +67,13 @@ famille: charcuterie
 styles: blanc-vif, rouge-leger
 vins: chablis, petit-chablis, sancerre, bourgogne-aligote, coteaux-champenois, beaujolais, saint-pourcain
 audace: rose-des-riceys
-conseil: Son goût prononcé demande un vin vif plutôt que puissant : le chablis à Troyes comme à Chablis, un sauvignon nerveux, ou un gamay frais dans la tradition lyonnaise. L'acidité nettoie le palais et la moutarde ne fait pas peur à ces vins simples. Le Rosé des Riceys, voisin de Troyes, est l'accord local par excellence.
+conseil: Son goût prononcé demande un vin vif plutôt que puissant : le chablis à Troyes comme à Chablis, un sauvignon nerveux, ou un gamay frais dans la tradition lyonnaise. L'acidité nettoie le palais et la moutarde ne fait pas peur à ces vins simples. Le Rosé des Riceys, rosé de l'Aube comme Troyes, est l'accord local par excellence.
 
 @ saucisse-de-morteau
 nom: Saucisse de Morteau ou de Montbéliard
 famille: charcuterie
 styles: rouge-leger, blanc-vif
-vins: arbois, cotes-du-jura, igp-franche-comte, l-etoile, alsace, bugey
+vins: arbois, cotes-du-jura, igp-franche-comte, alsace, bugey
 conseil: Saucisse fumée au bois de résineux, servie avec des pommes de terre ou de la cancoillotte : le Jura voisin fournit les accords, rouge clair de poulsard ou de trousseau, blanc de chardonnay ou de savagnin. Le fumé s'accommode très bien des notes de noix des blancs sous voile. Éviter les rouges tanniques, que la fumée rend âpres.
 
 @ choucroute-garnie
@@ -88,11 +88,11 @@ nom: Petit salé aux lentilles
 famille: charcuterie
 styles: rouge-leger, rouge-souple
 vins: cotes-d-auvergne, saint-pourcain, cote-roannaise, cotes-du-forez, chateaumeillant, brouilly, marcillac
-conseil: Plat auvergnat de porc demi-sel et de lentilles vertes, terrien et salé : les gamays du Massif central, fruités et un peu poivrés, sont taillés pour lui. On cherche le fruit et la fraîcheur, non la puissance. Les tanins marqués se durcissent avec le sel et l'amidon des lentilles.
+conseil: Plat auvergnat de porc demi-sel et de lentilles vertes, terrien et salé : les rouges du Massif central, gamays d'Auvergne ou du Roannais, fruités, ou mansois de Marcillac, un peu poivré, sont taillés pour lui. On cherche le fruit et la fraîcheur, non la puissance. Les tanins marqués se durcissent avec le sel et l'amidon des lentilles.
 
 @ charcuterie-corse
 nom: Charcuterie corse (coppa, lonzu, figatellu)
 famille: charcuterie
 styles: rouge-souple, rose-vineux
 vins: ajaccio, patrimonio, vin-de-corse, igp-ile-de-beaute, bandol, collioure
-conseil: Des salaisons de caractère, au goût de châtaigne et de fumée pour le figatellu, qui demandent des vins de même origine : rouges de sciaccarellu, poivrés et peu tanniques, ou rosés de repas. L'accord de terroir fonctionne ici sans détour. Un vin trop léger serait effacé, un vin trop boisé inutile.
+conseil: Des salaisons de caractère, de porc nourri de châtaignes et de glands, et le figatellu, saucisse de foie fumée, qui demandent des vins de même origine : rouges de sciaccarellu, poivrés et peu tanniques, ou rosés de repas. L'accord de terroir fonctionne ici sans détour. Un vin trop léger serait effacé, un vin trop boisé inutile.

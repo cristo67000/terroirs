@@ -62,7 +62,7 @@ styles: blanc-aromatique
 cepages: gewurztraminer*, riesling*, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
 surface: environ 15 ha
 def: La « colline des anges », petit coteau calcaire plein sud partagé entre Dahlenheim et Scharrachbergheim.
-texte: À une vingtaine de kilomètres à l'ouest de Strasbourg, l'Engelberg occupe le flanc sud du Scharrach, entre 250 et 300 mètres. Ses sols marno-calcaires, peu épais et pierreux, se réchauffent tôt mais gardent assez de fraîcheur pour une maturation lente. Le gewurztraminer y prend des accents d'épices et de fruits exotiques sans lourdeur ; le riesling, long à s'ouvrir, y gagne une finale saline. Ce cru confidentiel est rarement vu hors de la région.
+texte: À une vingtaine de kilomètres à l'ouest de Strasbourg, l'Engelberg occupe le flanc sud du Scharrach, entre 230 et 300 mètres. Ses sols marno-calcaires, peu épais et pierreux, se réchauffent tôt mais gardent assez de fraîcheur pour une maturation lente. Le gewurztraminer y prend des accents d'épices et de fruits exotiques sans lourdeur ; le riesling, long à s'ouvrir, y gagne une finale saline. Ce cru confidentiel est rarement vu hors de la région.
 gout: épices douces, fruits jaunes, agrumes confits, trame calcaire
 garde: 5 à 12 ans
 service: 10-12 °C
@@ -92,7 +92,7 @@ styles: blanc-aromatique
 cepages: riesling*, gewurztraminer, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
 surface: environ 31 ha
 def: Un versant marno-calcaire adossé à la colline du Horn, à Wolxheim, terre de rieslings droits et de longue garde.
-texte: Au débouché de la vallée de la Bruche, l'Altenberg de Wolxheim regarde le sud et le sud-ouest, à l'abri du Horn. Le sol, marno-calcaire et très caillouteux, est riche en éboulis qui restituent la chaleur. Le riesling y règne presque sans partage : serré dans sa jeunesse, il s'ouvre avec le temps sur des notes d'agrumes et de pierre chaude. La tradition veut que ce vin ait figuré à la table de Napoléon.
+texte: Au débouché de la vallée de la Bruche, l'Altenberg de Wolxheim regarde le sud et le sud-ouest, à l'abri du Horn. Le sol, marno-calcaire et très caillouteux, est riche en éboulis qui restituent la chaleur. Le riesling y règne presque sans partage : serré dans sa jeunesse, il s'ouvre avec le temps sur des notes d'agrumes et de pierre chaude. Une tradition locale veut que Napoléon Iᵉʳ ait apprécié ce vin.
 gout: citron, fleurs blanches, pierre à fusil, acidité tendue
 garde: 6 à 15 ans
 service: 10-12 °C
@@ -107,7 +107,7 @@ styles: blanc-aromatique
 cepages: riesling*, gewurztraminer*, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
 surface: environ 18 ha
 def: Le « vallon des frères », unique grand cru de Molsheim, sur des calcaires coquilliers exposés au sud-est.
-texte: Le Bruderthal doit son nom aux moines cisterciens qui le mirent en valeur au XIVᵉ siècle. Il s'élève au nord-ouest de Molsheim, entre 225 et 300 mètres, sur des marnes et des calcaires du Muschelkalk, caillouteux dans le haut du coteau, plus profonds à sa base. Le riesling y est floral puis délicatement fruité, avec une belle acidité ; le gewurztraminer, élégant, évoque la rose et les épices.
+texte: Le Bruderthal, « vallon des frères », s'élève au nord-ouest de Molsheim, entre 225 et 300 mètres, sur des marnes et des calcaires du Muschelkalk, caillouteux dans le haut du coteau, plus profonds à sa base. Le riesling y est floral puis délicatement fruité, avec une belle acidité ; le gewurztraminer, élégant, évoque la rose et les épices.
 gout: fleurs, agrumes, pêche blanche, épices fines
 garde: 5 à 12 ans
 service: 10-12 °C
@@ -183,7 +183,7 @@ styles: blanc-aromatique
 cepages: riesling*, gewurztraminer, pinot-gris*, muscat-blanc-a-petits-grains, muscat-ottonel
 surface: environ 12 ha
 def: La « colline des moines », entre Andlau et Eichhoffen, aux pentes douces de marnes, de calcaires et de grès.
-texte: Défriché au Moyen Âge par les bénédictins de l'abbaye d'Altorf, le Moenchberg regarde le sud, entre 230 et 260 mètres. Ses sols de marnes, de calcaires et de grès mêlés de colluvions sont plus profonds et plus frais que ceux des deux autres grands crus d'Andlau. Le riesling y est rond et fruité, plus vite abordable que sur les schistes du Kastelberg ; le pinot gris y trouve aussi de quoi s'épanouir.
+texte: Son nom rappelle les bénédictins de l'abbaye d'Altorf, qui possédaient le coteau ; le Moenchberg regarde le sud, entre 230 et 260 mètres. Ses sols de marnes, de calcaires et de grès mêlés de colluvions sont plus profonds et plus frais que ceux des deux autres grands crus d'Andlau. Le riesling y est rond et fruité, plus vite abordable que sur les schistes du Kastelberg ; le pinot gris y trouve aussi de quoi s'épanouir.
 gout: fruits jaunes, agrumes mûrs, fleurs, bouche ronde
 garde: 5 à 12 ans
 service: 10-12 °C
@@ -197,8 +197,8 @@ couleurs: blanc
 styles: blanc-aromatique
 cepages: riesling*, pinot-gris, gewurztraminer, muscat-blanc-a-petits-grains, muscat-ottonel
 surface: environ 18 ha
-def: Un cirque plein sud à Nothalten, sur des sédiments volcaniques et gréseux d'âge permien, planté par les cisterciens.
-texte: Le Muenchberg dessine un fer à cheval abrité au pied de l'Ungersberg, entre 250 et 330 mètres. Les moines de l'abbaye de Baumgarten y cultivaient la vigne dès le XIIᵉ siècle. Le sol, rose et sableux, provient de grès, de tufs et de conglomérats volcaniques du Permien : pauvre, il se réchauffe vite. Le riesling y est ciselé, mûr sans mollesse, marqué par une salinité persistante ; le pinot gris y garde une rare fraîcheur.
+def: Un cirque plein sud à Nothalten, sur des sédiments volcaniques et gréseux d'âge permien, au nom hérité des moines.
+texte: Le Muenchberg dessine un fer à cheval abrité au pied de l'Ungersberg, entre 250 et 310 mètres. Son nom, « mont des moines », rappelle ses anciens propriétaires religieux. Le sol, rose et sableux, provient de grès, de tufs et de conglomérats volcaniques du Permien : pauvre, il se réchauffe vite. Le riesling y est ciselé, mûr sans mollesse, marqué par une salinité persistante ; le pinot gris y garde une rare fraîcheur.
 gout: agrumes, fruits à noyau, notes fumées, finale saline
 garde: 6 à 20 ans
 service: 10-12 °C
@@ -274,7 +274,7 @@ couleurs: blanc, moelleux, liquoreux
 styles: blanc-aromatique, blanc-moelleux, liquoreux
 cepages: gewurztraminer*, riesling*, pinot-gris*, muscat-blanc-a-petits-grains, muscat-ottonel
 surface: environ 35 ha
-def: Le grand coteau marno-calcaire de Bergheim, plein sud, connu depuis le XIIᵉ siècle et admis aussi en vin d'assemblage.
+def: Le grand coteau marno-calcaire de Bergheim, plein sud, cité dans les plus anciennes chroniques et admis aussi en vin d'assemblage.
 texte: L'Altenberg domine la cité fortifiée de Bergheim, entre 220 et 320 mètres. Ses terres rouges, argilo-calcaires et pierreuses, riches en fossiles du Jurassique, jouissent d'un microclimat chaud qui favorise la surmaturité et la pourriture noble. Le gewurztraminer y est opulent et de très longue garde, le riesling puissant. Fait rare, le cahier des charges autorise ici un grand cru issu de l'assemblage de plusieurs cépages, à la manière des anciennes vignes complantées.
 gout: fruits confits, épices, miel, agrumes mûrs, bouche puissante et longue
 garde: 8 à 25 ans
@@ -290,7 +290,7 @@ styles: blanc-aromatique
 cepages: riesling*, gewurztraminer*, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
 surface: environ 3 ha
 def: Le plus petit des grands crus d'Alsace, à Bergheim, sur de lourdes marnes à gypse.
-texte: Voisin immédiat de l'Altenberg, le Kanzlerberg, « colline du chancelier », fut propriété des Templiers puis des chevaliers de Saint-Jean. Ses trois hectares, tournés vers le sud et le sud-ouest, reposent sur des marnes argileuses du Keuper chargées de gypse, sol froid et compact qui retarde la maturité. Il en sort des vins sévères dans leur jeunesse, très structurés, qui réclament une longue patience : rieslings de garde, gewurztraminers plus épicés que floraux.
+texte: Voisin immédiat de l'Altenberg, le Kanzlerberg, « colline du chancelier », fut une possession des chevaliers de l'ordre de Saint-Jean. Ses trois hectares, tournés vers le sud et le sud-ouest, reposent sur des marnes argileuses du Keuper chargées de gypse, sol froid et compact qui retarde la maturité. Il en sort des vins sévères dans leur jeunesse, très structurés, qui réclament une longue patience : rieslings de garde, gewurztraminers plus épicés que floraux.
 gout: agrumes, épices, notes fumées, charpente ferme
 garde: 8 à 20 ans
 service: 10-12 °C
@@ -305,7 +305,7 @@ styles: blanc-aromatique
 cepages: riesling*, gewurztraminer*, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
 surface: environ 24 ha
 def: Le « mont de l'est », à Ribeauvillé, sur des marnes caillouteuses, pour des rieslings et des gewurztraminers de garde.
-texte: L'Osterberg prolonge vers le nord-est les coteaux de Ribeauvillé, entre 250 et 350 mètres, en exposition est et sud-est. Son sous-sol de marnes, de calcaires et de grès du Muschelkalk donne une terre argileuse, pierreuse, assez lourde. Les seigneurs de Ribeaupierre y avaient leurs vignes. Le riesling y est plus large que sur le Geisberg voisin, avec une acidité mûre ; le gewurztraminer y prend de la profondeur en vieillissant.
+texte: L'Osterberg prolonge vers le nord-est les coteaux de Ribeauvillé, entre 250 et 350 mètres, en exposition est et sud-est. Son sous-sol de marnes, de calcaires et de grès du Muschelkalk donne une terre argileuse, pierreuse, assez lourde. Le riesling y est plus large que sur le Geisberg voisin, avec une acidité mûre ; le gewurztraminer y prend de la profondeur en vieillissant.
 gout: agrumes mûrs, fruits jaunes, épices, bouche ample et saline
 garde: 6 à 15 ans
 service: 10-12 °C
@@ -335,7 +335,7 @@ styles: blanc-aromatique
 cepages: riesling*, muscat-blanc-a-petits-grains*, muscat-ottonel*, pinot-gris, gewurztraminer
 surface: environ 11 ha
 def: Un coteau pentu à l'entrée de la vallée du Strengbach, à Ribeauvillé, réputé pour le riesling et le muscat.
-texte: Le Kirchberg regarde le sud et le sud-ouest, entre 270 et 350 mètres, au pied des trois châteaux de Ribeauvillé. Comme ses voisins, il repose sur les marnes, calcaires et grès du Muschelkalk, ici très caillouteux. Son nom figure dans les textes dès le XIVᵉ siècle. Le riesling y est racé, épicé, de longue garde ; le muscat, peu fréquent en grand cru, y trouve l'un de ses meilleurs terroirs, fin et croquant.
+texte: Le Kirchberg regarde le sud et le sud-ouest, entre 270 et 350 mètres, au pied des trois châteaux de Ribeauvillé. Comme ses voisins, il repose sur les marnes, calcaires et grès du Muschelkalk, ici très caillouteux. Le riesling y est racé, épicé, de longue garde ; le muscat, peu fréquent en grand cru, y trouve l'un de ses meilleurs terroirs, fin et croquant.
 gout: agrumes, raisin frais, fleurs, épices, acidité fine
 garde: 6 à 20 ans
 service: 10-12 °C
@@ -350,7 +350,7 @@ styles: blanc-aromatique
 cepages: riesling*, gewurztraminer, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
 surface: environ 26 ha
 def: Le « champ de roses » de Hunawihr, sur calcaire dolomitique, berceau de rieslings parmi les plus recherchés d'Alsace.
-texte: Le Rosacker s'étend au nord du village de Hunawihr et de son église fortifiée, entre 260 et 330 mètres, en exposition est et sud-est. Il doit son nom aux églantiers qui bordaient les parcelles. Son sol lourd, marno-calcaire, issu des calcaires dolomitiques du Muschelkalk, mûrit tard et donne des rieslings secs, tendus, lents à s'ouvrir, d'une longévité remarquable. Le Clos Sainte-Hune, enclavé dans le cru, en est l'expression la plus célèbre.
+texte: Le Rosacker s'étend au nord du village de Hunawihr et de son église fortifiée, entre 260 et 330 mètres, en exposition est et sud-est. Son nom viendrait des églantiers qui bordaient les parcelles. Son sol lourd, marno-calcaire, issu des calcaires dolomitiques du Muschelkalk, mûrit tard et donne des rieslings secs, tendus, lents à s'ouvrir, d'une longévité remarquable. Le Clos Sainte-Hune, enclavé dans le cru, en est l'expression la plus célèbre.
 gout: citron, zeste, fleurs blanches, pierre à fusil, acidité cristalline
 garde: 8 à 25 ans
 service: 10-12 °C
@@ -396,7 +396,7 @@ styles: blanc-aromatique, blanc-moelleux, liquoreux
 cepages: gewurztraminer*, pinot-gris*, riesling, muscat-blanc-a-petits-grains, muscat-ottonel
 surface: environ 23 ha
 def: Une cuvette de marnes profondes au sud-est de Riquewihr, terre de gewurztraminers lents et complexes.
-texte: Le Sporen forme un amphithéâtre aux pentes douces, entre 265 et 310 mètres, tourné vers le sud-est. Ses sols argilo-marneux du Lias, profonds et bien pourvus en eau, ne craignent pas la sécheresse et conviennent aux cépages tardifs. Le gewurztraminer y est moins exubérant qu'ailleurs mais plus profond, avec une longue aptitude à la garde ; le pinot gris y atteint une belle richesse. Le cru était autrefois célèbre pour ses assemblages de cépages nobles.
+texte: Le Sporen forme un amphithéâtre aux pentes douces, entre 265 et 310 mètres, tourné vers l'est. Ses sols argilo-marneux du Lias, profonds et bien pourvus en eau, ne craignent pas la sécheresse et conviennent aux cépages tardifs. Le gewurztraminer y est moins exubérant qu'ailleurs mais plus profond, avec une longue aptitude à la garde ; le pinot gris y atteint une belle richesse. Les archives des ducs de Wurtemberg le mentionnent dès 1432.
 gout: rose fanée, fruits exotiques, épices, miel avec l'âge
 garde: 6 à 20 ans
 service: 10-12 °C
@@ -426,7 +426,7 @@ styles: blanc-aromatique
 cepages: riesling*, gewurztraminer*, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
 surface: environ 22 ha
 def: La « côte des amandiers », entre Mittelwihr et Beblenheim, l'un des coteaux les plus précoces d'Alsace.
-texte: Le Mandelberg doit son nom aux amandiers qui y fleurissent dès la fin de l'hiver, signe d'un microclimat particulièrement doux. Exposé au sud et au sud-est, entre 210 et 250 mètres, il repose sur des marnes et des calcaires oligocènes. La vigne y est attestée depuis l'époque gallo-romaine. Le riesling y est mûr, fruité, d'accès rapide ; le gewurztraminer, délicat et floral, évite la lourdeur.
+texte: Le Mandelberg doit son nom aux amandiers qui y fleurissent dès la fin de l'hiver, signe d'un microclimat particulièrement doux. Exposé au sud et au sud-est, entre 210 et 250 mètres, il repose sur des marnes et des calcaires oligocènes. Le riesling y est mûr, fruité, d'accès rapide ; le gewurztraminer, délicat et floral, évite la lourdeur.
 gout: pêche, agrumes mûrs, amande, fleurs
 garde: 5 à 12 ans
 service: 10-12 °C
@@ -441,7 +441,7 @@ styles: blanc-aromatique, blanc-moelleux
 cepages: gewurztraminer*, pinot-gris*, riesling, muscat-blanc-a-petits-grains, muscat-ottonel
 surface: environ 53 ha
 def: Le grand cru de Bennwihr, prolongé sur Sigolsheim, aux terres marno-calcaires lourdes faites pour le gewurztraminer.
-texte: Au sud de Bennwihr, village rebâti après les combats de l'hiver 1944-1945, le Marckrain s'incline doucement vers l'est et le sud-est, entre 200 et 300 mètres. Ses marnes et calcaires oolithiques forment un sol profond, riche, qui garde la fraîcheur dans un secteur très sec. Le gewurztraminer y donne des vins corsés, épicés, de bonne garde ; le pinot gris y est plein et fumé.
+texte: Au sud de Bennwihr, village rebâti après les combats de l'hiver 1944-1945, le Marckrain s'incline doucement vers l'est et le sud-est, entre 200 et 300 mètres. Ses sols marno-calcaires, riches en argile rouge, en sable et en galets, forment une terre profonde qui garde la fraîcheur dans un secteur très sec. Le gewurztraminer y donne des vins corsés, épicés, de bonne garde ; le pinot gris y est plein et fumé.
 gout: épices, litchi, fruits confits, notes fumées
 garde: 5 à 15 ans
 service: 10-12 °C
@@ -503,7 +503,7 @@ cepages: gewurztraminer*, riesling*, pinot-gris*, muscat-blanc-a-petits-grains, 
 surface: environ 71 ha
 depuis: 2007
 def: Le cinquante et unième et dernier grand cru reconnu, à Ammerschwihr, délimité par jugement dès 1932 et admis en vin d'assemblage.
-texte: Le Kaefferkopf, « tête de scarabée », s'élève au sud d'Ammerschwihr, face à l'est, entre 230 et 350 mètres. Sa géologie est composite : granite dans le haut, calcaires, grès et marnes plus bas. Les vignerons du village en avaient fait reconnaître les limites par un tribunal dès 1932, mais le classement n'est intervenu qu'en 2007. Outre les vins de cépage, on y élabore, selon l'usage local, un grand cru d'assemblage dominé par le gewurztraminer et le riesling.
+texte: Le Kaefferkopf, « tête de scarabée », s'élève au sud d'Ammerschwihr, face au sud-est, entre 230 et 350 mètres, sur six petites collines. Ses sols bruns, profonds, naissent de roches variées et sont riches en calcium et en magnésium. Les vignerons du village en avaient fait reconnaître les limites par un tribunal dès 1932, mais le classement n'est intervenu qu'en 2007. Outre les vins de cépage, on y élabore, selon l'usage local, un grand cru d'assemblage dominé par le gewurztraminer et le riesling.
 gout: fruits exotiques, épices, agrumes, bouche ample et fraîche
 garde: 5 à 15 ans
 service: 10-12 °C
@@ -593,8 +593,7 @@ styles: blanc-aromatique
 cepages: riesling*, gewurztraminer*, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
 surface: environ 23 ha
 def: La « carrière de pierres » de Wettolsheim, coteau du sud-est où se rencontrent marnes calcaires et arènes granitiques.
-texte: Le Steingrubler monte de 280 à 350 mètres à l'ouest de Wettolsheim. Le bas du coteau, marno-calcaire et gréseux, est plus lourd ; le haut, sableux, mêlé d'arène granitique, est plus léger et plus précoce. Cette dualité donne des vins qui allient finesse et structure : rieslings aux arômes d'agrumes, gewurztraminers d'une ampleur mesurée. Le cru était mentionné au Moyen Âge parmi les biens des abbayes de la région.
-gout: agrumes, fleurs, épices fines, finale équilibrée
+texte: Le Steingrubler monte de 280 à 350 mètres à l'ouest de Wettolsheim. Le bas du coteau, marno-calcaire et gréseux, est plus lourd ; le haut, sableux, mêlé d'arène granitique, est plus léger et plus précoce. Cette dualité donne des vins qui allient finesse et structure : rieslings aux arômes d'agrumes, gewurztraminers d'une ampleur mesurée.gout: agrumes, fleurs, épices fines, finale équilibrée
 garde: 5 à 15 ans
 service: 10-12 °C
 voir: alsace-grand-cru-hengst, alsace-grand-cru-pfersigberg
@@ -681,9 +680,9 @@ niveau: grand cru
 couleurs: blanc, rouge, moelleux, liquoreux
 styles: blanc-aromatique, rouge-elegant, liquoreux
 cepages: riesling*, gewurztraminer*, pinot-gris*, pinot-noir, muscat-blanc-a-petits-grains, muscat-ottonel
-surface: environ 72 ha
+surface: environ 74 ha
 def: Le grand coteau de Rouffach et Westhalten, calcaire et gréseux, parmi les plus ensoleillés d'Alsace ; blancs complets et pinot noir réputé.
-texte: À l'entrée de la Vallée Noble, le Vorbourg déploie ses pentes au sud et au sud-est, entre 210 et 300 mètres, à l'abri du Grand Ballon et du Petit Ballon qui arrêtent les pluies. Calcaires, grès et marnes y composent un sol caillouteux, parfois couvert de lœss. Tous les cépages nobles y réussissent, donnant des vins mûrs et de longue garde. Le pinot noir, tradition ancienne du lieu, y a été admis à son tour au rang de grand cru, après le Hengst et le Kirchberg de Barr.
+texte: À l'entrée de la Vallée Noble, le Vorbourg déploie ses pentes au sud et au sud-est, entre 210 et 300 mètres, à l'abri du Grand Ballon et du Petit Ballon qui arrêtent les pluies. Calcaires, grès et marnes y composent un sol caillouteux, parfois couvert de lœss. Tous les cépages nobles y réussissent, donnant des vins mûrs et de longue garde. Le pinot noir, tradition ancienne du lieu, y a été admis à son tour au rang de grand cru en 2024, après le Hengst et le Kirchberg de Barr.
 gout: fruits jaunes, épices, agrumes confits ; cerise et épices en rouge
 garde: 6 à 20 ans
 service: 10-12 °C en blanc, 15-16 °C en rouge
@@ -691,15 +690,15 @@ crus: Clos Saint-Landelin
 voir: alsace-grand-cru-zinnkoepfle, alsace-grand-cru-steinert, alsace-grand-cru-hengst
 
 @ alsace-grand-cru-zinnkoepfle
-nom: Alsace grand cru Zinnkoepfle
+nom: Alsace grand cru Zinnkoepflé
 sous: Grands crus du Haut-Rhin
 niveau: grand cru
 couleurs: blanc, moelleux, liquoreux
 styles: blanc-aromatique, blanc-moelleux, liquoreux
 cepages: gewurztraminer*, pinot-gris*, riesling*, muscat-blanc-a-petits-grains, muscat-ottonel
 surface: environ 70 ha
-def: Le plus haut des grands crus, entre Soultzmatt et Westhalten, dont les vignes montent plein sud jusqu'à 420 mètres.
-texte: Le Zinnkoepfle, « tête du soleil », dresse sa pente abrupte au-dessus de la Vallée Noble. Sols de calcaire coquillier et de grès, pluies très rares, chaleur de l'exposition : le sommet porte une flore de steppe, protégée, où poussent des espèces méridionales. La fraîcheur de l'altitude équilibre cet ensoleillement. Le gewurztraminer y est épicé et d'une grande longueur, le pinot gris puissant, le riesling ferme et salin.
+def: L'un des plus hauts grands crus, entre Soultzmatt et Westhalten, dont les vignes montent plein sud jusqu'à 420 mètres.
+texte: Le Zinnkoepflé, « tête du soleil », dresse sa pente abrupte au-dessus de la Vallée Noble. Sols de calcaire coquillier et de grès, pluies très rares, chaleur de l'exposition : le sommet porte une flore de steppe, protégée, où poussent des espèces méridionales. La fraîcheur de l'altitude équilibre cet ensoleillement. Le gewurztraminer y est épicé et d'une grande longueur, le pinot gris puissant, le riesling ferme et salin.
 gout: épices, rose, fruits exotiques, fraîcheur et finale saline
 garde: 6 à 20 ans
 service: 10-12 °C
@@ -714,7 +713,7 @@ styles: blanc-aromatique
 cepages: riesling*, gewurztraminer*, pinot-gris*, muscat-blanc-a-petits-grains, muscat-ottonel
 surface: environ 28 ha
 def: Le « mont de la Pentecôte », à Orschwihr, sur calcaires et grès, au pied du Bollenberg.
-texte: Le Pfingstberg regarde le sud-est entre 270 et 370 mètres, au-dessus d'Orschwihr. Le sous-sol associe les calcaires du Muschelkalk et les grès bigarrés, d'où des sols tantôt marno-calcaires, tantôt sablo-gréseux. Les vignes y sont mentionnées dès le XIIIᵉ siècle. Les vins sont fruités et fins dans leur jeunesse, puis gagnent en corps : rieslings floraux, gewurztraminers et pinots gris d'un bel équilibre.
+texte: Le Pfingstberg regarde le sud-est entre 270 et 370 mètres, au-dessus d'Orschwihr. Le sous-sol associe les calcaires du Muschelkalk et les grès bigarrés, d'où des sols tantôt marno-calcaires, tantôt sablo-gréseux. Les vins sont fruités et fins dans leur jeunesse, puis gagnent en corps : rieslings floraux, gewurztraminers et pinots gris d'un bel équilibre.
 gout: fleurs, agrumes, fruits jaunes, finale fraîche
 garde: 5 à 15 ans
 service: 10-12 °C
@@ -789,7 +788,7 @@ styles: blanc-aromatique
 cepages: riesling*, gewurztraminer, pinot-gris, muscat-blanc-a-petits-grains, muscat-ottonel
 surface: environ 36 ha
 def: Le grand cru de Wuenheim, au pied du Hartmannswillerkopf, sur des sols sablo-argileux propices au riesling.
-texte: Entre Guebwiller et Thann, l'Ollwiller s'incline en pente douce vers le sud-est, de 260 à 330 mètres, autour du château dont il porte le nom. Le Grand Ballon, tout proche, le protège des pluies. Le sol rougeâtre, sablo-argileux, recouvre des conglomérats et des marnes. Le riesling y est sec, fin, discrètement fruité, avec une bonne acidité. Le vignoble, dévasté pendant la Grande Guerre, a été entièrement reconstitué.
+texte: Entre Guebwiller et Thann, l'Ollwiller s'incline en pente douce vers le sud-est, de 260 à 330 mètres, autour du château dont il porte le nom. Le Freundstein et le Vieil-Armand le protègent des pluies : il compte parmi les coteaux les plus secs d'Alsace. Le sol rougeâtre, sablo-argileux, recouvre des conglomérats et des marnes. Le riesling y est sec, fin, discrètement fruité, avec une bonne acidité. Le vignoble, dévasté pendant la Grande Guerre, a été entièrement reconstitué.
 gout: agrumes, fleurs blanches, pomme, finale nette
 garde: 5 à 12 ans
 service: 10-12 °C
@@ -804,7 +803,7 @@ styles: blanc-aromatique, blanc-ample, liquoreux
 cepages: riesling*, pinot-gris*, gewurztraminer*, muscat-blanc-a-petits-grains, muscat-ottonel
 surface: environ 22 ha
 def: Le grand cru le plus méridional d'Alsace, à Thann et Vieux-Thann : une pente volcanique vertigineuse au-dessus de la Thur.
-texte: Le Rangen est un monde à part. Seul grand cru entièrement volcanique, il repose sur des grauwackes et des tufs sombres, durs, qui emmagasinent la chaleur. La pente, plein sud, atteint 45 degrés entre 350 et 450 mètres ; l'altitude, les pluies plus abondantes et la rivière au pied du coteau retardent la maturité et favorisent la pourriture noble. Célèbre depuis le Moyen Âge, presque abandonné puis replanté dans les années 1970, il donne des rieslings et des pinots gris puissants, fumés, d'une garde exceptionnelle.
+texte: Le Rangen est un monde à part. Ses sols sont d'origine volcanique : il repose sur des grauwackes et des tufs sombres, durs, qui emmagasinent la chaleur. La pente, plein sud, atteint 45 degrés entre 350 et 450 mètres ; l'altitude, les pluies plus abondantes et la rivière au pied du coteau retardent la maturité et favorisent la pourriture noble. Célèbre depuis le Moyen Âge, presque abandonné au XXᵉ siècle puis replanté, il donne des rieslings et des pinots gris puissants, fumés, d'une garde exceptionnelle.
 gout: pierre à fusil, fumée, agrumes confits, coing, bouche puissante et saline
 garde: 10 à 30 ans
 service: 10-12 °C ; carafer les vins jeunes
@@ -820,11 +819,11 @@ niveau: communale
 couleurs: rosé, rouge, blanc
 styles: rose-leger, rouge-leger, blanc-vif
 cepages: gamay*, pinot-noir*, auxerrois*, pinot-meunier
-surface: environ 100 ha
+surface: environ 75 ha
 depuis: 1998
 def: Le principal vignoble de Lorraine, à l'ouest de Toul, connu pour son vin gris de gamay et de pinot noir.
-texte: Huit communes de Meurthe-et-Moselle, parmi lesquelles Lucey, Bruley et Charmes-la-Côte, se partagent ce vignoble adossé aux côtes de Meuse. Les vignes regardent l'est et le sud-est, sur des pentes argilo-calcaires du Jurassique couvertes d'éboulis, à l'abri des vents d'ouest. Le climat reste continental et frais. Prospère sous les évêques de Toul et les ducs de Lorraine, le vignoble a failli disparaître au XXᵉ siècle avant d'être relancé par une poignée de familles.
-texte: Le vin gris en est l'emblème : un rosé très pâle obtenu par pressurage direct, à dominante de gamay, complété par le pinot noir, vif, léger, aux notes de petits fruits rouges. Le pinot noir vinifié seul donne des rouges clairs et fruités, parfois élevés en fût. Les blancs proviennent surtout de l'auxerrois, tendre et floral ; l'aubin, vieux cépage lorrain, y entre à titre accessoire.
+texte: Huit communes de Meurthe-et-Moselle, parmi lesquelles Lucey, Bruley et Charmes-la-Côte, se partagent ce vignoble adossé aux côtes de Meuse. Les vignes regardent le sud et le sud-est, sur des pentes argilo-calcaires du Jurassique couvertes d'éboulis, à l'abri des vents d'ouest. Le climat reste continental et frais. Prospère sous les évêques de Toul et les ducs de Lorraine, le vignoble a failli disparaître au XXᵉ siècle avant d'être relancé par une poignée de familles.
+texte: Le vin gris en est l'emblème : un rosé très pâle obtenu par pressurage direct de gamay et de pinot noir, vif, léger, aux notes de petits fruits rouges. Le pinot noir vinifié seul donne des rouges clairs et fruités, parfois élevés en fût. Les blancs proviennent de l'auxerrois, tendre et floral, et de l'aubin, vieux cépage lorrain.
 gout: groseille, fraise, agrumes, fleurs blanches, acidité vive
 garde: à boire dans les 2 ans ; 3 à 5 ans pour les rouges de pinot noir
 service: 8-10 °C pour le gris et le blanc ; 13-14 °C pour le rouge

@@ -7,11 +7,11 @@ niveau: régionale
 couleurs: rouge, rosé, blanc
 styles: rouge-leger, rose-leger, blanc-vif
 cepages: gamay*, chardonnay
-surface: environ 8 000 ha, mention Villages comprise
+surface: environ 6 700 ha, mention Villages comprise
 depuis: 1937
 def: L'appellation régionale du gamay, des vins nouveaux de novembre aux Beaujolais-Villages plus charnus des coteaux du nord.
 texte: L'appellation couvre l'ensemble du vignoble, mais se récolte surtout dans sa moitié sud, entre Villefranche-sur-Saône et la vallée de l'Azergues. C'est le pays des Pierres dorées, aux villages bâtis d'un calcaire ocre : les sols argilo-calcaires, plus riches que les granites du nord, y donnent des rouges souples et désaltérants. Trente-huit communes de coteaux, situées pour la plupart au nord et à l'ouest, autour des crus, peuvent ajouter la mention Villages : leurs arènes granitiques apportent davantage de couleur, de fruit et de tenue.
-texte: Vinifié en grappes entières, le [[gamay]] livre ici son expression la plus directe : robe vive, nez de fruits rouges frais, bouche légère et peu tannique. Près d'un tiers de la récolte part encore en vin nouveau, mis en vente le troisième jeudi de novembre ; le reste, et surtout les Villages, se boit dans les deux ou trois ans. Le rosé reste marginal ; le blanc, de [[chardonnay]], se rencontre aux deux extrémités du vignoble, près du Mâconnais et dans les Pierres dorées, dans un style proche des [[macon|mâcons]].
+texte: Vinifié en grappes entières, le [[gamay]] livre ici son expression la plus directe : robe vive, nez de fruits rouges frais, bouche légère et peu tannique. Près d'un quart de la récolte en rouge part encore en vin nouveau, mis en vente le troisième jeudi de novembre ; le reste, et surtout les Villages, se boit dans les deux ou trois ans. Le rosé reste marginal ; le blanc, de [[chardonnay]], se rencontre aux deux extrémités du vignoble, près du Mâconnais et dans les Pierres dorées, dans un style proche des [[macon|mâcons]].
 gout: fraise, framboise, cerise, bonbon anglais pour les primeurs, bouche souple et fraîche
 garde: à boire dans les 2 ans ; 3 à 4 ans pour les Villages
 service: 12-14 °C, légèrement rafraîchi
@@ -25,7 +25,7 @@ niveau: cru
 couleurs: rouge
 styles: rouge-leger, rouge-souple
 cepages: gamay*
-surface: environ 320 ha
+surface: environ 300 ha
 depuis: 1946
 def: Le plus septentrional des dix crus du Beaujolais, en Saône-et-Loire, aux rouges tendres et parfumés.
 texte: Le vignoble tient tout entier dans la commune de Saint-Amour-Bellevue, à la lisière du Mâconnais, où le granite cède la place aux calcaires de [[saint-veran]]. Les sols, variés — granites, schistes, argiles à silex, éboulis caillouteux —, expliquent deux styles : un vin léger et fruité issu de cuvaisons courtes, et un vin plus corsé, capable de tenir quelques années. Son nom lui vaut un succès assuré chaque mois de février.
@@ -42,7 +42,7 @@ niveau: cru
 couleurs: rouge
 styles: rouge-souple, rouge-leger
 cepages: gamay*
-surface: environ 570 ha
+surface: environ 520 ha
 depuis: 1938
 def: Cru du nord du Beaujolais, sur quatre communes, donnant des rouges colorés, fermes et épicés.
 texte: Juliénas s'étend sur Juliénas, Jullié, Émeringes et Pruzilly, cette dernière en Saône-et-Loire. Les vignes grimpent haut, sur des pentes exposées au sud et au sud-est. À l'ouest, les sols de granite et de roches anciennes bleutées donnent de la nervosité ; à l'est, des terrains plus argileux apportent de la chair. Le vin, bien charpenté pour un gamay, plus terrien que floral, demande souvent un ou deux ans avant de s'ouvrir.
@@ -59,7 +59,7 @@ niveau: cru
 couleurs: rouge
 styles: rouge-souple
 cepages: gamay*
-surface: environ 250 ha
+surface: environ 230 ha
 depuis: 1936
 def: Le plus petit des crus du Beaujolais, voisin de Moulin-à-Vent, aux rouges fermes et floraux.
 texte: À cheval sur Chénas, dans le Rhône, et La Chapelle-de-Guinchay, en Saône-et-Loire, le cru doit son nom aux forêts de chênes qui couvraient jadis la colline. À l'ouest, des pentes granitiques raides donnent des vins droits et charpentés ; à l'est, vers la Saône, des sols plus profonds de sables et de cailloutis les rendent plus souples. Le style, proche de celui de [[moulin-a-vent]], associe un bouquet de fleurs à une structure qui autorise la garde.
@@ -75,7 +75,7 @@ niveau: cru
 couleurs: rouge
 styles: rouge-souple, rouge-elegant
 cepages: gamay*
-surface: environ 640 ha
+surface: environ 620 ha
 depuis: 1936
 def: Le cru le plus structuré et le plus apte à vieillir du Beaujolais, entre Romanèche-Thorins et Chénas.
 texte: Le cru ne porte le nom d'aucune commune, mais celui du vieux moulin qui domine les vignes de Romanèche-Thorins, en Saône-et-Loire, et de Chénas, dans le Rhône. Les coteaux, en pente douce vers l'est, reposent sur un granite rose friable, le gore, parcouru de filons de manganèse — on l'a longtemps extrait à Romanèche. Ces sols maigres limitent naturellement les rendements et concentrent les raisins.
@@ -93,7 +93,7 @@ niveau: cru
 couleurs: rouge
 styles: rouge-leger, rouge-souple
 cepages: gamay*
-surface: environ 820 ha
+surface: environ 770 ha
 depuis: 1936
 def: Cru du Beaujolais réputé pour sa finesse et ses arômes floraux, sur un socle de granite rose.
 texte: Le vignoble occupe la seule commune de Fleurie, adossé à une ligne de crêtes que signale la chapelle de la Madone. Presque tout repose sur un granite rose à gros cristaux, très décomposé. En haut, les pentes sont raides et les sols minces et secs : les vins y sont fins et aériens. Plus bas, vers [[moulin-a-vent]], les terres plus profondes et plus argileuses donnent des cuvées charnues, de meilleure garde.
@@ -111,7 +111,7 @@ niveau: cru
 couleurs: rouge
 styles: rouge-leger
 cepages: gamay*
-surface: environ 300 ha
+surface: environ 280 ha
 depuis: 1936
 def: Le plus haut perché des crus du Beaujolais, aux rouges légers, vifs et très parfumés.
 texte: Les vignes de Chiroubles s'accrochent à un cirque de pentes raides, entre 250 et plus de 450 mètres d'altitude, sur un sable granitique pauvre que les orages emportent volontiers. La maturité y est plus tardive d'une semaine que chez les voisins. Il en sort le plus aérien des crus, tendre, floral, à boire sur sa jeunesse. Le village honore Victor Pulliat, ampélographe qui contribua à sauver le vignoble du phylloxéra par le greffage.
@@ -145,10 +145,10 @@ niveau: cru
 couleurs: rouge
 styles: rouge-leger
 cepages: gamay*
-surface: environ 370 ha
+surface: environ 400 ha
 depuis: 1988
 def: Le dernier-né des dix crus du Beaujolais, entre Morgon et Brouilly, au fruit franc et gourmand.
-texte: Reconnu en 1988, Régnié s'étend sur Régnié-Durette et une partie de Lantignié, autour d'une église à deux clochers qui lui sert d'emblème. Les vignes occupent des croupes de granite rose sableux, entre 250 et 500 mètres, plus argileuses en bas de pente. Le vin, souple et aromatique, fait le lien entre les Beaujolais-Villages et les crus plus corsés : on le boit jeune, pour son fruit.
+texte: Reconnu en 1988, Régnié s'étend sur Régnié-Durette et une partie de Lantignié. Les vignes occupent des croupes de granite rose sableux, entre 250 et 500 mètres, plus argileuses en bas de pente. Le vin, souple et aromatique, fait le lien entre les Beaujolais-Villages et les crus plus corsés : on le boit jeune, pour son fruit.
 gout: framboise, groseille, mûre, notes épicées, tanins légers
 garde: 2 à 5 ans
 service: 13-14 °C
@@ -179,7 +179,7 @@ niveau: cru
 couleurs: rouge
 styles: rouge-souple
 cepages: gamay*
-surface: environ 320 ha
+surface: environ 310 ha
 depuis: 1938
 def: Cru du Beaujolais planté sur les pentes mêmes du mont Brouilly, aux rouges plus tendus que ceux de Brouilly.
 texte: L'appellation fait le tour du mont Brouilly, colline isolée de 484 mètres coiffée d'une chapelle, sur les communes d'Odenas, Saint-Lager, Cercié et Quincié-en-Beaujolais. Les pentes sont fortes, bien exposées, et le sol singulier : une roche volcanique très dure, gris-bleu, la « pierre bleue » ou « corne verte », mêlée de granite. Le vin en tire une robe soutenue, de la fraîcheur et une trame minérale ; il vieillit mieux que son voisin de plaine.
@@ -195,10 +195,10 @@ niveau: régionale
 couleurs: rouge, rosé, blanc
 styles: rouge-leger, rose-leger, blanc-vif
 cepages: gamay*, chardonnay*, aligote
-surface: environ 250 ha
+surface: environ 180 ha
 depuis: 1984
 def: Petit vignoble de l'ouest lyonnais, entre Beaujolais et vallée du Rhône, voué au gamay et au chardonnay.
-texte: Les coteaux du Lyonnais se dispersent sur une cinquantaine de communes à l'ouest de Lyon, des monts d'Or à la vallée du Gier, entre 200 et 500 mètres d'altitude, sur des granites, des gneiss et des dépôts glaciaires. Longtemps vin quotidien des Lyonnais, le vignoble a beaucoup reculé devant l'urbanisation. Les rouges, vinifiés à la beaujolaise, sont fruités et légers ; les blancs, de [[chardonnay]] parfois complété d'[[aligote|aligoté]], sont frais et souples.
+texte: Les coteaux du Lyonnais se dispersent sur une cinquantaine de communes du Rhône, à l'ouest de Lyon, sur des sols de granites, de gneiss et de limons. Longtemps vin quotidien des Lyonnais, le vignoble a beaucoup reculé devant l'urbanisation. Les rouges, vinifiés à la beaujolaise, sont fruités et légers ; les blancs, de [[chardonnay]] parfois complété d'[[aligote|aligoté]], sont frais et souples.
 gout: groseille, cassis, framboise pour les rouges ; fleurs blanches et agrumes pour les blancs
 garde: à boire dans les 2 à 3 ans
 service: 12-13 °C pour les rouges, 10 °C pour les blancs

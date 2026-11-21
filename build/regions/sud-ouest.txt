@@ -1,7 +1,7 @@
 @ sud-ouest
 nom: Sud-Ouest
 def: Une mosaïque de vignobles dispersés du Périgord aux Pyrénées et du Rouergue à l'Atlantique, conservatoire de cépages autochtones ; les Charentes y sont rattachées ici.
-chiffres: environ 50 000 ha hors Charentes ; une trentaine d'AOC ; une quinzaine d'IGP ; des dizaines de cépages autochtones
+chiffres: plusieurs dizaines de milliers d'hectares hors Charentes ; une trentaine d'AOC ; plus d'une dizaine d'IGP ; des dizaines de cépages autochtones
 climat: Océanique à l'ouest, de plus en plus continental vers le Massif central, avec des influences méditerranéennes portées par le vent d'autan vers Gaillac et Fronton. Au pied des Pyrénées, les automnes secs et le vent du sud permettent les vendanges tardives.
 sols: Extrêmement variés : terrasses de galets et boulbènes le long de la Garonne, du Tarn et du Lot, causses calcaires du Quercy, grès rouges (rougiers) de Marcillac, schistes de l'Aveyron, poudingues et argiles à galets du piémont pyrénéen, sables fauves de Gascogne.
 cepages: malbec, tannat, fer-servadou, negrette, duras, merlot, cabernet-franc, cabernet-sauvignon, petit-manseng, gros-manseng, mauzac, len-de-l-el, colombard, semillon, sauvignon-blanc

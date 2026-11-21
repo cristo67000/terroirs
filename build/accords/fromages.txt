@@ -4,7 +4,7 @@
 nom: Comté jeune
 famille: fromages
 styles: blanc-vif, blanc-ample, rouge-leger
-vins: cotes-du-jura, arbois, l-etoile, cremant-du-jura, igp-franche-comte, macon, roussette-de-savoie
+vins: cotes-du-jura, arbois, l-etoile, vin-de-savoie, igp-franche-comte, macon, roussette-de-savoie
 conseil: Affiné moins d'un an, le comté est souple, lacté, fruité : un chardonnay du Jura, floral ou légèrement typé, forme avec lui un accord de terroir sans faille. Un rouge clair de poulsard convient aux amateurs. Les rouges tanniques masquent sa douceur.
 
 @ comte-vieux
@@ -13,7 +13,7 @@ famille: fromages
 styles: vin-jaune, blanc-ample, effervescent-brut
 vins: chateau-chalon, arbois, cotes-du-jura, l-etoile, meursault, champagne
 audace: macvin-du-jura
-conseil: Après dix-huit mois et plus, le comté développe des arômes de noix, de fruits secs et de torréfaction, avec des cristaux qui croquent : ce sont exactement ceux du vin jaune, et l'accord compte parmi les plus beaux qui existent. Un savagnin de voile, un grand chardonnay évolué ou un vieux champagne suivent de près. Les rouges n'ont rien à lui dire.
+conseil: Après dix-huit mois et plus, le comté développe des arômes de noix, de fruits secs et de torréfaction, avec des cristaux qui croquent : ce sont exactement ceux du vin jaune, et l'accord compte parmi les plus beaux qui existent. Un savagnin de voile, un grand chardonnay évolué ou un vieux champagne suivent de près. Les rouges lui conviennent moins bien.
 
 @ beaufort
 nom: Beaufort
@@ -41,7 +41,7 @@ conseil: Pâte crémeuse au goût de noisette et de cave : les blancs de Savoie,
 nom: Tomme de Savoie
 famille: fromages
 styles: rouge-leger, blanc-vif
-vins: vin-de-savoie, bugey, igp-vin-des-allobroges, roussette-du-bugey, beaujolais, coteaux-du-lyonnais
+vins: vin-de-savoie, bugey, igp-vin-des-allobroges, macon, beaujolais, coteaux-du-lyonnais
 conseil: Fromage rustique à croûte grise, au goût de cave et de noisette : un vin de montagne simple, rouge de gamay ou de mondeuse, ou blanc de jacquère. L'accord est affaire de pays et de franchise. Rien de puissant ni de boisé.
 
 @ saint-nectaire
@@ -55,7 +55,7 @@ conseil: Pâte souple et onctueuse, arômes de noisette, de champignon et de ter
 nom: Cantal, salers et laguiole
 famille: fromages
 styles: rouge-souple, rouge-leger, blanc-ample
-vins: marcillac, cotes-d-auvergne, entraygues-le-fel, saint-pourcain, gaillac, cahors, cotes-de-millau
+vins: marcillac, cotes-d-auvergne, entraygues-le-fel, saint-pourcain, gaillac, buzet, cotes-de-millau
 audace: arbois
 conseil: Jeunes, ces pâtes pressées non cuites sont lactées et acidulées et vont avec un rouge fruité du Massif central ; vieilles, elles deviennent piquantes et puissantes et supportent un rouge plus corsé du Sud-Ouest. Un blanc sec et ample reste une valeur sûre à tous les âges. Éviter les rouges très tanniques sur un fromage vieux et piquant.
 
@@ -85,8 +85,8 @@ conseil: Bleus de vache francs et salés, au piquant marqué : comme tous les pe
 nom: Fourme d'Ambert
 famille: fromages
 styles: blanc-moelleux, vdn-rouge, liquoreux
-vins: coteaux-du-layon, vouvray, jurancon, rasteau, banyuls, cerons, cotes-du-forez
-conseil: La plus douce des pâtes persillées, crémeuse et peu salée : un moelleux tendre plutôt qu'un grand liquoreux lui suffit, ou un vin doux naturel rouge aux notes de fruits noirs. Les gamays voisins du Forez sont l'accord local pour qui veut du rouge, à condition de les choisir très souples.
+vins: coteaux-du-layon, vouvray, jurancon, rasteau, banyuls, cerons, monbazillac
+conseil: L'une des plus douces des pâtes persillées, crémeuse et peu piquante : un moelleux tendre plutôt qu'un grand liquoreux lui suffit, ou un vin doux naturel rouge aux notes de fruits noirs. Les rouges secs, même souples, restent un pis-aller : mieux vaut rester sur le doux.
 
 @ chevre-frais
 nom: Chèvre frais
@@ -120,22 +120,22 @@ conseil: Petits chèvres du Midi, de la Drôme aux Cévennes et à la Haute-Prov
 nom: Camembert
 famille: fromages
 styles: rouge-leger, effervescent-brut, blanc-vif
-vins: beaujolais, touraine, anjou, saumur-champigny, champagne, cremant-de-loire, coteaux-du-loir
+vins: beaujolais, touraine, anjou, bourgogne-passe-tout-grains, champagne, cremant-de-loire, coteaux-du-loir
 conseil: À cœur, le camembert au lait cru a un goût puissant de champignon et d'étable qui malmène presque tous les vins, et surtout les rouges tanniques, rendus amers par la croûte. Le cidre normand reste son meilleur allié ; à défaut, un rouge très léger et fruité, ou un effervescent brut dont les bulles nettoient le palais. Le choisir pas trop fait si l'on tient à une bonne bouteille.
 
 @ brie-de-meaux
 nom: Brie de Meaux et brie de Melun
 famille: fromages
 styles: effervescent-brut, rouge-leger, blanc-ample
-vins: champagne, coteaux-champenois, bourgogne, irancy, sancerre, saint-amour, cremant-de-bourgogne
-conseil: Plus doux et plus crémeux que le camembert, avec des notes de noisette : le champagne, son voisin, en est le compagnon le plus élégant, ses bulles allégeant le gras. Un pinot noir léger et fruité fonctionne quand le fromage n'est pas trop avancé. Les rouges charpentés tournent à l'amertume.
+vins: champagne, coteaux-champenois, chablis, irancy, sancerre, saint-amour, cremant-de-bourgogne
+conseil: Le meaux, plus doux et plus crémeux que le camembert, avec des notes de noisette (le melun est plus typé) : le champagne, son voisin, en est le compagnon le plus élégant, ses bulles allégeant le gras. Un pinot noir léger et fruité fonctionne quand le fromage n'est pas trop avancé. Les rouges charpentés tournent à l'amertume.
 
 @ chaource
 nom: Chaource
 famille: fromages
 styles: effervescent-brut, blanc-vif, rose-vineux
-vins: champagne, rose-des-riceys, chablis, petit-chablis, cremant-de-bourgogne, irancy
-conseil: Fromage de l'Aube à la pâte crayeuse et acidulée, entre Champagne et Chablisien : il prend chez ses deux voisins des accords de terroir irréprochables. L'acidité du vin répond à celle du fromage. Le Rosé des Riceys, produit à quelques kilomètres, est l'accord local à connaître.
+vins: champagne, rose-des-riceys, chablis, petit-chablis, cremant-de-bourgogne, coteaux-champenois
+conseil: Fromage de l'Aube à la pâte crayeuse et acidulée, entre Champagne et Chablisien : il prend chez ses deux voisins des accords de terroir irréprochables. L'acidité du vin répond à celle du fromage. Le Rosé des Riceys, produit à une trentaine de kilomètres, est l'accord local à connaître.
 
 @ brillat-savarin
 nom: Brillat-savarin et triples-crèmes
@@ -149,20 +149,20 @@ nom: Saint-marcellin et saint-félicien
 famille: fromages
 styles: rouge-leger, rouge-souple, blanc-ample
 vins: beaujolais, cote-de-brouilly, coteaux-du-lyonnais, saint-joseph, crozes-hermitage, igp-collines-rhodaniennes, cotes-du-rhone
-conseil: Petits fromages crémeux du Dauphiné, vedettes des tables lyonnaises : un gamay frais ou une syrah souple du Rhône nord sont les accords d'usage. Très coulants, ils préfèrent un blanc rond de marsanne. Éviter les tanins fermes.
+conseil: Petits fromages crémeux du Dauphiné et de l'Ardèche, vedettes des tables lyonnaises : un gamay frais ou une syrah souple du Rhône nord sont les accords d'usage. Très coulants, ils préfèrent un blanc rond de marsanne. Éviter les tanins fermes.
 
 @ munster
 nom: Munster
 famille: fromages
 styles: blanc-aromatique, blanc-moelleux
 vins: alsace, alsace-grand-cru-zinnkoepfle, alsace-grand-cru-mambourg, alsace-grand-cru-sporen, alsace-grand-cru-furstentum, alsace-grand-cru-kessler
-conseil: Croûte lavée au parfum puissant, pâte onctueuse : le gewurztraminer, exubérant, épicé, souvent un peu rond, est le seul vin qui lui tienne tête avec élégance. C'est un accord de terroir par contraste, le parfum de rose et de litchi face à celui de l'étable, que le cumin vient souligner. Les rouges sont anéantis ou rendus amers.
+conseil: Croûte lavée au parfum puissant, pâte onctueuse : le gewurztraminer, exubérant, épicé, souvent un peu rond, est l'un des rares vins qui lui tiennent tête avec élégance. C'est un accord de terroir par contraste, le parfum de rose et de litchi face à celui de l'étable, que le cumin vient souligner. Les rouges sont anéantis ou rendus amers.
 
 @ epoisses
 nom: Époisses
 famille: fromages
 styles: blanc-aromatique, blanc-ample, liquoreux
-vins: alsace, chablis, bourgogne-aligote, meursault, macon, sauternes
+vins: alsace, chablis, pouilly-fuisse, meursault, saint-aubin, sauternes
 audace: gevrey-chambertin
 conseil: Lavé au marc de Bourgogne, l'époisses est l'un des fromages les plus odorants de France. La tradition locale lui sert un rouge de la Côte de Nuits, mais l'accord est rude pour le vin ; un blanc aromatique et riche, gewurztraminer ou pinot gris, ou un chardonnay ample, s'en tire bien mieux. Ne jamais lui sacrifier un grand rouge délicat.
 
@@ -177,28 +177,28 @@ conseil: Croûte lavée du Nord, puissante et salée : la bière de garde est so
 nom: Livarot
 famille: fromages
 styles: blanc-aromatique, blanc-moelleux
-vins: alsace, alsace-grand-cru-brand, alsace-grand-cru-rangen, bonnezeaux, coteaux-de-l-aubance, vouvray
+vins: alsace, alsace-grand-cru-brand, alsace-grand-cru-rangen, coteaux-du-layon, coteaux-de-l-aubance, vouvray
 conseil: Le « colonel » normand, à croûte lavée, est fort en nez et en bouche : cidre, poiré ou pommeau sont ses accords d'origine. Parmi les vins, un pinot gris ou un gewurztraminer riches, ou un chenin moelleux dont le sucre adoucit le piquant. Aucun rouge sérieux n'y survit.
 
 @ pont-l-eveque
 nom: Pont-l'évêque
 famille: fromages
 styles: blanc-ample, blanc-aromatique, rouge-leger
-vins: alsace, vouvray, montlouis-sur-loire, savennieres, macon, saint-nicolas-de-bourgueil, champagne
+vins: alsace, vouvray, alsace-grand-cru-brand, savennieres, macon, saint-nicolas-de-bourgueil, pouilly-fuisse
 conseil: Plus doux que le livarot, crémeux, aux arômes de noisette et de cave : un blanc de chenin rond, un pinot gris ou un chardonnay ample l'accompagnent bien, tout comme le cidre de son pays. Un rouge léger de Loire est acceptable quand le fromage est jeune. Éviter les tanins.
 
 @ mont-d-or
 nom: Mont-d'or (vacherin du Haut-Doubs)
 famille: fromages
 styles: blanc-ample, vin-jaune, blanc-vif
-vins: cotes-du-jura, arbois, l-etoile, chateau-chalon, igp-franche-comte, cremant-du-jura, roussette-de-savoie
+vins: cotes-du-jura, arbois, l-etoile, chateau-chalon, igp-franche-comte, vin-de-savoie, roussette-de-savoie
 conseil: Cerclé d'épicéa, coulant, au goût boisé et lacté, il se mange à la cuillère ou chaud, au four avec un trait de vin blanc. Les blancs du Jura, chardonnay ou savagnin, sont ses compagnons de toujours ; leurs notes de noix s'accordent à la résine de la sangle. Un rouge clair de poulsard est le seul rouge envisageable.
 
 @ morbier
 nom: Morbier
 famille: fromages
 styles: blanc-vif, rouge-leger, blanc-ample
-vins: arbois, cotes-du-jura, igp-franche-comte, cremant-du-jura, bugey, macon
+vins: arbois, cotes-du-jura, igp-franche-comte, roussette-de-savoie, bugey, macon
 conseil: Pâte souple traversée d'une raie de cendre, goût fruité et doux : un chardonnay du Jura ou un rouge léger de trousseau ou de poulsard, dans la logique du terroir. Rien de compliqué, mais rien de tannique non plus.
 
 @ mimolette-vieille
@@ -206,14 +206,14 @@ nom: Mimolette vieille
 famille: fromages
 styles: rouge-elegant, vdn-rouge, rouge-charpente
 vins: saint-emilion, pomerol, haut-medoc, margaux, saint-julien, banyuls, rivesaltes
-conseil: Dure, cassante, aux arômes de noisette et de caramel, peu grasse en bouche : la vieille mimolette est l'un des rares fromages qui servent vraiment les rouges, et les Bordelais l'utilisent de longue date pour faire goûter leurs vins. Un bordeaux évolué ou un vin doux naturel ambré, aux notes de fruits secs, lui répondent à merveille.
+conseil: Dure, cassante, aux arômes de noisette et de caramel, peu grasse en bouche : la vieille mimolette est l'un des rares fromages qui servent vraiment les rouges. Un bordeaux évolué ou un vin doux naturel ambré, aux notes de fruits secs, lui répondent à merveille.
 
 @ brocciu
 nom: Brocciu et brebis corses
 famille: fromages
 styles: blanc-vif, vdn-blanc, rose-leger
 vins: patrimonio, vin-de-corse, ajaccio, igp-ile-de-beaute, muscat-du-cap-corse
-conseil: Le brocciu frais, doux et lacté, se sert avec un blanc de vermentino, floral et salin, ou en dessert avec un muscat du Cap Corse. Les tommes de brebis affinées, plus fortes, supportent un rouge corse souple, surtout avec de la confiture de figues. L'accord insulaire se suffit à lui-même.
+conseil: Le brocciu frais, fait de petit-lait, doux et lacté, se sert avec un blanc de vermentino, floral et salin, ou en dessert avec un muscat du Cap Corse. Les tommes de brebis affinées, plus fortes, supportent un rouge corse souple, surtout avec de la confiture de figues. L'accord insulaire se suffit à lui-même.
 
 @ raclette
 nom: Raclette
@@ -225,13 +225,13 @@ conseil: Fromage fondu, pommes de terre et charcuteries : beaucoup de gras et de
 @ fondue-savoyarde
 nom: Fondue savoyarde
 famille: fromages
-styles: blanc-vif
-vins: vin-de-savoie, roussette-de-savoie, seyssel, igp-vin-des-allobroges, bugey, cotes-du-jura, alsace
+styles: blanc-vif, blanc-ample
+vins: vin-de-savoie, roussette-de-savoie, macon, igp-vin-des-allobroges, bugey, cotes-du-jura, alsace
 conseil: La fondue se prépare au vin blanc sec, et c'est lui que l'on boit : un blanc de Savoie vif et léger, dont l'acidité aide à digérer le fromage fondu. Apremont, Chignin, Crépy ou roussette font l'affaire. Pas de rouge tannique, ni de vin tendre ou sucré.
 
 @ plateau-de-fromages
 nom: Plateau de fromages
 famille: fromages
 styles: blanc-ample, blanc-moelleux, rouge-souple
-vins: vouvray, montlouis-sur-loire, alsace, cotes-du-jura, saint-veran, jurancon, saumur-champigny, champagne
+vins: vouvray, montlouis-sur-loire, alsace, cotes-du-jura, saint-veran, jurancon, saumur-champigny, savennieres
 conseil: Aucun vin ne convient à tous les fromages, mais le blanc s'en approche bien plus que le rouge : son acidité tranche le gras, et il ne craint ni les chèvres ni les croûtes fleuries. Un chenin sec ou tendre, un pinot gris ou un chardonnay ample sont les choix les plus polyvalents. Si l'on veut finir le rouge du plat, composer le plateau de pâtes pressées et de fromages doux.

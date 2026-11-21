@@ -5,11 +5,11 @@
 @ bergerac
 nom: Bergerac
 sous: Bergeracois et Duras
-niveau: régionale
+niveau: sous-régionale
 couleurs: rouge, rosé, blanc
 styles: rouge-souple, blanc-vif, rose-leger
 cepages: merlot*, cabernet-sauvignon*, cabernet-franc*, malbec*, fer-servadou, sauvignon-blanc*, semillon*, sauvignon-gris*, muscadelle*, ugni-blanc, ondenc, chenin
-surface: environ 6 000 ha
+surface: environ 5 300 ha
 depuis: 1936
 def: L'appellation générique du Périgord viticole, de part et d'autre de la Dordogne, en amont immédiat du Bordelais.
 texte: Le vignoble de Bergerac prolonge celui de la Gironde sans rupture de paysage : mêmes coteaux, même rivière, mêmes cépages. Il s'étend sur une bonne partie du sud-ouest de la Dordogne, autour de la ville qui lui donne son nom. Sur la rive droite, des sables et graviers du Périgord et des argiles ; sur la rive gauche, des molasses et des calcaires. Longtemps gêné par les privilèges du port de Bordeaux, Bergerac a trouvé ses débouchés par la Hollande, grande amatrice de ses vins doux.
@@ -22,7 +22,7 @@ voir: cotes-de-bergerac, pecharmant, monbazillac, bordeaux
 @ cotes-de-bergerac
 nom: Côtes de Bergerac
 sous: Bergeracois et Duras
-niveau: régionale
+niveau: sous-régionale
 couleurs: rouge, moelleux
 styles: rouge-charpente, blanc-moelleux
 cepages: merlot*, cabernet-sauvignon*, cabernet-franc*, malbec*, semillon*, sauvignon-blanc*, sauvignon-gris, muscadelle*
@@ -41,7 +41,7 @@ niveau: communale
 couleurs: liquoreux
 styles: liquoreux, blanc-moelleux
 cepages: semillon*, sauvignon-blanc*, sauvignon-gris*, muscadelle*
-surface: environ 2 000 ha
+surface: environ 2 300 ha
 depuis: 1936
 def: Le grand liquoreux du Périgord, sur les coteaux de la rive gauche de la Dordogne face à Bergerac.
 texte: Cinq communes — Monbazillac, Pomport, Rouffignac-de-Sigoulès, Colombier et Saint-Laurent-des-Vignes — se partagent un coteau qui, chose rare, regarde vers le nord. Cette exposition fraîche, jointe à la proximité de la Dordogne et de son affluent la Gardonnette, entretient à l'automne les brumes matinales nécessaires à la pourriture noble. Les sols sont argilo-calcaires, sur molasse.
@@ -58,9 +58,10 @@ niveau: communale
 couleurs: liquoreux
 styles: liquoreux
 cepages: semillon*, sauvignon-blanc*, sauvignon-gris*, muscadelle*, ondenc, chenin
+surface: environ 20 ha
 depuis: 1982
 def: Petit liquoreux du Bergeracois, à l'ouest de Monbazillac, sur quatre communes de la rive gauche de la Dordogne.
-texte: Sur des plateaux et des coteaux argilo-calcaires voisins de la Gironde, une poignée de vignerons maintient une production exigeante : vendanges manuelles par tries, raisins botrytisés ou passerillés, aucun enrichissement en sucre. Les vins sont de vrais liquoreux, riches mais tenus par une belle acidité, souvent plus nerveux que ceux de [[monbazillac]]. Les volumes sont très faibles.
+texte: Sur des plateaux et des coteaux argilo-calcaires voisins de la Gironde, une poignée de vignerons maintient une production exigeante : vendanges manuelles par tries successives, raisins botrytisés ou passerillés, rendements très bas. Les vins sont de vrais liquoreux, riches mais tenus par une belle acidité, souvent plus nerveux que ceux de [[monbazillac]]. Les volumes sont très faibles.
 gout: fruits confits, agrumes, miel, fraîcheur en finale
 garde: 5 à 20 ans
 service: 8-10 °C
@@ -73,7 +74,7 @@ niveau: communale
 couleurs: rouge
 styles: rouge-charpente
 cepages: merlot*, cabernet-sauvignon*, cabernet-franc*, malbec*
-surface: environ 400 ha
+surface: environ 450 ha
 depuis: 1946
 def: Le rouge de garde du Bergeracois, sur les coteaux au nord-est de la ville de Bergerac.
 texte: Le « pech », c'est la colline. Celles de Pécharmant, exposées au sud, portent des sables et des graviers du Périgord qui recouvrent une couche d'argile ferrugineuse, appelée localement le « tran ». Ce sous-sol, à la fois frais et riche en fer, passe pour donner aux vins leur structure particulière. Toujours issus d'un assemblage, les pécharmants sont les rouges les plus solides de la région : colorés, tanniques dans leur jeunesse, ils s'assouplissent après quelques années.
@@ -89,8 +90,9 @@ niveau: communale
 couleurs: moelleux
 styles: blanc-moelleux
 cepages: semillon*, sauvignon-blanc*, sauvignon-gris*, muscadelle*
+surface: environ 40 ha
 depuis: 1946
-def: Minuscule appellation de blanc moelleux sur les coteaux qui dominent Bergerac au nord.
+def: Minuscule appellation de blanc moelleux sur les coteaux qui dominent Bergerac à l'ouest et au nord.
 texte: Malgré son nom, la Rosette est un vin blanc. Elle naît sur un amphithéâtre de collines tournées vers le sud, juste au-dessus de la ville, sur des sols argilo-graveleux voisins de ceux de [[pecharmant]]. C'est un moelleux léger, peu sucré, délicat, où le [[semillon]] tient le premier rôle. Presque disparue, l'appellation est entretenue par quelques producteurs seulement.
 gout: fleurs blanches, pêche, agrumes, douceur discrète
 garde: 2 à 5 ans
@@ -104,7 +106,7 @@ niveau: communale
 couleurs: blanc, rouge
 styles: blanc-vif, blanc-ample, rouge-charpente
 cepages: sauvignon-blanc*, semillon*, sauvignon-gris*, muscadelle*, ondenc, merlot*, cabernet-franc, cabernet-sauvignon, malbec
-surface: environ 300 ha
+surface: environ 100 ha
 depuis: 1937
 def: La pointe ouest du Bergeracois, sur la rive droite de la Dordogne, au contact de Castillon : blancs secs et rouges de garde.
 texte: C'est le pays de Montaigne, dont le château se trouve dans l'aire. Les coteaux et plateaux calcaires prolongent ceux du Libournais voisin. Montravel a d'abord été une appellation de blancs secs, vifs lorsqu'ils misent sur le [[sauvignon-blanc]], plus amples quand le [[semillon]] et l'élevage en fût s'en mêlent. Depuis le début des années 2000, elle admet aussi des rouges à dominante de [[merlot]], soumis à des règles strictes et à un long élevage.
@@ -132,12 +134,12 @@ voir: haut-montravel, montravel, rosette
 nom: Haut-Montravel
 sous: Bergeracois et Duras
 niveau: communale
-couleurs: liquoreux, moelleux
+couleurs: liquoreux
 styles: liquoreux, blanc-moelleux
 cepages: semillon*, sauvignon-blanc, sauvignon-gris, muscadelle, ondenc
 depuis: 1937
 def: Le plus riche des vins doux de Montravel, sur les coteaux les plus élevés du secteur.
-texte: Haut-Montravel occupe quelques communes de la partie orientale et haute du pays de Montravel, sur des pentes argilo-calcaires bien ventilées. Les raisins y sont récoltés à forte concentration, par tries, et donnent des vins plus riches en sucre que les [[cotes-de-montravel]], d'un style qui s'approche de celui de [[saussignac]] ou de [[monbazillac]], avec une fraîcheur marquée. C'est l'une des plus petites productions du Bergeracois.
+texte: Haut-Montravel occupe, comme les Côtes de Montravel, une grande partie de l'aire de Montravel, sur des pentes argilo-calcaires bien ventilées. Les raisins y sont récoltés à forte concentration, par tries, et donnent des vins plus riches en sucre que les [[cotes-de-montravel]], d'un style qui s'approche de celui de [[saussignac]] ou de [[monbazillac]], avec une fraîcheur marquée. C'est l'une des plus petites productions de France : quelques hectares seulement.
 gout: fruits confits, miel, agrumes, finale fraîche
 garde: 5 à 15 ans
 service: 8-10 °C
@@ -150,7 +152,7 @@ niveau: sous-régionale
 couleurs: rouge, rosé, blanc, moelleux
 styles: blanc-vif, rouge-souple, rose-leger, blanc-moelleux
 cepages: merlot*, cabernet-sauvignon*, cabernet-franc*, malbec, sauvignon-blanc*, semillon*, muscadelle*, mauzac, chenin, ondenc, ugni-blanc
-surface: environ 1 500 ha
+surface: environ 950 ha
 depuis: 1937
 def: Petit vignoble du nord du Lot-et-Garonne, entre l'Entre-deux-Mers et le Bergeracois, autour du château de Duras.
 texte: Géographiquement, les Côtes de Duras continuent le plateau de l'Entre-deux-Mers ; seule la limite du département les en sépare. Les croupes sont découpées par de petits affluents du Dropt : calcaire sur les hauteurs, boulbènes limoneuses sur les pentes. Les blancs secs, à forte proportion de [[sauvignon-blanc]], sont la spécialité la plus reconnue, nerveux et aromatiques. Les rouges, de type bordelais, sont souples et fruités ; rosés et moelleux complètent une gamme sans prétention.
@@ -167,7 +169,7 @@ couleurs: rouge, rosé, blanc
 styles: rouge-souple, blanc-vif, rose-leger
 cepages: merlot*, cabernet-franc, cabernet-sauvignon, malbec, sauvignon-blanc, semillon, chardonnay
 def: Indication géographique de la Dordogne, pour les vins produits en marge ou en dehors des appellations du Bergeracois.
-texte: L'IGP Périgord couvre le département de la Dordogne et quelques communes voisines. Elle accueille des vins de cépage et des assemblages plus libres que ceux des appellations, ainsi que la production de petits vignobles isolés. Le plus connu est celui de Domme, en Périgord noir, replanté par des passionnés à la fin du XXᵉ siècle sur les coteaux de la Dordogne, qui dispose de sa propre dénomination. Ce sont des vins simples et fruités, à boire jeunes.
+texte: L'IGP Périgord couvre le département de la Dordogne. Elle accueille des vins de cépage et des assemblages plus libres que ceux des appellations, ainsi que la production de petits vignobles isolés. Le plus connu est celui de Domme, en Périgord noir, replanté par des passionnés à la fin du XXᵉ siècle sur les coteaux de la Dordogne, qui dispose de sa propre dénomination. Ce sont des vins simples et fruités, à boire jeunes.
 gout: fruits rouges frais, bouche souple ; blancs vifs et fruités
 garde: à boire dans les 2 à 3 ans
 service: 14-16 °C pour les rouges ; 8-10 °C pour les blancs et rosés
@@ -182,7 +184,7 @@ niveau: sous-régionale
 couleurs: rouge, rosé, blanc
 styles: rouge-souple, rose-leger, blanc-vif
 cepages: merlot*, cabernet-franc*, cabernet-sauvignon*, abouriou, malbec, fer-servadou, gamay, syrah, sauvignon-blanc*, sauvignon-gris, semillon, muscadelle
-surface: environ 1 000 ha
+surface: environ 700 ha
 depuis: 1990
 def: Vignoble du Lot-et-Garonne, à cheval sur la Garonne autour de Marmande, où l'abouriou relève les cépages bordelais.
 texte: Le Marmandais se partage entre deux rives : au nord de la Garonne, autour de Beaupuy, des coteaux argilo-calcaires qui continuent l'Entre-deux-Mers ; au sud, vers Cocumont, des terrasses graveleuses dans le prolongement des Graves. Les vins sont d'inspiration bordelaise, mais l'assemblage doit faire une place à des cépages complémentaires. Le plus original est l'[[abouriou]], cépage local très précoce, coloré et fruité, que quelques vignerons vinifient presque seul. Les rouges sont ronds et gourmands, les rosés et les blancs de sauvignon vifs.
@@ -198,7 +200,7 @@ niveau: sous-régionale
 couleurs: rouge, rosé, blanc
 styles: rouge-souple, rose-leger, blanc-vif
 cepages: merlot*, cabernet-franc*, cabernet-sauvignon*, malbec, semillon*, sauvignon-blanc*, muscadelle
-surface: environ 1 900 ha
+surface: environ 1 800 ha
 depuis: 1973
 def: Vignoble de la rive gauche de la Garonne, entre Agen et Marmande, adossé à la forêt des Landes.
 texte: Les vignes de Buzet s'étagent sur les premiers coteaux de Gascogne, entre le fleuve et la pinède. Les sols mêlent graves, boulbènes et argilo-calcaires. Presque disparu après le phylloxéra, le vignoble a été relevé dans la seconde moitié du XXᵉ siècle par sa cave coopérative, qui vinifie encore l'essentiel de la production et s'est engagée tôt dans des pratiques respectueuses de l'environnement. Les rouges, d'encépagement bordelais, sont souples et fruités, avec des cuvées élevées sous bois plus structurées ; rosés et blancs restent minoritaires.
@@ -214,10 +216,10 @@ niveau: sous-régionale
 couleurs: rouge, rosé
 styles: rouge-charpente, rose-vineux
 cepages: cabernet-franc*, merlot*, tannat*, cabernet-sauvignon, malbec, fer-servadou, abouriou
-surface: environ 200 ha
+surface: environ 120 ha
 depuis: 2011
 def: Petit vignoble de la moyenne Garonne, autour d'Agen, héritier des « vins noirs » du haut pays.
-texte: Le Brulhois s'étend surtout sur les terrasses et les coteaux de la rive gauche de la Garonne, aux confins du Lot-et-Garonne, du Tarn-et-Garonne et du Gers. Sur des graves anciennes et des boulbènes, on assemble les cépages de Bordeaux et ceux de Gascogne : le [[tannat]] et le [[malbec]] donnent la couleur sombre qui a fait la réputation du cru, le [[merlot]] et les cabernets l'arrondissent. Les vins sont charnus, épicés, de bonne tenue.
+texte: Le Brulhois s'étend surtout sur les terrasses et les coteaux de la rive gauche de la Garonne, aux confins du Lot-et-Garonne, du Tarn-et-Garonne et du Gers. Sur des graves anciennes et des boulbènes, on assemble les cépages de Bordeaux et celui de Gascogne : le [[tannat]] donne la couleur sombre qui a fait la réputation du cru, le [[merlot]] et le [[cabernet-franc]] l'arrondissent, le [[malbec]] n'intervenant qu'en appoint. Les vins sont charnus, épicés, de bonne tenue.
 gout: fruits noirs, pruneau, réglisse, tanins fermes
 garde: 3 à 8 ans
 service: 16-17 °C
@@ -226,14 +228,14 @@ voir: buzet, saint-sardos, cahors
 @ saint-sardos
 nom: Saint-Sardos
 sous: Garonne et Toulousain
-niveau: communale
+niveau: sous-régionale
 couleurs: rouge, rosé
 styles: rouge-souple, rose-leger
 cepages: syrah*, tannat*, cabernet-franc, merlot
-surface: environ 100 ha
+surface: environ 80 ha
 depuis: 2011
-def: Petite appellation du Tarn-et-Garonne, sur la rive gauche de la Garonne, qui marie la syrah au tannat.
-texte: Entre Montauban et Toulouse, sur des terrasses de graves et de boulbènes dominant le fleuve, Saint-Sardos perpétue un vignoble d'origine monastique. Son assemblage est unique dans le Sud-Ouest : la [[syrah]] y est obligatoirement majoritaire ou presque, associée au [[tannat]], que complètent le [[cabernet-franc]] et le [[merlot]]. Les rouges sont colorés, épicés, d'une structure mesurée ; les rosés, fruités. La cave coopérative assure l'essentiel des volumes.
+def: Petite appellation du Tarn-et-Garonne et de la Haute-Garonne, sur la rive gauche de la Garonne, qui marie la syrah au tannat.
+texte: Entre Montauban et Toulouse, sur des terrasses de graves et de boulbènes dominant le fleuve, Saint-Sardos perpétue un vignoble d'origine monastique. Son assemblage est unique dans le Sud-Ouest : la [[syrah]] y doit représenter au moins 40 % de l'encépagement et le [[tannat]] au moins 20 %, le [[cabernet-franc]] et le [[merlot]] jouant les compléments. Les rouges sont colorés, épicés, d'une structure mesurée ; les rosés, fruités. Une cave coopérative a longtemps assuré l'essentiel des volumes.
 gout: fruits noirs, poivre, violette, tanins présents
 garde: 3 à 6 ans
 service: 16 °C
@@ -246,7 +248,7 @@ niveau: sous-régionale
 couleurs: rouge, rosé
 styles: rouge-souple, rose-leger
 cepages: negrette*, syrah, cabernet-franc, cabernet-sauvignon, malbec, fer-servadou, gamay, cinsault
-surface: environ 1 500 ha
+surface: environ 700 ha
 depuis: 1975
 def: Le vignoble de Toulouse, sur les terrasses du Tarn, fief d'un cépage qu'on ne trouve presque nulle part ailleurs : la négrette.
 texte: À une trentaine de kilomètres au nord de Toulouse, entre Tarn et Garonne, trois niveaux de terrasses anciennes portent des sols pauvres et acides : boulbènes limoneuses, graves et « rougets » riches en fer. La [[negrette]] s'y plaît et doit dominer l'encépagement des domaines. La tradition veut qu'elle ait été rapportée d'Orient par les Hospitaliers de Saint-Jean de Jérusalem, longtemps maîtres du lieu ; la génétique en fait plutôt une enfant du Sud-Ouest.
@@ -279,7 +281,7 @@ niveau: sous-régionale
 couleurs: rouge
 styles: rouge-charpente
 cepages: malbec*, merlot, tannat
-surface: environ 3 500 ha
+surface: environ 3 000 ha
 depuis: 1971
 def: Le rouge sombre de la vallée du Lot, patrie du malbec, qui doit former au moins 70 % de l'assemblage.
 texte: De part et d'autre de Cahors, le Lot dessine de larges méandres encaissés dans les plateaux calcaires du Quercy. Le vignoble occupe deux terroirs. Dans la vallée, trois niveaux de terrasses alluviales : les plus basses, fertiles, donnent des vins souples ; les plus hautes, faites de galets, d'argiles et de sables anciens, des vins denses et complets. Au-dessus, le causse, plateau de calcaire caillouteux aux argiles rouges, plus frais, produit des vins plus tendus et plus fins. Le climat hésite entre l'Atlantique et la Méditerranée, avec des automnes souvent secs.
@@ -329,7 +331,7 @@ niveau: sous-régionale
 couleurs: rouge, rosé, blanc, effervescent, moelleux
 styles: rouge-souple, blanc-vif, effervescent-doux, blanc-moelleux
 cepages: duras*, fer-servadou*, syrah*, prunelard*, gamay, cabernet-sauvignon, cabernet-franc, merlot, mauzac*, len-de-l-el*, muscadelle*, ondenc, sauvignon-blanc
-surface: environ 3 000 ha
+surface: environ 2 300 ha
 depuis: 1938
 def: Vignoble très ancien du Tarn, entre Albi et Toulouse, qui produit à peu près tous les types de vin avec ses cépages propres.
 texte: La vigne est attestée à Gaillac dès l'époque romaine, et les moines de l'abbaye Saint-Michel en ont organisé le commerce au Moyen Âge. Le vignoble s'étend des deux côtés du Tarn : sur la rive gauche, des terrasses de graves et de boulbènes, propices aux rouges ; sur la rive droite, des coteaux argilo-calcaires où réussissent blancs et rouges ; au nord, le plateau calcaire de Cordes, plus frais. Le climat marie les influences océaniques au vent d'autan, chaud et sec, venu du sud-est.
@@ -393,11 +395,11 @@ sous: Aveyron
 niveau: communale
 couleurs: rouge, rosé, blanc
 styles: rouge-leger, blanc-vif, rose-leger
-cepages: gamay*, fer-servadou*, cabernet-franc, cabernet-sauvignon, chenin*, mauzac
+cepages: gamay*, fer-servadou*, cabernet-franc, cabernet-sauvignon, chenin*, mauzac, duras
 surface: environ 20 ha
 depuis: 2011
 def: L'une des plus petites appellations de France, dans la haute vallée du Lot, autour du village d'Estaing.
-texte: Trois communes de l'Aveyron se partagent des parcelles en terrasses, entre 300 et 450 mètres d'altitude, sur des schistes et des calcaires. Le climat est déjà montagnard, avec des nuits fraîches. Les rouges, où le [[gamay]] et le [[fer-servadou]] dominent, sont légers, fruités, à boire frais. Les blancs marient le [[chenin]] et le [[mauzac]], avec l'appoint d'un vieux cépage local, le saint-côme. Presque toute la production est le fait d'une petite cave coopérative.
+texte: Trois communes de l'Aveyron se partagent des parcelles en terrasses, à moyenne altitude, sur des schistes et des calcaires. Le climat est déjà montagnard, avec des nuits fraîches. Les rouges, où le [[gamay]] et le [[fer-servadou]] dominent, sont légers, fruités, à boire frais. Les blancs marient le [[chenin]] et le [[mauzac]], avec l'appoint d'un vieux cépage local, le saint-côme. Presque toute la production est le fait d'une petite cave coopérative.
 gout: fruits rouges acidulés, poivre ; blancs vifs aux notes de fruits blancs
 garde: à boire dans les 2 à 4 ans
 service: 13-15 °C pour les rouges ; 9-10 °C pour les blancs
@@ -428,11 +430,11 @@ niveau: sous-régionale
 couleurs: rouge
 styles: rouge-charpente
 cepages: tannat*, cabernet-franc, cabernet-sauvignon, fer-servadou
-surface: environ 1 300 ha
+surface: environ 1 000 ha
 depuis: 1948
 def: Le grand rouge de Gascogne, au nord de Pau, bâti sur le tannat : l'un des vins les plus tanniques de France.
 texte: Madiran se situe au point de rencontre du Gers, des Hautes-Pyrénées et des Pyrénées-Atlantiques, dans le pays du Vic-Bilh — le « vieux pays ». Quatre lignes de coteaux parallèles, orientées nord-sud, descendent du piémont pyrénéen vers l'Adour. Les sols varient d'un versant à l'autre : argilo-calcaires, argiles à galets roulés, graviers et sables. L'océan apporte les pluies de printemps, mais l'automne est d'ordinaire sec et ensoleillé, ce dont le [[tannat]], tardif, a grand besoin.
-texte: Le tannat porte bien son nom : peau épaisse, pépins nombreux, une charge en tanins et en couleur hors du commun. Il doit dominer l'assemblage et peut le composer seul ; le [[cabernet-franc]] (bouchy), le [[cabernet-sauvignon]] et le [[fer-servadou]] (pinenc) lui apportent parfum et souplesse. Le madiran traditionnel est un vin noir, serré, sévère dans sa jeunesse, qui réclame une longue garde pour livrer ses arômes de fruits noirs, d'épices et de cuir.
+texte: Le tannat porte bien son nom : peau épaisse, pépins nombreux, une charge en tanins et en couleur hors du commun. Il doit former l'essentiel de l'assemblage ; le [[cabernet-franc]] (bouchy), le [[cabernet-sauvignon]] et le [[fer-servadou]] (pinenc) lui apportent parfum et souplesse. Le madiran traditionnel est un vin noir, serré, sévère dans sa jeunesse, qui réclame une longue garde pour livrer ses arômes de fruits noirs, d'épices et de cuir.
 texte: C'est pour apprivoiser ces tanins qu'a été mise au point ici, au début des années 1990, la micro-oxygénation, depuis répandue dans le monde entier. Vendanges plus mûres et élevages soignés ont aussi fait naître des cuvées plus accessibles jeunes, sans que le cru perde son caractère.
 gout: mûre, cassis, épices, cuir, réglisse, tanins massifs
 garde: 5 à 20 ans
@@ -462,7 +464,7 @@ niveau: sous-régionale
 couleurs: rouge, rosé, blanc
 styles: rouge-charpente, blanc-vif, rose-leger
 cepages: tannat*, fer-servadou, cabernet-sauvignon, cabernet-franc, merlot, gros-manseng*, arrufiac, courbu, petit-manseng
-surface: environ 1 200 ha
+surface: environ 750 ha
 depuis: 2011
 def: Vignoble du Gers, sur les coteaux de l'Adour, voisin de Madiran dont il partage les cépages.
 texte: Autour du village de Saint-Mont et de son ancien monastère bénédictin, le vignoble couvre les collines de l'ouest du Gers : sables fauves, argiles bigarrées, galets. Les rouges, où le [[tannat]] domine avec le [[fer-servadou]] et les cabernets, sont plus souples que les [[madiran]] ; les blancs, à base de [[gros-manseng]], d'[[arrufiac]] et de petit courbu, sont vifs et parfumés. Le renouveau du cru est l'œuvre d'un groupement de caves coopératives. Curiosité : à Sarragachies, une parcelle de vignes antérieures au phylloxéra est classée monument historique.
@@ -478,7 +480,7 @@ niveau: sous-régionale
 couleurs: rouge, rosé, blanc
 styles: rouge-souple, rose-leger, blanc-vif
 cepages: cabernet-franc*, tannat*, cabernet-sauvignon, fer-servadou, merlot, baroque*, gros-manseng*, petit-manseng, sauvignon-blanc
-surface: environ 400 ha
+surface: environ 250 ha
 depuis: 2011
 def: Vignoble du sud-est des Landes, autour de Geaune, aux portes de la Chalosse.
 texte: Le Tursan occupe des coteaux vallonnés entre l'Adour et le Béarn, sur des sols argilo-calcaires et des sables fauves, sous un climat océanique doux et arrosé. Son originalité est un cépage blanc, le [[baroque]], qu'on ne cultive guère ailleurs : associé au [[gros-manseng]], il donne des blancs secs assez corsés, aux arômes de fruits blancs. Les rouges, à base de [[cabernet-franc]] et de [[tannat]], sont plus souples que leurs voisins gascons ; les rosés tiennent une place importante.
@@ -493,8 +495,8 @@ sous: Gascogne
 niveau: IGP
 couleurs: blanc, moelleux, rouge, rosé
 styles: blanc-vif, blanc-aromatique, blanc-moelleux, rouge-souple
-cepages: colombard*, ugni-blanc*, gros-manseng*, sauvignon-blanc*, petit-manseng, chardonnay, merlot, cabernet-sauvignon, cabernet-franc, tannat
-surface: plus de 12 000 ha
+cepages: colombard*, ugni-blanc*, gros-manseng*, sauvignon-blanc*, petit-manseng, chardonnay, merlot, cabernet-sauvignon, cabernet-franc, tannat, manseng-noir
+surface: environ 12 000 ha
 def: Les vins de pays du Gers et de ses abords, surtout des blancs vifs et très aromatiques, nés dans le vignoble de l'armagnac.
 texte: L'aire recouvre à peu près celle de l'armagnac. Dans les années 1980, face au recul des ventes d'eau-de-vie, des vignerons gersois ont choisi de vinifier en vin blanc sec, à basse température, les raisins jusque-là destinés à l'alambic. Le succès, notamment à l'exportation, a été considérable. Le [[colombard]], avec ses notes d'agrumes et de fruits exotiques, donne le ton ; l'[[ugni-blanc]] apporte la légèreté, le [[gros-manseng]] le corps, le [[sauvignon-blanc]] le mordant. Les blancs forment la grande majorité des volumes ; s'y ajoutent des moelleux de mansengs, quelques rouges et rosés.
 gout: pamplemousse, citron vert, fruit de la passion, bouche vive et légère
@@ -511,7 +513,7 @@ styles: vin-de-liqueur
 cepages: colombard*, gros-manseng*, ugni-blanc*, baroque, folle-blanche, petit-manseng, mauzac, sauvignon-blanc, semillon, cabernet-franc, cabernet-sauvignon, merlot, tannat, fer-servadou, malbec
 depuis: 1990
 def: La mistelle de Gascogne : du jus de raisin frais muté à l'armagnac, en blanc ou en rosé.
-texte: Le Floc — « bouquet de fleurs » en gascon — s'élabore sur l'aire de l'armagnac, dans le Gers et une partie des Landes et du Lot-et-Garonne. Le moût, qui n'a pas commencé à fermenter, est additionné d'un jeune armagnac issu de la même exploitation, à raison d'environ deux tiers de jus pour un tiers d'eau-de-vie. L'alcool empêche toute fermentation : le sucre est celui du raisin. Après quelques mois de repos, on obtient un vin de liqueur titrant de 16 à 18 % vol., fruité et suave, qui se boit jeune et frais.
+texte: Le Floc — « bouquet de fleurs » en gascon — s'élabore sur l'aire de l'armagnac, dans le Gers et une partie des Landes et du Lot-et-Garonne. Le moût, qui n'a pas commencé à fermenter, est additionné d'un jeune armagnac, à raison d'environ deux tiers de jus pour un tiers d'eau-de-vie. L'alcool empêche toute fermentation : le sucre est celui du raisin. Après plusieurs mois de repos, on obtient un vin de liqueur titrant de 16 à 18 % vol., fruité et suave, qui se boit jeune et frais.
 gout: raisin frais, fleurs blanches, miel, fruits rouges pour le rosé, douceur soutenue par l'alcool
 garde: à boire dans les 2 à 3 ans ; quelques semaines au frais une fois ouvert
 service: 6-8 °C, à l'apéritif ou au dessert
@@ -578,10 +580,10 @@ niveau: sous-régionale
 couleurs: rouge, blanc, vin de paille
 styles: rouge-souple, blanc-vif, liquoreux
 cepages: cabernet-franc*, merlot, cabernet-sauvignon, chenin*, chardonnay, sauvignon-blanc
-surface: environ 80 ha
+surface: moins de 20 ha
 depuis: 2017
 def: Jeune appellation du bas Limousin, autour de Brive, qui ressuscite un vignoble disparu avec le phylloxéra.
-texte: Le bassin de Brive, abrité et plus doux que le reste du Limousin, portait autrefois des milliers d'hectares de vigne. Quelques dizaines ont été replantés : sur les calcaires du sud, vers Branceilles, et sur les schistes des coteaux de la Vézère, près d'Allassac, secteur qui dispose de sa propre dénomination. Le [[cabernet-franc]] fournit des rouges fruités et frais ; le [[chenin]], des blancs secs tendus sur les schistes. La mention « vin de paille » couronne une tradition locale : des raisins séchés plusieurs semaines hors souche, puis pressés, donnent un vin doux rare et concentré.
+texte: Le bassin de Brive, abrité et plus doux que le reste du Limousin, portait autrefois des milliers d'hectares de vigne. Quelques dizaines ont été replantés : sur les calcaires du sud, vers Branceilles, et sur les schistes des coteaux de la Vézère, près d'Allassac, secteur qui dispose de sa propre dénomination. Le [[cabernet-franc]] fournit des rouges fruités et frais ; le [[chenin]], des blancs secs tendus sur les schistes. La mention « vin de paille » couronne une tradition locale : des raisins séchés au moins six semaines sur claies ou sur paille, puis pressés, donnent un vin doux rare et concentré.
 gout: fruits rouges frais, poivron mûr en rouge ; fruits secs, noix, miel pour le vin de paille
 garde: 2 à 6 ans ; davantage pour le vin de paille
 service: 15-16 °C pour les rouges ; 9-11 °C pour les blancs et le vin de paille

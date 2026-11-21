@@ -188,7 +188,7 @@ def: Se dit d'un vin solidement construit, riche en tanins et en matière, apte 
 @ lex-chateau
 nom: Château
 rubrique: lexique
-def: Dans le Bordelais, nom donné à un domaine viticole, qu'il possède ou non une demeure ; la mention est réservée aux vins d'appellation issus de l'exploitation.
+def: Surtout dans le Bordelais, nom donné à un domaine viticole, qu'il possède ou non une demeure ; la mention est réservée aux vins d'appellation ou d'IGP issus de l'exploitation.
 
 @ lex-clairet
 nom: Clairet
@@ -198,7 +198,7 @@ def: Vin de Bordeaux de couleur intermédiaire entre le rosé et le rouge, obten
 @ lex-climat
 nom: Climat
 rubrique: lexique
-def: En Bourgogne, parcelle de vigne précisément délimitée et nommée, dotée de conditions de sol et d'exposition qui lui sont propres ; les climats bourguignons sont inscrits au patrimoine mondial.
+def: En Bourgogne, parcelle de vigne précisément délimitée et nommée, dotée de conditions de sol et d'exposition qui lui sont propres ; les climats de Bourgogne sont inscrits au patrimoine mondial de l'Unesco depuis 2015.
 
 @ lex-clone
 nom: Clone
@@ -303,7 +303,7 @@ def: Particules solides — matières colorantes, tanins, cristaux de tartre —
 @ lex-dosage
 nom: Dosage
 rubrique: lexique
-def: Ajout, après le dégorgement d'un vin effervescent, d'une liqueur plus ou moins sucrée qui détermine son type : brut nature, extra-brut, brut, sec, demi-sec, doux.
+def: Ajout, après le dégorgement d'un vin effervescent, d'une liqueur plus ou moins sucrée qui détermine son type : brut nature, extra-brut, brut, extra-sec, sec, demi-sec, doux.
 
 @ lex-douelle
 nom: Douelle
@@ -688,7 +688,7 @@ def: Se dit d'un vin qui manque d'acidité et de relief.
 @ lex-porte-greffe
 nom: Porte-greffe
 rubrique: lexique
-def: Plant de vigne d'origine américaine, résistant au phylloxéra, sur lequel on greffe le cépage ; il est choisi selon le sol et la vigueur recherchée.
+def: Plant issu d'espèces de vigne américaines (ou de leurs hybrides), résistant au phylloxéra, sur lequel on greffe le cépage ; il est choisi selon le sol et la vigueur recherchée.
 
 @ lex-pourriture-noble
 nom: Pourriture noble
@@ -703,7 +703,7 @@ def: Extraction du jus par pression : du raisin frais pour les blancs et les ros
 @ lex-primeur
 nom: Primeur
 rubrique: lexique
-def: Un vin primeur, ou nouveau, est commercialisé quelques semaines après la vendange. La vente « en primeur » désigne tout autre chose : l'achat d'un vin de garde encore en cours d'élevage.
+def: Un vin primeur, ou nouveau, est commercialisé dès l'automne, deux à trois mois après la vendange. La vente « en primeur » désigne tout autre chose : l'achat d'un vin de garde encore en cours d'élevage.
 
 @ lex-prise-de-mousse
 nom: Prise de mousse
@@ -843,7 +843,7 @@ def: Composé issu des peaux, des pépins, des rafles du raisin et du bois des f
 @ lex-tartre
 nom: Tartre
 rubrique: lexique
-def: Cristaux d'acide tartrique qui se déposent sous l'effet du froid, sur les parois des cuves ou au fond des bouteilles ; ils sont sans goût et sans danger.
+def: Cristaux de bitartrate de potassium, sel de l'acide tartrique, qui se déposent sous l'effet du froid, sur les parois des cuves ou au fond des bouteilles ; ils sont sans goût et sans danger.
 
 @ lex-tastevin
 nom: Tastevin

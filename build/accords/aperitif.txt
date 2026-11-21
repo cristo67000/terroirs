@@ -50,7 +50,7 @@ nom: Tarama et blinis
 famille: aperitif
 styles: blanc-vif, effervescent-brut
 vins: chablis, petit-chablis, muscadet-sevre-et-maine, sancerre, cremant-de-loire, champagne
-conseil: Les œufs de poisson fumés, gras et salés, veulent un blanc tranchant et minéral qui nettoie la bouche, ou un effervescent brut peu dosé. Un chardonnay de Chablis ou un muscadet sur lie apportent en plus une pointe saline qui prolonge le goût marin. Les blancs aromatiques et sucrés brouillent l'accord.
+conseil: Les œufs de poisson (cabillaud ou mulet) du tarama, gras, salés et iodés, veulent un blanc tranchant et minéral qui nettoie la bouche, ou un effervescent brut peu dosé. Un chablis ou un muscadet sur lie apportent en plus une pointe saline qui prolonge le goût marin. Les blancs aromatiques et sucrés brouillent l'accord.
 
 @ rillettes-de-thon
 nom: Rillettes de poisson

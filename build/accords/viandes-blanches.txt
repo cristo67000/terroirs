@@ -62,7 +62,7 @@ conseil: Marinade sucrée-salée, caramel, fumée de la braise : il faut un roug
 nom: Porc aux pruneaux
 famille: viandes-blanches
 styles: rouge-souple, blanc-moelleux
-vins: chinon, bourgueil, saumur-champigny, touraine, cahors, buzet, cotes-de-duras
+vins: chinon, bourgueil, saumur-champigny, touraine, bergerac, buzet, cotes-de-duras
 audace: vouvray, montlouis-sur-loire
 conseil: Spécialité tourangelle où le pruneau apporte une douceur fruitée : un rouge de cabernet franc mûr, aux notes de fruits noirs, s'y accorde sans rudesse. La tradition locale connaît aussi l'accord avec un chenin demi-sec, cuit avec le plat. Éviter les rouges jeunes et durs, que le sucré rend amers.
 
@@ -77,7 +77,7 @@ conseil: Chou, légumes d'hiver, lard et saucisses longuement cuits au bouillon 
 nom: Baeckeoffe
 famille: viandes-blanches
 styles: blanc-aromatique, blanc-vif
-vins: alsace, alsace-grand-cru-rosacker, alsace-grand-cru-wiebelsberg, alsace-grand-cru-altenberg-de-bergheim, cremant-d-alsace, moselle
+vins: alsace, alsace-grand-cru-rosacker, alsace-grand-cru-wiebelsberg, alsace-grand-cru-altenberg-de-bergheim, moselle
 conseil: Trois viandes marinées au vin blanc et cuites à l'étouffée avec des pommes de terre : on sert le blanc de la marinade, riesling ou sylvaner, ou un pinot gris sec pour plus de rondeur. Un riesling de grand cru un peu évolué honore un beau baeckeoffe. Les rouges, en dehors d'un pinot noir léger, ne sont pas dans le ton.
 
 @ lapin-a-la-moutarde
