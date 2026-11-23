@@ -3,7 +3,7 @@
  * L'onglet « Album » : photographier une étiquette, la ranger, la retrouver.
  *
  * Trois écrans dans le même onglet : les dossiers, un dossier, une étiquette
- * (et, depuis celle-ci, le recadrage de la photo).
+ * (et, depuis celle-ci, le recadrage de la photo ; on peut aussi la pivoter).
  * Chaque pas en avant ajoute une entrée à l'historique, pour que le geste
  * « retour » du téléphone remonte d'un écran au lieu de quitter l'application.
  *
@@ -301,7 +301,36 @@
     });
   }
 
-  /* ————— recadrer ————— */
+  /* ————— retoucher : pivoter, recadrer ————— */
+
+  /* La photo retouchée prend la place de l'ancienne, vignette comprise. */
+  async function remplacerImage(id, vignette, grande) {
+    const actuelle = photos.find((x) => x.id === id);
+    if (!actuelle) return;
+    await Album.ajouter(Object.assign({}, actuelle, { vignette }), grande);
+    oublierVignette(id);
+    oublierGrande();
+    await charger();
+    dessiner();
+  }
+
+  /* Un quart de tour : `sens` vaut 1 vers la droite, -1 vers la gauche. */
+  async function pivoter(p, sens) {
+    const img = await ouvrirImage(await Album.image(p.id));
+    const l = img.width || img.naturalWidth;
+    const h = img.height || img.naturalHeight;
+    const toile = document.createElement('canvas');
+    toile.width = h;
+    toile.height = l;
+    const trait = toile.getContext('2d');
+    trait.translate(h / 2, l / 2);
+    trait.rotate(sens * Math.PI / 2);
+    trait.drawImage(img, -l / 2, -h / 2);
+    if (img.close) img.close();
+    const grande = await reduire(toile, GRAND, 0.9);
+    const vignette = await reduire(toile, PETIT, 0.8);
+    await remplacerImage(p.id, vignette, grande);
+  }
 
   /* `c` : le cadre, en fractions de l'image ({ x0, y0, x1, y1 }). La photo
    * recadrée remplace l'ancienne ; « Annuler » la rétablit tant que l'annonce
@@ -319,17 +348,9 @@
     const grande = await reduire(img, GRAND, 0.9, partie);
     const vignette = await reduire(img, PETIT, 0.8, partie);
     if (img.close) img.close();
-    const remplacer = async (v, g) => {
-      const actuelle = photos.find((x) => x.id === p.id) || p;
-      await Album.ajouter(Object.assign({}, actuelle, { vignette: v }), g);
-      oublierVignette(p.id);
-      oublierGrande();
-      await charger();
-      dessiner();
-    };
     recadrage = false;
-    await remplacer(vignette, grande);
-    Outils.annoncer('Photo recadrée.', () => remplacer(ancienneVignette, ancienne));
+    await remplacerImage(p.id, vignette, grande);
+    Outils.annoncer('Photo recadrée.', () => remplacerImage(p.id, ancienneVignette, ancienne));
   }
 
   function dessinerRecadrage(z) {
@@ -428,7 +449,23 @@
     }).catch(() => {});
 
     const retouche = element('div', 'album-retouche');
-    retouche.appendChild(bouton('bouton-discret', 'Recadrer la photo', () => { recadrage = true; dessiner(); racine.scrollTo(0, 0); }));
+    const tourner = (sens) => async () => {
+      for (const b of retouche.querySelectorAll('button')) b.disabled = true;
+      try { await pivoter(p, sens); } catch (erreur) {
+        console.warn('Terroirs : photo non pivotée —', erreur);
+        dessiner();
+        Outils.annoncer('La photo n’a pas pu être pivotée.');
+      }
+    };
+    const gauche = bouton('bouton-discret', '↺', tourner(-1));
+    gauche.setAttribute('aria-label', 'Pivoter d’un quart de tour vers la gauche');
+    gauche.title = 'Pivoter vers la gauche';
+    const droite = bouton('bouton-discret', '↻', tourner(1));
+    droite.setAttribute('aria-label', 'Pivoter d’un quart de tour vers la droite');
+    droite.title = 'Pivoter vers la droite';
+    retouche.appendChild(gauche);
+    retouche.appendChild(bouton('bouton-discret', 'Recadrer', () => { recadrage = true; dessiner(); racine.scrollTo(0, 0); }));
+    retouche.appendChild(droite);
     z.appendChild(retouche);
 
     const propositions = element('div');
