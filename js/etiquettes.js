@@ -100,7 +100,7 @@
         const grande = await reduire(img, GRAND, 0.86);
         const vignette = await reduire(img, PETIT, 0.8);
         if (img.close) img.close();
-        const photo = { id: Outils.identifiant('e'), cree: Date.now(), dossier, nom: '', app: '', annee: null, note: '', vignette };
+        const photo = { id: Outils.identifiant('e'), cree: Date.now(), dossier, nom: '', app: '', ceps: [], annee: null, note: '', vignette };
         await Album.ajouter(photo, grande);
         derniere = photo;
       } catch (erreur) {
@@ -263,6 +263,17 @@
     const exacte = Guide.donnees.appellations.find((a) => normaliser(a.nom) === q);
     if (exacte) return exacte;
     const proche = Guide.chercher(texte, 20).find((r) => r.t === 'a' && r.via !== 'def');
+    return proche ? proche.f : null;
+  }
+
+  /* Le cépage tapé -> la fiche du guide : par son nom, ou par un autre de ses noms. */
+  const nomCepage = (c) => c.nom.replace(/\s*\(.*\)$/, '');
+  function trouverCepage(texte) {
+    const q = normaliser(texte);
+    if (!q) return null;
+    const exact = Guide.donnees.cepages.find((c) => normaliser(c.nom) === q || normaliser(nomCepage(c)) === q);
+    if (exact) return exact;
+    const proche = Guide.chercher(texte, 20).find((r) => r.t === 'c' && r.via !== 'def');
     return proche ? proche.f : null;
   }
 
@@ -496,6 +507,43 @@
     champs.appendChild(champ('Appellation', app));
     champs.appendChild(liste);
 
+    /* les cépages : on en ajoute un à la fois, un vin d'assemblage en a plusieurs */
+    if (!Array.isArray(p.ceps)) p.ceps = [];
+    const listeCepages = element('datalist');
+    listeCepages.id = 'album-cepages';
+    for (const c of Guide.donnees.cepages) listeCepages.appendChild(element('option')).value = c.nom;
+    const cep = element('input');
+    cep.type = 'text';
+    cep.autocomplete = 'off';
+    cep.setAttribute('list', listeCepages.id);
+    champs.appendChild(champ('Cépage', cep));
+    champs.appendChild(listeCepages);
+    const choisis = element('div', 'voisins album-cepages');
+    champs.appendChild(choisis);
+    const ecrireCepages = () => {
+      choisis.textContent = '';
+      for (const id of p.ceps) {
+        const c = Guide.get('c', id);
+        if (!c) continue;
+        const b = bouton('voisin style', nomCepage(c) + '  ✕', () => changerCepages(p.ceps.filter((x) => x !== id)));
+        b.setAttribute('aria-label', 'Retirer le cépage ' + nomCepage(c));
+        choisis.appendChild(b);
+      }
+      choisis.hidden = !choisis.childNodes.length;
+      cep.placeholder = choisis.childNodes.length ? 'Ajouter un autre cépage…' : 'Riesling, pinot noir…';
+    };
+    const changerCepages = async (ids) => {
+      await enregistrer(p, { ceps: ids });
+      ecrireCepages();
+      liens();
+      proposer();
+    };
+    const ajouterCepage = (c) => {
+      cep.value = '';
+      if (!p.ceps.includes(c.id)) changerCepages(p.ceps.concat(c.id));
+    };
+    ecrireCepages();
+
     /* le millésime et le dossier, côte à côte */
     const deux = element('div', 'champs-deux');
     const annee = element('input');
@@ -555,14 +603,19 @@
     function liens() {
       fiche.textContent = '';
       const a = p.app ? Guide.get('a', p.app) : null;
-      if (!a) return;
       const rangee = element('div', 'voisins album-liens');
-      rangee.appendChild(bouton('voisin region-' + a.r, 'La fiche : ' + a.nom, () => Fiche.ouvrir('a', a.id)));
-      const zones = Guide.zonesDeRegion(a.r);
-      if (p.annee && zones.length === 1 && racine.Millesimes && Millesimes.montrerZone) {
-        rangee.appendChild(bouton('voisin style', 'Les millésimes : ' + zones[0].nom, () => Millesimes.montrerZone(zones[0].id)));
+      if (a) {
+        rangee.appendChild(bouton('voisin region-' + a.r, 'La fiche : ' + a.nom, () => Fiche.ouvrir('a', a.id)));
+        const zones = Guide.zonesDeRegion(a.r);
+        if (p.annee && zones.length === 1 && racine.Millesimes && Millesimes.montrerZone) {
+          rangee.appendChild(bouton('voisin style', 'Les millésimes : ' + zones[0].nom, () => Millesimes.montrerZone(zones[0].id)));
+        }
       }
-      fiche.appendChild(rangee);
+      for (const id of p.ceps) {
+        const c = Guide.get('c', id);
+        if (c) rangee.appendChild(bouton('voisin', 'Le cépage : ' + Guide.nomCourant('c', c), () => Fiche.ouvrir('c', id)));
+      }
+      if (rangee.childNodes.length) fiche.appendChild(rangee);
     }
 
     /* Ce que le guide reconnaît dans le nom : une proposition, jamais d'office. */
@@ -572,6 +625,9 @@
       const puces = [];
       for (const { f } of lu.appellations) {
         if (f.id !== p.app) puces.push(bouton('voisin region-' + f.r, 'Appellation : ' + f.nom, () => choisirAppellation(f)));
+      }
+      for (const { f } of lu.cepages) {
+        if (!p.ceps.includes(f.id)) puces.push(bouton('voisin', 'Cépage : ' + nomCepage(f), () => ajouterCepage(f)));
       }
       if (lu.annee && lu.annee !== p.annee) {
         puces.push(bouton('voisin style', 'Millésime : ' + lu.annee, async () => { await enregistrer(p, { annee: lu.annee }); annee.value = lu.annee; liens(); proposer(); }));
@@ -594,6 +650,19 @@
       const a = trouverAppellation(texte);
       if (texte && !a) { Outils.annoncer('Cette appellation n’est pas dans le guide.'); ecrireApp(); return; }
       choisirAppellation(a);
+    });
+    /* Un nom choisi dans la liste s'inscrit aussitôt ; un nom tapé, à la validation. */
+    cep.addEventListener('input', () => {
+      const q = normaliser(cep.value);
+      const c = q && Guide.donnees.cepages.find((x) => normaliser(x.nom) === q);
+      if (c) ajouterCepage(c);
+    });
+    cep.addEventListener('change', () => {
+      const texte = cep.value.trim();
+      if (!texte) return;
+      const c = trouverCepage(texte);
+      if (!c) { Outils.annoncer('Ce cépage n’est pas dans le guide.'); cep.value = ''; return; }
+      ajouterCepage(c);
     });
     annee.addEventListener('change', async () => {
       const n = Math.round(Number(annee.value));

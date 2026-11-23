@@ -69,6 +69,7 @@
 .champ input:focus, .champ select:focus, .champ textarea:focus { outline: 2px solid var(--accent); outline-offset: 1px; border-color: transparent; }
 .champ input::placeholder, .champ textarea::placeholder { color: var(--encre-legere); }
 .album-liens { margin: 0 0 .8rem; }
+.album-cepages { margin: -.35rem 0 0; }
 
 /* ————— Recadrer ————— */
 
