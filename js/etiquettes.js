@@ -2,7 +2,8 @@
 /*
  * L'onglet « Album » : photographier une étiquette, la ranger, la retrouver.
  *
- * Trois écrans dans le même onglet : les dossiers, un dossier, une étiquette.
+ * Trois écrans dans le même onglet : les dossiers, un dossier, une étiquette
+ * (et, depuis celle-ci, le recadrage de la photo).
  * Chaque pas en avant ajoute une entrée à l'historique, pour que le geste
  * « retour » du téléphone remonte d'un écran au lieu de quitter l'application.
  *
@@ -25,6 +26,7 @@
   const vignettes = new Map();               // id -> adresse de la vignette
   let adresseGrande = null;
   let tour = 0;
+  let recadrage = false;                     // l'écran de recadrage de la photo ouverte
 
   const zone = () => document.getElementById('album-contenu');
 
@@ -71,16 +73,16 @@
     });
   }
 
-  function reduire(img, cote, qualite) {
-    const l = img.width || img.naturalWidth;
-    const h = img.height || img.naturalHeight;
-    const echelle = Math.min(1, cote / Math.max(l, h));
+  /* `partie` : le rectangle de l'image à garder ({ x, y, l, h }) ; toute l'image sinon. */
+  function reduire(img, cote, qualite, partie) {
+    const p = partie || { x: 0, y: 0, l: img.width || img.naturalWidth, h: img.height || img.naturalHeight };
+    const echelle = Math.min(1, cote / Math.max(p.l, p.h));
     const toile = document.createElement('canvas');
-    toile.width = Math.max(1, Math.round(l * echelle));
-    toile.height = Math.max(1, Math.round(h * echelle));
+    toile.width = Math.max(1, Math.round(p.l * echelle));
+    toile.height = Math.max(1, Math.round(p.h * echelle));
     const trait = toile.getContext('2d');
     trait.imageSmoothingQuality = 'high';
-    trait.drawImage(img, 0, 0, toile.width, toile.height);
+    trait.drawImage(img, p.x, p.y, p.l, p.h, 0, 0, toile.width, toile.height);
     return new Promise((oui, non) => toile.toBlob((b) => (b ? oui(b) : non(new Error('image non convertie'))), 'image/jpeg', qualite));
   }
 
@@ -299,6 +301,110 @@
     });
   }
 
+  /* ————— recadrer ————— */
+
+  /* `c` : le cadre, en fractions de l'image ({ x0, y0, x1, y1 }). La photo
+   * recadrée remplace l'ancienne ; « Annuler » la rétablit tant que l'annonce
+   * est à l'écran. */
+  async function recadrer(p, c) {
+    const ancienne = await Album.image(p.id);
+    const ancienneVignette = p.vignette;
+    const img = await ouvrirImage(ancienne);
+    const l = img.width || img.naturalWidth;
+    const h = img.height || img.naturalHeight;
+    const partie = {
+      x: Math.round(c.x0 * l), y: Math.round(c.y0 * h),
+      l: Math.max(1, Math.round((c.x1 - c.x0) * l)), h: Math.max(1, Math.round((c.y1 - c.y0) * h)),
+    };
+    const grande = await reduire(img, GRAND, 0.9, partie);
+    const vignette = await reduire(img, PETIT, 0.8, partie);
+    if (img.close) img.close();
+    const remplacer = async (v, g) => {
+      const actuelle = photos.find((x) => x.id === p.id) || p;
+      await Album.ajouter(Object.assign({}, actuelle, { vignette: v }), g);
+      oublierVignette(p.id);
+      oublierGrande();
+      await charger();
+      dessiner();
+    };
+    recadrage = false;
+    await remplacer(vignette, grande);
+    Outils.annoncer('Photo recadrée.', () => remplacer(ancienneVignette, ancienne));
+  }
+
+  function dessinerRecadrage(z) {
+    const p = photos.find((x) => x.id === ou.photo);
+    const MINI = 0.14;   // le plus petit cadre, en fraction de l'image
+    const c = { x0: 0.08, y0: 0.08, x1: 0.92, y1: 0.92 };
+    const borner = (v, mini, maxi) => Math.min(maxi, Math.max(mini, v));
+
+    const tete = element('div', 'album-tete');
+    tete.appendChild(bouton('fiche-fermer', 'Annuler', () => { recadrage = false; dessiner(); }));
+    tete.appendChild(element('span', 'espace'));
+    const valider = bouton('bouton-principal', 'Recadrer', async () => {
+      valider.disabled = true;
+      try { await recadrer(p, c); } catch (erreur) {
+        console.warn('Terroirs : photo non recadrée —', erreur);
+        recadrage = false;
+        dessiner();
+        Outils.annoncer('La photo n’a pas pu être recadrée.');
+      }
+    });
+    tete.appendChild(valider);
+    z.appendChild(tete);
+    z.appendChild(element('p', 'discret', 'Tirez les coins du cadre, ou déplacez-le, pour ne garder que l’étiquette.'));
+
+    const scene = element('div', 'recadrage');
+    const img = element('img');
+    img.alt = '';
+    img.draggable = false;
+    img.src = adresseGrande || adresseVignette(p);
+    scene.appendChild(img);
+    const cadre = element('div', 'recadrage-cadre');
+    for (const coin of ['no', 'ne', 'so', 'se']) cadre.appendChild(element('span', 'poignee p-' + coin)).setAttribute('data-coin', coin);
+    scene.appendChild(cadre);
+    z.appendChild(scene);
+
+    const placer = () => {
+      cadre.style.left = (c.x0 * 100) + '%';
+      cadre.style.top = (c.y0 * 100) + '%';
+      cadre.style.width = ((c.x1 - c.x0) * 100) + '%';
+      cadre.style.height = ((c.y1 - c.y0) * 100) + '%';
+    };
+    placer();
+
+    scene.addEventListener('pointerdown', (e) => {
+      const coin = e.target.getAttribute && e.target.getAttribute('data-coin');
+      if (!coin && e.target !== cadre) return;
+      e.preventDefault();
+      const r = scene.getBoundingClientRect();
+      const d = { x: e.clientX, y: e.clientY, c: Object.assign({}, c) };
+      const bouger = (ev) => {
+        const dx = (ev.clientX - d.x) / r.width;
+        const dy = (ev.clientY - d.y) / r.height;
+        if (coin) {
+          if (coin[1] === 'o') c.x0 = borner(d.c.x0 + dx, 0, c.x1 - MINI); else c.x1 = borner(d.c.x1 + dx, c.x0 + MINI, 1);
+          if (coin[0] === 'n') c.y0 = borner(d.c.y0 + dy, 0, c.y1 - MINI); else c.y1 = borner(d.c.y1 + dy, c.y0 + MINI, 1);
+        } else {
+          const l = d.c.x1 - d.c.x0;
+          const h = d.c.y1 - d.c.y0;
+          c.x0 = borner(d.c.x0 + dx, 0, 1 - l); c.x1 = c.x0 + l;
+          c.y0 = borner(d.c.y0 + dy, 0, 1 - h); c.y1 = c.y0 + h;
+        }
+        placer();
+      };
+      const finir = () => {
+        scene.removeEventListener('pointermove', bouger);
+        scene.removeEventListener('pointerup', finir);
+        scene.removeEventListener('pointercancel', finir);
+      };
+      try { scene.setPointerCapture(e.pointerId); } catch (erreur) { /* rien */ }
+      scene.addEventListener('pointermove', bouger);
+      scene.addEventListener('pointerup', finir);
+      scene.addEventListener('pointercancel', finir);
+    });
+  }
+
   function dessinerPhoto(z) {
     const p = photos.find((x) => x.id === ou.photo);
     const monTour = tour;
@@ -320,6 +426,10 @@
       adresseGrande = URL.createObjectURL(image);
       img.src = adresseGrande;
     }).catch(() => {});
+
+    const retouche = element('div', 'album-retouche');
+    retouche.appendChild(bouton('bouton-discret', 'Recadrer la photo', () => { recadrage = true; dessiner(); racine.scrollTo(0, 0); }));
+    z.appendChild(retouche);
 
     const propositions = element('div');
     z.appendChild(propositions);
@@ -502,14 +612,16 @@
     /* un dossier ou une photo disparus entre-temps : on remonte d'un cran */
     if (ou.photo && !photos.some((p) => p.id === ou.photo)) ou.photo = null;
     if (ou.dossier !== null && !existe(ou.dossier)) ou.dossier = null;
-    if (!ou.photo) oublierGrande();
-    if (ou.photo) dessinerPhoto(z);
+    if (!ou.photo) { oublierGrande(); recadrage = false; }
+    if (ou.photo && recadrage) dessinerRecadrage(z);
+    else if (ou.photo) dessinerPhoto(z);
     else if (ou.dossier !== null) dessinerDossier(z);
     else dessinerDossiers(z);
   }
 
   function avancer(etat) {
     ou = { dossier: etat.dossier === undefined ? null : etat.dossier, photo: etat.photo || null };
+    recadrage = false;
     try { racine.history.pushState({ album: ou }, ''); } catch (e) { /* rien */ }
     dessiner();
     racine.scrollTo(0, 0);
@@ -525,6 +637,7 @@
   /* « Retour » du téléphone : l'historique a déjà reculé. */
   function surRetour(etat) {
     const a = (etat && etat.album) || {};
+    recadrage = false;
     ou = { dossier: a.dossier === undefined ? null : a.dossier, photo: a.photo || null };
     dessiner();
     racine.scrollTo(0, 0);
@@ -539,7 +652,7 @@
     montrer, surRetour,
     brancher() {
       /* quitter l'onglet ramène l'album à ses dossiers */
-      document.addEventListener('vue-changee', () => { if (App.vue !== 'album') { ou = { dossier: null, photo: null }; oublierGrande(); } });
+      document.addEventListener('vue-changee', () => { if (App.vue !== 'album') { ou = { dossier: null, photo: null }; recadrage = false; oublierGrande(); } });
     },
   };
 

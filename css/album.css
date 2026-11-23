@@ -49,6 +49,7 @@
   display: block; max-width: 100%; max-height: 68vh; margin: 0 auto 1rem;
   border-radius: var(--rayon); box-shadow: var(--ombre); background: var(--trait);
 }
+.album-retouche { display: flex; justify-content: center; margin: -.3rem 0 1rem; }
 .bouton-etat.danger { color: var(--bad); }
 .bouton-etat.danger:hover { border-color: var(--bad); }
 
@@ -67,6 +68,23 @@
 .champ input:focus, .champ select:focus, .champ textarea:focus { outline: 2px solid var(--accent); outline-offset: 1px; border-color: transparent; }
 .champ input::placeholder, .champ textarea::placeholder { color: var(--encre-legere); }
 .album-liens { margin: 0 0 .8rem; }
+
+/* ————— Recadrer ————— */
+
+.recadrage {
+  position: relative; width: fit-content; max-width: 100%; margin: .4rem auto 1rem; overflow: hidden;
+  border-radius: 6px; touch-action: none; user-select: none; -webkit-user-select: none;
+}
+.recadrage img { display: block; max-width: 100%; max-height: 62vh; pointer-events: none; }
+.recadrage-cadre {
+  position: absolute; box-sizing: border-box; cursor: move;
+  border: 1px solid rgba(255, 255, 255, .9); box-shadow: 0 0 0 100vmax rgba(0, 0, 0, .58);
+}
+.poignee { position: absolute; width: 2.6rem; height: 2.6rem; border: 0 solid #fff; max-width: 50%; max-height: 50%; }
+.p-no { left: -1px; top: -1px; border-left-width: 4px; border-top-width: 4px; cursor: nwse-resize; }
+.p-ne { right: -1px; top: -1px; border-right-width: 4px; border-top-width: 4px; cursor: nesw-resize; }
+.p-so { left: -1px; bottom: -1px; border-left-width: 4px; border-bottom-width: 4px; cursor: nesw-resize; }
+.p-se { right: -1px; bottom: -1px; border-right-width: 4px; border-bottom-width: 4px; cursor: nwse-resize; }
 
 /* Six onglets : on serre un peu sur les petits écrans. */
 @media (max-width: 24rem) {
