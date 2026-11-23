@@ -12,7 +12,7 @@ TWA (Trusted Web Activity) avec Bubblewrap.
 | Fonctionne hors ligne | `sw.js` range toute l'application (guide + carte) au premier lancement |
 | HTTPS | GitHub Pages |
 | Politique de confidentialité à une adresse publique | `confidentialite.html` |
-| Sécurité des données | aucune donnée collectée ni partagée ; aucune autorisation Android |
+| Sécurité des données | aucune donnée collectée ni partagée ; aucune autorisation Android (les photos de l'album passent par l'appareil photo du système et restent dans l'appareil) |
 | Pas de publicité, pas d'achats | rien de tel |
 | Contenu lié à l'alcool | guide d'information, sans vente ni lien marchand ; mention « L'abus d'alcool est dangereux pour la santé » à l'accueil, sur les fiches, dans les Réglages et la page de confidentialité |
 | Propriété intellectuelle | textes originaux ; données INAO et Etalab sous Licence Ouverte, Natural Earth domaine public, crédits dans l'application |

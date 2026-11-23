@@ -15,7 +15,7 @@
  * `build/essais_statiques.mjs` compare les deux et échoue à la moindre différence.
  */
 
-const VERSION = 'v1.0.1';
+const VERSION = 'v1.1.0';
 const COQUILLE = 'terroirs-coquille-' + VERSION;
 
 const FICHIERS = [
@@ -26,6 +26,7 @@ const FICHIERS = [
   'css/theme.css',
   'css/app.css',
   'css/carte.css',
+  'css/album.css',
   'js/outils.js',
   'js/memoire.js',
   'js/donnees.js',
@@ -37,6 +38,9 @@ const FICHIERS = [
   'js/accords.js',
   'js/millesimes.js',
   'js/guide.js',
+  'js/lecture.js',
+  'js/album.js',
+  'js/etiquettes.js',
   'js/reglages.js',
   'js/app.js',
   'js/demarrage.js',

@@ -2,7 +2,7 @@
 /*
  * Le chef d'orchestre : les réglages, les onglets, l'historique.
  *
- * Cinq onglets (Vins, Cépages, Carte, Accords, Millésimes), deux écrans
+ * Six onglets (Vins, Cépages, Carte, Accords, Millésimes, Album), deux écrans
  * ouverts depuis l'en-tête (Guide, Réglages) et une fiche qui s'ouvre
  * par-dessus.
  */
@@ -10,7 +10,7 @@
 
   let reglages = Memoire.reglages();
   let vue = 'vins';
-  const VUES = ['vins', 'cepages', 'carte', 'accords', 'millesimes', 'guide', 'reglages'];
+  const VUES = ['vins', 'cepages', 'carte', 'accords', 'millesimes', 'album', 'guide', 'reglages'];
   const TAILLES = [14.5, 16, 18, 20.5];
 
   function appliquerReglages() {
@@ -45,6 +45,7 @@
     if (nom === 'carte') Carte.montrer();
     if (nom === 'accords') Accords.montrer();
     if (nom === 'millesimes') Millesimes.montrer();
+    if (nom === 'album') Etiquettes.montrer();
     if (nom === 'guide') GuideVue.montrer();
     if (nom === 'reglages') Reglages.dessiner();
     racine.scrollTo(0, 0);
@@ -59,6 +60,8 @@
     if (Fiche.ouverte) {
       if (s.fiche) Fiche.revenirA(s);
       else Fiche.fermerSansHistorique();
+    } else if (vue === 'album') {
+      Etiquettes.surRetour(s);
     }
   }
 
@@ -88,6 +91,7 @@
     Accords.brancher();
     Millesimes.brancher();
     GuideVue.brancher();
+    Etiquettes.brancher();
     Reglages.brancher({ manifeste: donnees.manifeste });
 
     for (const b of document.querySelectorAll('#onglets button, #barre button[data-vue]')) {

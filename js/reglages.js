@@ -57,6 +57,21 @@
     memoire.appendChild(element('p', 'discret petit', 'Tout cela reste dans cet appareil : rien n’est envoyé nulle part.'));
     zone.appendChild(memoire);
 
+    const album = bloc('Votre album d’étiquettes');
+    const bilan = album.appendChild(element('p', null, '…'));
+    album.appendChild(element('p', 'discret petit', 'Les photos restent dans cet appareil, réduites pour prendre peu de place. « Tout oublier » ne touche pas à l’album ; désinstaller l’application l’efface.'));
+    zone.appendChild(album);
+    Album.bilan().then(({ nombre, octets }) => {
+      bilan.textContent = nombre ? Outils.pluriel(nombre, 'étiquette', 'étiquettes') + ', ' + Outils.humain(octets) + '.' : 'Aucune étiquette pour l’instant.';
+      if (!nombre) return;
+      album.insertBefore(bouton('bouton-discret', 'Vider l’album', async () => {
+        if (!racine.confirm('Supprimer toutes les étiquettes et tous les dossiers de l’album ? C’est définitif.')) return;
+        await Album.vider();
+        dessiner();
+        Outils.annoncer('Album vidé.');
+      }), bilan.nextSibling);
+    }).catch(() => { bilan.textContent = 'L’album n’est pas disponible dans ce navigateur.'; });
+
     const guide = bloc('Ce que contient le guide');
     if (manifeste) {
       guide.appendChild(element('p', null, manifeste.appellations + ' appellations dans ' + manifeste.regions + ' régions, '
@@ -77,7 +92,7 @@
     zone.appendChild(sante);
 
     const prive = bloc('Vie privée');
-    prive.appendChild(element('p', null, 'Pas de compte, pas de publicité, pas de mesure d’audience. L’application fonctionne hors ligne et ne contacte aucun serveur ; elle ne demande ni votre position, ni aucune autorisation.'));
+    prive.appendChild(element('p', null, 'Pas de compte, pas de publicité, pas de mesure d’audience. L’application fonctionne hors ligne et ne contacte aucun serveur ; elle ne demande ni votre position, ni aucune autorisation. Les photos de l’album sont prises par l’appareil photo du téléphone et ne quittent pas l’appareil.'));
     const lien = element('a', null, 'Lire la page de confidentialité');
     lien.href = 'confidentialite.html';
     prive.appendChild(element('p', null)).appendChild(lien);

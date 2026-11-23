@@ -2,7 +2,10 @@
 
 Application web installable (PWA), hors ligne, sans compte ni publicité : les appellations de
 France région par région, une centaine de cépages, une carte détaillée des vignobles, les accords
-mets-vins dans les deux sens, les millésimes depuis 1990 et un guide pratique avec lexique.
+mets-vins dans les deux sens, les millésimes depuis 1990 et un guide pratique avec lexique. Un album
+permet de photographier ses étiquettes et de les ranger par région ou dans ses propres dossiers : les
+photos restent dans l'appareil (IndexedDB), et l'appellation comme le millésime se reconnaissent dans
+le nom tapé (`js/lecture.js`).
 
 ## Construire
 

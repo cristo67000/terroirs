@@ -1,0 +1,75 @@
+/*
+ * Terroirs — l'album d'étiquettes : les dossiers, les vignettes, la fiche
+ * d'une photo. Les couleurs viennent de theme.css ; `--cr` est la couleur de
+ * la région (app.css), reprise par les liserés.
+ */
+
+.album-actions { display: flex; flex-wrap: wrap; gap: .5rem; margin: .2rem 0 .4rem; }
+.album-tete { display: flex; align-items: center; flex-wrap: wrap; gap: .45rem; margin: .6rem 0 .7rem; }
+.album-tete h2 { flex: 1; min-width: 9rem; margin: 0; padding-bottom: .15rem; border-bottom: 2px solid var(--cr, transparent); }
+.album-outils { display: flex; gap: 1.2rem; margin: -.4rem 0 .5rem; }
+
+/* ————— Les dossiers ————— */
+
+.grille-dossiers { display: grid; grid-template-columns: repeat(auto-fill, minmax(9.6rem, 1fr)); gap: .5rem; }
+.dossier { flex-direction: row; align-items: center; gap: .5rem; min-height: 4.3rem; }
+.dossier-tout { --cr: var(--accent); }
+.dossier-perso { --cr: var(--or); }
+.dossier-attente { --cr: var(--warn); }
+.dossier.vide { box-shadow: none; background: transparent; }
+.dossier.vide .carte-region-nombre { color: var(--encre-legere); font-weight: 400; }
+.dossier-texte { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: .12rem; }
+.dossier-couverture { flex: none; width: 2.9rem; height: 2.9rem; border-radius: 7px; object-fit: cover; background: var(--trait); }
+.dossier.nouveau {
+  justify-content: center; border: 1px dashed var(--trait-fort); box-shadow: none; background: transparent;
+  color: var(--accent); font-weight: 600;
+}
+
+/* ————— Les vignettes d'un dossier ————— */
+
+.grille-photos { display: grid; grid-template-columns: repeat(auto-fill, minmax(6.6rem, 1fr)); gap: .5rem; margin-top: .6rem; }
+.vignette {
+  display: flex; flex-direction: column; padding: 0; text-align: left; overflow: hidden; cursor: pointer;
+  border: 1px solid var(--trait); border-bottom: 3px solid var(--cr, var(--trait-fort)); border-radius: 9px;
+  background: var(--carte); box-shadow: var(--ombre);
+  transition: transform .12s ease, border-color .15s ease;
+}
+.vignette:hover, .vignette:focus-visible { border-color: var(--accent); outline: none; }
+.vignette:active { transform: scale(.98); }
+.vignette img { display: block; width: 100%; aspect-ratio: 3 / 4; object-fit: cover; background: var(--trait); }
+.vignette-nom {
+  padding: .35rem .5rem 0; font: 600 .86rem/1.2 var(--serif); overflow-wrap: anywhere;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
+.vignette-sous { padding: .1rem .5rem .4rem; font-size: .72rem; color: var(--encre-legere); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+/* ————— Une étiquette ————— */
+
+.photo-grande {
+  display: block; max-width: 100%; max-height: 68vh; margin: 0 auto 1rem;
+  border-radius: var(--rayon); box-shadow: var(--ombre); background: var(--trait);
+}
+.bouton-etat.danger { color: var(--bad); }
+.bouton-etat.danger:hover { border-color: var(--bad); }
+
+.propositions { margin: 0 0 1rem; padding: .7rem .9rem .6rem; border-radius: var(--rayon); background: var(--or-clair); }
+.propositions-titre { margin: 0 0 .4rem; font-size: .85rem; color: var(--encre-douce); }
+
+.champs { display: grid; gap: .75rem; margin: 0 0 1rem; }
+.champs-deux { display: grid; grid-template-columns: 6.5rem 1fr; gap: .6rem; }
+.champ { display: flex; flex-direction: column; gap: .25rem; min-width: 0; }
+.champ-nom { font-size: .75rem; text-transform: uppercase; letter-spacing: .05em; color: var(--encre-legere); font-weight: 700; }
+.champ input, .champ select, .champ textarea {
+  width: 100%; min-height: 2.8rem; padding: .6rem .8rem; font-size: 1rem;
+  background: var(--carte); border: 1px solid var(--trait); border-radius: 9px;
+}
+.champ textarea { resize: vertical; line-height: 1.5; font-family: var(--texte); }
+.champ input:focus, .champ select:focus, .champ textarea:focus { outline: 2px solid var(--accent); outline-offset: 1px; border-color: transparent; }
+.champ input::placeholder, .champ textarea::placeholder { color: var(--encre-legere); }
+.album-liens { margin: 0 0 .8rem; }
+
+/* Six onglets : on serre un peu sur les petits écrans. */
+@media (max-width: 24rem) {
+  #onglets { padding-left: .1rem; padding-right: .1rem; }
+  #onglets button { font-size: .64rem; }
+}

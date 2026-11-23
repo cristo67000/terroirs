@@ -11,6 +11,7 @@
  */
 import fs from 'node:fs';
 import path from 'node:path';
+import vm from 'node:vm';
 import { fileURLToPath } from 'node:url';
 
 const RACINE = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
@@ -109,6 +110,32 @@ for (const r of guide.regions) {
 }
 const attendus = guide.appellations.filter((a) => a.trace).length;
 verifier('un tracé par appellation qui en attend un', traces === attendus, traces + ' / ' + attendus);
+
+/* la lecture d'une étiquette : le texte rapproché des noms du guide */
+{
+  const monde = { console };
+  monde.window = monde;
+  vm.createContext(monde);
+  vm.runInContext(lire('js/outils.js'), monde);
+  vm.runInContext(lire('js/lecture.js'), monde);
+  const lu = (texte) => monde.Lecture.lire(texte, guide);
+  const premiere = (texte) => (lu(texte).appellations[0] || { f: {} }).f.id;
+  let r = lu('Domaine Weinbach\nRiesling Grand Cru Schlossberg 2019\nMis en bouteille au domaine depuis 1898');
+  verifier('lecture : grand cru d’Alsace', r.appellations[0] && r.appellations[0].f.id === 'alsace-grand-cru-schlossberg', JSON.stringify(r.appellations.map((a) => a.f.id)));
+  verifier('lecture : région', r.region === 'alsace', r.region);
+  verifier('lecture : millésime le plus récent', r.annee === 2019, String(r.annee));
+  verifier('lecture : cépage', r.cepages.some((c) => c.f.id === 'riesling'));
+  verifier('lecture : producteur', r.nom === 'Domaine Weinbach', r.nom);
+  verifier('lecture : sans accents ni majuscules', premiere('CHATEAUNEUF DU PAPE 2016') === 'chateauneuf-du-pape', premiere('CHATEAUNEUF DU PAPE 2016'));
+  verifier('lecture : une lettre mal lue', premiere('Chateauneut-du-Pape') === 'chateauneuf-du-pape', premiere('Chateauneut-du-Pape'));
+  verifier('lecture : le nom le plus long l’emporte', premiere('Côtes du Rhône Villages') === 'cotes-du-rhone-villages', premiere('Côtes du Rhône Villages'));
+  r = lu('Grand vin de la vallée du Rhône');
+  verifier('lecture : région seule', r.region === 'rhone' && !r.appellations.length, r.region);
+  r = lu('Cuvée du patron, vin rouge, 13 % vol.');
+  verifier('lecture : rien d’inventé', !r.appellations.length && !r.region && r.annee === null, JSON.stringify(r.appellations.map((a) => a.f.id)));
+  verifier('confidentialité : l’album reste dans l’appareil', confidentialite.includes('album'));
+  verifier('les images de l’album peuvent s’afficher', /img-src [^;]*blob:/.test(index));
+}
 
 console.log(reussis + ' vérifications réussies' + (echecs.length ? ', ' + echecs.length + ' échec(s) :' : '.'));
 for (const e of echecs) console.log('  ✗ ' + e);

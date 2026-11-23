@@ -5,12 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <!-- L'application ne parle à personne : ni police distante, ni tuile de carte,
        ni mesure d'audience. `connect-src 'self'` suffit, et le dit. -->
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; manifest-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data: blob:; connect-src 'self'; manifest-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'">
   <meta name="referrer" content="no-referrer">
   <meta name="description" content="Les vins et les cépages de France, hors ligne : toutes les appellations région par région, une centaine de cépages, une carte détaillée des vignobles dessinée d'après les délimitations de l'INAO, les accords mets-vins dans les deux sens et les millésimes depuis 1990. Sans compte, sans publicité.">
   <meta name="theme-color" content="#5c142a">
   <!-- La version de la coquille, la même que dans sw.js. -->
-  <meta name="application-version" content="v1.0.1">
+  <meta name="application-version" content="v1.1.0">
   <title>Terroirs — vins et cépages de France</title>
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -35,6 +35,7 @@
   <link rel="stylesheet" href="css/theme.css">
   <link rel="stylesheet" href="css/app.css">
   <link rel="stylesheet" href="css/carte.css">
+  <link rel="stylesheet" href="css/album.css">
 </head>
 <body>
 
@@ -123,6 +124,11 @@
       <div id="millesimes-contenu"></div>
     </section>
 
+    <!-- ————— Album d'étiquettes ————— -->
+    <section id="vue-album" class="vue" hidden>
+      <div id="album-contenu"></div>
+    </section>
+
     <!-- ————— Guide ————— -->
     <section id="vue-guide" class="vue" hidden>
       <h2>Le guide du vin</h2>
@@ -169,6 +175,10 @@
       <svg class="icone" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="5" width="16" height="15" rx="2"/><path d="M4 9.500h16M8 3v4M16 3v4M8 13.500h2M12 13.500h2M8 16.500h2"/></svg>
       <span>Millésimes</span>
     </button>
+    <button type="button" data-vue="album">
+      <svg class="icone" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 8h3.500l1.500-2.500h6L16.500 8H20v11H4z"/><circle cx="12" cy="13.200" r="3.300"/></svg>
+      <span>Album</span>
+    </button>
   </nav>
 
   <aside id="fiche" hidden aria-modal="true" role="dialog">
@@ -186,6 +196,9 @@
   <script src="js/accords.js"></script>
   <script src="js/millesimes.js"></script>
   <script src="js/guide.js"></script>
+  <script src="js/lecture.js"></script>
+  <script src="js/album.js"></script>
+  <script src="js/etiquettes.js"></script>
   <script src="js/reglages.js"></script>
   <script src="js/app.js"></script>
   <script src="js/demarrage.js"></script>
