@@ -100,7 +100,7 @@
         const grande = await reduire(img, GRAND, 0.86);
         const vignette = await reduire(img, PETIT, 0.8);
         if (img.close) img.close();
-        const photo = { id: Outils.identifiant('e'), cree: Date.now(), dossier, nom: '', app: '', ceps: [], annee: null, note: '', vignette };
+        const photo = { id: Outils.identifiant('e'), cree: Date.now(), dossier, nom: '', app: '', ceps: [], annee: null, etoiles: 0, note: '', vignette };
         await Album.ajouter(photo, grande);
         derniere = photo;
       } catch (erreur) {
@@ -235,7 +235,7 @@
       b.appendChild(img);
       b.appendChild(element('span', 'vignette-nom', titrePhoto(p)));
       const a = p.app && p.nom ? Guide.get('a', p.app) : null;
-      const sous = [a ? a.nom : '', p.annee || ''].filter(Boolean).join(' · ');
+      const sous = [p.etoiles ? '★'.repeat(p.etoiles) : '', a ? a.nom : '', p.annee || ''].filter(Boolean).join(' · ');
       b.appendChild(element('span', 'vignette-sous', sous || (id === TOUT ? nomDossier(p.dossier) : ' ')));
       grille.appendChild(b);
     }
@@ -575,12 +575,38 @@
     deux.appendChild(champ('Dossier', dossier));
     champs.appendChild(deux);
 
+    /* la note : de une à cinq étoiles ; toucher la note déjà donnée l'efface */
+    const blocEtoiles = element('div', 'champ');
+    blocEtoiles.appendChild(element('span', 'champ-nom', 'Votre note'));
+    const etoiles = element('div', 'etoiles');
+    etoiles.setAttribute('role', 'group');
+    etoiles.setAttribute('aria-label', 'Votre note, de 1 à 5 étoiles');
+    const ecrireEtoiles = () => {
+      const n = p.etoiles || 0;
+      etoiles.childNodes.forEach((b, i) => {
+        b.textContent = i < n ? '★' : '☆';
+        b.classList.toggle('pleine', i < n);
+        b.setAttribute('aria-pressed', i + 1 === n ? 'true' : 'false');
+      });
+    };
+    for (let n = 1; n <= 5; n += 1) {
+      const b = bouton('etoile', '☆', async () => {
+        await enregistrer(p, { etoiles: p.etoiles === n ? 0 : n });
+        ecrireEtoiles();
+      });
+      b.setAttribute('aria-label', n + (n > 1 ? ' étoiles sur 5' : ' étoile sur 5'));
+      etoiles.appendChild(b);
+    }
+    ecrireEtoiles();
+    blocEtoiles.appendChild(etoiles);
+    champs.appendChild(blocEtoiles);
+
     const note = element('textarea');
     note.rows = 3;
     note.maxLength = 2000;
     note.placeholder = 'Bue avec qui, avec quoi, ce que vous en avez pensé…';
     note.value = p.note;
-    champs.appendChild(champ('Notes', note));
+    champs.appendChild(champ('Commentaire', note));
     z.appendChild(champs);
     z.appendChild(fiche);
     z.appendChild(element('p', 'discret petit', 'Ajoutée le ' + Outils.dateLisible(p.cree) + '.'));

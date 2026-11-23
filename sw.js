@@ -15,7 +15,7 @@
  * `build/essais_statiques.mjs` compare les deux et échoue à la moindre différence.
  */
 
-const VERSION = 'v1.1.3';
+const VERSION = 'v1.1.4';
 const COQUILLE = 'terroirs-coquille-' + VERSION;
 
 const FICHIERS = [
